@@ -73,7 +73,3 @@ __Links:__
 * [Services](http://deploytech.dhhq.health.mil/pacificjitc/services.aspx)
 * [Overview and Computing Resources](http://www.health.mil/Military-Health-Topics/Technology/Support-Areas/Health-IT-Research-and-Innovation/Joint-Integrated-Test-and-Evaluation-Center)
 
-
-![](/images/pjitc/itec_3.png)
-
-
