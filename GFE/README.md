@@ -51,11 +51,6 @@ __DoD Data Security__
 
 ## PJITC / ITEC
 
-__The PJITC ITEC provides the highest level of information security available within the DoD network, including:__
-* .COM
-* NIPRNET
-* Classified
-
 #### PJITC
 The Pacific JITC is the Military Health System's (MHS's) research center for joint concept technology development, prototyping, and piloting of IT products and services to support the Department of Defense (DoD) medical readiness requirements and IT modernization needs across the medical continuum of care. The Pacific JITC is composed of two major components: The Integrated Test and Evaluation Center (ITEC), and the Biotechnology Hui.  
 
@@ -65,6 +60,11 @@ Based in Hawaii, the mission of Pacific JITC is to rapidly research, test and de
 Located in Kihei, HI, the Pacific JITC’s Integrated Test and Evaluation Center (ITEC) is the first DoD/VA integrated lab to virtualize  mission-critical enterprise systems. This center provides an agile computing environment that supports military health and interagency research & development, testing, and evaluation missions.  
 
 The ITEC provides the infrastructure to support projects focused on piloting, prototyping, and proof of concept to refine requirements. This allows the customer to focus efforts on the applications rather than the necessary IT infrastructure/environment. Providing a rapidly deployable, least constrictive, yet secure, environment, the ITEC is capable of being the compute resource for both short- and long-term projects.
+
+__The PJITC ITEC provides the highest level of information security available within the DoD network, including:__
+* .COM
+* NIPRNET
+* Classified
 
 __Links:__
 * [PJITC Main Website](http://health.mil/pjitc)
