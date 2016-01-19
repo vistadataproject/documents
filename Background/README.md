@@ -9,7 +9,7 @@ This project builds on the work of many.
 
 Who | Design | Description
 :--- | :--- | :---
-[Rafael_Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf) This describes the design of a cross-linked Master VISTA Data Model ([MVDM](https://github.com/vistadataproject/MVDM)) to provide enterprise read and write master data management across all VA VISTA systems. (2015) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf)
+[Rafael_Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf) This describes the design of a cross-linked Master VISTA Data Model ([MVDM](https://github.com/vistadataproject/MVDM)) to provide enterprise master data management across all VA VISTA systems. (2015) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf)
 [Conor_Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf) This describes the tools and method of comprehensively exposing all of VISTA's data through Fileman. (2014) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf)
 
 
