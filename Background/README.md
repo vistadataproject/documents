@@ -1,5 +1,5 @@
 # Credits
-This project builds on the work of many.
+This project builds on the efforts of many.
 
 
 ### Architecture and Design
@@ -10,10 +10,10 @@ This project builds on the work of many.
 Who | Design | Description
 :--- | :--- | :---
 [Rafael_Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf) This describes the design of a cross-linked Master VISTA Data Model ([MVDM](https://github.com/vistadataproject/MVDM)) to provide enterprise-wide master data management across all VISTA systems. (2015) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf)
-[Conor_Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf) This describes the tools and method of comprehensively exposing all of VISTA's data through Fileman. (2014) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf)
+[Conor_Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf)
 
 
-###  Infrastructure
+###  Outside Technology and Advocacy 
 <img src ="http://www.hardhats.org/images/vol_Bella.jpg" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.fiercemarkets.net%2Ffiles%2Fgovernmentit%2Ffierceimages%2Fmunneke.jpg&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60>
