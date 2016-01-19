@@ -33,7 +33,7 @@ Who | Work | Comment
 [Manu&nbsp;Sporny](https://www.linkedin.com/in/manusporny) | [JSON-LD](http://json-ld.org/) |  Created and promoted the JSON-LD standard (2013)
 [Rob&nbsp;Tweed](https://www.linkedin.com/in/rob-tweed-a5419629)<br>[David&nbsp;Wicksell](https://www.linkedin.com/in/dlwicksell)| Node/M | Integrated node.js with MUMPS and VISTA. (2013)
 Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-vista-installation-and-testing-using-vagrant) | Built OSEHRA's Automated installation of VISTA environment (2013)
-Nancy&nbsp;Anthracite | [Opening up VISTA](http://worldvista.org) | Advocated tirelessly for in-the-open VISTA development (2001)
+Nancy&nbsp;Anthracite | [Opening up VISTA](http://worldvista.org) | Advocates tirelessly for in-the-open VISTA development (2001-)
 
 
 
