@@ -29,7 +29,7 @@ Who | Design | Description
 Who | Work | In Project Track  | Comment
 :---: | :---: | :--- | ---
 <br>George&nbsp;Timson<br>[Tom Munneke](https://www.linkedin.com/in/tom-munnecke-b171)| [FileMan](https://en.wikipedia.org/wiki/FileMan) | [VDM](https://github.com/vistadataproject/VDM) | The pair who concieved and built VISTA on a metadata-centric architecture (1981)
-[Kevin&nbsp;Meldrum](https://www.linkedin.com/in/kevin-meldrum-35a1a115)| [Virtual Patient Record (VPR)](http://www.va.gov/vdl/application.asp?appid=197) | [MVDM](https://github.com/vistadataproject/MVDM) |  Created a JSON-based mechanism for accessing VISTA's patient data (2010)
+[Kevin&nbsp;Meldrum](https://www.linkedin.com/in/kevin-meldrum-35a1a115)| [Virtual Patient Record (VPR)](http://www.va.gov/vdl/application.asp?appid=197) | [MVDM](https://github.com/vistadataproject/MVDM) |  Created a mechanism for extracting a normalized form of VISTA's patient data (2010)
 [Manu&nbsp;Sporny](https://www.linkedin.com/in/manusporny) | [JSON-LD](http://json-ld.org/) | [MVDM](https://github.com/vistadataproject/MVDM)  |  Created and promoted the JSON-LD standard (2013)
 [Rob&nbsp;Tweed](https://www.linkedin.com/in/rob-tweed-a5419629)<br>[David&nbsp;Wicksell](https://www.linkedin.com/in/dlwicksell)| Node/M | Infrastructure <br>([nodeVISTA](https://github.com/vistadataproject/nodeVISTA)) | Integrated node.js with MUMPS and VISTA. (2013)
 Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-vista-installation-and-testing-using-vagrant) | Infrastructure | Automated installation of VISTA environemnt (2013)
