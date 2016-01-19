@@ -9,8 +9,8 @@ This project builds on the efforts of many.
 
 Who | Design | Description
 :--- | :--- | :---
-[Rafael Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf) This describes the design of a cross-linked Master VISTA Data Model ([MVDM](https://github.com/vistadataproject/MVDM)) to provide enterprise-wide master data management across all VISTA systems. (2015) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf)
-[Conor Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf)
+[Rafael&nbsp;Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf) This describes the design of a cross-linked Master VISTA Data Model ([MVDM](https://github.com/vistadataproject/MVDM)) to provide enterprise-wide master data management across all VISTA systems. (2015) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf)
+[Conor&nbsp;Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014) [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf)
 
 
 ###  Outside Technology and Advocacy 
@@ -28,12 +28,12 @@ Who | Design | Description
 
 Who | Work | In Project Track  | Comment
 :---: | :---: | :--- | ---
-<br>George Timson<br>[Tom Munneke](https://www.linkedin.com/in/tom-munnecke-b171)| [FileMan](https://en.wikipedia.org/wiki/FileMan) | [VDM](https://github.com/vistadataproject/VDM) | The pair who concieved and built VISTA on a metadata-centric architecture (1981)
-[Kevin Meldrum](https://www.linkedin.com/in/kevin-meldrum-35a1a115)| [Virtual Patient Record (VPR)](http://www.va.gov/vdl/application.asp?appid=197) | [MVDM](https://github.com/vistadataproject/MVDM) |  Created a JSON-based mechanism for accessing VISTA's patient data (2010)
-[Manu Sporny](https://www.linkedin.com/in/manusporny) | [JSON-LD](http://json-ld.org/) | [MVDM](https://github.com/vistadataproject/MVDM)  |  Created and promoted the JSON-LD standard (2013)
+<br>George&nbsp;Timson<br>[Tom Munneke](https://www.linkedin.com/in/tom-munnecke-b171)| [FileMan](https://en.wikipedia.org/wiki/FileMan) | [VDM](https://github.com/vistadataproject/VDM) | The pair who concieved and built VISTA on a metadata-centric architecture (1981)
+[Kevin&nbsp;Meldrum](https://www.linkedin.com/in/kevin-meldrum-35a1a115)| [Virtual Patient Record (VPR)](http://www.va.gov/vdl/application.asp?appid=197) | [MVDM](https://github.com/vistadataproject/MVDM) |  Created a JSON-based mechanism for accessing VISTA's patient data (2010)
+[Manu&nbsp;Sporny](https://www.linkedin.com/in/manusporny) | [JSON-LD](http://json-ld.org/) | [MVDM](https://github.com/vistadataproject/MVDM)  |  Created and promoted the JSON-LD standard (2013)
 [Rob&nbsp;Tweed](https://www.linkedin.com/in/rob-tweed-a5419629)<br>[David&nbsp;Wicksell](https://www.linkedin.com/in/dlwicksell)| Node/M | Infrastructure <br>([nodeVISTA](https://github.com/vistadataproject/nodeVISTA)) | Integrated node.js with MUMPS and VISTA. (2013)
-Chris Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-vista-installation-and-testing-using-vagrant) | Infrastructure | Automated installation of VISTA environemnt (2013)
-Nancy Anthracite | [Opening up VISTA](http://worldvista.org) | PM   | Advocated tirelessly for in-the-open VISTA development (2001)
+Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-vista-installation-and-testing-using-vagrant) | Infrastructure | Automated installation of VISTA environemnt (2013)
+Nancy&nbsp;Anthracite | [Opening up VISTA](http://worldvista.org) | PM   | Advocated tirelessly for in-the-open VISTA development (2001)
 
 
 
