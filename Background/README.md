@@ -9,13 +9,9 @@ This project builds on the efforts of many.
 
 Who | Design | Description
 :--- | :--- | :---
-<<<<<<< HEAD
 [Rafael&nbsp;Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-Rafael_Richards-2015.pdf) This describes the design and approach to create a cross-linked Master VISTA Data Model ([MVDM](https://github.com/vistadataproject/MVDM)) to provide enterprise-wide master data management across all VISTA systems. (2015)
 [Conor&nbsp;Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL-Conor_Dowling-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014).
-=======
-[Rafael&nbsp;Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf) This describes the design of and approach to create a cross-linked Master VISTA Data Model (MVDM) to provide enterprise-wide master data management across all VA VISTA systems. (2015). View [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-2015.pdf)
-[Conor&nbsp;Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism to comprehensively expose all of VISTA's data as well as its native data model. (2014). View [PDF](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL_Corner-2014.pdf)
->>>>>>> b60cee0d5ac46f41fa43e4449105261de4506950
+
 
 
 ###  Outside Technology and Advocacy 
