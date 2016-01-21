@@ -5,7 +5,7 @@
 
 
 # PJITC Integrated Test and Evaluation Center (ITEC)
-![](/images/pjitc/itec_a.png)
+
 ![](/images/pjitc/itec_b.png)
 ![](/images/pjitc/itec_c.png)
 ![](/images/pjitc/itec_d.png)
