@@ -4,8 +4,6 @@ The Pacific JITC is the Military Health System's (MHS's) research center for joi
 
 Based in Hawaii, the mission of Pacific JITC is to rapidly research, test and develop warfighter medical solutions and products through pilots or prototypes that provide mission critical value and actionable information to the DoD, including the Services, Combatant Commanders, and the Department of Veterans Affairs (VA).
 
-
-![pjitc](/images/pjitc/pjitc_2.png)
 ![pjitc](/images/pjitc/pjitc_3.png)
 
 
@@ -14,7 +12,6 @@ Located in Kihei, HI, the Pacific JITC’s Integrated Test and Evaluation Center
 
 The ITEC provides the infrastructure to support projects focused on piloting, prototyping, and proof of concept to refine requirements. This allows the customer to focus efforts on the applications rather than the necessary IT infrastructure/environment. Providing a rapidly deployable, least constrictive, yet secure, environment, the ITEC is capable of being the compute resource for both short- and long-term projects.
 
-![](/images/pjitc/itec_b.png)
 ![](/images/pjitc/itec_c.png)
 ![](/images/pjitc/itec_d.png)
 ![](/images/pjitc/itec_e.png)
