@@ -28,7 +28,7 @@
 
 October 2013
 
-Veterans Health Administration, Office of Information and Analytics and
+Veterans Health Administration, Office of Information and Analytics and <br>
 Office of Information Technology, Office of Product Development
 
 
