@@ -1,19 +1,16 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <dirinfo>
 <files>
-<item key='vdp-logo-50h.png20160121141559' />
-<item key='vdp-logo-100h.png20160121141559' />
-<item key='vdp-logo.png20160121141559' />
 <item key='vdp-logo1.png20160121231133' />
-<item key='vdp-logo2-50h.png20160121141559' />
-<item key='vdp-logo2-100h.png20160121141559' />
-<item key='vdp-logo2.png20160121141559' />
 <item key='vdp-logo3.png20160121201140' />
-<item key='vdp-logoa.png20160121195728' />
 <item key='vdp-lpgo.png20160121233804' />
 <item key='vista.png20160121231040' />
-<item key='vistalinked-logo.png20160121231214' />
 <item key='vistalinked-logo2.png20160121231233' />
-<item key='vistalinked-logo4.png20160121231250' />
+<item key='darkblue20160122100759' />
+<item key='vistalinked-logo2-40h.png20160122100601' />
+<item key='vistalinked-logo2-50h.png20160122100537' />
+<item key='vistalinked-logo2-75h.png20160122100515' />
+<item key='vistalinked-logo2-100h.png20160122100447' />
+<item key='lightblue20160122100857' />
 </files>
 </dirinfo>
