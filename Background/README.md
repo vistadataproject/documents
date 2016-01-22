@@ -30,7 +30,7 @@ Who | Work | Comment
 :---: | :---: | ---
 <br>George&nbsp;Timson<br>[Tom Munneke](https://www.linkedin.com/in/tom-munnecke-b171)| [FileMan](https://en.wikipedia.org/wiki/FileMan) | The pair who concieved and built VISTA on a metadata-centric architecture (1981-)
 David&nbsp;Whitten | [WorldVistA](http://worldvista.org) | Honing and packaging the first comprehensive open source VISTA, _WorldVistA_
-Nancy&nbsp;Anthracite | [Opening up VISTA](http://worldvista.org) | Advocates tirelessly for in-the-open VISTA development (2001-)
+Nancy&nbsp;Anthracite | [Opening up VISTA](http://worldvista.org) | Advocates tirelessly for in-the-open VISTA development
 K.S.&nbsp;Bhaskar | [GT.M](https://www.fisglobal.com/Solutions/Services/Database-Engine) | Manages and directs the Open Source GT.M MUMPS Database Engine
 [Kevin&nbsp;Meldrum](https://www.linkedin.com/in/kevin-meldrum-35a1a115)| [Virtual Patient Record (VPR)](http://www.va.gov/vdl/application.asp?appid=197) |  Created a mechanism for extracting a normalized form of VISTA's patient data (2010)
 [Rob&nbsp;Tweed](https://www.linkedin.com/in/rob-tweed-a5419629)<br>[David&nbsp;Wicksell](https://www.linkedin.com/in/dlwicksell)| Node/M | Integrated node.js with MUMPS and VISTA. (2013)
