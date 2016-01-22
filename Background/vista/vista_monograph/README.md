@@ -1,4 +1,5 @@
-# Veterans Information Systems and Technology Architecture (VISTA) Monograph
+#  VISTA Monograph: Veterans Information Systems and Technology Architecture 
+
 
 [logo]
 
