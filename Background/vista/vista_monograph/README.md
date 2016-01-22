@@ -20,8 +20,7 @@
 
 
 
-
-# VistA Monograph
+# VISTA Monograph
 
 
 [logo]
@@ -29,8 +28,8 @@
 
 October 2013
 
-Office of Information Technology, Office of Product Development And
-Veterans Health Administration, Office of Information and Analytics
+Veterans Health Administration, Office of Information and Analytics and
+Office of Information Technology, Office of Product Development
 
 
 
