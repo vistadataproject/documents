@@ -214,9 +214,11 @@ http://vaww.va.gov/../nds/CorporateDatabasesMonograph.asp
 VistA Monograph on the Internet: http://www.va.gov/vista_monograph/
 
 
-Appendix II:  Listing of VISTA modules
+Appendix II:  Listing of VISTA Modules
 
-THE VistA MODULES	| 18
+
+VISTA MODULE(s)	| Page
+:--- | :---:
 Accounts Receivable	| 19
 Admission, Discharge, Transfer (ADT)	| 21
 Anticoagulation Management Tool (AMT)	| 23
