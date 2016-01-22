@@ -54,7 +54,7 @@ I am not in VHA…may I obtain VistA for my use? 	| 14
 How do I recommend changes to or ask questions about the VistA Monograph? 	| 15
 THE VistA MODULES	| 18 - 261
 INDEX of VistA Modules by VHA Portfolio (alphabetical) 	| 263
-INDEX of VistA Modules by Functional Area (Clinical Services, Administrative-Financial Services, Infrastructure | & Repositories) 	| 267
+INDEX of VistA Modules by Functional Area (Clinical Services, Administrative-Financial Services, Infrastructure & Repositories) 	| 267
 Other Resources 	| 271
 
 
