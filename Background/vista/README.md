@@ -1,4 +1,4 @@
-# VISTA: Veterans Information Systems and Technology Architecture 
+# Veterans Information Systems and Technology Architecture (VISTA)
 
 #### VISTA General Information
 * http://www.ehealth.va.gov/VistA.asp
