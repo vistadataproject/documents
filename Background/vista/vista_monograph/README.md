@@ -22,9 +22,7 @@
 
 # VISTA Monograph
 
-
 [logo]
-
 
 October 2013
 
@@ -54,7 +52,7 @@ I am not in VHA…may I obtain VistA for my use? 	| 14
 How do I recommend changes to or ask questions about the VistA Monograph? 	| 15
 THE VistA MODULES	| 18 - 261
 INDEX of VistA Modules by VHA Portfolio (alphabetical) 	| 263
-INDEX of VistA Modules by Functional Area (Clinical Services, Administrative-Financial Services, Infrastructure & Repositories) 	| 267
+INDEX of VistA Modules by Functional Area <br> (Clinical Services, Administrative-Financial Services, Infrastructure & Repositories) 	| 267
 Other Resources 	| 271
 
 
@@ -170,51 +168,8 @@ VistA is deployed universally across VHA at more than 1,500 sites of care, inclu
 
 
 
-# Appendix I: Additional inforamtion
 
-__How do I request changes to VistA?__
-VA staff members wishing to propose enhancements to VistA have several options—most notable among these being the submission of a “New Service Request” through the Innovation and Development Request Portal (IDRP).  
-
-
-__I am not in VHA…may I obtain VistA for my use?__
-VistA is available through several forums for interested parties not part of or affiliated with VA/VHA. VistA software applications are releasable through the Freedom of Information Act (FOIA). Under FOIA, certain records may be withheld in whole or in part from the requestor if they fall within certain FOIA exemptions. Two of these exemptions form the basis for withholding software by the VA:
-Protects certain records related solely to VA’s internal rules and practices.
-Protects trade secrets and confidential commercial or financial information.
-Also removed are any copyrighted dynamic link library (dll), mental health tests, CPT codes, and electronic signature hashing algorithms. (These are detailed in a Readme.txt file on the CDs.) 
-
-Requests for agency records or additional information via FOIA should be directed to:
-Department of Veterans Affairs
-FOIA Services (10P2C1) 810 Vermont Avenue, NW Washington, DC 20420
-Electronic requests can be sent to VACOFOIASERVICE@VA.GOV
-
-
-VA is committed to the Open Source community and was instrumental in the establishment of the Open Source Electronic Health Record Agent (OSEHRA.)  As part of the Department’s pioneering activities in the OSEHRA community, VA has contributed VistA code to the OSEHRA effort. 
-VistA is a comprehensive  Health Information System and Electronic Health Record. The software must be correctly configured to each healthcare setting by individuals knowledgeable about the software before the system is used to support healthcare delivery.
-
-
-How do I recommend changes to or ask questions about the VistA Monograph?
-Comments and suggestions for changes to the Monograph are welcomed, and should be forwarded via email to the OIT PD Product Support Monograph mailgroup.Other Resources
-
-
-__VISTA Documentation Library:__  This library contains a collection of available end-user documentation for all current applications (software packages), and also includes some tools not listed in the monograph. All documents can be viewed, downloaded, and printed. Some documents have links to a Web version, and may optionally have an archive file (.ZIP or .EXE) containing the Web pages for download.
-
-http://www.va.gov/vdl
-
-
-__VHA Enterprise Architecture:__  VHA developed an Enterprise Architecture that provides a technical framework to promote a one-technology vision across the Department so that all systems are interoperable.
-
-http://www.ea.oit.va.gov/index.asp
-
-
-__Corporate Database Monograph:__ The Corporate Database Monograph provides an overview of the active VHA national databases. Information contained in this monograph allows stakeholders to identify opportunities for database consolidations, determine authoritative data sources, and work with VHA Data Quality committees to implement data standardization and quality control processes for corporate databases.
-
-http://vaww.va.gov/../nds/CorporateDatabasesMonograph.asp
-
-
-VistA Monograph on the Internet: http://www.va.gov/vista_monograph/
-
-
-Appendix II:  Listing of VISTA Modules
+# Appendix I:  Listing of VISTA Modules
 
 
 VISTA MODULE(s)	| Page
@@ -380,3 +335,48 @@ Vitals/Measurements 	| 254
 Voluntary Service System (VSS) 	| 256
 Women’s Health 	| 257
 Wounded Injured and Ill Warriors 	| 259
+
+
+
+# Appendix II: Additional Information
+
+__How do I request changes to VistA?__
+VA staff members wishing to propose enhancements to VistA have several options—most notable among these being the submission of a “New Service Request” through the Innovation and Development Request Portal (IDRP).  
+
+
+__I am not in VHA…may I obtain VistA for my use?__
+VistA is available through several forums for interested parties not part of or affiliated with VA/VHA. VistA software applications are releasable through the Freedom of Information Act (FOIA). Under FOIA, certain records may be withheld in whole or in part from the requestor if they fall within certain FOIA exemptions. Two of these exemptions form the basis for withholding software by the VA:
+Protects certain records related solely to VA’s internal rules and practices.
+Protects trade secrets and confidential commercial or financial information.
+Also removed are any copyrighted dynamic link library (dll), mental health tests, CPT codes, and electronic signature hashing algorithms. (These are detailed in a Readme.txt file on the CDs.) 
+
+Requests for agency records or additional information via FOIA should be directed to:
+Department of Veterans Affairs
+FOIA Services (10P2C1) 810 Vermont Avenue, NW Washington, DC 20420
+Electronic requests can be sent to VACOFOIASERVICE@VA.GOV
+
+
+VA is committed to the Open Source community and was instrumental in the establishment of the Open Source Electronic Health Record Agent (OSEHRA.)  As part of the Department’s pioneering activities in the OSEHRA community, VA has contributed VistA code to the OSEHRA effort. 
+VistA is a comprehensive  Health Information System and Electronic Health Record. The software must be correctly configured to each healthcare setting by individuals knowledgeable about the software before the system is used to support healthcare delivery.
+
+
+How do I recommend changes to or ask questions about the VistA Monograph?
+Comments and suggestions for changes to the Monograph are welcomed, and should be forwarded via email to the OIT PD Product Support Monograph mailgroup.Other Resources
+
+
+__VISTA Documentation Library:__  This library contains a collection of available end-user documentation for all current applications (software packages), and also includes some tools not listed in the monograph. All documents can be viewed, downloaded, and printed. Some documents have links to a Web version, and may optionally have an archive file (.ZIP or .EXE) containing the Web pages for download.
+
+http://www.va.gov/vdl
+
+
+__VHA Enterprise Architecture:__  VHA developed an Enterprise Architecture that provides a technical framework to promote a one-technology vision across the Department so that all systems are interoperable.
+
+http://www.ea.oit.va.gov/index.asp
+
+
+__Corporate Database Monograph:__ The Corporate Database Monograph provides an overview of the active VHA national databases. Information contained in this monograph allows stakeholders to identify opportunities for database consolidations, determine authoritative data sources, and work with VHA Data Quality committees to implement data standardization and quality control processes for corporate databases.
+
+http://vaww.va.gov/../nds/CorporateDatabasesMonograph.asp
+
+
+VistA Monograph on the Internet: http://www.va.gov/vista_monograph/
