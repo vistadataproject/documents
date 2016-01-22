@@ -29,7 +29,7 @@ Where is VISTA used within VHA? 	| 14
 How do I request changes to VISTA? 	| 14
 I am not in VHA…may I obtain VISTA for my use? 	| 14
 How do I recommend changes to or ask questions about the VISTA Monograph? 	| 15
-THE VISTA MODULES	| 18 - 261
+INDEX of VISTA Modules	| 18 - 261
 INDEX of VISTA Modules by VHA Portfolio (alphabetical) 	| 263
 INDEX of VISTA Modules by Functional Area <br> (Clinical Services, Administrative-Financial Services, Infrastructure & Repositories) 	| 267
 Other Resources 	| 271
@@ -148,8 +148,7 @@ VISTA is deployed universally across VHA at more than 1,500 sites of care, inclu
 
 
 
-# Appendix I:  Listing of VISTA Modules
-
+# INDEX of VISTA Modules
 
 VISTA MODULE(s)	| Page
 :--- | :---:
@@ -317,7 +316,7 @@ Wounded Injured and Ill Warriors 	| 259
 
 
 
-# Appendix II: Additional Information
+# Other Resources
 
 __How do I request changes to VISTA?__
 VA staff members wishing to propose enhancements to VISTA have several options—most notable among these being the submission of a “New Service Request” through the Innovation and Development Request Portal (IDRP).  
