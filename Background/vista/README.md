@@ -1,12 +1,12 @@
 # VISTA: Veterans Information Systems and Technology Architecture 
 
-VISTA Info:
+#### VISTA General Information
 * http://www.ehealth.va.gov/VistA.asp
 
-VISTA GUI (CPRS demo)
+#### VISTA GUI (CPRS)
 * http://www.ehealth.va.gov/CPRS_Demo.asp
 
-VISTA Resources:   VISTA Monograph
+#### VISTA Monograph
 * http://www.ehealth.va.gov/VistA_Monograph.asp
 * Contact: OITPDProductSupportMonograph@va.gov
 
