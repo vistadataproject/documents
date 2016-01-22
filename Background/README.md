@@ -28,7 +28,7 @@ Who | Design | Description
 
 Who | Work | Comment
 :---: | :---: | ---
-<br>George&nbsp;Timson<br>[Tom Munneke](https://www.linkedin.com/in/tom-munnecke-b171)| [FileMan](https://en.wikipedia.org/wiki/FileMan) | The orgiginal architects of VISTA, who concieved and built VISTA on a metadata-centric architecture
+<br>George&nbsp;Timson<br>[Tom Munneke](https://www.linkedin.com/in/tom-munnecke-b171)| [FileMan](https://en.wikipedia.org/wiki/FileMan) | The original designers of VISTA, who concieved VISTA based on a metadata-centric architecture
 David&nbsp;Whitten | [WorldVistA](http://worldvista.org) | Honing and packaging the first comprehensive open source VISTA, _WorldVistA_
 Nancy&nbsp;Anthracite | [Opening up VISTA](http://worldvista.org) | Advocates tirelessly for in-the-open VISTA development
 K.S.&nbsp;Bhaskar | [GT.M](https://www.fisglobal.com/Solutions/Services/Database-Engine) | Manages and directs the Open Source GT.M MUMPS Database Engine
