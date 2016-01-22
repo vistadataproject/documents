@@ -1,19 +1,14 @@
-# VISTA
-Veterans Health Information Systems and Technology Architecture 
+# VISTA: Veterans Information Systems and Technology Architecture 
 
-VA VISTA Info:
-http://www.ehealth.va.gov/VistA.asp
+VISTA Info:
+* http://www.ehealth.va.gov/VistA.asp
 
-Try VISTA = CPRS demo?
-http://www.ehealth.va.gov/CPRS_Demo.asp
-
+VISTA GUI (CPRS demo)
+* http://www.ehealth.va.gov/CPRS_Demo.asp
 
 VISTA Resources:   VISTA Monograph
-http://www.ehealth.va.gov/VistA_Monograph.asp
-
-
-What is HealtheVet?
-HealtheVet is VA's next generation of VistA.
+* http://www.ehealth.va.gov/VistA_Monograph.asp
+* Contact: OITPDProductSupportMonograph@va.gov
 
 
 #### VISTA Document Library
@@ -25,4 +20,3 @@ HealtheVet is VA's next generation of VistA.
 * HealtheVet:http://www.va.gov/vdl/section.asp?secid=4
 
 
-OITPDProductSupportMonograph@va.gov
