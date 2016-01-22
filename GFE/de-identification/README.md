@@ -1,3 +1,3 @@
 ## Data De-Identification routines
 
-Information on data redaction from VISTA systems.
+Information on data de-identification from VISTA systems.
