@@ -15,6 +15,7 @@ __Where?__
 
 >__All artifacts and deliverables__ shall be developed, version-controlled, stored, and delivered on an industry-standard __public Github__ repository (“Project Repository”). ... The Project Repository shall contain the one and only authoritative version of all artifacts produced ... The government, all necessary stakeholders, and the __public__ shall have full read and download access of all artifacts on the Project Repository at all times --- PWS 1.6.15.1
 
+More details are available on the project's website, [vistadataproject.info](http://vistadataproject.info/).
 
 ## Tracks
 
