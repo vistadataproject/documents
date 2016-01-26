@@ -1,6 +1,5 @@
 #  VISTA Monograph: Veterans Information Systems and Technology Architecture 
 
-
 [logo]
 
 October 2013
