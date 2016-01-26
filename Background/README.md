@@ -9,21 +9,26 @@ This project builds on the efforts of many.
 
 Who | Design | Description
 :--- | :--- | :---
-[Rafael&nbsp;Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-Rafael%20Richards-2015.pdf) This describes the design and development of a cross-linked master VISTA data model to provide enterprise master data management across all VA VISTA systems. (2015)
+[Rafael&nbsp;Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-Rafael%20Richards-2015.pdf) This describes the design and development of a cross-linked master VISTA data model (MVDM) to provide enterprise master data management across all VA VISTA systems. (2015)
 [Conor&nbsp;Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL-Conor_Dowling-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014).
 
 
 
 
 ###  Outside Technology and Advocacy 
-<img src ="http://www.hardhats.org/images/vol_Bella.jpg" height=60>
+<img src ="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.M3a6a9bd19a8721e2bc69478d9848858eo1%26amp%3Bpid%3D15.1&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.fiercemarkets.net%2Ffiles%2Fgovernmentit%2Ffierceimages%2Fmunneke.jpg&f=1" height=60>
+<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Mfb5d78aec5d0b64c5289b21071cbdbd4o1%26pid%3D15.1&f=1" height=60>
+<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fworldvista.org%2FWorldVistA%2FAnthracite_Nancy.jpg&f=1" height=60>
+<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vxvista.org%2Fdownload%2Fattachments%2F1081367%2FPRESPICT01Bhaskar.jpg&f=1
+" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60>
-<img src ="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Finnotribe.com%2Fwp-content%2Fuploads%2F2013%2F08%2FMSporny.jpg&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.M5eb475ec8ff319f7c6fa1e5e3840e39bo1%26amp%3Bpid%3D15.1&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.openhealthnews.com%2Fsites%2Fopenhealthnews.com%2Ffiles%2Frob_sm.png&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fworldvista.org%2FWorldVistA%2FAnthracite_Nancy.jpg&f=1" height=60>
+<img src ="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Finnotribe.com%2Fwp-content%2Fuploads%2F2013%2F08%2FMSporny.jpg&f=1" height=60>
+
+
 
 
 Who | Work | Comment
