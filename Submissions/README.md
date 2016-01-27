@@ -8,6 +8,3 @@
 3. | WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/VistAMetadata-WBS-2016-01-08.pdf)  |  2
 
 Date Format:  YYYY-MM-DD
-
-
-https://github.com/vistadataproject/documents/blob/master/Submissions/VistAMetadata-Kickoff-2016-01-07.pdf
