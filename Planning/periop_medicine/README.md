@@ -1,7 +1,7 @@
 # VA Perioperative Medicine Reports
-VA Anesthesiology, Surgery, and Critical Care Medicine analytical, operational, and qualilty reporting based real-time data from a local production clone system of all VA VISTA system. 
+VA Anesthesiology, Surgery, and Critical Care Medicine  real-time analytical, operational, and qualilty reporting
 
-This is a collaboration of the VISTA Data Program with the Palo Alto VA Medical Center to create real-time web-based operational reports based on the VISTA Data Project infrastructure.  This will rely specifically on nodeVISTA,  the VISTA Query Service (VQS), and Javascript visualization libraries such as D3.js.  No legacy M code, RPCs, Fileman knowledge, nor any additional software will be required.
+This is a collaboration of the VISTA Data Program with the Palo Alto VA Medical Center to create real-time web-based operational reports against live, production VISTA systems leveraging the VISTA Data Project infrastructure.  This will rely mostly on nodeVISTA,  the VISTA Query Service (VQS), and Javascript visualization libraries such as D3.js.  No legacy M code, RPCs, Fileman knowledge, nor any other software, service, or expense will be required. This is effectively an "embedded analytics and visualization" capability for all production VISTA systems.
 
 
 ## Data Analytics and Operational Reporting
