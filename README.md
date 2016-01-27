@@ -1,4 +1,4 @@
-# VISTA Data Project
+# VISTA Data Program
 
 ## Architecture/Components
 
