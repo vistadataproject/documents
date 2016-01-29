@@ -5,7 +5,7 @@ This is a collaboration of the VISTA Data Program with VA Anesthesiology and Cri
 
 This will rely in the VISTA Data Project deliverables including nodeVISTA, the VISTA Query Service (VQS), and Javascript visualization and infographics libraries such as D3.js.  
 
-No legacy M code, RPCs, Fileman knowledge, nor any other software, service, or mid-tier moving parts are required.  This collaboration will demonstrate a use case of a new, embedded analytics and visualization" capability for production VISTA systems.
+No legacy M code, RPCs, Fileman knowledge, nor any other software, service, or mid-tier moving parts are required.  This collaboration will demonstrate a use case of a new, embedded analytics and visualization capability for production VISTA systems.
 
 
 ## Data Analytics and Operational Reporting
