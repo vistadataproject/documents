@@ -2,7 +2,7 @@
 
 * Main
  * https://mobile.va.gov/
-* Leadership Team: 
+* Leadership 
  * https://mobile.va.gov/executive-biographies
-* Developing VA Mobile Apps:
+* Development
  * https://mobile.va.gov/content/developing-va-apps
