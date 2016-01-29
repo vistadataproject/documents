@@ -19,6 +19,9 @@ __Background:  Current tools and workflow for operational reporting from VISTA__
 
 
 ##  Web-based Dashboard for real-time OR management
+* Shows OR schedule, utilization and planning real time
+  * includes statistics on on-time, delays, cancellations, ASA level
 * Current tool is Protoviewer, a legacy thick client tool
-* Shows OR utilization real time
-* Shows statistics on on-time, delays, cancellations, ASA level
+  * Cannot be deployed enterprise-wide because is a thick client
+  * Source code of Protoviewer is not available to VA, so it cannot be modified or updated
+
