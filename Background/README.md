@@ -117,14 +117,14 @@ Apache Software Foundation        | 	| https://en.wikipedia.org/wiki/Apache_Lice
 VISTA
 
 * https://en.wikipedia.org/wiki/VistA
+* https://en.wikipedia.org/wiki/WorldVistA
 * http://www.hardhats.org/index.html
 * http://nist.gov/healthcare/upload/NIST-Siegel-PART-1.pdf
-* https://en.wikipedia.org/wiki/WorldVistA
 * http://worldvista.org/
 
 Fileman
 
-* * https://en.wikipedia.org/wiki/FileMan
+* https://en.wikipedia.org/wiki/FileMan
 * http://www.hardhats.org/fileman/FMmain.html
 * http://munnecke.com/blog/?cat=120
 
