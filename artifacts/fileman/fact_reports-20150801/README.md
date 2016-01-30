@@ -1,6 +1,6 @@
 ## FileMan Technical Assessment Reports
 
-These reports were generated in August 2015 using the Fileman Analysis and Compliance Tool (FACT), a modified version of XINDEX.
+These reports were generated in August 2015 using a modified version of XINDEX called the Fileman Analysis and Compliance Tool (FACT), developed by GDIT.
 
 #### FACT Report
 CHEY_CHEY02_FINAL
