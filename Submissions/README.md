@@ -10,8 +10,9 @@ These are enumerated in the Program Management [deliverables table](https://gith
 2. | Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-Kickoff-2016-01-07.pdf)  | 1
 3. | PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/src/VistAMetadata-PMP-2016-01-08.pdf) | 2 
 4. | WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/src/VistAMetadata-WBS-2016-01-08.pdf)  |  2
-5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.md) | 1B 
-6. | Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
+5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.md), [PDF](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.pdf) | 1B 
+6. | PMU | Program Schedule Monthly Update | 2016-01-29 | [PDF](/Submissions/ProgramScheduleMonthlyUpdate-3January.pdf) | 3
+7. | Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
 Date format:  YYYY-MM-DD.
 
 
