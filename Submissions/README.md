@@ -14,7 +14,7 @@ Formal, scheduled submissions are for program management, enumerated in the [PMP
 Date Format:  YYYY-MM-DD
 
 
-## Technical Deliverables (Real-time)
+## Technical Deliverables (Real-time Dashboards)
 Technical deliverables are continuously updated on a daily basis in their respective repositories.  A real-time dashboard of the progress, updates, commits, and changes to all code, data, metadata, and documents by contributor are available below.
 
 Repository | Real-time Dashboard
@@ -30,12 +30,9 @@ infographics | [infographics pulse](https://github.com/vistadataproject/infograp
 
 Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
 --- | --- | --- | --- | --- | --- |--- 
-documents | [pulse](https://github.com/vistadataproject/documents/pulse)
-[issues](https://github.com/vistadataproject/documents/issues)
-[wiki](https://github.com/vistadataproject/documents/wiki)
-[contributors](https://github.com/vistadataproject/documents/graphs/contributors)
-[commits](https://github.com/vistadataproject/documents/graphs/commit-activity)
-[punchcard](https://github.com/vistadataproject/documents/graphs/punch-card)
+[documents](https://github.com/vistadataproject/documents) | [pulse](https://github.com/vistadataproject/documents/pulse)
+| [issues](https://github.com/vistadataproject/documents/issues) | [wiki](https://github.com/vistadataproject/documents/wiki)
+| [contributors](https://github.com/vistadataproject/documents/graphs/contributors) | [commits](https://github.com/vistadataproject/documents/graphs/commit-activity) | [punchcard](https://github.com/vistadataproject/documents/graphs/punch-card)
 
 
 
