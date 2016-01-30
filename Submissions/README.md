@@ -4,7 +4,7 @@
 :---: | :--- | :--- | :--- | :---:| :---:
 1. | PWS | Product Work Statement|  2016-01-07 | [PDF](/Submissions/VistAMetadata-PWS-2015-12-09.pdf)  | NA
 2. | Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/VistAMetadata-Kickoff-2016-01-07.pdf)  | 1
-3. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/Deliverable_VistA Metadata Quality Control Plan FINAL 20160129 corrected.md) | 1B 
+3. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/Deliverable_VistA Metadata Quality Control Plan FINAL 20160129 corrected) | 1B 
 4. | PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/VistAMetadata-PMP-2016-01-08.pdf) | 2 
 5. | WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/VistAMetadata-WBS-2016-01-08.pdf)  |  2
 
