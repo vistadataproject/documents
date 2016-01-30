@@ -1,5 +1,8 @@
 ### Formal submissions to the Government
 
+Most of these submissions are program management deliverables, enumerated here: [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management)
+
+
 \# | Document Name | Description | Date Submitted | Format | Deliverable #
 :---: | :--- | :--- | :--- | :---:| :---:
 1. | PWS | Product Work Statement|  2016-01-07 | [PDF](/Submissions/VistAMetadata-PWS-2015-12-09.pdf)  | NA
@@ -10,5 +13,3 @@
 
 Date Format:  YYYY-MM-DD
 
-Note: Most of deliverables are program management deliverables, enumerated here: 
-[PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management)
