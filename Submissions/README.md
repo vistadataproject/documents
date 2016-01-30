@@ -9,6 +9,7 @@ Formal, scheduled submissions are for program management, enumerated in the [PMP
 3. | PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/VistAMetadata-PMP-2016-01-08.pdf) | 2 
 4. | WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/VistAMetadata-WBS-2016-01-08.pdf)  |  2
 5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.md) | 1B 
+6. | Weekly | Weekly Progress Reports | weekly | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 3
 
 Date Format:  YYYY-MM-DD
 
@@ -25,6 +26,14 @@ website | [website pulse](https://github.com/vistadataproject/vistadataproject.g
 MVDM | [MVDM pulse](https://github.com/vistadataproject/MVDM/pulse)
 MVDMmap | [MVDMmap pulse](https://github.com/vistadataproject/MVDMmap/pulse)
 infographics | [infographics pulse](https://github.com/vistadataproject/infographics/pulse)
+
+
+https://github.com/vistadataproject/documents/pulse
+https://github.com/vistadataproject/documents/issues
+https://github.com/vistadataproject/documents/wiki
+https://github.com/vistadataproject/documents/graphs/contributors
+https://github.com/vistadataproject/documents/graphs/commit-activity
+https://github.com/vistadataproject/documents/graphs/punch-card
 
 
 
