@@ -1,7 +1,6 @@
 ## Formal submissions to the Government
 
 Formal submissions to the government for program management.
-Descriptions of these are enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) table. 
 
 
 \# | Document Name | Description | Date Submitted | Format | Deliverable #
@@ -11,9 +10,8 @@ Descriptions of these are enumerated in the [PMP deliverables](https://github.co
 3. | PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/VistAMetadata-PMP-2016-01-08.pdf) | 2 
 4. | WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/VistAMetadata-WBS-2016-01-08.pdf)  |  2
 5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.md) | 1B 
-6. | Weekly | Weekly Progress Reports | weekly | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 3
-
-Date Format:  YYYY-MM-DD
+6. | Weekly | Weekly Progress Reports | weekly | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
+Descriptions of these are enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) table.  Documents are arranged chronoligically and with data format is YYYY-MM-DD.
 
 
 
