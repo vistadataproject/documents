@@ -12,7 +12,22 @@
 
 Date Format:  YYYY-MM-DD
 
-Note: Most of these formal, scheduled submissions are for program management, enumerated in the: [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management).  
+Formal, scheduled submissions are for program management, enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) track. 
 
-All technical deliverables are continuously updated in their respective repositories of the github based on their track (VDM, MVDM, nodeVISTA, and MVDMmap).
+# Real-time Technical Deliverables Dashboard
+Technical deliverables are continuously updated on a daily basis in their respective repositories of the github based on their track (VDM, MVDM, nodeVISTA, and MVDMmap). 
+
+https://github.com/vistadataproject/documents/pulse
+https://github.com/vistadataproject/VDM/pulse
+https://github.com/vistadataproject/nodeVISTA/pulse
+https://github.com/vistadataproject/vistadataproject.github.io/pulse
+https://github.com/vistadataproject/MVDM/pulse
+https://github.com/vistadataproject/MVDMmap/pulse
+https://github.com/vistadataproject/infographics/pulse
+
+
+
+
+
+
 
