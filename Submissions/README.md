@@ -1,6 +1,5 @@
 ### Formal submissions to the Government
 
-Most of these submissions are program management deliverables, enumerated here: [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management)
 
 
 \# | Document Name | Description | Date Submitted | Format | Deliverable #
@@ -12,4 +11,6 @@ Most of these submissions are program management deliverables, enumerated here: 
 5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.md) | 1B 
 
 Date Format:  YYYY-MM-DD
+
+Note: Most of these submissions are program management deliverables, enumerated here: [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management).  All technical deliverables are placed in their respective repositories of the github based on their track:  VDM, MVDM, Infrastructure, and MVDMmap.
 
