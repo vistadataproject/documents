@@ -9,3 +9,6 @@
 5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.md) | 1B 
 
 Date Format:  YYYY-MM-DD
+
+Note: Most of deliverables are program management deliverables, enumerated here: 
+[PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management)
