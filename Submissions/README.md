@@ -1,6 +1,7 @@
 ## Formal submissions to the Government
 
-Formal, regularly scheduled periodic submissions for program management, enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) are as follows: 
+Formal, regularly scheduled periodic submissions for program management, <br>
+as enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) are as follows: 
 
 \# | Document Name | Description | Date Submitted | Format | Deliverable #
 :---: | :--- | :--- | :--- | :---:| :---:
