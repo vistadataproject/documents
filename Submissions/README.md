@@ -11,7 +11,7 @@ Descriptions of these are enumerated in the master  [deliverables table](https:/
 3. | PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/VistAMetadata-PMP-2016-01-08.pdf) | 2 
 4. | WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/VistAMetadata-WBS-2016-01-08.pdf)  |  2
 5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.md) | 1B 
-6. | Weekly | Weekly Progress Reports | weekly | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
+6. | Weekly | Weekly Progress Reports | Each Monday <br> starting 2016-01-11 | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
 Date format:  YYYY-MM-DD.
 
 
