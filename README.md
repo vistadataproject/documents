@@ -127,7 +127,7 @@ Markdown 			| Doc Generator	|  PDF, HTML
 In addition to the deliverables listed in the [Program Management Plan](https://github.com/vistadataproject/documents/blob/master/Submissions/VistAMetadata-PMP-2016-01-08.pdf) submitted to the government (Section 8.2), additional deliverables were identified for planning purposes. Such deliverables have been identified with a prefix of “E”. Deliverables 7, 10, and 11 were divided and designated .1 and .2 for VDM and MVDM, respectively.
 
 
-#### Track A
+#### Track A: Infrastructure
 Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
 :---: | :---: | :---: | :---: | :---: | :--- | :---: | :---: 
 A | 13 | Website  | [Website](https://github.com/vistadataproject/vistadataproject.github.io) | website, infographics to showcase the contents of the VDM and MVDM Subset | HTML, Javascript (d3.js) |  Q1 &#8594; Q4 | 5.3.2 
@@ -135,7 +135,7 @@ A | E3 | FileMan TEST VISTA ["nodeVISTA"]  | [nodeVISTA](https://github.com/vist
 A | E4 |  Document Generators  | [documents](https://github.com/vistadataproject/documents) | Programmer documentation will be generated using tools such as Sphinx (http://sphinx-doc.org/) and JSDoc (http://usejsdoc.org/). Important Markdown-formatted documents need to be translated into PDF and HTML | Various  | Q1 &#8594; Q3 |  
 &nbsp; ||||||
 
-#### Track B
+#### Track B: VISTA Data Model
 Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
 :---: | :---: | :---: | :---: | :---: | :--- | :---: | :---: 
 B |  7.1 |  Machine Processable VISTA Data Model (VDM) "Read Only"  | [VDM](https://github.com/vistadataproject/VDM)  | _vdm.jsonld_, the native VISTA data model in JSON-LD based on one or more _dd.jsonld_'s.<br><br>_VDM Maker_, a program that creates _vdm.jsonld_ from _dd.jsonld_'s.<br><br>This version will support query/read ("VDM (read)"). | JSON-LD, Python, Javascript | Q1 | 5.3.1 
@@ -152,7 +152,7 @@ B | 25 |  Prototype query access to VISTA Data against VDM ["FQS"] | [VDM](https
 B | 33 |  Prototype Web-Based Query Interface to FileMan [VDM] Data  | [VDM](https://github.com/vistadataproject/VDM) | _FQS Web Client_ for using _VDM Package (Read)_ | Javascript | Q2 &#8594; Q3 |  5.4.1
 &nbsp; ||||||
 
-#### Track C
+#### Track C: Master VISTA Data Model
 Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
 :---: | :---: | :---: | :---: | :---: | :--- | :---: | :---: 
 C | 10.1  |  Master VISTA Data Model (MVDM) "Read-only"   | [MVDM](https://github.com/vistadataproject/MVDM) | _mvdm.jsonld_, a formal “MVDM Subset” definition with much of the scope of the VPR RPC which must be formally captured in _vpr.jsonld_. | JSON-LD | Q1 &#8594; Q2 | 5.3.2
@@ -166,7 +166,7 @@ C | 35 |  VISTA Application model(s)/Prototype(s) [Tests] | [MVDM](https://githu
 C | 36 |  Meta-model(s) [VPR] Prototype(s) | [MVDM](https://github.com/vistadataproject/MVDM) | Test code that shows how well the MVDM supports VPR (Read-only) convenience methods - read-only side of #35 | Javascript, Python | Q2 &#8594; Q3  | 5.4.2
 &nbsp; ||||||
 
-#### Track D
+#### Track D: Master VISTA Data Model maps
 Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
 :---: | :---: | :---: | :---: | :---: | :--- | :---: | :---: 
 D | 32  |  Prototype Web-based Rules Hub  | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | Prototype a sharable, crowd source-able mechanism to exchange and grow a library of open, standards-based, validated, and exchangeable transformation rules | Web-based interface | Q3 | 5.4.1
