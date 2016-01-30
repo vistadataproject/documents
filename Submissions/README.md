@@ -11,7 +11,7 @@ Formal submissions to the government for program management.
 4. | WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/VistAMetadata-WBS-2016-01-08.pdf)  |  2
 5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.md) | 1B 
 6. | Weekly | Weekly Progress Reports | weekly | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
-Descriptions of these are enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) table.  Documents are arranged chronoligically and with data format is YYYY-MM-DD.
+Descriptions of these are enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) table.  Documents are arranged chronologically. Date format is YYYY-MM-DD.
 
 
 
