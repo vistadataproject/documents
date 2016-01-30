@@ -14,8 +14,8 @@ Formal, scheduled submissions are for program management, enumerated in the [PMP
 Date Format:  YYYY-MM-DD
 
 
-## Technical Deliverables (Real-time Dashboards)
-Technical deliverables are continuously updated on a daily basis in their respective repositories.  A real-time dashboard of the progress, updates, commits, and changes to all code, data, metadata, and documents by contributor are available below.
+## Technical Deliverables (Real-time)
+Technical deliverables are updated continuously in real-time in in all repositories.  A real-time dashboard of the progress, updates, commits, and changes to all code, data, metadata, and documents of the key deliverables are below.
 
 
 Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
