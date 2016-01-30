@@ -17,16 +17,6 @@ Date Format:  YYYY-MM-DD
 ## Technical Deliverables (Real-time Dashboards)
 Technical deliverables are continuously updated on a daily basis in their respective repositories.  A real-time dashboard of the progress, updates, commits, and changes to all code, data, metadata, and documents by contributor are available below.
 
-Repository | Real-time Dashboard
- ---- | ----
-documents | [documents pulse](https://github.com/vistadataproject/documents/pulse)
-VDM | [VDM pulse]( https://github.com/vistadataproject/VDM/pulse)
-nodeVISTA | [nodeVISTA pulse](https://github.com/vistadataproject/nodeVISTA/pulse)
-website | [website pulse](https://github.com/vistadataproject/vistadataproject.github.io/pulse)
-MVDM | [MVDM pulse](https://github.com/vistadataproject/MVDM/pulse)
-MVDMmap | [MVDMmap pulse](https://github.com/vistadataproject/MVDMmap/pulse)
-infographics | [infographics pulse](https://github.com/vistadataproject/infographics/pulse)
-
 
 Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
 --- | --- | --- | --- | --- | --- |--- 
