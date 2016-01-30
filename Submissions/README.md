@@ -1,4 +1,4 @@
-## Formal submissions to the Government (Scheduled)
+## Formal submissions to the Government (Scheduled, Periodic updates)
 
 Formal, scheduled submissions are for program management, enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) track. 
 
@@ -14,7 +14,7 @@ Formal, scheduled submissions are for program management, enumerated in the [PMP
 Date Format:  YYYY-MM-DD
 
 
-## Technical Deliverables (Real-time)
+## Technical Deliverables (Real-time, Continuous update)
 Technical deliverables are updated continuously in real-time in in all repositories.  A real-time dashboard of the progress, updates, commits, and changes to all code, data, metadata, and documents of the key deliverables are below.
 
 
