@@ -1,6 +1,8 @@
 ## Formal submissions to the Government
 
 Formal submissions to the government for program management.
+Descriptions of these are enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) table. 
+
 
 \# | Document Name | Description | Date Submitted | Format | Deliverable #
 :---: | :--- | :--- | :--- | :---:| :---:
@@ -13,7 +15,6 @@ Formal submissions to the government for program management.
 
 Date Format:  YYYY-MM-DD
 
-Descriptions of these are enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) table. 
 
 
 
