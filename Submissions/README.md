@@ -15,7 +15,7 @@ Date Format:  YYYY-MM-DD
 
 
 ## Technical Deliverables (Real-time)
-Technical deliverables are continuously updated on a daily basis in their respective repositories within their respective on their track (A, B, C, D).  A real-time dashboard of all changes to all artifacts (code, data, metadata, documents)  for each respository is on the 'pulse' link for each.
+Technical deliverables are continuously updated on a daily basis in their respective repositories.  A real-time dashboard of the progress, updates, commits, and changes to all code, data, metadata, and documents by contributor are available below.
 
 Repository | Real-time Dashboard
  ---- | ----
@@ -28,12 +28,14 @@ MVDMmap | [MVDMmap pulse](https://github.com/vistadataproject/MVDMmap/pulse)
 infographics | [infographics pulse](https://github.com/vistadataproject/infographics/pulse)
 
 
-https://github.com/vistadataproject/documents/pulse
-https://github.com/vistadataproject/documents/issues
-https://github.com/vistadataproject/documents/wiki
-https://github.com/vistadataproject/documents/graphs/contributors
-https://github.com/vistadataproject/documents/graphs/commit-activity
-https://github.com/vistadataproject/documents/graphs/punch-card
+Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
+--- | --- | --- | --- | --- | --- |--- 
+documents | [pulse](https://github.com/vistadataproject/documents/pulse)
+[issues](https://github.com/vistadataproject/documents/issues)
+[wiki](https://github.com/vistadataproject/documents/wiki)
+[contributors](https://github.com/vistadataproject/documents/graphs/contributors)
+[commits](https://github.com/vistadataproject/documents/graphs/commit-activity)
+[punchcard](https://github.com/vistadataproject/documents/graphs/punch-card)
 
 
 
