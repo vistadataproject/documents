@@ -1,6 +1,6 @@
-### Formal submissions to the Government
+## Formal submissions to the Government (Scheduled)
 
-
+Formal, scheduled submissions are for program management, enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) track. 
 
 \# | Document Name | Description | Date Submitted | Format | Deliverable #
 :---: | :--- | :--- | :--- | :---:| :---:
@@ -12,18 +12,19 @@
 
 Date Format:  YYYY-MM-DD
 
-Formal, scheduled submissions are for program management, enumerated in the [PMP deliverables](https://github.com/vistadataproject/documents/blob/master/README.md#program-management) track. 
 
-# Real-time Technical Deliverables Dashboard
-Technical deliverables are continuously updated on a daily basis in their respective repositories of the github based on their track (VDM, MVDM, nodeVISTA, and MVDMmap). 
+## Technical Deliverables (Real-time)
+Technical deliverables are continuously updated on a daily basis in their respective repositories within their respective on their track (A, B, C, D).  A real-time dashboard of all changes to all artifacts (code, data, metadata, documents)  for each respository is on the 'pulse' link for each.
 
-https://github.com/vistadataproject/documents/pulse
-https://github.com/vistadataproject/VDM/pulse
-https://github.com/vistadataproject/nodeVISTA/pulse
-https://github.com/vistadataproject/vistadataproject.github.io/pulse
-https://github.com/vistadataproject/MVDM/pulse
-https://github.com/vistadataproject/MVDMmap/pulse
-https://github.com/vistadataproject/infographics/pulse
+Repository | Real-time Dashboard
+ ---- | ----
+documents | [documents pulse](https://github.com/vistadataproject/documents/pulse)
+VDM | [VDM pulse]( https://github.com/vistadataproject/VDM/pulse)
+nodeVISTA | [nodeVISTA pulse](https://github.com/vistadataproject/nodeVISTA/pulse)
+website | [website pulse](https://github.com/vistadataproject/vistadataproject.github.io/pulse)
+MVDM | [MVDM pulse](https://github.com/vistadataproject/MVDM/pulse)
+MVDMmap | [MVDMmap pulse](https://github.com/vistadataproject/MVDMmap/pulse)
+infographics | [infographics pulse](https://github.com/vistadataproject/infographics/pulse)
 
 
 
