@@ -1,7 +1,7 @@
 ## Formal submissions to the Government
 
-Formal submissions to the government for program management.<br>
-Descriptions of these are enumerated in the master  [deliverables table](https://github.com/vistadataproject/documents/blob/master/README.md#program-management).
+Formal submissions to the government for administration and program management.<br>
+These are enumerated in the Program Management [deliverables table](https://github.com/vistadataproject/documents#program-management).
 
 
 \# | Document Name | Description | Date Submitted | Format | Deliverable #
