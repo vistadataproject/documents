@@ -31,6 +31,7 @@ infographics | [infographics pulse](https://github.com/vistadataproject/infograp
 Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
 --- | --- | --- | --- | --- | --- |--- 
 [documents](https://github.com/vistadataproject/documents) | [pulse](https://github.com/vistadataproject/documents/pulse) | [issues](https://github.com/vistadataproject/documents/issues) | [wiki](https://github.com/vistadataproject/documents/wiki) | [contributors](https://github.com/vistadataproject/documents/graphs/contributors) | [commits](https://github.com/vistadataproject/documents/graphs/commit-activity) | [punchcard](https://github.com/vistadataproject/documents/graphs/punch-card)
+[VDM](https://github.com/vistadataproject/VDM) | [pulse](https://github.com/vistadataproject/VDM/pulse) | [issues](https://github.com/vistadataproject/VDM/issues) | [wiki](https://github.com/vistadataproject/VDM/wiki) | [contributors](https://github.com/vistadataproject/VDM/graphs/contributors) | [commits](https://github.com/vistadataproject/VDM/graphs/commit-activity) | [punchcard](https://github.com/vistadataproject/VDM/graphs/punch-card)
 
 
 
