@@ -134,7 +134,6 @@ A | 13 | Website  | [Website](https://github.com/vistadataproject/vistadataproje
 A | E3 | FileMan TEST VISTA ["nodeVISTA"]  | [nodeVISTA](https://github.com/vistadataproject/nodeVISTA) | a test VISTA ("nodeVISTA") that hosts different test datasets ("nodeVISTA Scenarios") | VISTA System, Vagrant | Q1 &#8594; Q4 | 
 A | E4 |  Document Generators  | [documents](https://github.com/vistadataproject/documents) | Programmer documentation will be generated using tools such as Sphinx (http://sphinx-doc.org/) and JSDoc (http://usejsdoc.org/). Important Markdown-formatted documents need to be translated into PDF and HTML | Various  | Q1 &#8594; Q3 |  
 &nbsp; ||||||
-&nbsp; ||||||
 
 #### Track B
 Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
@@ -152,7 +151,6 @@ B | 19 |  Software code [for PIKS] | [VDM](https://github.com/vistadataproject/V
 B | 25 |  Prototype query access to VISTA Data against VDM ["FQS"] | [VDM](https://github.com/vistadataproject/VDM) | _Example Query clients_ that query (read-only) nodeVISTA using a REST-based FileMan Query Service (FQS) implemented over _VDM Package (Read)_ | Javascript, Python, JSON-LD |  Q2 | 5.4.1
 B | 33 |  Prototype Web-Based Query Interface to FileMan [VDM] Data  | [VDM](https://github.com/vistadataproject/VDM) | _FQS Web Client_ for using _VDM Package (Read)_ | Javascript | Q2 &#8594; Q3 |  5.4.1
 &nbsp; ||||||
-&nbsp; ||||||
 
 #### Track C
 Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
@@ -167,7 +165,6 @@ C | 28 |  Prototype Patient-centric Data Security | [MVDM](https://github.com/vi
 C | 35 |  VISTA Application model(s)/Prototype(s) [Tests] | [MVDM](https://github.com/vistadataproject/MVDM) | MVDM write back tests (tier 1 through 3), enabled by mvdm.js configurations. Test scenarios for Deliverable #11. | Javascript, Python | Q2 &#8594; Q4  | 5.4.2
 C | 36 |  Meta-model(s) [VPR] Prototype(s) | [MVDM](https://github.com/vistadataproject/MVDM) | Test code that shows how well the MVDM supports VPR (Read-only) convenience methods - read-only side of #35 | Javascript, Python | Q2 &#8594; Q3  | 5.4.2
 &nbsp; ||||||
-&nbsp; ||||||
 
 #### Track D
 Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
@@ -175,7 +172,6 @@ Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
 D | 32  |  Prototype Web-based Rules Hub  | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | Prototype a sharable, crowd source-able mechanism to exchange and grow a library of open, standards-based, validated, and exchangeable transformation rules | Web-based interface | Q3 | 5.4.1
 D | 39 |  Reference model(s)/Prototype(s) ["FHIR Translator"] | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | Prototypes that demonstrate mapping from MVDM to FHIR | Javascript and/or other translation rules languages | Q3 &#8594; Q4  | 5.4.2
 D | 40 |  Document VISTA-ese vs. FHIR  | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | Human-readable mapping descriptions | Markdown | Q3 &#8594; Q4 | 5.4.2
-&nbsp; ||||||
 &nbsp; ||||||
 
 
