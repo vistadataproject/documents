@@ -30,9 +30,4 @@ Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
 [D](https://github.com/vistadataproject/documents#track-d-master-vista-data-model-maps) | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | [pulse](https://github.com/vistadataproject/MVDMmap/pulse) | [issues](https://github.com/vistadataproject/MVDMmap/issues) | [wiki](https://github.com/vistadataproject/MVDMmap/wiki) | [contributors](https://github.com/vistadataproject/MVDMmap/graphs/contributors) | [commits](https://github.com/vistadataproject/MVDMmap/graphs/commit-activity) | [punchcard](https://github.com/vistadataproject/MVDMmap/graphs/punch-card)
 
 
-[A](https://github.com/vistadataproject/documents#track-a-infrastructure)
-[B](https://github.com/vistadataproject/documents#track-b-vista-data-model)
-[C](https://github.com/vistadataproject/documents#track-c-master-vista-data-model)
-[D](https://github.com/vistadataproject/documents#track-d-master-vista-data-model-maps)
-
 
