@@ -7,6 +7,8 @@ This will rely in the VISTA Data Project deliverables including nodeVISTA, the V
 
 No legacy M code, RPCs, Fileman knowledge, nor any other software, service, or mid-tier moving parts are required.  This collaboration will demonstrate a use case of a new, embedded analytics and visualization capability for production VISTA systems.
 
+One of the key deliverables of this initiative will be universally reusable Javascript analytical and visualization libraries that may be applied to anesthesia and critical information systems across all federal sector health information systems, allowing even further aggregate analysis.
+
 
 ## Data Analytics and Operational Reporting
 
