@@ -12,7 +12,7 @@ One of the key deliverables of this initiative will be universally reusable Java
 
 __Background:  Current tools and workflow for operational reporting from VISTA__
 * M data extraction: ETL mechanism from Fileman to a relational database.  Requires specialized M knowledge and tools such as KB_SQL.  This transforms the data from one nonstandard format to another proprietary format.
-* Data analytics:  Commercial, proprietary tools such as SAS are used. Specialized SAS knowlege required. Queries of over 10 million patients are achieveable with SAS.  However, one obtains even better performance (querying over 10 million patients) directly against Fileman as it leverages M-Technology directly.
+* Data analytics:  Commercial, proprietary tools such as SAS are used. Specialized SAS knowlege required. Queries of over 10 million patients are achieveable with SAS.  However, one obtains even better performance directly against Fileman as it leverages M-Technology directly without any ETL required, and leaves the data in-situ in its authoritative data source.
 * Visualization tool: Commercial, proprietary, restricted use in TRM ($$)
 
 
