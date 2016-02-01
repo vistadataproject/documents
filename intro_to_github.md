@@ -15,3 +15,14 @@ Agencies use GitHub to engage developers and collaborate with the public on open
 https://government.github.com/
 
 
+### Basic use
+
+To configure:
+>git config --local --list
+git config user.name "userName"
+git config user.email "userEmail"
+
+To update:
+>git add .
+git commit -m "description of update"
+git push
