@@ -3,7 +3,7 @@ Total: 440 fields
 
 Field | Count
 ---- | ----
-[Demographics](https://github.com/healthschema/schemas/blob/master/vpr/csv/demographics.csv) | 44
+[Demographics](https://github.com/vistadataproject/documents/blob/master/artifacts/vpr/csv/demographics.csv) | 44
 [Insurance](https://github.com/healthschema/schemas/blob/master/vpr/csv/insurance.csv) | 15
 [Problems](https://github.com/healthschema/schemas/blob/master/vpr/csv/problems.csv) |  24
 [Reactions](https://github.com/healthschema/schemas/blob/master/vpr/csv/reactions.csv) | 17
