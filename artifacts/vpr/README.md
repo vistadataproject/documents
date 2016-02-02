@@ -4,9 +4,9 @@ Total: 440 fields
 Field | Count
 ---- | ----
 [Demographics](https://github.com/vistadataproject/documents/blob/master/artifacts/vpr/csv/demographics.csv) | 44
-[Insurance](https://github.com/healthschema/schemas/blob/master/vpr/csv/insurance.csv) | 15
-[Problems](https://github.com/healthschema/schemas/blob/master/vpr/csv/problems.csv) |  24
-[Reactions](https://github.com/healthschema/schemas/blob/master/vpr/csv/reactions.csv) | 17
+[Insurance](https://github.com/vistadataproject/documents/blob/master/artifacts/vpr/csv/insurance.csv) | 15
+[Problems](https://github.com/vistadataproject/documents/blob/master/artifacts/vpr/csv/problems.csv) |  24
+[Reactions](https://github.com/vistadataproject/documents/blob/master/artifacts/vpr/csv/reactions.csv) | 17
 [Vitals](https://github.com/healthschema/schemas/blob/master/vpr/csv/visits.csv) | 18
 [CLiO](https://github.com/healthschema/schemas/blob/master/vpr/csv/clio.csv) | 17
 [Labs](https://github.com/healthschema/schemas/blob/master/vpr/csv/labs.csv) | 21
