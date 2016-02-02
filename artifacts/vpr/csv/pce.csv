@@ -1,0 +1,15 @@
+item,^VPRDPX**,,V Skin Test #9000010.12,V Exam #9000010.13,V Patient Ed #9000010.16
+Attribute,VistA data type/values,VistA examples,field name (no.),field name (no.),field name (no.)
+comment,string,early beginning retinopathy,Comments (#81101),Comments (#81101),Comments (#81101)
+dateTime,date.time entered,3000522.1,Event Date and Time (#1201),Event Date and Time (#1201),Event Date and Time (#1201)
+encounter,P:9000010,4596,Visit (#.03),Visit (#.03),Visit (#.03)
+facility,string [station# ^ name],660^SALT LAKE HCS,Visit (#.03),Visit (#.03),Visit (#.03)
+id,P:9000010.xx,3,internal entry number,internal entry number,internal entry number
+name,string [P:9999999.xx name],DIABETIC EYE EXAM,Skin Test (#.01),Exam (#.01),Topic (#.01)
+result,string,ABNORMAL,Results (#.04),Result (#.04),Level of Understanding (#.06)
+,,,,,
+,,,,,
+,,,,,
+where item =,,,skinTest,exam,educationTopic
+,,,,,
+,,,,,
