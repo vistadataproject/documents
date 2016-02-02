@@ -1,0 +1,392 @@
+/****************************************
+
+	Red Gate SQL Doc Master Stylesheet
+
+****************************************/
+
+/******************************
+	Titles and headings
+******************************/
+
+/* Major page title */
+.pageTitle
+{ 
+	border : 1px solid;		
+	border-color:#DDDDDD;
+	font-size: 120%; 
+	font-weight: bold; 
+	color: #000000;	 		
+	background-image: url(../Images/BACK4.bmp);
+	margin-bottom: 20px;
+	text-wrap: normal;
+	word-wrap: break-word;
+}
+
+a.pageTitleLink:link
+{
+	
+}
+
+a.pageTitleLink:visited 
+{
+
+}
+
+.dboTitleName img
+{
+    position:relative;
+    left:4px;
+    top:2px;
+    padding-right: 1px;
+}
+
+li img
+{
+    position:relative;
+    top:2px;
+    padding-right: 1px;
+}
+
+/* Section titles, e.g. "Columns", or "Properties" */
+.sectionTitle 
+{
+	font-size: 100%; 
+	font-weight: bold; 
+	margin-bottom: 0.5em; 
+	margin-top: 0.5em;	
+	padding-left:0px;
+	padding-top:30px;
+	padding-bottom:0px;
+	vertical-align: middle;
+} 
+
+/* Icons associated with section titles */
+.sectionTitle img
+{
+	padding-right: 0.5em;
+}
+
+/* General table header rows */
+thead 
+{ 
+	font-weight: bold; 
+	vertical-align: top;
+}
+
+/* Page footer, including copyright text */
+.footer
+{
+	text-align: center;
+	font-size: smaller;
+	margin-top: 1em;
+	border-top: 1px solid;
+	border-color:#DDDDDD;
+}
+
+/* The "Breadcrumbs" at the top of each page */
+.breadcrumbs
+{	
+	font-size: 80%; 
+	font-weight: normal; 	
+	margin-bottom: 10px; 
+	padding: 4px; 	
+}
+
+/* The "description" title above the project description */
+.projectDescriptionTitle
+{
+	font-weight: normal; 
+	font-size: 80%;
+	padding: 2px;
+}
+
+/* Main text description of a project */
+.projectDescription
+{
+	margin-bottom: 4px; 
+}
+
+
+.projectDescriptionBoxed
+{
+	border : 1px;
+	border-style : solid;
+	border-color : #CCCCCC;
+	padding-left : 6px;
+	padding-top : 6px;	
+	padding-right : 6px;
+	padding-bottom : 6px;
+	min-height: 5em;
+	margin-bottom: 10px; 
+}
+
+/******************************
+	Tables of data
+******************************/
+
+/* Table of project attributes, such as creation date or author */
+table.projectAttributes
+{
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+}
+
+/* Titles for project attributes, such as "Created" or "Document Author" */
+td.projectAttributesTitle
+{
+	font-weight: bold;
+}
+
+/* Table of properties, found near the top of most object pages */
+table.PropertyTable
+{	
+	background-color:  #DDDDDD;	
+	margin-bottom:10px;
+}
+
+td.PropertyTable 
+{
+}
+
+/* Table of permissions on objects */
+.PermissionTable TABLE
+{
+	margin-bottom:10px;
+}
+.PermissionTable TD
+{
+}
+
+/* Table of extended properties */
+.ExtendedProperty TABLE
+{	
+	margin-bottom:10px;
+}
+.ExtendedProperty TD
+{
+}
+
+
+/* Table of triggers (insert / update / delete) on the table or view pages */
+.TriggerTable TABLE
+{	
+	margin-bottom:10px;
+}
+.TriggerTable TD
+{
+	white-space:normal;
+}
+/* Table corresponding to list of objects, such as found on the index of all tables */
+.objectList TABLE
+{
+	margin-top:20px;
+	width:100%;
+	border-collapse: collapse;
+}
+.objectList THEAD
+{
+	background-color: #CCCCCC; 	
+	border : 1px;
+	border-style : solid;
+	border-color : #DDDDDD;
+}
+.objectList TD
+{
+	border : 1px;
+	border-style : solid;
+	border-color : #CCCCCC;
+	white-space: normal;
+}
+
+td.cell0
+{
+	padding: 4px 2px 1px 2px;
+	background-image: url(../Images/BACK0.bmp);
+}
+td.cell1
+{
+	padding: 4px 2px 1px 2px;
+	background-image: url(../Images/BACK1.bmp);
+}
+td.cell2
+{
+	padding: 4px 2px 1px 2px;
+	background-image: url(../Images/BACK2.bmp);
+}
+td.cell3
+{
+	padding: 4px 2px 1px 2px;
+	background-image: url(../Images/BACK3.bmp);
+}
+
+.descriptionInTable
+{
+	color: #888888;
+	font-style: italic;
+}
+
+.Right
+{
+	text-align: right;
+	padding-right: 5px;
+}
+
+.Left
+{
+	text-align: left;	
+}
+
+th
+{
+	background-image: url(../Images/BACK4.bmp);
+	padding-left: 3px;
+	padding-right: 3px;
+}
+table.dataTable
+{
+	background-color:  #DDDDDD;	
+}
+
+/* Cells in the "columns" table found on table and view pages */
+#colTable TD
+{
+}
+
+/******************************
+	Lists of items
+******************************/
+
+/* The list of dependencies ("Uses" and "Used by") at the bottom of most pages */
+.DependencyList li
+{
+	display: inline;
+	list-style-type: none;
+	padding-right: 0.5em;
+}
+.DependencyList ul
+{
+	padding-left: inherit;
+}
+ul.DependencyList
+{
+	padding-left: inherit;
+	margin: 0px;
+}
+
+/* The list of quick navigation links at the top of most pages */
+.QuickLinks li
+{
+	display: inline;
+	padding-right: 0.5em;
+	padding: 0px;
+	margin: 0px;
+}
+.QuickLinks ul
+{
+	padding-left: inherit;
+}
+ul.QuickLinks
+{
+	padding-left: inherit;
+	margin: 0px;
+}
+
+/******************************
+	Other display items
+******************************/
+
+/* Seperator bar, used in the "HTML With Frames" style */
+.seperatorBar
+{ 
+
+	border-left-width:1px;
+	border-left-color:#BBBBBB;
+	border-left-style:solid;
+	margin-left: 2px;
+	margin-right: 2px;
+	font-size: 1px;
+} 
+
+/* The "tick" image */
+.tick
+{
+	/* text-align: center; */
+}
+
+/* The main body */
+body
+{
+	font-family : Verdana, Arial;
+	font-size:85%;
+}
+
+/* Images that are part of links */
+a img
+{
+	vertical-align:middle;
+	border:0px;
+}
+
+/* SQL Script */
+.sqlScript #sqlScript
+{
+	padding: 5px; 
+	background-color: #CCCCCC; 
+	border: 1px solid #888888; 
+	font-family: "Courier New";
+	font-size:90%;
+	
+	text-wrap: normal;
+	word-wrap: break-word;
+}
+
+.sqlScriptsComment 
+{	
+	color: green;
+} 
+
+.sqlScriptsKeyword 
+{	
+	color: blue; 	
+}
+
+.sqlScriptsString
+{	
+	color: #FF4500;
+} 
+
+.sqlScriptsFunction
+{	
+	color: #FF00FF;
+} 
+.sqlScriptsSystemView 
+{	
+	color: green; 	
+} 
+.sqlScriptsOperator
+{	
+	color: gray; 	
+} 
+.sqlScriptsStoredProcedure
+{	
+	color: #8B0000;
+} 
+.sqlScriptsNormal
+{	
+	color: black; 	
+} 
+
+/* Table of related files that are displayed when rendering file information for an assembly */
+table.RelatedFiles
+{
+	background-color:  #DDDDDD;	
+	margin-bottom:10px;
+}
+
+@media print
+{
+	body
+	{
+		font-size: 70%;
+	}
+}
