@@ -24,8 +24,10 @@ Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [Markdo
 Date format:  YYYY-MM-DD.
 
 
-## Technical Deliverables (Real-time Dashboards)
-Technical deliverables are updated continuously in real-time in in all project tracks and repositories.  A real-time dashboard of the progress, updates, commits, and changes to all code, data, metadata, and documents of all key deliverables are below.
+## Technical Deliverables
+Technical deliverables are updated continuously in real-time in in all project tracks and repositories.  
+
+Real-time dashboards of the progress, updates, commits, and changes to all code, data, metadata, and documents of all key deliverables are below.
 
 
 Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
