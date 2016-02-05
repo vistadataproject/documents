@@ -11,7 +11,8 @@ Formal submissions by or to the government for contracting, administration and p
 
 
 ### Program Management
-These are enumerated in the Program Management [deliverables table](https://github.com/vistadataproject/documents#program-management).
+These are enumerated and described in more detail in the Program Management [deliverables table](https://github.com/vistadataproject/documents#program-management).
+
 \# | Document Name | Description | Date Submitted | Format / Link | Deliverable #
 :---: | :--- | :--- | :--- | :---:| :---:
 1. | Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-2016-01-07-Kickoff.pdf)  | 1
