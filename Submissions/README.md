@@ -2,25 +2,25 @@
 Formal submissions by or to the government for contracting, administration and program management.
 
 ### Contract Documents
-\# | Document Name | Description | Date Signed | Format / Link
-:---: | :--- | :--- | :--- | :---:
-1. | IAA-Attach | Interagency Agreement - Attachment|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Attachment.pdf)
-2. | IAA-GTC | Interagency Agreement - General Terms|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-GTC.pdf)
-3. | IAA-Order | Interagency Agreement - Order Requirements|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Order_Reqs.pdf)
-4. | PWS | Product Work Statement|  2015-12-09 | [PDF](/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf)
+Document Name | Description | Date Signed | Format / Link
+:--- | :--- | :--- | :---:
+IAA-Attach | Interagency Agreement - Attachment|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Attachment.pdf)
+IAA-GTC | Interagency Agreement - General Terms|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-GTC.pdf)
+IAA-Order | Interagency Agreement - Order Requirements|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Order_Reqs.pdf)
+PWS | Product Work Statement|  2015-12-09 | [PDF](/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf)
 
 
 ### Program Management
 These are enumerated and described in more detail in the Program Management [deliverables table](https://github.com/vistadataproject/documents#program-management).
 
-\# | Document Name | Description | Date Submitted | Format / Link | Deliverable #
-:---: | :--- | :--- | :--- | :---:| :---:
-1. | Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-2016-01-07-Kickoff.pdf)  | 1
-2. | PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/src/VistAMetadata-2016-01-08-PMP.pdf) | 2 
-3. | WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/src/VistAMetadata-2016-01-08-WBS.pdf)  |  2
-4. | PMU | Program Schedule Monthly Update | 2016-01-29 | [PDF](/Submissions/src/VistAMetadata-2016-01-29-PMU.pdf) | 3
-5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-QCP-20160129.md), [PDF](/Submissions/src/VistAMetadata-2016-01-29-QCP.pdf) | 1B 
-6. | Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
+Document Name | Description | Date Submitted | Format / Link | Deliverable #
+:--- | :--- | :--- | :---:| :---:
+Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-2016-01-07-Kickoff.pdf)  | 1
+PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/src/VistAMetadata-2016-01-08-PMP.pdf) | 2 
+WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/src/VistAMetadata-2016-01-08-WBS.pdf)  |  2
+PMU | Program Schedule Monthly Update | 2016-01-29 | [PDF](/Submissions/src/VistAMetadata-2016-01-29-PMU.pdf) | 3
+QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-QCP-20160129.md), [PDF](/Submissions/src/VistAMetadata-2016-01-29-QCP.pdf) | 1B 
+Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
 Date format:  YYYY-MM-DD.
 
 
