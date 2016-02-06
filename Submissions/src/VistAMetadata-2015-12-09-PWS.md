@@ -1,6 +1,6 @@
-# PERFORMANCE WORK STATEMENT
+PERFORMANCE WORK STATEMENT
 
-INTERAGENCY AGREEMENT
+# INTERAGENCY AGREEMENT
 BETWEEN
 VETERANS HEALTH AGENCY (VHA)<br>
 AND
@@ -8,7 +8,7 @@ DEFENSE HEALTH AGENCY (DHA)
 
 Agreement No.: VA118-15-IA
 
-## Part B Identifier: VA VISTA Metadata Program
+Part B Identifier: VA VISTA Metadata Program
 
 Veterans Health Information Systems  and Technology Architecture (VISTA) Metadata Audit, Analytics, and Automation
 
@@ -16,7 +16,7 @@ Pacific Joint Information Technology Center
 
 Date: 12/09/2015
 
-# CONTENTS
+# Contents
 * Part 1: [General Information](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-1-general-information); [Data Rights](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#data-rights)
 * Part 2: [Definitions and Acronyms](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-2--definitions--acronyms)
 * Part 3: [Government Furnished Property, Equipment, and Services](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-3-government-furnished-property-equipment-and-services)
