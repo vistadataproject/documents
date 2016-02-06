@@ -17,27 +17,14 @@ Pacific Joint Information Technology Center
 Date: 12/09/2015
 
 # CONTENTS
-* Part 1: [General Information](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-1-general-information)
-* [Data Rights](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#data-rights)
+* Part 1: [General Information](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-1-general-information); [Data Rights](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#data-rights)
 * Part 2: [Definitions and Acronyms](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-2--definitions--acronyms)
-
-Part 3: Government Furnished Property, Equipment, and Services
-https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-3-government-furnished-property-equipment-and-services
-
-Part 4: Contractor Furnished Items
-https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-4-contractor-furnished-items-and-services
-
-Part 5: Specific Tasks
-https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-5--specific-tasks
-
-Part 6: Other Terms, Conditions, and Provisions
-https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-6-other-terms-conditions-and-provisions
-
-Part 7: Applicable Publications
-https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-7--applicable-publications
-
-Part 8: Technical Exhibits
-https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-8-technical-exhibits
+* Part 3: [Government Furnished Property, Equipment, and Services](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-3-government-furnished-property-equipment-and-services)
+* Part 4: [Contractor Furnished Items](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-4-contractor-furnished-items-and-services)
+* Part 5: [Specific Tasks](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-5--specific-tasks)
+* Part 6: [Other Terms, Conditions, and Provisions](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-6-other-terms-conditions-and-provisions)
+* Part 7: [Applicable Publications](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-7--applicable-publications)
+* Part 8: [Technical Exhibits](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-8-technical-exhibits)
 
 
 
