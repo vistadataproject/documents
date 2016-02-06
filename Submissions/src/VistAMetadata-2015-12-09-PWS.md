@@ -16,7 +16,12 @@ Pacific Joint Information Technology Center
 
 Date: 12/09/2015
 
-# PART 1:  GENERAL INFORMATION
+Index:
+
+[PART 1](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-1--general-information)
+
+
+# PART 1: GENERAL INFORMATION
 
 ## 1.1 Objective
 
@@ -153,12 +158,9 @@ Contractor and subcontractor personnel performing work under this contract may r
 
 The contractor shall perform transition planning activities to transition business and technical domain knowledge to Pacific JITC and/or its designees via the designated Project Repository.  The contractor shall generate a phase-out transition plan that elaborates the artifacts to be transitioned on the Project Repository, and a schedule for transition completion. 
 Phase-Out Migration Plan (due 30 days after contract award)  (Deliverable #1C)
-PART 2
 
 
-
-# DEFINITIONS & ACRONYMS
-
+# PART 2:  DEFINITIONS & ACRONYMS
 
 ## 2.1.  DEFINITIONS
 
