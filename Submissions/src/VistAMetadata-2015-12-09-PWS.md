@@ -61,38 +61,54 @@ The period of performance shall be for one (1) Base Year of 12 months, starting 
 
 ## 1.6 General Information
 
-1.6.1 Quality Control (Deliverable #1B): The contractor shall develop and maintain an effective quality control program to ensure services are performed in accordance with this PWS.  The contractor shall develop and implement procedures to identify, prevent, and ensure non-recurrence of defective services.  The contractor’s quality control program is the means by which he assures himself that his work complies with the requirement of the contract.  The QCP is to be delivered within 30 days after contract award.  Three copies of a comprehensive written QCP shall be submitted to the KO and COR within 5 working days when changes are made thereafter. After acceptance of the quality control plan the contractor shall receive the contracting officer’s acceptance in writing of any proposed change to his QC system.  
+#### 1.6.1 Quality Control (Deliverable #1B): 
+The contractor shall develop and maintain an effective quality control program to ensure services are performed in accordance with this PWS.  The contractor shall develop and implement procedures to identify, prevent, and ensure non-recurrence of defective services.  The contractor’s quality control program is the means by which he assures himself that his work complies with the requirement of the contract.  The QCP is to be delivered within 30 days after contract award.  Three copies of a comprehensive written QCP shall be submitted to the KO and COR within 5 working days when changes are made thereafter. After acceptance of the quality control plan the contractor shall receive the contracting officer’s acceptance in writing of any proposed change to his QC system.  
 Quality Control Plan (Deliverable #1B )
 
-1.6.2 Quality Assurance: The government shall evaluate the contractor’s performance under this contract in accordance with the Quality Assurance Surveillance Plan.  This plan is primarily focused on what the Government must do to ensure that the contractor has performed in accordance with the performance standards.  It defines how the performance standards will be applied, the frequency of surveillance, and the minimum acceptable defect rate(s).       
-1.6.3 Recognized Holidays
+#### 1.6.2 Quality Assurance: 
+The government shall evaluate the contractor’s performance under this contract in accordance with the Quality Assurance Surveillance Plan.  This plan is primarily focused on what the Government must do to ensure that the contractor has performed in accordance with the performance standards.  It defines how the performance standards will be applied, the frequency of surveillance, and the minimum acceptable defect rate(s).       
+
+#### 1.6.3 Recognized Holidays
 New Year’s Day				Labor Day
 Martin Luther King Jr.’s Birthday		Columbus Day
 President’s Day				Veteran’s Day
 Memorial Day					Thanksgiving Day
 Independence Day				Christmas Day
 
-1.6.4 Hours of Operation:  The contractor is responsible for conducting business, between the hours of 0900 and 1700 Monday thru Friday in their respective time zone except Federal holidays or when the Government facility is closed due to local or national emergencies, administrative closings, or similar Government directed facility closings.  For other than firm fixed price contracts, the contractor will not be reimbursed when the government facility is closed for the above reasons.  The Contractor must at all times maintain an adequate workforce for the uninterrupted performance of all tasks defined within this PWS when the Government facility is not closed for the above reasons.  When hiring personnel, the Contractor shall keep in mind that the stability and continuity of the workforce are essential.    
+#### 1.6.4 Hours of Operation:  
+The contractor is responsible for conducting business, between the hours of 0900 and 1700 Monday thru Friday in their respective time zone except Federal holidays or when the Government facility is closed due to local or national emergencies, administrative closings, or similar Government directed facility closings.  For other than firm fixed price contracts, the contractor will not be reimbursed when the government facility is closed for the above reasons.  The Contractor must at all times maintain an adequate workforce for the uninterrupted performance of all tasks defined within this PWS when the Government facility is not closed for the above reasons.  When hiring personnel, the Contractor shall keep in mind that the stability and continuity of the workforce are essential.    
 1.6.5 Place of Performance: The work to be performed under this contract will be performed at the Contractor facility. 
 
-1.6.6   Type of Contract:  The government will award a Firm Fixed Price contract.
+#### 1.6.6   Type of Contract:  
+The government will award a Firm Fixed Price contract.
 
-1.6.7   Security Requirements
+
+#### 1.6.7   Security Requirements
+
 1.6.7.1 Physical Security: The contractor shall be responsible for safeguarding all government equipment, information, and property provided for contractor use.  At the close of each work period, government facilities, equipment, and materials shall be secured.
+
 1.6.7.2 Key Control: The Contractor shall establish and implement methods of making sure all keys/key cards issued to the Contractor by the Government are not lost or misplaced and are not used by unauthorized persons.  NOTE: All references to keys include key cards.  No keys issued to the Contractor by the Government shall be duplicated.  The Contractor shall develop procedures covering key control that shall be included in the Quality Control Plan.  Such procedures shall include turn-in of any issued keys by personnel who no longer require access to locked areas.  The Contractor shall immediately report any occurrences of lost or duplicate keys/key cards to the Contracting Officer.
+
 1.6.7.2.1. In the event keys, other than master keys, are lost or duplicated, the Contractor shall, upon direction of the Contracting Officer, re-key or replace the affected lock or locks; however, the Government, at its option, may replace the affected lock or locks or perform re-keying.  When the replacement of locks or re-keying is performed by the Government, the total cost of re-keying or the replacement of the lock or locks shall be deducted from the monthly payment due the Contractor.  In the event a master key is lost or duplicated, all locks and keys for that system shall be replaced by the Government and the total cost deducted from the monthly payment due the Contractor.
 
 1.6.7.2.2. The Contractor shall prohibit the use of Government issued keys/key cards by any persons other than the Contractor’s employees.  The Contractor shall prohibit the opening of locked areas by Contractor employees to permit entrance of persons other than Contractor employees engaged in the performance of assigned work in those areas, or personnel authorized entrance by the Contracting Officer.
 
-1.6.8   Special Qualifications: None.
-1.6.9 Post Award Conference/Periodic Progress Meetings
+#### 1.6.8   Special Qualifications: None.
+
+#### 1.6.9 Post Award Conference/Periodic Progress Meetings
 The Contractor agrees to attend any post award conference convened by the contracting activity or contract administration office in accordance with Federal Acquisition Regulation Subpart 42.5. The contracting officer, Contracting Officers Representative (COR), and other Government personnel, as appropriate, may meet periodically with the contractor to review the contractor's performance.  At these meetings the contracting officer will apprise the contractor of how the government views the contractor's performance and the contractor will apprise the Government of problems, if any, being experienced.  Appropriate action shall be taken to resolve outstanding issues.  These meetings shall be at no additional cost to the government.  
 
-1.6.10 Contracting Officer Representative (COR): The COR will be identified by separate letter.  The COR monitors all technical aspects of the contract and assists in contract administration The COR is authorized to perform the following functions: assure that the Contractor performs the technical requirements of the contract: perform inspections necessary in connection with contract performance: maintain written and oral communications with the Contractor concerning technical aspects of the contract: issue written interpretations of technical requirements, including Government drawings, designs, specifications: monitor Contractor's performance and notifies both the Contracting Officer and Contractor of any deficiencies; coordinate availability of government furnished property, and provide site entry of Contractor personnel.  A letter of designation issued to the COR, a copy of which is sent to the Contractor, states the responsibilities and limitations of the COR, especially with regard to changes in cost or price, estimates or changes in delivery dates.  The COR is not authorized to change any of the terms and conditions of the resulting order. 
-1.6.11 Key Personnel:  The contractor shall provide a contract manager who shall be responsible for the performance of the work.  The name of this person and an alternate who shall act for the contractor when the manager is absent shall be designated in writing to the contracting officer.  The contract manager or alternate shall have full authority to act for the contractor on all contract matters relating to daily operation of this contract.  The contract manager or alternate shall be available between 0900 to 1700 in their respective time zone except Monday thru Friday except Federal holidays or when the government facility is closed for administrative reasons.    
-1.6.12 Identification of Contractor Employees: All contract personnel attending meetings, answering Government telephones, and working in other situations where their contractor status is not obvious to third parties are required to identify themselves as such to avoid creating an impression in the minds of members of the public that they are Government officials.  They must also ensure that all documents or reports produced by contractors are suitably marked as contractor products or that contractor participation is appropriately disclosed.  
+#####1.6.10 Contracting Officer Representative (COR): 
+The COR will be identified by separate letter.  The COR monitors all technical aspects of the contract and assists in contract administration The COR is authorized to perform the following functions: assure that the Contractor performs the technical requirements of the contract: perform inspections necessary in connection with contract performance: maintain written and oral communications with the Contractor concerning technical aspects of the contract: issue written interpretations of technical requirements, including Government drawings, designs, specifications: monitor Contractor's performance and notifies both the Contracting Officer and Contractor of any deficiencies; coordinate availability of government furnished property, and provide site entry of Contractor personnel.  A letter of designation issued to the COR, a copy of which is sent to the Contractor, states the responsibilities and limitations of the COR, especially with regard to changes in cost or price, estimates or changes in delivery dates.  The COR is not authorized to change any of the terms and conditions of the resulting order. 
 
-1.6.13 Contractor Travel: Contractor will be required to travel during the performance of this contract to attend meetings, conferences, and training.  The contractor may be required to travel to off-site training locations and to ship training aids to these locations in support of this PWS.  Contractor will be authorized travel expenses consistent with the substantive provisions of the Joint Travel Regulation (JTR) and the limitation of funds specified in this contract.  All travel requires Government approval/authorization and notification to the COR.  Projected travel is listed below:
+##### 1.6.11 Key Personnel:  
+The contractor shall provide a contract manager who shall be responsible for the performance of the work.  The name of this person and an alternate who shall act for the contractor when the manager is absent shall be designated in writing to the contracting officer.  The contract manager or alternate shall have full authority to act for the contractor on all contract matters relating to daily operation of this contract.  The contract manager or alternate shall be available between 0900 to 1700 in their respective time zone except Monday thru Friday except Federal holidays or when the government facility is closed for administrative reasons.    
+
+##### 1.6.12 Identification of Contractor Employees: 
+All contract personnel attending meetings, answering Government telephones, and working in other situations where their contractor status is not obvious to third parties are required to identify themselves as such to avoid creating an impression in the minds of members of the public that they are Government officials.  They must also ensure that all documents or reports produced by contractors are suitably marked as contractor products or that contractor participation is appropriately disclosed.  
+
+##### 1.6.13 Contractor Travel: 
+Contractor will be required to travel during the performance of this contract to attend meetings, conferences, and training.  The contractor may be required to travel to off-site training locations and to ship training aids to these locations in support of this PWS.  Contractor will be authorized travel expenses consistent with the substantive provisions of the Joint Travel Regulation (JTR) and the limitation of funds specified in this contract.  All travel requires Government approval/authorization and notification to the COR.  Projected travel is listed below:
 
 Origin
 Destination
@@ -106,30 +122,35 @@ Washington DC
 5
 
 
-1.6.14 Other Direct Costs: There will be no Other Direct Costs in performance of this contract. 
+#### 1.6.14 Other Direct Costs: 
+There will be no Other Direct Costs in performance of this contract. 
 
 
 # Data Rights
 
-1.6.15 Data Rights: The Government retains full and unlimited rights to all artifacts (code, documents, materials) produced under this contract.  All artifacts are the property of the Government with all rights and privileges of ownership/copyright belonging exclusively to the Government. 
+#### 1.6.15 Data Rights: 
+The Government retains full and unlimited rights to all artifacts (code, documents, materials) produced under this contract.  All artifacts are the property of the Government with all rights and privileges of ownership/copyright belonging exclusively to the Government. 
 
-1.6.15.1 Artifact Repository: To facilitate the management, reporting, collaboration, and continuity of access of all artifacts and deliverables produced under this contract as a single logical unit, all artifacts and deliverables shall be developed, version-controlled, stored, and delivered on an industry-standard public Github repository (“Project Repository”).  Upon commencement of the contract period, the contractor shall establish the Project Repository, and provide the URL of the Project Repository to the project manager, contracting representative, and relevant stakeholders.  (Deliverable #1AA)
+__1.6.15.1 Artifact Repository: To facilitate the management, reporting, collaboration, and continuity of access of all artifacts and deliverables produced under this contract as a single logical unit, all artifacts and deliverables shall be developed, version-controlled, stored, and delivered on an industry-standard public Github repository (“Project Repository”).__  Upon commencement of the contract period, the contractor shall establish the Project Repository, and provide the URL of the Project Repository to the project manager, contracting representative, and relevant stakeholders.  (Deliverable #1AA)
 
 The Project Repository shall contain the one and only authoritative version of all artifacts produced under this contract. The government, all necessary stakeholders, and the public shall have full read and download access of all artifacts on the Project Repository at all times throughout the lifecycle of the contract to support real-time collaborative development, testing, project management, progress reporting, and oversight of all authoritative artifacts in one location. At the termination of the contract the government shall take ownership of the Project Repository and all contents through the transfer of administrator privileges of the repository, allowing bulk transfer of all artifacts, and assuring future availability of all artifacts to the public, future development, and continuity management. The artifacts in the Project Repository shall have the following properties and data rights:
 
-1.6.15.2 All data and metadata produced under this contract must be provided in nonproprietary industry-standard machine-processable, structured form on the Project Repository and carry a Creative Commons CC0 license.  All data must include its corresponding, complete, correct, current operational metadata (schemes, data dictionaries) in machine-processable form, such that fully automated machine interpretation, extraction, translation, loading, and migration of all data to any future data storage system may be accomplished by a third party using industry-standard tools without any loss of information content or context.  If the data is tabular, CSV is required; for all other data structures JSON-LD is required. For metadata JSON-LD is required.
+__1.6.15.2 All data and metadata produced under this contract must be provided in nonproprietary industry-standard machine-processable, structured form on the Project Repository and carry a Creative Commons CC0 license.__  All data must include its corresponding, complete, correct, current operational metadata (schemes, data dictionaries) in machine-processable form, such that fully automated machine interpretation, extraction, translation, loading, and migration of all data to any future data storage system may be accomplished by a third party using industry-standard tools without any loss of information content or context.  If the data is tabular, CSV is required; for all other data structures JSON-LD is required. For metadata JSON-LD is required.
 
-1.6.15.3 All code (software) produced under this contract shall be developed, version-controlled, and delivered in source code form with associated documentation in the Project Repository, such that real-time third-party review and validation of all code in progress is possible.  All code that constitutes original works shall carry an Apache 2.0 license.  All code that constitutes derivative works must carry an OSI-approved free and open source license.  
+__1.6.15.3 All code (software) produced under this contract shall be developed, version-controlled, and delivered in source code form with associated documentation in the Project Repository, such that real-time third-party review and validation of all code in progress is possible.__  All code that constitutes original works shall carry an Apache 2.0 license.  All code that constitutes derivative works must carry an OSI-approved free and open source license.  
 
 All source code, dependent code, libraries, or third-party code shall be in portable, industry-standard, nonproprietary languages. If the source code requires compiling or assembling, these shall be either industry-standard open-source compilers or assemblers, or shall be provided with the software under a free and open source license that has been approved by the Open Source Initiative (OSI). 
 
 All code must have corresponding documentation, version-controlled in markdown in the same repository as the source code, and contain at minimum an Installation Guide and a User Guide for the final delivered source code such that a third party may download, install and make full functional use of the delivered code as specified and intended.  The Installation Guide must list all required third-party code, libraries or other dependencies. 
 
-1.6.15.4  All documentation and reports produced under this contract must be provided as machine-processable industry-standard markdown in version-controlled text files on the Project Repository and carry a Creative Commons CCO license.  From the most recent version of the markdown source, contractor shall use a documentation generator to produce all documentation in required formats. At minimum contractor shall auto-generate HTML, Word, and PDF versions of all documentation from the markdown source.  All edits, updates, and amendments to any documentation must be through changing the markdown source (not by editing the generated files), and then the documentation shall be regenerated in all required formats. All generated documentation shall reflect the most recent version of the markdown source.  Approved markdown formats include Github Markdown and Docbook. 
+__1.6.15.4  All documentation and reports produced under this contract must be provided as machine-processable industry-standard markdown in version-controlled text files on the Project Repository and carry a Creative Commons CCO license.__  From the most recent version of the markdown source, contractor shall use a documentation generator to produce all documentation in required formats. At minimum contractor shall auto-generate HTML, Word, and PDF versions of all documentation from the markdown source.  All edits, updates, and amendments to any documentation must be through changing the markdown source (not by editing the generated files), and then the documentation shall be regenerated in all required formats. All generated documentation shall reflect the most recent version of the markdown source.  Approved markdown formats include Github Markdown and Docbook. 
 
-1.6.16 Organizational Conflict of Interest:  Contractor and subcontractor personnel performing work under this contract may receive, have access to or participate in the development of proprietary or source selection information (e.g., cost or pricing information, budget information or analyses, specifications or work statements, etc.) or perform evaluation services which may create a current or subsequent Organizational Conflict of Interests (OCI) as defined in FAR Subpart 9.5.  The Contractor shall notify the Contracting Officer immediately whenever it becomes aware that such access or participation may result in any actual or potential OCI and shall promptly submit a plan to the Contracting Officer to avoid or mitigate any such OCI.  The Contractor’s mitigation plan will be determined to be acceptable solely at the discretion of the Contracting Officer and in the event the Contracting Officer unilaterally determines that any such OCI cannot be satisfactorily avoided or mitigated, the Contracting Officer may affect other remedies as he or she deems necessary, including prohibiting the Contractor from participation in subsequent contracted requirements which may be affected by the OCI.
+#### 1.6.16 Organizational Conflict of Interest:  
+Contractor and subcontractor personnel performing work under this contract may receive, have access to or participate in the development of proprietary or source selection information (e.g., cost or pricing information, budget information or analyses, specifications or work statements, etc.) or perform evaluation services which may create a current or subsequent Organizational Conflict of Interests (OCI) as defined in FAR Subpart 9.5.  The Contractor shall notify the Contracting Officer immediately whenever it becomes aware that such access or participation may result in any actual or potential OCI and shall promptly submit a plan to the Contracting Officer to avoid or mitigate any such OCI.  The Contractor’s mitigation plan will be determined to be acceptable solely at the discretion of the Contracting Officer and in the event the Contracting Officer unilaterally determines that any such OCI cannot be satisfactorily avoided or mitigated, the Contracting Officer may affect other remedies as he or she deems necessary, including prohibiting the Contractor from participation in subsequent contracted requirements which may be affected by the OCI.
 
-1.6.17 Phase In / Phase Out Period:  To minimize any decreases in productivity and to prevent possible negative impacts on additional services, the Contractor shall have personnel on board, during the sixty day phase in/ phase out periods.  During the phase in period, the Contractor shall become familiar with performance requirements in order to commence full performance of services on the contract start date.  
+#### 1.6.17 Phase In / Phase Out Period:  To minimize any decreases in productivity and to prevent possible negative impacts on additional services, the Contractor shall have personnel on board, during the sixty day phase in/ phase out periods.  During the phase in period, the Contractor shall become familiar with performance requirements in order to commence full performance of services on the contract start date.  
+
+
 The contractor shall perform transition planning activities to transition business and technical domain knowledge to Pacific JITC and/or its designees via the designated Project Repository.  The contractor shall generate a phase-out transition plan that elaborates the artifacts to be transitioned on the Project Repository, and a schedule for transition completion. 
 Phase-Out Migration Plan (due 30 days after contract award)  (Deliverable #1C)
 PART 2
@@ -203,64 +224,61 @@ GOVERNMENT FURNISHED PROPERTY, EQUIPMENT, AND SERVICES
 
 # 3.  GOVERNMENT FURNISHED ITEMS AND SERVICES
 
-
-3.1. System Access
+## 3.1. System Access
 
 Within 30 days of contract award the Government will provide contractor access to:
 
-Data Dictionary (^DD) extract from at least five current operational VISTAs. These data dictionaries contain no patient data, PHI, or PII  (i.e. no sensitive information). 
-
-Current authoritative Master ("Platinum") version of VISTA as maintained internally by the VA. Metadata from this must be complete and without any alterations or redactions.13  The metadata does not contain any patient data, PHI, or PII (i.e. no sensitive information). 
-
-Copy of a VISTA with test patients used by VA for internal projects
-
-Copy of at least one real operational VISTA ("Prod Clone" or “Test VISTA”) which would be kept within the NIPRed network, as it will have non de-identified patient data.
-
-A VISTA with real but de-identified patient data
+* Data Dictionary (^DD) extract from at least five current operational VISTAs. These data dictionaries contain no patient data, PHI, or PII  (i.e. no sensitive information). 
+* Current authoritative Master ("Platinum") version of VISTA as maintained internally by the VA. Metadata from this must be complete and without any alterations or redactions.13  The metadata does not contain any patient data, PHI, or PII (i.e. no sensitive information). 
+* Copy of a VISTA with test patients used by VA for internal projects
+* Copy of at least one real operational VISTA ("Prod Clone" or “Test VISTA”) which would be kept within the NIPRed network, as it will have non de-identified patient data.
+* A VISTA with real but de-identified patient data
 
 
-3.2	Services
+## 3.2	Services
 The Government will provide such services so as to enable timely Par.3.1 system access.
-3.3	Facilities
-The Government will provide Contractor access to the virtual resources at the Pacific JITC ITEC located in Kihei, HI to enable the Contractor to use the ITEC as a primary software development platform host and for testing for the applications. 
-3.4 Utilities
-The Government will provide such utilities to the ITEC to enable the Contractor to use the ITEC as a primary software development platform host and for testing for the applications. 
-3.5 Equipment
 
- The Government will provide such equipment and software at the ITEC so as to host the systems in Par. 3.1, to provide Contractor with efficient access to such systems and allow the data processing required in this project.
+## 3.3	Facilities
+The Government will provide Contractor access to the virtual resources at the Pacific JITC ITEC located in Kihei, HI to enable the Contractor to use the ITEC as a primary software development platform host and for testing for the applications. 
+
+## 3.4 Utilities
+The Government will provide such utilities to the ITEC to enable the Contractor to use the ITEC as a primary software development platform host and for testing for the applications. 
+
+## 3.5 Equipment
+
+The Government will provide such equipment and software at the ITEC so as to host the systems in Par. 3.1, to provide Contractor with efficient access to such systems and allow the data processing required in this project.
 
 
 
 # PART 4: CONTRACTOR FURNISHED ITEMS AND SERVICES
 
-4.  CONTRACTOR FURNISHED ITEMS AND RESPONSIBILITIES
-
-
-4.1 General
+## 4.1 General
 
 The Contractor shall furnish all supplies, equipment, facilities and services required to perform work under this contract that are not listed under Section 3 of this PWS. 
 
 
-4.2 Secret Facility Clearance:
+## 4.2 Secret Facility Clearance:
 
  Not applicable
-PART 5
 
 
 
 # PART 5:  SPECIFIC TASKS
 
-5.0 Basic Services
+## 5.0 Basic Services
 
 The contractor shall provide all necessary personnel, program management, materials, administrative support, travel, and technical services required to meet the performance objectives outlined in this PWS with primary emphasis in the areas of Program Management, Software Architecture and Technology Support, and Application Development Assessment (Prototype Development).
 
 
-5.1 Program Management (PM)
+## 5.1 Program Management (PM)
 
 The contractor shall provide program management support to manage the cost, schedule, and performance of this PWS in accordance with industry best practices.  The contractor Program Manager shall be responsible for providing the status reports and other associated PM documents, and shall ensure that Program Management activities, tasks, milestones, documentation and artifacts, shall be consolidated and communicated as required. 
+
 The contractor shall provide a Project Management Plan (PMP) to outline an overall plan/strategy to accomplish the tasks outlined in this PWS. At a minimum, the PMP shall include the risk, quality and technical management approach, work breakdown structure (WBS), schedule management approach, schedule, cost requirements, and proposed staffing plan. The PMP shall follow the format as agreed to by the Contracting Officer Representative (COR).
+
 The contractor shall provide a quarterly strategic communications message in a mutually agreed format to report and articulate the functionality being prototyped (proof of concept) and the feasibility of transitioning the concept to a VA production setting. 
 The contractor shall provide the following recurring program management activities: 
+
 Develop, manage, and maintain a Project Schedule, and provide Monthly Updates
 Ensure that all PWS requirements are performed and deliverables are submitted per agreed upon Project Schedule
 Communicate regularly and effectively with the CO, Pacific JITC leadership and Stakeholder(s)
@@ -270,9 +288,11 @@ Provide project status reporting in monthly progress report
 Develop and publish all artifacts, code, data, documentation, progress reports, and deliverables on single authoritative Project Repository  (defined in section 2.1.8) and provide unlimited access to this for all project management activities. 
 Provide a quarterly strategic communications message regarding project progress and feasibility of transition to production
 Perform financial management reporting, to be delivered with the monthly progress reports.. Financial reporting shall include costs to date, planned costs, variance of spend to plan and identification of any funding issues.
+
 The lifecycle outputs of all task items produced: Software Architecture and Technology Support, Application Development Assessment, and Transition Support Planning and Phase-Out Migration and any corresponding subtasks shall be captured in fully documented, installable, and operational form on the Project Repository.  All software or code generated shall be developed on the Project Repository for continuous inspection and testing. The contractor shall post all documentation, source data, derived definitions, reports and documentation on the Project Repository for ongoing programmatic records retention.  
 
-5.2 Software Architecture and Technology Support
+## 5.2 Software Architecture and Technology Support
+
 The contractor shall provide a lead software architect for the project and engineering management support. This support includes managing and integrating a range of technical and support service disciplines.
 Provide architecture and design (technical) governance across the program 
 Enhance, implement, and manage the system and software engineering development processes in accordance with industry best practices, standard principals, patterns and practices 
@@ -280,28 +300,32 @@ Manage and monitor the technical execution of development activities required to
 Conduct technical analysis and make recommendations on candidate architectural enhancements, new and enhanced solution capabilities, technologies, and standards
 
 Throughout the lifecycle of this PWS, the contractor shall coordinate with the COR and VA Program Manager to ensure Subject Matter Expert (SME) integration at appropriate points within software architecture and engineering activities. 
+
 Deliverables:
-Program Management Plan (Deliverable #2)
-Program Schedule and Monthly Updates (Deliverable #3)
-Monthly Progress Report (Deliverable #4)
-Quarterly Strategic Communications Message (Deliverable #5)
+* Program Management Plan (Deliverable #2)
+* Program Schedule and Monthly Updates (Deliverable #3)
+* Monthly Progress Report (Deliverable #4)
+* Quarterly Strategic Communications Message (Deliverable #5)
 
 
- 5.3 Application Development Assessment
+##  5.3 Application Development Assessment
 
 Overview:
 
 Foundation Metadata Support
+
 This creates all the foundational tooling and approach for all other segments.  This provides all the raw metadata from VISTA systems for analytics, and provides the basis for the VISTA Data Model (VDM) and the enterprise, cross-VISTA normalized VISTA Data Model (VDMN).  This task is analyzing only VISTA metadata. The task is non-invasive, and leaves VISTA systems untouched and unaltered in any way.
 
 Read/Write Enterprise Model Support
+
 This provides the iterative steps to generate the VDMN, and steps to operationalize this with full, secure, read/write access to a VISTA instance against the VDMN, rather than a local model. This provides global enterprise read/write capability.
 
 Operational Model Support
+
 These tasks involve operationalizing the VDMN for specific VISTA Application models, for external Meta-models (VPR, MDWS), and for external Reference models (FHIR).  Note: at least one VDMN embedded Application model, and at least one Reference model map shall be delivered during the one-year project.
 
 
-5.3.0 VISTA Metadata Extraction
+## 5.3.0 VISTA Metadata Extraction
 
 This foundation task provides all the raw metadata from VISTA systems for analytics, and provides the basis of a normalized, enterprise data model. This creates all the foundational tooling and approach for all other segments.   
 
@@ -309,10 +333,14 @@ Deliverables:
 
 Software Architecture Artifacts (VISTA Metadata) (Deliverable #6)
 
-5.3.1 Comprehensive Model Exposure
+## 5.3.1 Comprehensive Model Exposure
 The contractor shall provide comprehensive always-up-to-date, machine-processable exposure and definition of complete operational VISTA data model (VDM), based on all data dictionaries from all active VISTA instances in standard machine-processable, exchangeable form, supported by off-the-shelf tools.
+
 In addition, the contractor shall provide an automated, triggered update of source data model to the model repository whenever Kernel Installation and Distribution System (KIDS), DIFROM.m  (M routine name; used by KIDS), or any other VISTA tools change the VISTA data dictionaries.
+
 The expected results of these tasks shall permit analysis and enhancement of the true operational VISTA data model(s) and provide a data- and metadata-centric roadmap for auditing VISTA data. Full automation of this process allows this to be a sustainable, continuously repeatable process across all systems going forward rather than a single snapshot in time. (Note: since this is only metadata, no patient data is exposed or involved so is ‘safe’ from a patient data privacy perspective). 
+
+
 The contractor shall:
 Provide a native VISTA Data model (“VDM”) in a standard machine processable format that captures all the nuance in the model meta data, documented and maintained on the Project Github and usable in off-the-shelf tools
 Provide date-stamped FileMan (FM) data model definitions from all active VISTAs: global definitions, dictionary code (triggers, transforms, indexes, computations), cross reference definitions (file .11) posted and maintained on Project Github. [REM: this information is meta-data and not specific patient or institutional data. As such, it can be housed in a standard github].
@@ -322,23 +350,31 @@ Machine Processable VISTA Data Model (VDM) (Deliverable #7)
 Date-stamped FileMan Data Model Definitions (Deliverable #8)
 Approach to “Live VDM” Maintenance of Current State (Deliverable #9)
 
-5.3.2 Normalized Model
+## 5.3.2 Normalized Model
 The contractor shall create a fully audited and normalized VISTA data model (VDMN) with no redundancy. 
 The expected results of this task shall provide the foundation for enterprise-centric Master Data Management for VISTA. It shall provide exposure of hidden pointers and unstated references required to properly expose older, cruder models used for Scheduling and Orders. This is the foundation for code reduction and elimination of multiple overlapping extraction methods. Note: The initial VDMN will focus on only a subset of VISTA (a prototypical package such as Surgery, Scheduling, etc.) to provide a full end-to-end demonstration of the methodology.
+
+
 The contractor shall:
-Provide a normalized VISTA Data Model (“VDMN”) derived from VDM, documented and maintained on the Project Github and usable in off-the-shelf tools
-Generate all heuristic code used to derive the normalized model published and maintained on the Project Github
-Provide reports on normalization and the model available on the Project Github (Wiki)
-Provide a self-contained website that visualizes every aspect of VDM, VDMN and other meta data. This output must be mainstream, d3.js-based, pure web graphics framework. 
-Provide a clear report on nuance exposed (not added but made clear) in older models such as scheduling that will aid interoperability of such data. 
+* Provide a normalized VISTA Data Model (“VDMN”) derived from VDM, documented and maintained on the Project Github and usable in off-the-shelf tools
+* Generate all heuristic code used to derive the normalized model published and maintained on the Project Github
+* Provide reports on normalization and the model available on the Project Github (Wiki)
+* Provide a self-contained website that visualizes every aspect of VDM, VDMN and other meta data. This output must be mainstream, d3.js-based, pure web graphics framework. 
+* Provide a clear report on nuance exposed (not added but made clear) in older models such as scheduling that will aid interoperability of such data. 
+
+
 Deliverables: 
 Normalized VISTA Data Model (VDMN) (Deliverable #10)
 Heuristic Code (Deliverable #11)
 Normalization Reports (Deliverable #12)
 Website that graphically depicts VDM, VDMN, and other metadata (Deliverable #13)
 Report on Exposure of Older Models (Deliverable #14)
-5.3.3 Common Repository
+
+
+## 5.3.3 Common Repository
 The contractor shall provide a centralized repository for machine processable definitions of all VISTA application metadata. This repository shall provide and store enterprise VISTA (Cross-VISTA) application metadata (lab test definitions, document template definitions, surgery meta-data, etc.) from all VA VISTA instances in one place for analysis and refinement to improve meta-data creation and applications with a focus on improving interoperability of patient data.
+
+
 The contractor shall:
 Provide date-stamped application meta data for lab, surgery, Text Integration Utility  (TIU) notes and other applications, in a VDMN compatible format, downloadable from the VA Metadata Github and processable using off-the-shelf tooling
 Generate prototypes and documentation about meta data refinement on the VA Metadata Github
@@ -348,19 +384,28 @@ Date-stamped Metadata for lab, surgery, TIU notes and other applications in a VD
 Metadata Refinement Prototype with associated documentation (Deliverable #16)
 White Paper on Interoperability Improvement due to Metadata Curation (Deliverable #17)
 
-5.3.4 Metadata Enhancement and Linkage
+## 5.3.4 Metadata Enhancement and Linkage
+
 FileMan is currently data-category agnostic. The contractor shall modify it reflect the broad categories of data it contains to allow management (query, security, read/write) of Patient, Institutional, Knowledge, and Systems data as distinct entities and enables patient-centric security. To this end, the contractor shall divide and tag files by usage category: Patient (P, Institution (I), Know-how (K) and System (S) information (PIKS categories).
+
 In addition, the contractor shall support metadata linkage with at least one external Linked Data source including biological sciences, genotypes, and clinical research, examples of which shall be provided by VHA as government furnished information (GFI). For example, the contractor may use clinicaltrials.gov data to identify clinical trials on rare diseases that are planned, recruiting, under way, or completed, or linkage with Orphanet to provide insight about rare diseases, their prevalence, symptoms, treatments, and connect with rare disease experts.
+
 The expected results of these efforts shall yield: a) Highly contextualized and personalized patient data enrichment; b) access to a broad array of drug-drug interactions mined from clinical trials, scientific literature, spontaneous adverse event reports, and molecular predictions; and c) access to the burgeoning amount of pharmacogenomics knowledge, whether curated from literature or mined from genome-wide association studies (GWAS).
+
+
 The contractor shall:
 Provide machine-processable annotations for data categories marking the data types of both VDM and VDMN files/classes
 Develop code used to categorize the models documented and maintained on Github.
 Deliverables: 
 Machine-processable Annotations (Deliverable #18)
 Software code (Deliverable #19)
-5.3.5 Indexing Analytics and Search
+
+
+## 5.3.5 Indexing Analytics and Search
 The contractor shall develop indexing analytics for query scope improvement.  This effort shall allow full exploitation of current indexing in FileMan and suggests further indexing, all based on current FileMan facilities, to improve the range of queries supported by VISTA. This effort supports cross-patient, cross-system registries and population analytics. 
 In addition, the contractor shall provide multi-column indexes to allow multi column, multi-field queries. For example, an index on State and Health Factor can quickly identify everyone who has a health factor of a particular type that is registered in a particular state.
+
+
 The contractor shall:
 Based on VDM exposure of VISTA indexing and data, document the range of current queries supported and suggestions regarding further indexing to allow cross-patient data analytics
 Provide real-time population analytics on live operational data
@@ -369,23 +414,31 @@ Verify scalability to >1 million patients.
 Deliverables:
 Queries & Indexing White Paper (Deliverable #20)
 Operational Data Prototype (Deliverable #21)
-5.4 Application Development Assessment (Prototypes)
-5.4.1 Secure Read/Write Normalized VISTA Data Model
+
+## 5.4 Application Development Assessment (Prototypes)
+
+## 5.4.1 Secure Read/Write Normalized VISTA Data Model
 The contractor shall work with VA Program Director to prioritize the design, development, and test of a sequence of proof of concept models and functionality that can achieve all stated objectives feasible for execution during this effort.  As prioritized and agreed between VA Program Director and Pacific JITC, the contractor shall:
 Make end-to-end example and demonstration of VISTA Data Model (VDM) and normalized VDM (VDMN) on subset of VISTA data, showing all steps, with components not yet implemented.
+
+
 Provide meta-data driven export/import of VISTA data in industry-standard, machine-processable form to allow bulk read / extract / insert of data based on metadata in standard machine representation form and to allow bulk update of PIKS domains. 
 All Data in the FileMan Test VISTA shall be captured in standard, portable machine-readable definitions that conform to VDM and VDMN.
 Demonstrate use of FQS to export these definitions from the FileMan Test VISTA to Github. 
 Github hosted prototype of importing these definitions directly into an empty VISTA with documentation on issues involved.
 Fully document data insertion issues that are bypassed by VISTA current “direct to raw globals” programming style. These include triggered transformations, bi-directional pointers and inappropriate designations of mandatory and optional data types. The document should be based on the metadata exposed in the VDM and VDMN.
+
+
 Provide query access to VISTA data against VDM to allow comprehensive, granular data access to all VISTA data with single common query access method and with common, open, industry-standard output formats. The output of this effort shall yield:
 A FileMan Query Service (“FQS”) specified, developed and maintained on the Project Github
 Query response /output options include hypertext markup language (HTML), extensible markup language (XML), java script object notation for linked data (JSON-LD), and in Excel spreadsheet compatible form.
 An output option to format output as HTML tables.
+
 Representational state transfer application programming interface (REST API) to VDM
 A VISTA FileMan, populated to allow testing of all service nuance (“FileMan Test VISTA”).
 A unit and regression test suite that runs against the test VISTA posted and maintained on the Project Github.
 Enable Standardized Meta Data Version Control. Define and add a set of standard version control fields to all knowledge (terminology and meta data) files in VISTA. These shall include “created”, “last update”, “deprecated”, “replaced by”, and “dataset version.” Distinguish metadata (“K”) files from other VISTA files. DHA shall reuse both standard (w3c) approaches and the best version control approaches already used in some places in VISTA. This will allow standardized metadata version control and auditing of all VISTA metadata and is a prelude to providing one mechanism for metadata synchronization across VISTAs. The output of this effort shall yield:
+
 Identification of all Knowledge/Meta data (“K”) files in VISTA distinguishing VA-wide, standard (ex/Logical Observation Identifiers Names and Codes (LOINC)), local VISTA files.
 Addition of version control fields to the data dictionary of all K files and synchronization using transforms of current custom version control fields with new standard fields.
 Clear identification of all K files whose update mechanisms need to be updated to populate the new version control fields. 
@@ -419,7 +472,7 @@ Prototype Web-Based Query Interface to FileMan Data (Deliverable #33)
 Prototype Web-Based Dashboard for FileMan Status (Deliverable #34)
 
 
-5.4.2 Operationalizing the Normalized VISTA Data Model
+## 5.4.2 Operationalizing the Normalized VISTA Data Model
 The contractor shall provide at least one of each of the VISTA Application Models, External Meta-models, and Reference Models listed below.
 
 VISTA Application Models
@@ -435,6 +488,7 @@ Provide a github-hosted, self-contained, documented, any-VISTA-installable proto
 The result of this effort shall allow standard enterprise VDMN model-driven read/write access to any VISTA Application using single VDMN canonical model.
 Deliverables:
 VISTA Application model(s)/Prototype(s) (Deliverable #35)
+
 
 Meta-Models
 The contractor shall work with the COR and VA Program Director to prioritize the design, development, and test at least one meta-model that:
@@ -471,15 +525,28 @@ The Contractor shall ensure that the DHA Form 49 DHA Contractor Non-Disclosure A
 The Non-Disclosure Agreement shall be cosigned by a corporate official (Contractor Task Manager or higher).  The Contractor shall also ensure that all staff understand and adhere to the terms of the non-disclosure statement, protecting the procurement sensitive information of the Government and the proprietary information of other Contractors.  Assignment of staff who have not executed this statement or failure to adhere to this statement shall constitute default on the part of the Contractor. 
 
 6.2	Protection of Information
+
+
 6.2.1	Dissemination of Information/Publishing
 There shall be no dissemination or publication, except within and between the Contractor and any subcontractors or specified Integrated Product/Process Team (IPT) members who have a need to know, of information developed under this order or contained in the reports to be furnished pursuant to this order without prior written approval of the Contracting Officer.  DHA approval for publication will require provisions which protect the intellectual property and patent rights of DHA, VA and the Contractor.
 
 6.2.2    	Proper Identification of Contractor Personnel
+
+
 6.2.2.1	Contractors, including subcontractors at all tiers, shall provide for a clear distinction from Government personnel. Contractor employees shall not act, advertise, or presume to be Government employees, agents, or representatives. Contractor employees are required to appropriately identify themselves as contractor employees at all times, including in telephone conversations, formal and informal written correspondence, paper and electronic, and in any other situation where their actions could be construed as acts of Government officials, unless, in the judgment of the Government, no harm can come from failing to identify themselves. Contractor employees shall be introduced as contractor personnel and display distinguishing visible identification at all times whether in conversations, meetings, or other forms of communication with Government personnel.
+
+
 6.2.2.2	 Contractor personnel, while performing in a contractor capacity, shall refrain from using their retired or reserve component military rank or title (if applicable) in written or verbal communications associated with the contracts for which they provide services.
+
+
 6.2.2.3	 The Contractor shall incorporate the substance of this requirement in all subcontracts awarded under this contract.
+
+
 6.2.3 Personally Identifiable Information (PII), Protected Health Information (PHI) and Federal Information Requirements (Revised May 6, 2015):  
+
+
 6.2.3.1. General Requirements Overview - Personally Identifiable Information (PII), Protected Health Information (PHI) and Federal Information Laws 
+
 This Section addresses the Contractor’s requirements under The Privacy Act of 1974 (Privacy Act), The Freedom of Information Act (FOIA), and The Health Insurance Privacy and Accountability Act (HIPAA) as set forth in applicable statutes, implementing regulations and DoD issuances. In general, the Contractor shall comply with the specific requirements set forth in this section and elsewhere in this Contract. The Contractor shall also comply with requirements relating to records management as described herein. 
 This Contract incorporates by reference the federal regulations and DoD issuances referred to in this Section. If any authority is amended or replaced, the changed requirement is effective when it is incorporated under contract change procedures. Where a federal regulation and any DoD issuance govern the same subject matter, the Contractor shall first follow the more specific DoD implementation unless the DoD issuance does not address or is unclear on that matter. DoD issuances are available at http://www.dtic.mil/whs/directives. 
 For purposes of this Section, the following definitions apply. 
@@ -586,17 +653,16 @@ The contractor shall report ALL contractor labor hours (including subcontractor 
 Reporting inputs will be for the labor executed during the period of performance during each Government fiscal year (FY), which runs October 1 through September 30. While inputs may be reported any time during the FY, all data shall be reported no later than October 31 of each calendar year, beginning with 2013. Contractors may direct questions to the help desk at help desk at: http://www.ecmra.mil
 
 
-# PART 7:  APPLICABLE PUBLICATIONS
 
+# PART 7:  APPLICABLE PUBLICATIONS
 
 7.  Applicable Publications (Current Editions)
 
 7.1. The Contractor must abide by all applicable regulations, publications, manuals, and local policies and procedures.  
-PART 8
 
 
 
-# 8. ATTACHMENT: TECHNICAL EXHIBIT LISTING
+# PART 8:  ATTACHMENT: TECHNICAL EXHIBIT LISTING
  
 
 ## 8.1 Technical Exhibit 1: Performance Requirements Summary
