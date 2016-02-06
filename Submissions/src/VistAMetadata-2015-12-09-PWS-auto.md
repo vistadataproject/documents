@@ -5,42 +5,6 @@ PWS auto-coverted by  https://markable.in
 
 
 
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title>PERFORMANCE WORK STATEMENT [TEMPLATE]</title>
-	<meta name="generator" content="LibreOffice 5.0.4.2 (MacOSX)"/>
-	<meta name="author" content="Rachel Kanukolanu"/>
-	<meta name="created" content="2015-12-30T19:32:00"/>
-	<meta name="changed" content="2016-02-06T17:00:47.853848000"/>
-	<style type="text/css">
-		@page { margin-right: 1.25in; margin-top: 0.5in; margin-bottom: 0.5in }
-		p { margin-bottom: 0in; direction: ltr; color: #000000; orphans: 2; widows: 2 }
-		p.western { font-family: "Arial", sans-serif; font-size: 12pt; so-language: en-US }
-		p.cjk { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zh-CN }
-		p.ctl { font-family: "Arial", sans-serif; font-size: 12pt; so-language: ar-SA }
-		h2 { margin-top: 0.17in; margin-bottom: 0in; direction: ltr; color: #000000; text-align: justify; orphans: 2; widows: 2 }
-		h2.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: en-US }
-		h2.cjk { font-family: "Times New Roman", serif; font-size: 12pt; so-language: zh-CN }
-		h2.ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA; font-weight: normal }
-		h3 { margin-top: 0.17in; margin-bottom: 0.04in; direction: ltr; color: #000000; orphans: 2; widows: 2 }
-		h3.western { font-family: "Cambria"; font-size: 13pt; so-language: en-US }
-		h3.cjk { font-family: "Times New Roman", serif; font-size: 13pt; so-language: zh-CN }
-		h3.ctl { font-family: "Cambria"; font-size: 13pt; so-language: ar-SA }
-		h4 { margin-top: 0in; margin-bottom: 0in; direction: ltr; color: #000000; text-align: center; orphans: 2; widows: 2 }
-		h4.western { font-family: "Times New Roman", serif; so-language: en-US }
-		h4.cjk { font-family: "Times New Roman", serif; so-language: zh-CN }
-		h4.ctl { font-family: "Times New Roman", serif; so-language: ar-SA; font-weight: normal }
-		p.sdfootnote-western { font-family: "Times New Roman", serif; font-size: 10pt; so-language: en-US }
-		p.sdfootnote-cjk { font-family: "Times New Roman", serif; font-size: 10pt; so-language: zh-CN }
-		p.sdfootnote-ctl { font-family: "Times New Roman", serif; font-size: 10pt; so-language: ar-SA }
-		a:link { color: #0000ff }
-		a:visited { color: #800080 }
-		a.western:visited { so-language: en-US }
-		a.cjk:visited { so-language: zh-CN }
-		a.ctl:visited { so-language: hi-IN }
-		a.sdfootnoteanc { font-size: 57% }
-	</style>
-</head>
 
 
 
