@@ -203,32 +203,34 @@ Phase-Out Migration Plan (due 30 days after contract award)  (Deliverable #1C)
 
 ## 2.2.  ACRONYMS
 
-ACOR			Alternate Contracting Officer's Representative
-CFR			Code of Federal Regulations
-CONUS			Continental United States (excludes Alaska and Hawaii)
-COR			Contracting Officer Representative
-COTR			Contracting Officer's Technical Representative
-COTS			Commercial-Off-the-Shelf
-DD254			Department of Defense Contract Security Requirement List
-DFARS			Defense Federal Acquisition Regulation Supplement
-DMDC			Defense Manpower Data Center
-DOD			Department of Defense
-FAR			Federal Acquisition Regulation 	
-HIPAA			Health Insurance Portability and Accountability Act of 1996
-CO			Contracting Officer 
-OCI			Organizational Conflict of Interest
-OCONUS		Outside Continental United States (includes Alaska and Hawaii)
-ODC 			Other Direct Costs 
-PIPO			Phase In/Phase Out
-POC			Point of Contact
-PRS			Performance Requirements Summary
-PWS			Performance Work Statement
-QA			Quality Assurance
-QAP			Quality Assurance Program
-QASP			Quality Assurance Surveillance Plan
-QC			Quality Control
-QCP			Quality Control Program
-TE			Technical Exhibit
+Term | Definition
+--- | ---
+ACOR | Alternate Contracting Officer's Representative
+CFR | Code of Federal Regulations
+CONUS | Continental United States (excludes Alaska and Hawaii)
+COR | Contracting Officer Representative
+COTR | Contracting Officer's Technical Representative
+COTS | Commercial-Off-the-Shelf
+DD254 | Department of Defense Contract Security Requirement List
+DFARS | Defense Federal Acquisition Regulation Supplement
+DMDC | Defense Manpower Data Center
+DOD | Department of Defense
+FAR | Federal Acquisition Regulation 	
+HIPAA | Health Insurance Portability and Accountability Act of 1996
+CO | Contracting Officer 
+OCI | Organizational Conflict of Interest
+OCONUS | Outside Continental United States (includes Alaska and Hawaii)
+ODC  | Other Direct Costs 
+PIPO | Phase In/Phase Out
+POC | Point of Contact
+PRS | Performance Requirements Summary
+PWS | Performance Work Statement
+QA | Quality Assurance
+QAP | Quality Assurance Program
+QASP | Quality Assurance Surveillance Plan
+QC | Quality Control
+QCP | Quality Control Program
+TE | Technical Exhibit
 
 
 
