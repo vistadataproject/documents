@@ -219,12 +219,11 @@ QASP			Quality Assurance Surveillance Plan
 QC			Quality Control
 QCP			Quality Control Program
 TE			Technical Exhibit
-PART 3
-
-GOVERNMENT FURNISHED PROPERTY, EQUIPMENT, AND SERVICES
 
 
-# 3.  GOVERNMENT FURNISHED ITEMS AND SERVICES
+
+# PART 3: GOVERNMENT FURNISHED PROPERTY, EQUIPMENT, AND SERVICES
+
 
 ## 3.1. System Access
 
@@ -664,8 +663,8 @@ Reporting inputs will be for the labor executed during the period of performance
 
 
 
-# PART 8:  ATTACHMENT: TECHNICAL EXHIBIT LISTING
- 
+# PART 8: TECHNICAL EXHIBITS
+
 
 ## 8.1 Technical Exhibit 1: Performance Requirements Summary
 
