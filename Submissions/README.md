@@ -25,7 +25,7 @@ Date format:  YYYY-MM-DD.
 
 
 ## Technical Deliverables
-Technical deliverables are updated continuously in real-time in in all project tracks and repositories. Visual dashboards of the updates, commits, changes and progress on all developed code, data, metadata, and documents are below.
+Technical deliverables are updated continuously in real-time in in all project tracks and repositories. Visual dashboards of the updates, commits, changes and progress on all developed code, data, metadata, and documents for each track is below.
 
 
 Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
