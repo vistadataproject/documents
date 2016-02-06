@@ -530,20 +530,14 @@ Document VISTA-ese vs. FHIR (Deliverable #40)
 
 
 # PART 6: OTHER TERMS, CONDITIONS, AND PROVISIONS
+For DHA-specific conditions see attachment.
 
-See separate DHA-specific conditions documentation
 
-
-# PART 7:  APPLICABLE PUBLICATIONS
-
-7.  Applicable Publications (Current Editions)
-
+# PART 7: APPLICABLE PUBLICATIONS
 7.1. The Contractor must abide by all applicable regulations, publications, manuals, and local policies and procedures.  
 
 
 # PART 8: TECHNICAL EXHIBITS
-
-
 ## 8.1 Technical Exhibit 1: Performance Requirements Summary
 
 The contractor service requirements are summarized into performance objectives that relate directly to mission essential items.  The performance threshold briefly describes the minimum acceptable levels of service required for each requirement.  These thresholds are critical to mission success.
