@@ -18,7 +18,7 @@ Date: 12/09/2015
 
 Index:
 
-[PART 1](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-1--general-information)
+[PART 2](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-2--definitions--acronyms)
 
 
 # PART 1: GENERAL INFORMATION
