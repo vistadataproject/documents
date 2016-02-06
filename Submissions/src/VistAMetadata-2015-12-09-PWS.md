@@ -23,7 +23,7 @@ Date: 12/09/2015
 * Part 4: [Contractor Furnished Items](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-4-contractor-furnished-items-and-services)
 * Part 5: [Specific Tasks](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-5--specific-tasks)
 * Part 6: [Other Terms, Conditions, and Provisions](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-6-other-terms-conditions-and-provisions)
-* Part 7: [Applicable Publications](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-7--applicable-publications)
+* Part 7: [Applicable Publications](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-7-applicable-publications)
 * Part 8: [Technical Exhibits](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-8-technical-exhibits)
 
 
