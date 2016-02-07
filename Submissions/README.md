@@ -7,6 +7,7 @@ MD | Markdown.  Industry standard for web-based real-time creation, collaboratio
 HTML | Hypertext Markup Language.  A static, read-only web browser viewer format. 
 PDF | Portable Document Format. A fixed, non-editable, non-web format. <br> __For legacy, static, and historical documents only.__
 Date | YYYY-MM-DD
+For information on converting legacy, static, non-web, non-collaborative documents (Word, Excel, CSV, PDF, or others) to Markdown, see 
 
 ### Contract Documents
 Document Name | Description | Date Signed | Format / Link
