@@ -1,7 +1,5 @@
 ## Formal submissions to the Government
-Formal submissions by or to the government for contracting, administration and program management. 
-
-Formats are Portable Document Format (PDF), Hypertext Markup Language (HTML), and Markdown (MD).
+Formal submissions by or to the government for contracting, administration and program management.  Formats are Portable Document Format (PDF), Hypertext Markup Language (HTML), and Markdown (MD). Date format:  YYYY-MM-DD.
 
 ### Contract Documents
 Document Name | Description | Date Signed | Format / Link
@@ -24,7 +22,7 @@ WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/src/VistAMetadata-
 PMU | Program Schedule Monthly Update | 2016-01-29 | [PDF](/Submissions/src/VistAMetadata-2016-01-29-PMU.pdf) | 3
 QCP | Quality Control Plan | 2016-01-29 |[PDF](/Submissions/src/VistAMetadata-2016-01-29-QCP.pdf)<br> [MD](/Submissions/VistAMetadata-QCP-20160129.md)| 1B 
 Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [MD](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
-Date format:  YYYY-MM-DD.
+
 
 
 ## Technical Deliverables
