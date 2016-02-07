@@ -3,9 +3,9 @@ Formal submissions by or to the government for contracting, administration and p
 
 Format | Detail
 --- | ---
-PDF | Portable Document Format
-HTML | Hypertext Markup Language
-MD | Markdown
+PDF | Portable Document Format. A non-editable fixed document. For historical purposes only.
+HTML | Hypertext Markup Language.  Web browser compliant format.
+MD | Markdown.  Industry standard for collaboration and version-control of documents and artifacts. Is the required format for all project deliverables. 
 Date | YYYY-MM-DD
 
 ### Contract Documents
