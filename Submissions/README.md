@@ -7,7 +7,7 @@ Document Name | Description | Date Signed | Format / Link
 IAA-Attach | Interagency Agreement - Attachment|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Attachment.pdf)
 IAA-GTC | Interagency Agreement - General Terms|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-GTC.pdf)
 IAA-Order | Interagency Agreement - Order Requirements|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Order_Reqs.pdf)
-PWS | Product Work Statement|  2015-12-09 | [PDF](/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf)<br>[HTML](/Submissions/src/VistAMetadata-2015-12-09-PWS-html.md)<br>[Markdown](/Submissions/src/VistAMetadata-2015-12-09-PWS.md)
+PWS | Product Work Statement|  2015-12-09 | [PDF](/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf)<br>[HTML](/Submissions/src/VistAMetadata-2015-12-09-PWS-html.md)<br>[MD](/Submissions/src/VistAMetadata-2015-12-09-PWS.md)
 
 
 
@@ -20,8 +20,8 @@ Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-20
 PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/src/VistAMetadata-2016-01-08-PMP.pdf) | 2 
 WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/src/VistAMetadata-2016-01-08-WBS.pdf)  |  2
 PMU | Program Schedule Monthly Update | 2016-01-29 | [PDF](/Submissions/src/VistAMetadata-2016-01-29-PMU.pdf) | 3
-QCP | Quality Control Plan | 2016-01-29 |[PDF](/Submissions/src/VistAMetadata-2016-01-29-QCP.pdf)<br> [Markdown](/Submissions/VistAMetadata-QCP-20160129.md)| 1B 
-Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
+QCP | Quality Control Plan | 2016-01-29 |[PDF](/Submissions/src/VistAMetadata-2016-01-29-QCP.pdf)<br> [MD](/Submissions/VistAMetadata-QCP-20160129.md)| 1B 
+Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [MD](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
 Date format:  YYYY-MM-DD.
 
 
