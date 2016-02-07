@@ -9,7 +9,7 @@ PDF | Portable Document Format. A fixed, non-editable, non-web format. <br>For l
 Date | YYYY-MM-DD
 For information on editing Markdown, and for converting legacy, static, non-web, non-collaborative documents (Word, Excel, CSV, PDF, or others) to Markdown, see [Introduction to Markdown](/intro_to_markdown.md) 
 
-### Contract Documents
+### Contract Documentation
 Document Name | Description | Date Signed | Format / Link
 :--- | :--- | :--- | :---:
 IAA-Attach | Interagency Agreement - Attachment|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Attachment.pdf)
@@ -19,7 +19,7 @@ PWS | Product Work Statement|  2015-12-09 | [PDF](/Submissions/src/VistAMetadata
 
 
 
-### Program Management
+### Program Management Documentation
 These are enumerated and described in more detail in the Program Management [deliverables table](https://github.com/vistadataproject/documents#program-management).
 
 Document/Wiki | Description | Date Submitted | Format / Link | Deliverable #
@@ -33,9 +33,8 @@ Weekly | Weekly Progress Reports | Mondays starting<br>2016-01-11 | [MD](https:/
 
 
 
-
 ## Technical Deliverables
-Technical deliverables are updated continuously in real-time in in all project tracks and repositories. Visual dashboards of the updates, commits, changes and progress on all developed code, data, metadata, and documents for each track is below.
+Technical deliverables are updated continuously in real-time for all project tracks. Visual dashboards of the most current state on all code, data, metadata, documents, and deliverables are listed below.
 
 
 Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
