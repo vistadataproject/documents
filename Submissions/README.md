@@ -1,5 +1,12 @@
 ## Formal submissions to the Government
-Formal submissions by or to the government for contracting, administration and program management.  Formats are Portable Document Format (PDF), Hypertext Markup Language (HTML), Markdown (MD), Date (YYYY-MM-DD).
+Formal submissions by or to the government for contracting, administration and program management.  
+
+Format | Detail
+--- | ---
+PDF | Portable Document Format
+HTML | Hypertext Markup Language
+MD | Markdown
+Date | YYYY-MM-DD
 
 ### Contract Documents
 Document Name | Description | Date Signed | Format / Link
