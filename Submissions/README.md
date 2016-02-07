@@ -5,7 +5,7 @@ Format | Detail
 --- | ---
 MD | Markdown.  Industry standard for web-based read/write collaboration and version-control of documents. <br> This is the required format for all project documentation. 
 PDF | Portable Document Format. A fixed, non-editable, non-web format.  For historical documents only.
-HTML | Hypertext Markup Language.  A read-only web browser compliant format.
+HTML | Hypertext Markup Language.  A read-only web browser viewer format.
 Date | YYYY-MM-DD
 
 ### Contract Documents
