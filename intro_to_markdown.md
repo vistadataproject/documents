@@ -14,6 +14,10 @@
 * https://markable.in/
 
 ### Convert ANYTHING to Markdown
-* http://pandoc.org/
+* http://pandoc.org
+* http://pandoc.org/try
 
 
+### Getting started with Github Pages
+* https://github.com/github/pages-gem
+* https://help.github.com/articles/using-jekyll-with-pages/
