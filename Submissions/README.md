@@ -28,8 +28,8 @@ Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-20
 QCP | Quality Control Plan | 2016-01-29 |[PDF](/Submissions/src/VistAMetadata-2016-01-29-QCP.pdf)<br> [MD](/Submissions/VistAMetadata-QCP-20160129.md)| 1B 
 PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/src/VistAMetadata-2016-01-08-PMP.pdf) | 2 
 WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/src/VistAMetadata-2016-01-08-WBS.pdf)  |  2
-PMU | Program Schedule Monthly Update | 2016-01-29 | [PDF](/Submissions/src/VistAMetadata-2016-01-29-PMU.pdf) | 3
-Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [MD](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
+PMU | Monthly Program Updates | Monthly starting<br> 2016-01-11 | [PDF](/Submissions/src/VistAMetadata-2016-01-29-PMU.pdf) | 3
+Weekly | Weekly Progress Reports | Mondays starting starting <br>2016-01-11 | [MD](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
 
 
 
