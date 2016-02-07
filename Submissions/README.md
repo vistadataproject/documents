@@ -7,7 +7,8 @@ Document Name | Description | Date Signed | Format / Link
 IAA-Attach | Interagency Agreement - Attachment|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Attachment.pdf)
 IAA-GTC | Interagency Agreement - General Terms|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-GTC.pdf)
 IAA-Order | Interagency Agreement - Order Requirements|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Order_Reqs.pdf)
-PWS | Product Work Statement|  2015-12-09 | [PDF](/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf)<br>[Markdown](/Submissions/src/VistAMetadata-2015-12-09-PWS.md)
+PWS | Product Work Statement|  2015-12-09 | [PDF](/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf)<br>[Markdown](/Submissions/src/VistAMetadata-2015-12-09-PWS.md)<br>[HTML](/Submissions/src/VistAMetadata-2015-12-09-PWS-html.md)
+
 
 
 ### Program Management
