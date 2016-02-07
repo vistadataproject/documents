@@ -13,8 +13,7 @@
 ### Convert HTML documents to Markdown
 * https://markable.in/
 
-### Github Pages
-* https://github.com/github/pages-gem
-* https://help.github.com/articles/using-jekyll-with-pages/
+### Convert ANYTHING to Markdown
+* http://pandoc.org/
 
 
