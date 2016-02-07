@@ -22,14 +22,14 @@ PWS | Product Work Statement|  2015-12-09 | [PDF](/Submissions/src/VistAMetadata
 ### Program Management
 These are enumerated and described in more detail in the Program Management [deliverables table](https://github.com/vistadataproject/documents#program-management).
 
-Document Name | Description | Date Submitted | Format / Link | Deliverable #
+Document/Wiki | Description | Date Submitted | Format / Link | Deliverable #
 :--- | :--- | :--- | :---:| :---:
 Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-2016-01-07-Kickoff.pdf)  | 1
 QCP | Quality Control Plan | 2016-01-29 |[PDF](/Submissions/src/VistAMetadata-2016-01-29-QCP.pdf)<br> [MD](/Submissions/VistAMetadata-QCP-20160129.md)| 1B 
 PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/src/VistAMetadata-2016-01-08-PMP.pdf) | 2 
 WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/src/VistAMetadata-2016-01-08-WBS.pdf)  |  2
-PMU | Monthly Program Updates | Monthly starting<br> 2016-01-11 | [PDF](/Submissions/src/VistAMetadata-2016-01-29-PMU.pdf) | 3
-Weekly | Weekly Progress Reports | Mondays starting starting <br>2016-01-11 | [MD](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
+Monthly | Monthly Program Updates | Monthly starting<br> 2016-01-11 | [PDF](/Submissions/src/VistAMetadata-2016-01-29-PMU.pdf) | 3
+Weekly | Weekly Progress Reports | Mondays starting<br>2016-01-11 | [MD](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
 
 
 
