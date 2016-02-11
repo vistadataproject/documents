@@ -1,7 +1,7 @@
 ## VA Software Development Project Management 
 
-VA recently moved from PMAS to Veteran-focused Integration Process (VIP) to reduce the documentation and reporting burden on VA contracted development. This proposal is outlined [here](https://github.com/vistadataproject/documents/blob/master/artifacts/va-vip/VIP_Intro_2015-01-18.md). The original slide deck is 
-[here](https://github.com/vistadataproject/documents/blob/master/artifacts/va-vip/VIP_Intro_2015-01-18.pdf) or
+VA recently moved from PMAS to Veteran-focused Integration Process (VIP) to reduce the documentation and reporting burden on VA contracted development. This proposal is outlined online  [here](https://github.com/vistadataproject/documents/blob/master/artifacts/va-vip/VIP_Intro_2015-01-18.md). A PDF version is 
+[here](https://github.com/vistadataproject/documents/blob/master/artifacts/va-vip/VIP_Intro_2015-01-18.pdf).
 
 
 Note that VIP's technical strategy for software development involves Sharepoint and IBM Clearcase.  Sharepoint is a VA-specific special repository for artifacts and documents.  IBM's Clearcase is a proprietary software management system.  Both of these 'technical solutions' preclude any form of real-time collaboration with developers.
