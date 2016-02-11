@@ -3,9 +3,9 @@ Formal submissions by or to the government for contracting, administration and p
 
 Format | Detail
 --- | ---
-MD | Markdown. Industry standard for web-based real-time creation, collaboration, and version-control of documents and documentation. __Required format for all project documentation and progress reports.__
-HTML | Hypertext Markup Language.  A static, read-only web browser viewer format. <br>For legacy, static, historical documents only.
-PDF | Portable Document Format. A fixed, non-editable, non-web format. <br>For legacy, static, historical documents only.
+MD | *Markdown.* Industry standard for web-based real-time creation, collaboration, and version-control of documents and documentation. __Required format for all project documentation and progress reports.__
+HTML | *Hypertext Markup Language.*  A read-only web browser format. <br>For legacy, static, historical documents only.
+PDF | *Portable Document Format.* A non-editable, non-web document format. <br>For legacy, static, historical documents only.
 Date | YYYY-MM-DD
 For information on editing Markdown, and for converting legacy, static, non-web, non-collaborative documents (Word, Excel, CSV, PDF, or others) to Markdown, see [Introduction to Markdown](/intro_to_markdown.md) 
 
