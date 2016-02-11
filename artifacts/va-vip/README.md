@@ -1,7 +1,8 @@
 ## VA Software Development Project Management 
 
-VA recently moved from PMAS to VIP to allow software development to reduce the documentation and reporting burden by about 75%.
-However this does not modernize the code management, which is in IBM Clearcase.  Clearcase was new in 1992.  Today, virtually nobody uses it.  In 2015, virtually all large software organizations are using Github.
+VA recently moved from PMAS to VIP to allow software development to reduce the documentation and reporting burden on the development team. For a web readable version of the proposal, see:
+
+Note that VIP's  "technical strategy" for project management involves Sharepoint and IBM Clearcase.  Sharepoint is a VA-firewalled special repository, making it impossible to collaborate with external development partners. IBM's Clearcase was new in 1992.  Today, virtually nobody uses it.  In 2015, virtually all large software development and management organizations  (Google, Facebook, Yahoo, Linkedin,  Microsoft, etc.)  are using Github for all these functions to maximize agility and real-time development collaboration with a worldwide network of developers.
 
 ### Migration from Clearcase to Github
 * https://www.open.collab.net/media/pdfs/ClearCase-and-the-journey-to-Git.pdf
