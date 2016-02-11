@@ -4,9 +4,9 @@ VA recently moved from PMAS to Veteran-focused Integration Process (VIP) to redu
 [here](https://github.com/vistadataproject/documents/blob/master/artifacts/va-vip/VIP_Intro_2015-01-18.pdf).
 
 
-Note that VIP's technical strategy for software development involves Sharepoint and IBM Clearcase.  Sharepoint is a VA-specific special repository for artifacts and documents.  IBM's Clearcase is a proprietary software management system.  Both of these 'technical solutions' preclude any form of real-time collaboration with contracted, external developers (which is most of VA's development).
+Note that VIP's technical strategy for software development involves Sharepoint and IBM Clearcase.  Sharepoint is a VA-specific special repository for artifacts and documents.  IBM's Clearcase is a proprietary software management system.  Both of these 'technical solutions' preclude any form of real-time collaboration with contracted, external developers due to the proprietary nature and closed ecosystem that these technical approaches create.
 
-Clearcase was new and state-of-the-art in 1992.  However, 25 years later it is not.  Today virtually all large software development and management organizations  (Google, Facebook, Yahoo, Linkedin,  Microsoft, etc.)  are using Github for all these code and managment functions to maximize agility and real-time development collaboration with a worldwide network of developers.    It is time for VA to modernize its approach to software management, starting with getting on board with Github.
+Clearcase was new and state-of-the-art in 1992.  However, 25 years later it is not.  Today virtually all large software development and management organizations  (Google, Facebook, Yahoo, Linkedin,  Microsoft, etc.)  are using open-source collaboration tools for all these code and managment functions to maximize agility, accessibility, and real-time development collaboration with their worldwide network of developers.    It is time for VA to modernize its approach to software management, starting with its approach to collaboration tools. 
 
 ### Migration from Clearcase to Github
 * https://www.open.collab.net/media/pdfs/ClearCase-and-the-journey-to-Git.pdf
