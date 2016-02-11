@@ -1,0 +1,251 @@
+﻿VIP Release Process Training
+
+
+
+
+Veteran-focused Integration Process (VIP)
+
+
+
+
+
+
+VIP is the new, lean process for work delivery in OI&T.
+VIP is supported by:
+•	A single portal for project requests – VIP Request (VIPR)
+•	A single, simplified Release Process – VIP Release Process
+•	A single, authoritative, unified Calendar POLARIS (Planning and On-Line
+Activity/Release Integration Scheduler)
+• Tools that support the functions, above:
+• Intake for IT projects (via VIPR, initially a Microsoft SharePoint-based application)
+• Calendar (initially, a Microsoft SharePoint- based application)
+• Time-tracking for all OI&T resources (via Oracle Primavera Progress Reporter)
+• Enterprise Portfolio Management (via IBM Rational Collaborative Application
+Lifecycle Management (CALM) Project/Product Data Repository)
+
+
+VIP employs the Agile Project Management Methodology.
+•	Requestors express requirements in Epics, Sub-epics, and User Stories.
+•	Requestors submit Epics and User Stories to initiate VIP via VIP Request
+(VIPR).
+•	The Portfolio Manager, Product Owner, and Receiving Organization determine if the request becomes a project at Critical Decision #1.
+•	If the project is approved at CD#1, the VIP Release Process begins.
+•	Build/Development work is done in 2-week Sprints for no more than a total
+of 3 months.
+•	Project Team has Daily Scrums to provide quick status and plan updates.
+•	Project Team has Sprint Planning, Backlog Grooming, and Sprint Review
+Ceremonies throughout the Build/Development cycle.
+VIP Workflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+Critical Decision #1
+Project Release
+Critical Decision #2
+Product  Release
+
+
+
+
+Initiation
+Product Start I
+Build Start 	Release
+
+
+
+
+
+
+
+
+
+
+PROJECT PHASE 	PRODUCT  PHASE 	SUSTAINMENT
+
+
+•	Epics required
+– Business
+– Architecture/engineering
+– Security
+– Infrastructure/Support
+– Sustainment
+– Service /Operational Level Agreements (SLA/OLA)
+– IOC sites selected and MOUs in place
+– Others as required for the particular effort
+•	Other required artifacts
+– Project charter
+– Project Management Plan
+– Project Financial Plan
+
+
+During Contract Award and On-boarding, a Release Agent is assigned to
+monitor your release.
+•	The Project Team adds the planned Release to the Release Calendar.
+•	The Release Agent ensures that the Project Team has the complete list of
+product data deliverables.
+•	The Project Manager establishes a Product Account in the Rational Tool repositories, if one does not already exist. Contact  Rational@va.gov.
+•	The PM ensures that the Release Agent has access to the Product Account.
+•	The Project Team’s Configuration Manager and Testing Manager obtain training in the use of the Rational Tool repositories, if necessary. Contact Rational@va.gov.
+
+
+Throughout the Build/Development phase, the Release Agent monitors the data in the repositories.
+
+•	Throughout the Build/Development phase, the PM ensures that the Configuration manager and Testing Manager are managing necessary product data appropriately in the tool’s repositories.
+•	The Release Agent provides feedback to the Project Manager, the
+Configuration Manager, and the Testing Manager.
+•	The Release Agent collects certain metrics at the end of each Sprint.
+•	Near the end of the Build/Development phase, the Release Agent provides the status of the product data to the three decision-makers: the Portfolio Manager, the Product Owner, and the Receiving Organization.
+•	At CD#2, the three decision-makers determine if the Release Candidate can be released into production.*
+*IOC evaluation or full release, if no IOC evaluation is included
+
+
+IOC evaluation or full production installation occurs.
+•	During IOC or full production deployment, product changes are updated in repositories.
+– Significant issues or severe defects that necessitate changes to requirements are reported to the decision-makers, who determine if product will be backed out or deployed nationally.
+– If backed out, Release Candidate returns to appropriate step in the VIP Process.
+•	If national deployment is successful, 90-day Product Warranty begins.
+– The Product Warranty covers everything stated in the requirements.
+– Transfer of knowledge and transition of product into sustainment occurs.
+•	At the end of Product Warranty, transfer of ownership occurs and is recorded in the tool.
+
+
+Configuration Manager records “as-built” data in the Rational Tool.
+Release Agent evaluates release metrics.
+Subsequent releases, defect repairs, upgrades, and all other production releases to
+the product go through the VIP Release Process.
+
+
+As-Is Release Processes
+To-Be Release Process
+10+ Review Groups and Processes
+1 Review Group
+50+ Steps
+4 Steps
+30+ Categories of Data
+6 Categories of Data
+Data Duplicated across Artifacts
+Data Element Entered Once, Updated as Necessary, Used Multiple Times, as Needed
+Late-stage Review
+Continuous Feedback throughout
+Development
+Multiple Email Messages and Reports concerning Status
+Approval and Product Ownership
+Recorded in the Tool
+Questions?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OFFICE OF INFORMATION AND  TECHNOLOGY 	11
+
+
+•	Other required artifacts
+– Project charter
+– Project Management Plan
+– Project Financial Plan
+
+
+•	Agile process
+•	Epics required
+– Business
+– Architecture/engineering
+– Security
+– Infrastructure/Support
+– Sustainment
+– Service /Operational Level Agreements (SLA/OLA)
+– IOC site
+•	Other required artifacts
+– Project charter
+– Project Management Plan
+– Project Financial Plan
+
+
+Will request become a project?
+
+
+
+Decision Makers:
+– Portfolio Manager
+– Product Owner
+– Receiving Organization
+
+
+•	On CD#1 approval
+– Contracts awarded, team formed
+– Configuration Manager trained in Rational Tools
+– Release Agent assigned
+– Project Manager ensure access to repository
+
+
+•	CD#2 review
+– Product Team build data placed in repository
+– Release Agent monitors reviews, provides feedback on build
+– Release Agent reviews, reports on status of build data to Decision Makers*
+– Decision Makers determine if build acceptable for production release
+•	Once approved, no changes allowed to requirements
+– If approved, build moves to Release Preparation and Execution
+
+
+•	If IOC
+– Track changes, monitor significance
+– Deal with any issues
+
+
+•	Contact VA ESE Release Office  vaESEreleaseoffice@va.gov .
+
+
+
+
+•	Attend any optional recurring Friday 1PM training session. Contact
+vaESEreleaseoffice@va.gov and ask to be invited to the
+recurring optional ERF training.
