@@ -22,9 +22,9 @@ __Where?__
 
 __How?__
 
-Represent, analyze, and automate all metadata using modern, machine-processable, web-centric, web-scale linked data standards, including the following:. 
+Represent, analyze, and automate all sources of metadata (both internal to VISTA as well as external) using modern, machine-processable, web-centric, web-scale linked data standards, including the following:. 
 
-[Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)
+__[Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__
 * RDF
 * JSON
 * JSON-LD
@@ -33,7 +33,7 @@ Represent, analyze, and automate all metadata using modern, machine-processable,
 * JS 5
 * CSS 3
 
-[Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
+__[Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)__
 * Javascript
 * Node.js
 * NPM
