@@ -24,7 +24,9 @@ __Where?__
 
 __How?__
 
-All sources of available metadata (both intrinsic to VISTA as well as extrinsic, such as RPCs) will be transformed, enriched, and then operationalized in an embedded, in-process web-standard data model within Node.js / VISTA  (nodeVISTA).  Exclusively modern, web-centric, data-atomic, machine-processable web data standards and technologies shall be used.
+All sources of available metadata (both intrinsic to VISTA as well as extrinsic, such as RPCs) will be transformed, enriched, and then operationalized in an embedded, in-process web-standard data model within Node.js / VISTA  (nodeVISTA).  
+
+Exclusively web data standards and technologies shall be used:
 
 
 __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)__
