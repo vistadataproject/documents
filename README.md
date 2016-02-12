@@ -1,9 +1,10 @@
 # VISTA Data Project
 
 
-*Interagency Research and Discovery* <br>
+__Meta-Data driven Secure Read Write Master Data Model for VA VISTA__ <br>
 
-#### Meta-Data driven Secure Read Write Master Data Model for VA VISTA
+*Interagency Research and Discovery* 
+
 
 
 
