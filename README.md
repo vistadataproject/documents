@@ -2,7 +2,7 @@
 
 
 __Metadata-driven Symmetric Read-Write Data Model for VA VISTA__ <br>
-*A Prototype Project*
+*An Interagency Research and Prototype*
 
 
 
