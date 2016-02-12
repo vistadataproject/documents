@@ -22,7 +22,7 @@ __Where?__
 
 __How?__
 
-Transform, analyze, and operationalize all sources of metadata (both internal to VISTA as well as external) using exclusively modern, data-atomic,  machine-processable,  web-scale, linked data web standards and technologies, including the following:
+Transform, analyze, and operationalize all sources of available metadata (both intrinsic to VISTA as well as extrinsic) using exclusively modern, web-centric, web-scale, data-atomic, machine-processable data standards and technologies, including:
 
 __[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__
 * RDF
@@ -44,24 +44,22 @@ __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/B
 * Github
 
 
-Note:
-
-* This is a data-centric approach to VISTA data, not a code-centric approach. 
-* This is a generic web-standards approach to managing VA data, not a VISTA-specific approach.
-* The scope is limited to a one-year research and discovery proof-of-concept.
-* The prototype will be implemented exclusively using web technologies (above).
-
-
 What this project is not:
 
 * Product Development
 * MUMPS development
 * VISTA package enhancement
+
+
+Note:
+
+* This is a data-centric approach to VISTA data, not a code-centric approach. 
+* This is a generic W3C web-standards approach to managing VA data, not a VA- or VISTA-specific approach.
+* The scope is limited to a one-year research and discovery proof-of-concept.
+* The prototype will be implemented exclusively using web technologies (above).
 * __No existing VISTA routines, packages, or modules will be changed or affected in any way (i.e.'non-invasive')__
 
 
-
-More details are available on the project's website, [vistadataproject.info](http://vistadataproject.info/).
 
 ## Tracks
 
