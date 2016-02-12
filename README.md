@@ -47,16 +47,16 @@ __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/B
 Note:
 
 * This is a data-centric approach to VISTA data, not a code-centric approach. 
-* The prototype will be implemented exclusively using web technologies (above).
 * The scope is limited to a one-year research and discovery proof-of-concept.
+* The prototype will be implemented exclusively using web technologies (above).
+* __No VISTA routines, packages, or modules will be changed or affected (i.e.'non-invasive')__
 
 
 What this project is not:
 
 * Product Development
 * MUMPS development
-* VISTA package development or enhancement
-* __No VISTA routines, packages, or modules will be changed or affected (i.e.'non-invasive')__
+* Existing VISTA package enhancement
 
 
 More details are available on the project's website, [vistadataproject.info](http://vistadataproject.info/).
