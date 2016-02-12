@@ -8,7 +8,7 @@ __Secure Read-Write Master Data Model for VA VISTA__
 
 
 
-## Components
+## Overview
 
 ![VDP Components Overview](/images/vdp-overview.png)
 
