@@ -22,7 +22,16 @@ __Where?__
 
 __How?__
 
-Represent, analyze, and automate all metadata using modern, machine-processable, web-centric, web-scale linked data technology. 
+Represent, analyze, and automate all metadata using modern, machine-processable, web-centric, web-scale linked data standards, including the following:. 
+
+[Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)
+* RDF
+* JSON
+* JSON-LD
+* ISO-M
+* HTML 5
+* JS 5
+* CSS 3
 
 [Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 * Javascript
@@ -33,15 +42,6 @@ Represent, analyze, and automate all metadata using modern, machine-processable,
 * Webstorm
 * Vagrant
 * Github
-
-[Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)
-* RDF
-* JSON
-* JSON-LD
-* ISO-M
-* HTML 5
-* JS 5
-* CSS 3
 
 
 
