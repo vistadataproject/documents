@@ -49,14 +49,15 @@ Note:
 * This is a data-centric approach to VISTA data, not a code-centric approach. 
 * The scope is limited to a one-year research and discovery proof-of-concept.
 * The prototype will be implemented exclusively using web technologies (above).
-* __No VISTA routines, packages, or modules will be changed or affected (i.e.'non-invasive')__
 
 
 What this project is not:
 
 * Product Development
 * MUMPS development
-* Existing VISTA package enhancement
+* VISTA package enhancement
+* __No existing VISTA routines, packages, or modules will be changed or affected in any way (i.e.'non-invasive')__
+
 
 
 More details are available on the project's website, [vistadataproject.info](http://vistadataproject.info/).
