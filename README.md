@@ -29,8 +29,8 @@ The Project organizes deliverables in five “tracks” each backed by one or mo
 Track | Name | Description | Git | Technical Deliverables
 :---: | :---: | :--- | :--- | :---:
 A | Infrastructure | Project infrastructure including Test VISTA (“nodeVISTA”), gits, tooling, website | [nodeVISTA](https://github.com/vistadataproject/nodeVISTA), [Website](https://github.com/vistadataproject/vistadataproject.github.io), [documents](https://github.com/vistadataproject/documents) | 3
-B | VDM | VISTA Data Model (VDM) - native model exposure and package implementation for any specific VISTA | [VDM](https://github.com/vistadataproject/VDM) | 12
-C | MVDM | Master VISTA Data Model (MVDM) - definition and implementation of master data model spanning all VISTA instances | [MVDM](https://github.com/vistadataproject/MVDM) | 9
+B | VDM | VISTA Data Model (VDM) - Comprehensive, native model exposure and package implementation for any specific VISTA | [VDM](https://github.com/vistadataproject/VDM) | 12
+C | MVDM | Master VISTA Data Model (MVDM) - Definition and implementation of master data model spanning all VISTA instances | [MVDM](https://github.com/vistadataproject/MVDM) | 9
 D | MVDMmap | Mapping MVDM to other models such as FHIR | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | 3
 PM | Project Management | Business/Project Management  | [documents](https://github.com/vistadataproject/documents) | &nbsp;
 
