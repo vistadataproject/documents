@@ -1,5 +1,7 @@
 # VISTA Data Project
-__Metadata-driven Symmetric Read-Write Data Model for VA VISTA__ <br>
+
+
+##Metadata-driven Symmetric Read-Write Data Model for VA VISTA
 *Research, Discovery, and Prototyype*
 
 
@@ -22,7 +24,7 @@ __Where?__
 
 __How?__
 
-All sources of available metadata (both intrinsic to VISTA as well as extrinsic) will be transformed, enriched, and then operationalized in an embedded, in-process  data model within nodeVISTA.  Exclusively modern, web-centric, web-scale, data-atomic, machine-processable data standards and technologies shall be used.
+All sources of available metadata (both intrinsic to VISTA as well as extrinsic, such as RPCs) will be transformed, enriched, and then operationalized in an embedded, in-process web-standard data model within Node.js / VISTA  (nodeVISTA).  Exclusively modern, web-centric, data-atomic, machine-processable web data standards and technologies shall be used.
 
 
 __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)__
