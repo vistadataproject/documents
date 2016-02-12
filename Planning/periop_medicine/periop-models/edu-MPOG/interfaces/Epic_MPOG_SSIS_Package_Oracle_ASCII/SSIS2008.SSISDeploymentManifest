@@ -1,1 +1,0 @@
-<?xml version="1.0"?><DTSDeploymentManifest GeneratedBy="UMHS\gkbell" GeneratedFromProjectName="SSIS2008" GeneratedDate="2015-01-30T13:56:45.4713395-05:00" AllowConfigurationChanges="true"><Package>ClarityToMpogTransfer.dtsx</Package><ConfigurationFile>ClarityToMpogTransfer.dtsConfig</ConfigurationFile></DTSDeploymentManifest>
