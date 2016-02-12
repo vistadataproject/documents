@@ -47,6 +47,7 @@ __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/B
 Note:
 
 * This is a data-centric approach to VISTA data, not a code-centric approach. 
+* This is a generic web-standards approach to managing VA data, not a VISTA-specific approach.
 * The scope is limited to a one-year research and discovery proof-of-concept.
 * The prototype will be implemented exclusively using web technologies (above).
 
