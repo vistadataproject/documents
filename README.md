@@ -8,7 +8,7 @@ __Metadata-driven Symmetric Read-Write Data Model for VA VISTA__ <br>
 
 ## Overview
 
-![VDP Components Overview](/images/vdp-overview.png)
+![VDP Components Overview](/images/vdp-overview2.png)
 
 
 ## Objective and Method of Delivery
