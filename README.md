@@ -1,7 +1,7 @@
 # VISTA Data Project
 
 
-##Metadata-driven Symmetric Read-Write Data Model for VA VISTA
+### Metadata-driven Symmetric Read-Write Data Model for VA VISTA
 *Research, Discovery, and Prototyype*
 
 
@@ -57,8 +57,8 @@ __What this project is:__
 
 * A one-year research and discovery proof-of-concept.
 * A data-centric approach to VISTA data (not a code-centric approach).
-* A web-standards approach to exposing and managing data (not a  VA or VISTA-specific approach).
-* The prototype will be implemented exclusively with Javascript and web technologies (not legacy MUMPS).
+* A web-standards approach to exposing and managing data (not a VA or VISTA-specific approach).
+* The prototype will be implemented exclusively with Javascript and web technologies (not MUMPS).
 
 
 __What this project is not:__
