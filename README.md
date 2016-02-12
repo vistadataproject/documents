@@ -1,7 +1,7 @@
 # VISTA Data Project
 
 
-### Meta-Data driven Secure Read Write Master Data Model for VA VISTA
+#### Meta-Data driven Secure Read Write Master Data Model for VA VISTA
 
 
 *Interagency Research and Discovery*
