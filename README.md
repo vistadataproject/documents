@@ -44,6 +44,16 @@ __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/B
 * Github
 
 
+Summary:
+
+* This is a data-centric approach to VISTA data, not a code-centric approach.  
+* The prototype will be implemented exclusively using Javascript, not MUMPS.
+
+What this project is not:
+
+* Product Development
+* MUMPS
+
 
 More details are available on the project's website, [vistadataproject.info](http://vistadataproject.info/).
 
