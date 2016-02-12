@@ -1,25 +1,40 @@
 ## Formal submissions to the Government
+Formal submissions by or to the government for contracting, administration and program management.  
 
-Formal submissions to the government for administration and program management.<br>
-These are enumerated in the Program Management [deliverables table](https://github.com/vistadataproject/documents#program-management).
+Format | Detail
+--- | ---
+MD | *Markdown.* Industry standard for web-based real-time creation, collaboration, and version-control of documents and documentation. __Required format for all project documentation and progress reports.__
+HTML | *Hypertext Markup Language.*  A read-only web browser format. <br>For legacy, static, historical documents only.
+PDF | *Portable Document Format.* A non-editable, non-web document format. <br>For legacy, static, historical documents only.
+Date | YYYY-MM-DD
+For information on editing Markdown, and for converting legacy, static, non-web, non-collaborative documents (Word, Excel, CSV, PDF, or others) to Markdown, see [Introduction to Markdown](/intro_to_markdown.md) 
+
+### Contract Documentation
+Document Name | Description | Date Signed | Format / Link
+:--- | :--- | :--- | :---:
+IAA-Attach | Interagency Agreement - Attachment|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Attachment.pdf)
+IAA-GTC | Interagency Agreement - General Terms|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-GTC.pdf)
+IAA-Order | Interagency Agreement - Order Requirements|  2015-08-15 | [PDF](/Submissions/src/VistAMetadata-2015-08-15-IAA-Order_Reqs.pdf)
+PWS | Product Work Statement|  2015-12-09 | [PDF](/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf)<br>[HTML](/Submissions/src/VistAMetadata-2015-12-09-PWS-html.md)<br>[MD](/Submissions/src/VistAMetadata-2015-12-09-PWS.md)
 
 
-\# | Document Name | Description | Date Submitted | Format | Deliverable #
-:---: | :--- | :--- | :--- | :---:| :---:
-1. | PWS | Product Work Statement|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-PWS-2015-12-09.pdf)  | NA
-2. | Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-Kickoff-2016-01-07.pdf)  | 1
-3. | PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/src/VistAMetadata-PMP-2016-01-08.pdf) | 2 
-4. | WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/src/VistAMetadata-WBS-2016-01-08.pdf)  |  2
-5. | QCP | Quality Control Plan | 2016-01-29 |[Markdown](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.md), [PDF](/Submissions/VistAMetadata-Quality_Control_Plan-20160129.pdf) | 1B 
-6. | PMU | Program Schedule Monthly Update | 2016-01-29 | [PDF](/Submissions/ProgramScheduleMonthlyUpdate-3January.pdf) | 3
-7. | Weekly | Weekly Progress Reports | Each Monday starting <br>2016-01-11 | [Markdown](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | 
-Date format:  YYYY-MM-DD.
+
+### Program Management Documentation
+These are enumerated and described in more detail in the Program Management [deliverables table](https://github.com/vistadataproject/documents#program-management).
+
+Document/Wiki | Description | Date Submitted | Format / Link | Deliverable #
+:--- | :--- | :--- | :---:| :---:
+Kickoff | Kickoff meeting|  2016-01-07 | [PDF](/Submissions/src/VistAMetadata-2016-01-07-Kickoff.pdf)  | 1
+QCP | Quality Control Plan | 2016-01-29 |[PDF](/Submissions/src/VistAMetadata-2016-01-29-QCP.pdf)| 1B 
+PMP | Program Management Plan | 2016-01-08 |[PDF](/Submissions/src/VistAMetadata-2016-01-08-PMP.pdf) | 2 
+WBS | Work Breakdown/Gantt |  2016-01-08 | [PDF](/Submissions/src/VistAMetadata-2016-01-08-WBS.pdf)  |  2
+Monthly | Monthly Program Updates | Monthly starting<br> 2016-01-11 | [MD](https://github.com/vistadataproject/documents/wiki/Monthly-Program-Update) | 3
+Weekly | Weekly Progress Reports | Mondays starting<br>2016-01-11 | [MD](https://github.com/vistadataproject/documents/wiki/Weekly-Status-Summaries) | NA
 
 
 
-
-## Technical Deliverables (Real-time Dashboards)
-Technical deliverables are updated continuously in real-time in in all project tracks and repositories.  A real-time dashboard of the progress, updates, commits, and changes to all code, data, metadata, and documents of all key deliverables are below.
+## Technical Deliverables
+Technical deliverables are updated continuously in real-time for all project tracks. Visual dashboards of the most current state on all code, data, metadata, documents, and deliverables are listed below.
 
 
 Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
