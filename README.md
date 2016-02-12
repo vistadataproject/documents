@@ -48,8 +48,8 @@ __What this project is:__
 
 * A one-year research and discovery proof-of-concept.
 * A data-centric approach to VISTA data, not a code-centric approach. 
-* A web-standards approach to managing data, not a VA- or VISTA-unique approach.
-* The prototype will be implemented exclusively using web technologies (above).
+* A web-standards approach to exposing and managing data, not a VISTA-specific approach.
+* The prototype will be implemented exclusively using web technologies (above), not legacy MUMPS.
 
 
 __What this project is not:__
