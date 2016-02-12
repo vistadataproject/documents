@@ -20,6 +20,31 @@ __Where?__
 
 >__All artifacts and deliverables__ shall be developed, version-controlled, stored, and delivered on an industry-standard __public Github__ repository (“Project Repository”). ... The Project Repository shall contain the one and only authoritative version of all artifacts produced ... The government, all necessary stakeholders, and the __public__ shall have full read and download access of all artifacts on the Project Repository at all times --- PWS 1.6.15.1
 
+__How?__
+
+Represent, analyze, and automate all metadata using modern, machine-processable, web-centric, web-scale linked data technology. 
+
+[Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
+* Javascript
+* Node.js
+* NPM
+* Express.js
+* D3.js
+* Webstorm
+* Vagrant
+* Github
+
+[Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)
+* RDF
+* JSON
+* JSON-LD
+* ISO-M
+* HTML 5
+* JS 5
+* CSS 3
+
+
+
 More details are available on the project's website, [vistadataproject.info](http://vistadataproject.info/).
 
 ## Tracks
