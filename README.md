@@ -24,24 +24,34 @@ __How?__
 
 All sources of available metadata (both intrinsic to VISTA as well as extrinsic) will be transformed, enriched, and then operationalized in an embedded, in-process  data model within nodeVISTA.  Exclusively modern, web-centric, web-scale, data-atomic, machine-processable data standards and technologies shall be used.
 
-__[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__
-* RDF
-* JSON
-* JSON-LD
-* ISO-M
-* HTML 5
-* JS 5
-* CSS 3
+
+### Web Technologies
 
 __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)__
-* Javascript
-* Node.js
-* NPM
-* Express.js
-* D3.js
-* Webstorm
-* Vagrant
-* Github
+
+![](/images/logos-tech/square/60h/m-tech.fw.jpg)
+![](/images/logos-tech/square/60h/js5.jpg)
+![](/images/logos-tech/square/60h/node-js.jpg)
+![](/images/logos-tech/square/60h/npm.jpg)
+![](/images/logos-tech/square/60h/d3-js.jpg)
+![](/images/logos-tech/square/60h/webstorm.jpg)
+![](/images/logos-tech/square/60h/vagrant.jpg)
+![](/images/logos-tech/square/60h/python.jpg)
+![](/images/logos-tech/square/60h/git.jpg)
+![](/images/logos-tech/square/60h/github.jpg)
+
+### Web Standards
+__[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__
+
+![](/images/logos-tech/square/60h/html5.jpg)
+![](/images/logos-tech/square/60h/js5.jpg)
+![](/images/logos-tech/square/60h/css3.jpg)
+![](/images/logos-tech/square/60h/json.jpg)
+![](/images/logos-tech/square/60h/jsonld.jpg)
+![](/images/logos-tech/square/60h/rdf.jpg)
+![](/images/logos-tech/square/60h/markdown.jpg)
+![](/images/logos-tech/square/60h/CC.jpg)
+![](/images/logos-tech/square/60h/asf.jpg)
 
 
 __What this project is:__
