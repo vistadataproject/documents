@@ -6,7 +6,6 @@ __Metadata-driven Secure Read-Write Data Model for VA VISTA__ <br>
 
 
 
-
 ## Overview
 
 ![VDP Components Overview](/images/vdp-overview.png)
