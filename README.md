@@ -14,11 +14,11 @@ __Metadata-driven Symmetric Read-Write Data Model for VA VISTA__ <br>
 
 __What?__
 
- >__Provide a single comprehensive security-enabled read/write data model for all VA VISTA data  across VA VISTA operational systems__, establishing the technical foundation  for __master data management__  and computable data representation and __exchange between VA and DoD clinical information systems__. --- PWS 1.1
+ >__Provide a single comprehensive security-enabled read/write data model for all VA VISTA data  across VA VISTA operational systems__, establishing the technical foundation  for __master data management__  and computable data representation and __exchange between VA and DoD clinical information systems__. --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.1
 
 __Where?__
 
->__All artifacts and deliverables__ shall be developed, version-controlled, stored, and delivered on an industry-standard __public Github__ repository (“Project Repository”). ... The Project Repository shall contain the one and only authoritative version of all artifacts produced ... The government, all necessary stakeholders, and the __public__ shall have full read and download access of all artifacts on the Project Repository at all times --- PWS 1.6.15.1
+>__All artifacts and deliverables__ shall be developed, version-controlled, stored, and delivered on an industry-standard __public Github__ repository (“Project Repository”). ... The Project Repository shall contain the one and only authoritative version of all artifacts produced ... The government, all necessary stakeholders, and the __public__ shall have full read and download access of all artifacts on the Project Repository at all times --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.6.15.1
 
 __How?__
 
