@@ -1,9 +1,8 @@
 # VISTA Data Project
 
 
-__Secure Read-Write Master Data Management for VA VISTA__ 
-
-
+__Metadata-driven Secure Read-Write Master Data Model for VA VISTA__ <br>
+*A Research and Prototype Project*
 
 
 
