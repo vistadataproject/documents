@@ -3,7 +3,7 @@
 
 __Meta-Data driven Secure Read Write Master Data Model for VA VISTA__ <br>
 
-*Interagency Research and Discovery* 
+*A Federal Interagency Research and Discovery Program* 
 
 
 
