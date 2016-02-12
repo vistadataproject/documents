@@ -22,7 +22,7 @@ __Where?__
 
 __How?__
 
-Represent, analyze, and automate all sources of metadata (both internal to VISTA as well as external) using modern, open, machine-processable, web-centric, web-scale linked data standards, including the following:. 
+Represent, analyze, and automate all sources of metadata (both internal to VISTA as well as external) leveraging modern, open, machine-processable, web-centric, web-scale linked data standards, including the following:. 
 
 __[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__
 * RDF
