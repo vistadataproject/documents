@@ -22,7 +22,7 @@ __Where?__
 
 __How?__
 
-Transform, analyze, and operationalize all sources of available metadata (both intrinsic to VISTA as well as extrinsic) using exclusively modern, web-centric, web-scale, data-atomic, machine-processable data standards and technologies, including:
+All sources of available metadata (both intrinsic to VISTA as well as extrinsic) will be transformed, enriched, and then operationalized in an embedded, in-process  data model within nodeVISTA.  Exclusively modern, web-centric, web-scale, data-atomic, machine-processable data standards and technologies shall be used.
 
 __[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__
 * RDF
@@ -47,9 +47,9 @@ __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/B
 __What this project is:__
 
 * A one-year research and discovery proof-of-concept.
-* A data-centric approach to VISTA data, not a code-centric approach. 
-* A web-standards approach to exposing and managing data, not a VISTA-specific approach.
-* The prototype will be implemented exclusively Javascript and web technologies (above), not legacy MUMPS.
+* A data-centric approach to VISTA data (not a code-centric approach).
+* A web-standards approach to exposing and managing data (not a  VA or VISTA-specific approach).
+* The prototype will be implemented exclusively with Javascript and web technologies (not legacy MUMPS).
 
 
 __What this project is not:__
