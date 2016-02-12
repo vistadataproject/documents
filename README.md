@@ -22,7 +22,7 @@ __Where?__
 
 __How?__
 
-Transform, analyze, and operationalize all sources of metadata (both internal to VISTA as well as external) using exclusively modern, open, data-atomic,  machine-processable,  web-scale, linked data web standards and technologies, including the following:
+Transform, analyze, and operationalize all sources of metadata (both internal to VISTA as well as external) using exclusively modern, data-atomic,  machine-processable,  web-scale, linked data web standards and technologies, including the following:
 
 __[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__
 * RDF
