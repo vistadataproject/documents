@@ -3,7 +3,7 @@
 Meta-Data driven Secure Read Write Data Model for VA VISTA
 
 
-## Architecture/Components
+## Components
 
 ![VDP Components Overview](/images/vdp-overview.png)
 
