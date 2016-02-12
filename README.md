@@ -44,21 +44,20 @@ __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/B
 * Github
 
 
+__What this project is:__
+
+* A one-year research and discovery proof-of-concept.
+* A data-centric approach to VISTA data, not a code-centric approach. 
+* A web-standards approach to managing data, not a VA- or VISTA-unique approach.
+* The prototype will be implemented exclusively using web technologies (above).
+
+
 __What this project is not:__
 
 * Product Development
 * MUMPS development
-* Existing VISTA package enhancement
-
-
-__What this project is:__
-
-* This is a data-centric approach to VISTA data, not a code-centric approach. 
-* This is a web-standards approach to managing data, not a VA- or VISTA-unique approach.
-* The scope is limited to a one-year research and discovery proof-of-concept.
-* The prototype will be implemented exclusively using web technologies (above).
+* VISTA package enhancement
 * __No existing VISTA routines, packages, or modules will be changed or affected in any way (i.e.'non-invasive')__
-
 
 
 
