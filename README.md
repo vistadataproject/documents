@@ -1,7 +1,7 @@
 # VISTA Data Project
 
 
-__Security-enabled Read Write Master Data Management for VA VISTA__ 
+__Security-enabled Read-Write Master Data Management for VA VISTA__ 
 
 
 
