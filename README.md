@@ -1,7 +1,7 @@
 # VISTA Data Project
 
 
-__Metadata-driven Secure Read-Write Data Model for VA VISTA__ <br>
+__Metadata-driven Symmetric Read-Write Data Model for VA VISTA__ <br>
 *A Research and Prototype Project*
 
 
