@@ -4,12 +4,7 @@
 ### Metadata-driven Symmetric Read-Write Data Model for VA VISTA
 *Research, Discovery, and Prototyype*
 
-
-
-
-## Overview
-
-![VDP Components Overview](/images/vdp-overview2.png)
+![VDP Overview - Simple](/images/vdp-simple2.png)
 
 
 ## Objective and Method of Delivery
@@ -69,6 +64,11 @@ __What this project is not:__
 * MUMPS development
 * VISTA package enhancement
 * __No existing VISTA routines, packages, or modules will be changed or affected in any way (i.e.'non-invasive')__
+
+
+## Technical Overview
+
+![VDP Components Overview](/images/vdp-overview2.png)
 
 
 
