@@ -29,7 +29,7 @@ All sources of available metadata (both intrinsic to VISTA as well as extrinsic,
 Exclusively web data standards and technologies shall be used:
 
 
-__[Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)__
+[Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
 ![](/images/logos-tech/square/60h/m-tech.fw.jpg)
 ![](/images/logos-tech/square/60h/js5.jpg)
@@ -42,7 +42,7 @@ __[Web Technologies](https://github.com/vistadataproject/documents/tree/master/B
 ![](/images/logos-tech/square/60h/git.jpg)
 ![](/images/logos-tech/square/60h/github.jpg)
 
-__[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__
+[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)
 
 ![](/images/logos-tech/square/60h/html5.jpg)
 ![](/images/logos-tech/square/60h/js5.jpg)
