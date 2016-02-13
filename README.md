@@ -19,7 +19,7 @@ __Where?__
 
 __How?__
 
-All sources of available metadata and models (both internal to VISTA as well as external, such as RPCs) will be transformed to the web-standard Linked Data model, normalized and enriched,  and then operationalized as an embedded in-process master data model using Node.js / VISTA  (nodeVISTA). The following technologies will be used:
+All sources of available metadata (both internal to VISTA as well as external, such as RPCs) will be transformed to the web-standard data model (RDF), normalized and enriched,  and then operationalized as an embedded in-process read/write Master Data Model using Node.js / VISTA  (nodeVISTA).  There are no external dependencies, data stores, or moving parts involved with this architecture.  All components of this are created using web technologies and standards:
 
 [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
