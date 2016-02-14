@@ -19,7 +19,7 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata (both internal to VISTA as well as external) will be transformed to the web-standard data model (Linked Data)__, normalized and enriched,  and then ebedded back in VISTA as an __in-process read/write Master Data Model__ using Node.js / VISTA  (nodeVISTA).  This will accomplished using exclusively web technologies and web standards:
+>__All sources of available metadata (both internal to VISTA as well as external) will be transformed to the web-standard data model (Linked Data)__, normalized and enriched,  and then ebedded back in VISTA and operationalized a a real-time __in-process read/write Master Data Model__.  This will accomplished using exclusively web technologies and web standards:
 
 [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
