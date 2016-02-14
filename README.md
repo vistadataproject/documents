@@ -19,7 +19,7 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata (both internal to VISTA as well as external) will be transformed to the web-standard data model (Linked Data)__, normalized and enriched,  and then ebedded back in VISTA and operationalized a a real-time __in-process read/write Master Data Model__.  This will accomplished using exclusively web technologies and web standards:
+>__All sources of available metadata (both internal to VISTA as well as external) will be transformed to the web-standard Linked Data model__, normalized and enriched,  and then ebedded back in VISTA and operationalized as a __real-time in-process read/write Master Data Model__.  This will accomplished using exclusively web technologies and web standards:
 
 [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
@@ -48,14 +48,13 @@ __How?__
 
 __What this project is:__
 
-* A one-year research and discovery proof-of-concept.
+* A one-year research and discovery proof-of-concept (not product development)
 * A data-centric approach to VISTA data (not a code-centric approach).
-* A web-standards approach to exposing and managing data (not a VISTA-specific approach).
+* A universal web-standards approach to exposing and managing data and metadata (not a healthcare-is-special approach)
 
 __What this project is not:__
 
-* Existing VISTA package enhancement
-* __No existing VISTA routines, packages, or modules will be changed or affected in any way (i.e. this is 'non-invasive')__
+* __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is completely 'non-invasive')__.  However, any enhancements to VISTA package that involves improved data definitions will be automatically incorporated.  See Technical Overview for further detail.
 
 
 ## Technical Overview
