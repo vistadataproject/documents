@@ -19,11 +19,10 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata both internal to VISTA as well as external will be transformed to the web-standard data model (Linked Data)__, normalized and enriched,  and then operationalized by embedding this back in VISTA as an __in-process read/write Master Data Model__ using Node.js / VISTA  (nodeVISTA).  There are no external dependencies, data stores, or moving parts involved with this approach.  All components of this are created using web technologies and standards:
+>__All sources of available metadata (both internal to VISTA as well as external) will be transformed to the web-standard data model (Linked Data)__, normalized and enriched,  and then ebedded back in VISTA as an __in-process read/write Master Data Model__ using Node.js / VISTA  (nodeVISTA).  This will accomplished using exclusively web technologies and web standards:
 
 [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
-![](/images/logos-tech/square/60h/m-tech.fw.jpg)
 ![](/images/logos-tech/square/60h/js5.jpg)
 ![](/images/logos-tech/square/60h/node-js.jpg)
 ![](/images/logos-tech/square/60h/npm.jpg)
@@ -51,16 +50,12 @@ __What this project is:__
 
 * A one-year research and discovery proof-of-concept.
 * A data-centric approach to VISTA data (not a code-centric approach).
-* A web-standards approach to exposing and managing data (not a VA or VISTA-specific approach).
-* The prototype will be implemented exclusively with Javascript and web technologies (not MUMPS).
-
+* A web-standards approach to exposing and managing data (not a VISTA-specific approach).
 
 __What this project is not:__
 
-* Product Development
-* MUMPS development
-* VISTA package enhancement
-* __No existing VISTA routines, packages, or modules will be changed or affected in any way (i.e.'non-invasive')__
+* Existing VISTA package enhancement
+* __No existing VISTA routines, packages, or modules will be changed or affected in any way (i.e. this is 'non-invasive')__
 
 
 ## Technical Overview
