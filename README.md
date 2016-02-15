@@ -48,16 +48,13 @@ __How?__
 
 __VISTA Evolution__
 
-> __This provides key, new supplementary functionality on top of the current VISTA architecture 'as is'__.  Because it fully respects and leverages the core data architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, these will be automatically incorporated and leveraged in VISTA Data Model (VDM).  This is because the VDM will be maintained always in-sync with the internal VISTA Data Dictionary.  See Technical Overview for details on metadata processing.  __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
+> __This provides key, new supplementary functionality on top of the current unmodified VISTA architecture 'as is'__.  Because it fully respects and leverages the core data architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, these will be automatically incorporated and operationalized in the Master VISTA Data Model (MVDM) through real-time triggered updates to the model (See Technical Overview for details on metadata processing). __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 __Unique attributes of the Project:__
 
-* A __research and discovery proof-of-concept__. 
- * This is not product development.
-* A __data-centric approach to managing VISTA data__. 
- * This is not a code-centric approach.
-* A  __unified web-standards approach to exposing and managing data and metadata__. 
- * This is not a VA-, VISTA-, or healthcare-specific approach.
+* A __research and discovery proof-of-concept__. *This is not product development.*
+* A __data-centric approach to managing VISTA data__. *This is not a code-centric approach.*
+* A  __unified web-standards approach to exposing and managing data and metadata__. *This is not a VA-, VISTA-, or healthcare-specific approach.*
 
 
 ## Technical Overview
