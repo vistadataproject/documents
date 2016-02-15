@@ -54,9 +54,7 @@ __What this project is:__
 
 __What this project is not:__
 
-* __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. 'non-invasive'; purely supplementary functionality on top of existing data architecture)__.  However, any enhancements to any VISTA package or routine (Lab, Pharmacy, Fileman, etc.) which improves VISTA's data definitions *will be automatically reflected* in the VISTA Data Model due to the triggered, automated data dictionary extraction pipeline.
-
-* See Technical Overview for further detail.
+* __No existing VISTA code, routines, packages, modules, or infrastructure will be touched or affected (i.e. 'non-invasive')__ This represents __purely  supplementary functionality on top of existing data architecture__.  However, any enhancements to any VISTA package or routine (Lab, Pharmacy, Fileman, etc.) which improves VISTA's data definitions *will be automatically reflected* in the VISTA Data Model (VDM) and maintained always-up-to-date with the internal VISTA Data Dictionary.  This by designdue to the continuously triggered, automated conversion of the VISTA data dictionary (DD) to JSON-LD using the DDJLD extractor (DDJLD Maker).  See Technical Overview for further detail on the metadata processing.
 
 
 ## Technical Overview
