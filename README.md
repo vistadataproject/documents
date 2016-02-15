@@ -50,11 +50,13 @@ __What this project is:__
 
 * A one-year research and discovery proof-of-concept (not product development)
 * A data-centric approach to VISTA data (not a code-centric approach).
-* A universal web-standards approach to exposing and managing data and metadata (not a healthcare-is-special approach)
+* A  web-standards approach to exposing and managing data and metadata (not a healthcare-unique approach)
 
 __What this project is not:__
 
-* __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is completely 'non-invasive')__.  However, any enhancements to VISTA package that involves improved data definitions will be automatically incorporated.  See Technical Overview for further detail.
+* __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. 'non-invasive'; purely supplementary functionality on top of existing data architecture)__.  However, any enhancements to any VISTA package or routine (Lab, Pharmacy, Fileman, etc.) which improves VISTA's data definitions *will be automatically reflected* in the VISTA Data Model due to the triggered, automated data dictionary extraction pipeline.
+
+* See Technical Overview for further detail.
 
 
 ## Technical Overview
