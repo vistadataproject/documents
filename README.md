@@ -33,8 +33,8 @@ __How?__
 
 
 
->Key Attributes: This is..
-* A __research and discovery proof-of-concept__. *This is not product development.*
+__Key Attributes__
+>* A __research and discovery proof-of-concept__. *This is not product development.*
 * A __data-centric approach to managing VISTA data__. *This is not a code-centric approach.*
 * A  __unified web-standards approach to exposing and managing data and metadata__. *This is not a VA-, VISTA-, or healthcare-specific approach.*
 
