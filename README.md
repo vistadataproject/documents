@@ -48,12 +48,12 @@ __How?__
 
 __What this project is:__
 
-* A one-year research and discovery proof-of-concept (not product development)
-* A data-centric approach to VISTA data (not a code-centric approach).
-* A  web-standards approach to exposing and managing data and metadata (not a healthcare-unique approach)
-* This represents __purely supplementary functionality on top of existing data architecture__.  However, this will automatically incorporate any and all enhancements to any of the 176 VISTA packages or routines and any enhancements to data defintions to all data in VISTA.  This is because the VISTA Data Model (VDM) will be maintained always-in-sync with the internal VISTA Data Dictionary.  This by designdue to the continuously triggered, automated conversion of the VISTA data dictionary (DD) to JSON-LD using the DDJLD extractor (DDJLD Maker).  See Technical Overview for further detail on the metadata processing.
+* A one-year __research and discovery proof-of-concept__ (not product development)
+* A __data-centric approach to managing VISTA data__ (not a code-centric approach).
+* A  __web-standards approach to exposing and managing data and metadata__ (not a VISTA- or healthcare-specific approach)
+* __Purely supplementary functionality on top of existing VISTA architecture that leverages VISTA it 'as is'__.  For example, this will automatically incorporate any and all enhancements to any of the 176 VISTA packages or routines if they are modified.  This is because the VISTA Data Model (VDM) will be maintained always in sync with the internal VISTA Data Dictionary.  This because of the triggered, automated conversion of the VISTA data dictionary (DD) to JSON-LD using the DDJLD extractor (DDJLD Maker).  See Technical Overview for further detail on the metadata processing.
 
-__What this project is not:__
+__Caveat:__
 
 * __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected (i.e. 'non-invasive')__ 
 
