@@ -17,7 +17,7 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata__ (both __internal__ to VISTA as well as __external__) will be transformed to a __web-standard data model__, normalized, annotated, and enriched, and then ebedded back in VISTA and __operationalized as a real-time, in-process read/write Master Data Model__.  
+>__All sources of available metadata__ (both __internal to VISTA as well as external__) will be transformed to a __web-standard data model__, normalized, annotated, enriched and then ebedded back in VISTA and __operationalized as a real-time, in-process read/write Master Data Model__.  
 
 >This will accomplished using exclusively [web standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
