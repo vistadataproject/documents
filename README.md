@@ -20,11 +20,8 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata (both internal to VISTA as well as external) will be transformed to a single common web-standard data model__, normalized, enriched, and annotated,  and then ebedded back in VISTA and operationalized as a __real-time in-process read/write Master Data Model__.  This will accomplished using exclusively web technologies and web standards:
-
-[Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
-
-![](/images/logos-tech/square/60h/node-js.jpg)
+>__All sources of available metadata (both internal to VISTA as well as external) will be transformed to a single common web-standard data model__, normalized, enriched, and annotated,  and then ebedded back in VISTA and operationalized as a __real-time in-process read/write Master Data Model__.  This will accomplished using exclusively [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
+> ![](/images/logos-tech/square/60h/node-js.jpg)
 ![](/images/logos-tech/square/60h/npm.jpg)
 ![](/images/logos-tech/square/60h/d3-js.jpg)
 ![](/images/logos-tech/square/60h/webstorm.jpg)
@@ -33,9 +30,9 @@ __How?__
 ![](/images/logos-tech/square/60h/git.jpg)
 ![](/images/logos-tech/square/60h/github.jpg)
 
-[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)
+>[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)
 
-![](/images/logos-tech/square/60h/html5.jpg)
+>![](/images/logos-tech/square/60h/html5.jpg)
 ![](/images/logos-tech/square/60h/js5.jpg)
 ![](/images/logos-tech/square/60h/css3.jpg)
 ![](/images/logos-tech/square/60h/json.jpg)
