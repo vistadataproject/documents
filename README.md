@@ -1,12 +1,9 @@
 # VISTA Data Project
 
-
 ### Secure Symmetric Read-Write Master Data Model for VA VISTA
 *Research, Discovery, and Prototyype*
 
 ![VDP Overview - Simple](/images/vdp-simple3.png)
-
-
 
 ## Objective and Method of Delivery
 
@@ -20,16 +17,7 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata (both internal to VISTA as well as external) will be transformed to a single common web-standard data model__, normalized, enriched, and annotated,  and then ebedded back in VISTA and operationalized as a __real-time in-process read/write Master Data Model__.  This will accomplished using exclusively [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) and [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
-
-> ![](/images/logos-tech/square/60h/node-js.jpg)
-![](/images/logos-tech/square/60h/npm.jpg)
-![](/images/logos-tech/square/60h/d3-js.jpg)
-![](/images/logos-tech/square/60h/webstorm.jpg)
-![](/images/logos-tech/square/60h/vagrant.jpg)
-![](/images/logos-tech/square/60h/python.jpg)
-![](/images/logos-tech/square/60h/git.jpg)
-![](/images/logos-tech/square/60h/github.jpg)
+>__All sources of available metadata (both internal to VISTA as well as external) will be transformed to a unified, web-standard data model__, normalized, enriched, and annotated,  and then ebedded back in VISTA and operationalized as a __real-time, in-process read/write Master Data Model__.  This will accomplished using exclusively [web standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
 >![](/images/logos-tech/square/60h/html5.jpg)
 ![](/images/logos-tech/square/60h/js5.jpg)
@@ -41,16 +29,26 @@ __How?__
 ![](/images/logos-tech/square/60h/CC.jpg)
 ![](/images/logos-tech/square/60h/asf.jpg)
 
+> ![](/images/logos-tech/square/60h/node-js.jpg)
+![](/images/logos-tech/square/60h/npm.jpg)
+![](/images/logos-tech/square/60h/d3-js.jpg)
+![](/images/logos-tech/square/60h/webstorm.jpg)
+![](/images/logos-tech/square/60h/vagrant.jpg)
+![](/images/logos-tech/square/60h/python.jpg)
+![](/images/logos-tech/square/60h/git.jpg)
+![](/images/logos-tech/square/60h/github.jpg)
 
-__VISTA Evolution__
 
-> __This provides key, new supplementary functionality on top of the current unmodified VISTA architecture 'as is'__.  Because it fully respects and leverages the core data architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, these will be automatically incorporated and operationalized in the Master VISTA Data Model (MVDM) through real-time triggered updates to the model (See Technical Overview for details on metadata processing). __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
-
-__Unique attributes of the Project:__
+__Key Attributes__
 
 * A __research and discovery proof-of-concept__. *This is not product development.*
 * A __data-centric approach to managing VISTA data__. *This is not a code-centric approach.*
 * A  __unified web-standards approach to exposing and managing data and metadata__. *This is not a VA-, VISTA-, or healthcare-specific approach.*
+
+
+__Evolving VISTA__
+
+> __This provides key, new supplementary functionality on top of the current unmodified VISTA architecture 'as is'__.  Because it fully respects and leverages the data-driven architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, these will be automatically and fully incorporated and operationalized in the Master VISTA Data Model (MVDM) through triggered updates to the model (See Technical Overview for details on metadata processing). __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 
 ## Technical Overview
