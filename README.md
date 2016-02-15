@@ -51,8 +51,7 @@ __Unique attributes of the Project:__
 * A __research and discovery proof-of-concept__. It is not product development.
 * A __data-centric approach to managing VISTA data__. It is not a code-centric approach.
 * A  __web-standards approach to exposing and managing data and metadata__. It not a VISTA- or healthcare-specific approach.
-* __Purely supplementary functionality on top of the current VISTA architecture, unmodified, 'as is'__.  However, if VISTA is modified, this will automatically incorporate any and all data enhancements to any of the 176 VISTA packages.  This is because the VISTA Data Model (VDM) will be maintained always in sync with the internal VISTA Data Dictionary (DD) through a triggered, automated conversion of the DD to JSON-LD.  See Technical Overview for details on metadata processing.
-* And conversely:  __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
+* __Purely supplementary functionality on top of the current VISTA architecture, unmodified, 'as is'__.  However, if VISTA is modified, this will automatically incorporate any and all data enhancements to any of the 176 VISTA packages.  This is because the VISTA Data Model (VDM) will be maintained always in sync with the internal VISTA Data Dictionary (DD) through a triggered, automated conversion of the DD to JSON-LD.  See Technical Overview for details on metadata processing.  __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 
 ## Technical Overview
