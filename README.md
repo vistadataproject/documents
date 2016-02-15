@@ -17,7 +17,9 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata (both internal to VISTA as well as external__) will be transformed to an __single integrated web-standard data model__; normalized, annotated, and enriched, and finally ebedded and __operationalized in VISTA as a real-time, in-process read/write Master Data Model__.  All components of this will be built on strictly [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (Javascript, Node.js, Markdown, and Github, etc.).
+>__All sources of available metadata (both internal to VISTA as well as external__) will be transformed to an __single integrated web-standard data model__; normalized, annotated, and enriched, and finally ebedded and __operationalized in VISTA as a real-time, in-process read/write Master Data Model__.  
+
+>All components of this will be built on strictly [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (Javascript, Node.js, Markdown, and Github, etc.).
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
 ![](/images/logos-tech/square/60h/rdf.jpg)
@@ -38,7 +40,7 @@ __Key Attributes__
 * A  __unified web-standards approach to exposing and managing data and metadata__. *This is not a VA-, VISTA-, or healthcare-specific approach.*
 
 
-__Evolving VISTA, Comprehensively...__
+## Evolving VISTA, Comprehensively...
 
 >This provides essential __new functionality on top of the entire unmodified VISTA architecture 'as is'__.  Because this leverages the entire existing data-driven architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, all of these changes will be comprehensively reflected and operationalized in the VISTA Data Model (VDM) through triggered updates to the model. __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
