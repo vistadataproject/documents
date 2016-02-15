@@ -26,7 +26,6 @@ __How?__
 ![](/images/logos-tech/square/60h/js5.jpg)
 ![](/images/logos-tech/square/60h/html5.jpg)
 ![](/images/logos-tech/square/60h/css3.jpg)
-![](/images/logos-tech/square/60h/d3-js.jpg)
 ![](/images/logos-tech/square/60h/CC.jpg)
 ![](/images/logos-tech/square/60h/asf.jpg)
 ![](/images/logos-tech/square/60h/vagrant.jpg)
