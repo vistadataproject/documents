@@ -7,6 +7,7 @@
 ![VDP Overview - Simple](/images/vdp-simple3.png)
 
 
+
 ## Objective and Method of Delivery
 
 __What?__
