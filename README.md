@@ -17,7 +17,7 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata__ (both __internal__ to VISTA as well as __external__) will be transformed to a __unified, web-standard data model__, normalized, annotated, enriched, and then ebedded back in VISTA and __operationalized as a real-time, in-process read/write Master Data Model__.  This will accomplished using exclusively [web standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
+>__All sources of available metadata__ (both __internal__ to VISTA as well as __external__) will be transformed to a __ web-standard data model__, normalized, annotated, and enriched, and then ebedded back in VISTA and __operationalized as a real-time, in-process read/write Master Data Model__.  This will accomplished using exclusively [web standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
 ![](/images/logos-tech/square/60h/rdf.jpg)
@@ -44,7 +44,7 @@ __Key Attributes__
 
 __Evolving VISTA__
 
-> __This provides key, new supplementary functionality on top of the current unmodified VISTA architecture 'as is'__.  Because it fully respects and leverages the data-driven architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, these will be automatically and fully incorporated and operationalized in the Master VISTA Data Model (MVDM) through triggered updates to the model. __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
+> __This provides essential new supplementary functionality on top of the current unmodified VISTA architecture 'as is'__.  Because it fully leverages the existing data-driven architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, these will be automatically and fully incorporated and operationalized in the Master VISTA Data Model (MVDM) through triggered updates to the model. __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 
 ## Technical Overview
