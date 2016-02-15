@@ -17,7 +17,7 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata (both internal to VISTA as well as external__) will be transformed to an __single integrated web-standard data model__, normalized, annotated, enriched; and then ebedded in VISTA and __operationalized as a real-time, in-process read/write Master Data Model__.   This will accomplished using exclusively [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (including RDF, JSON, JSON-LD) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (including Javascript, Node.js, Markdown, and Github).
+>__All sources of available metadata (both internal to VISTA as well as external__) will be transformed to an __single integrated web-standard data model__, and then normalized, annotated, and enriched. This will be ebedded and __operationalized in VISTA as a real-time, in-process read/write Master Data Model__.   This will accomplished exclusively using [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, Linked Data, JSON-LD) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (including Javascript, Node.js, Markdown, and Github).
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
 ![](/images/logos-tech/square/60h/rdf.jpg)
