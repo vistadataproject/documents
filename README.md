@@ -23,7 +23,6 @@ __How?__
 
 [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
-![](/images/logos-tech/square/60h/js5.jpg)
 ![](/images/logos-tech/square/60h/node-js.jpg)
 ![](/images/logos-tech/square/60h/npm.jpg)
 ![](/images/logos-tech/square/60h/d3-js.jpg)
