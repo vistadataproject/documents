@@ -17,7 +17,19 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata__ (both __internal to VISTA as well as external__) will be transformed to an __integrated web-standard data model__, normalized, annotated, enriched; and then ebedded in VISTA and __operationalized as a real-time, in-process read/write Master Data Model__.   This will accomplished using exclusively [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (Javascript, Node.js, Markdown, Github).
+>__All sources of available metadata__ (both __internal to VISTA as well as external__) will be transformed to an __integrated web-standard data model__, normalized, annotated, enriched; and then ebedded in VISTA and __operationalized as a real-time, in-process read/write Master Data Model__.   This will accomplished using exclusively [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (including RDF, JSON, JSON-LD) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (including Javascript, Node.js, Markdown, Vagrant, and Github).
+
+>![](/images/logos-tech/square/60h/jsonld.jpg)
+![](/images/logos-tech/square/60h/rdf.jpg)
+![](/images/logos-tech/square/60h/markdown.jpg)
+![](/images/logos-tech/square/60h/node-js.jpg)
+![](/images/logos-tech/square/60h/js5.jpg)
+![](/images/logos-tech/square/60h/html5.jpg)
+![](/images/logos-tech/square/60h/css3.jpg)
+![](/images/logos-tech/square/60h/CC.jpg)
+![](/images/logos-tech/square/60h/asf.jpg)
+![](/images/logos-tech/square/60h/vagrant.jpg)
+![](/images/logos-tech/square/60h/github.jpg)
 
 
 __Key Attributes__
@@ -28,7 +40,7 @@ __Key Attributes__
 
 __Evolving VISTA, Comprehensively...__
 
->This provides essential __new functionality on top of the current, unmodified VISTA architecture 'as is'__.  Because this fully leverages the existing data-driven architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, these will be automatically and fully incorporated and operationalized in the Master VISTA Data Model (MVDM) through triggered updates to the model. __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
+>This provides essential __new functionality on top of the entire unmodified VISTA architecture 'as is'__.  Because this leverages the entire existing data-driven architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, all of these changes will be comprehensively reflected and operationalized in the VISTA Data Model (VDM) through triggered updates to the model. __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 
 ## Technical Overview
