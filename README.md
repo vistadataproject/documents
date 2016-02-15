@@ -39,7 +39,7 @@ __How?__
 ![](/images/logos-tech/square/60h/github.jpg)
 
 
->__Key Attributes__
+__Key Attributes__
 
 >* A __research and discovery proof-of-concept__. *This is not product development.*
 * A __data-centric approach to managing VISTA data__. *This is not a code-centric approach.*
