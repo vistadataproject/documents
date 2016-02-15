@@ -46,16 +46,13 @@ __How?__
 ![](/images/logos-tech/square/60h/asf.jpg)
 
 
-__What this project is:__
+__Unique attributes of the Project:__
 
-* A one-year __research and discovery proof-of-concept__ (not product development)
-* A __data-centric approach to managing VISTA data__ (not a code-centric approach).
-* A  __web-standards approach to exposing and managing data and metadata__ (not a VISTA- or healthcare-specific approach)
-* __Purely supplementary functionality on top of existing VISTA architecture that leverages VISTA it 'as is'__.  For example, this will automatically incorporate any and all enhancements to any of the 176 VISTA packages or routines if they are modified.  This is because the VISTA Data Model (VDM) will be maintained always in sync with the internal VISTA Data Dictionary.  This because of the triggered, automated conversion of the VISTA data dictionary (DD) to JSON-LD using the DDJLD extractor (DDJLD Maker).  See Technical Overview for further detail on the metadata processing.
-
-__Caveat:__
-
-* __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected (i.e. 'non-invasive')__ 
+* A one-year __research and discovery proof-of-concept__. It is not product development.
+* A __data-centric approach to managing VISTA data__. It is not a code-centric approach.
+* A  __web-standards approach to exposing and managing data and metadata__. It not a VISTA- or healthcare-specific approach.
+* __Purely supplementary functionality on top of existing VISTA architecture that leverages VISTA it 'as is'__.  For example, this will automatically incorporate any and all data enhancements to any of the 176 VISTA packages if they are modified.  This is because the VISTA Data Model (VDM) will be maintained always in sync with the internal VISTA Data Dictionary through a triggered, automated conversion of the VISTA data dictionary (DD) to JSON-LD and the metadata processinb pipelines.  See Technical Overview for details on metadata processing.
+* And finally:  __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 
 ## Technical Overview
