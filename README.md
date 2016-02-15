@@ -32,16 +32,16 @@ __How?__
 ![](/images/logos-tech/square/60h/github.jpg)
 
 
-__Evolving VISTA__
-
-> __This provides essential new supplementary functionality on top of the current unmodified VISTA architecture 'as is'__.  Because it fully leverages the existing data-driven architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, these will be automatically and fully incorporated and operationalized in the Master VISTA Data Model (MVDM) through triggered updates to the model. __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
-
-
 __Key Attributes__
 
 >* A __research and discovery proof-of-concept__. *This is not product development.*
 * A __data-centric approach to managing VISTA data__. *This is not a code-centric approach.*
 * A  __unified web-standards approach to exposing and managing data and metadata__. *This is not a VA-, VISTA-, or healthcare-specific approach.*
+
+
+### Evolving VISTA
+
+> __This provides essential new supplementary functionality on top of the current unmodified VISTA architecture 'as is'__.  Because it fully leverages the existing data-driven architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, these will be automatically and fully incorporated and operationalized in the Master VISTA Data Model (MVDM) through triggered updates to the model. __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 
 ## Technical Overview
