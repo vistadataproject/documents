@@ -36,7 +36,8 @@ __Key Features__
 >* A __research and discovery proof-of-concept.__ 
 * A __data-centric approach__ to managing VISTA data (*not a code-centric approach*).
 * A  __unified web-standards approach__ to exposing and managing data models and metadata (*not a VISTA-specific approach*).
-* A _holistic approach__ to enhancing VISTA because it upgrades data access for all 180 VISTA applications.
+* A __holistic approach__ to enhancing VISTA because it upgrades data access for all 180 VISTA applications.
+
 
 ## Evolving VISTA, Holistically
 
