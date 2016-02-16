@@ -9,7 +9,7 @@
 
 __What?__
 
- >__Provide a single comprehensive security-enabled read/write data model for all VA VISTA data  across VA VISTA operational systems__, establishing the technical foundation  for __master data management__  and computable data representation and __exchange between VA and DoD clinical information systems__. --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.1
+ >__Provide a comprehensive security-enabled read/write data model for all VA VISTA data  across VA VISTA operational systems__, establishing the technical foundation  for __master data management__  and computable data representation and __exchange between VA and DoD clinical information systems__. --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.1
 
 __Where?__
 
@@ -17,7 +17,11 @@ __Where?__
 
 __How?__
 
->__All sources of available metadata__ (both __internal to VISTA as well as external__) will be __transformed to a single integrated web-standard data model__ which is then __annotated, normalized, and enriched__. This is in turn embedded back in VISTA as a Javascript/Node-based, server-side, security-enabled __real-time, in-process read/write Master Data Model__.   All components of this will are built on strictly [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON, JSON-LD, Markdown) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (Javascript, Node.js, D3.js, Github).
+>__All sources of available metadata__ (both __internal to VISTA as well as external__) will be __transformed to a single integrated web-standard data model__ which is then __annotated, normalized, and enriched__. This enhanced model is in turn is __embedded back in VISTA as a server-side, security-enabled, in-process, transactional read/write Master Data Model__.   
+
+>__This provides essential new functionality on top of the  VISTA architecture 'as is'__.  Because this respects and leverages the data-driven architecture of the 'as-is' VISTA, if any data definitions in any of the nearly 180 VISTA applications are modified, any and all changes will be automatically reflected and operationalized in the VISTA Data Model through triggered updates to the model (see Technical Overview for metadata processing details). __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
+
+>All components of this will are built on strictly  [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON, JSON-LD, Markdown) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (Javascript, Node.js, D3.js, Github).
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
 ![](/images/logos-tech/square/60h/rdf.jpg)
@@ -33,14 +37,11 @@ __How?__
 
 
 __Key Attributes__
->* A __research and discovery proof-of-concept__. *This is not product development.*
-* A __data-centric approach to managing VISTA data__. *This is not a code-centric approach.*
-* A  __unified web-standards approach to exposing and managing data and metadata__. *This is not a VA-, VISTA-, or healthcare-specific approach.*
+>* A __research and discovery proof-of-concept.__ 
+* A __data-centric approach__ to managing VISTA data.  (*not a code-centric approach*).
+* A  __unified web-standards approach__ to exposing and managing master data and metadata. (*not a VA- or VISTA-specific approach.*)
 
 
-## Evolving VISTA, Holistically...
-
->__This provides essential new functionality on top of the  VISTA architecture 'as is'__.  Because this respects and leverages the data-driven architecture of VISTA, if any data definitions in any of the 176 VISTA applications are modified, any and all changes will be automatically reflected and operationalized in the VISTA Data Model (VDM) through triggered updates to the model (see Technical Overview for details). __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 
 ## Technical Overview
