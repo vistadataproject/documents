@@ -19,7 +19,7 @@ __How?__
 
 >__All sources of available metadata__ (both __internal to VISTA as well as external__) will be __transformed to a single integrated web-standard data model__ which is then __annotated, normalized, and enriched__. This enhanced model is in turn is __embedded back in VISTA as a server-side, security-enabled, in-process, transactional read/write Master Data Model__.   
 
->__All components will are built on strictly world wide [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__ (RDF, JSON-LD) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (Javascript, Node.js, Github,...)
+>__All components will are built on strictly world wide [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__ and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) including the following:
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
 ![](/images/logos-tech/square/60h/rdf.jpg)
@@ -36,11 +36,11 @@ __How?__
 
 __Project Attributes__
 
->* A __research and discovery proof-of-concept.__ *(not waterfall product development)* 
+>* A __research and discovery prototype.__ *(not a waterfall-developed product)* 
 * A __data-centric approach__ to managing VISTA data (*not a code-centric approach*).
-* A  __unified web-standards approach__ to exposing and managing data models and metadata (*not a VISTA-specific approach*).
+* A  __unified web-standards approach__ to exposing and managing data models and metadata (*not a VA- or VISTA-specific approach*).
 * A __holistic approach__ to enhancing VISTA because it upgrades data management for all VISTA applications. Because MVDM respects and leverages the data-driven architecture of VISTA, any and all data definition changes in any of the 180 VISTA applications will be automatically reflected and operationalized within the VISTA Data Model through triggered updates to the model.
-* A __noninvasive approach__. The Master VISTA Data Model provides __essential new functionality on top of the unmodified VISTA architecture 'as is'.__ No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
+* A __noninvasive approach__. The Master VISTA Data Model provides __essential new functionality__ on top of the __unmodified VISTA architecture 'as is'.__ No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 
 
 
