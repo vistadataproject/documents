@@ -23,8 +23,8 @@ __Where?__
 __Essential Attributes__
 
 >* __Research and discovery__ approach.Rapid iterative prototyping is used, rather than waterfall development.
-* __Data-centric__ approach to managing VISTA data using Master Data Management best practices (*rather than a code-centric approach*).
-* __Holistic__approach to enhancing VISTA because this leverages the entire existing data-driven architecture of VISTA. All data definitions or changes to data definitions of all of the the 180 VISTA applications will be automatically incorporated and operationalized within the VISTA Data Model through triggered updates to the model.
+* __Data-centric__ approach to managing VISTA data  (*rather than code-centric approach*).
+* __Comprehensive__approach to enhancing VISTA data management because this leverages the entire existing data-driven architecture of VISTA. All data definitions or changes to data definitions of all of the the 180 VISTA applications will be automatically incorporated and operationalized within the VISTA Data Model through triggered updates to the model.
 * __Noninvasive__ approach. The Master VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 *  __Web standards__ approach to exposing and managing data models and metadata using World Wide Web Consortium (W3C) [Linked Data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) including:
 
