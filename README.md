@@ -19,7 +19,7 @@ __How?__
 
 >__All sources of available metadata__ (both __internal to VISTA as well as external__) will be __transformed to a single integrated web-standard data model__ which is then __annotated, normalized, and enriched__. This enhanced model is in turn is __embedded back in VISTA as a server-side, security-enabled, in-process, transactional read/write Master Data Model__.   
 
->All components will are built on strictly world wide [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (i.e. RDF) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies):
+>All components will are built on strictly world wide [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (i.e. RDF) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (i.e. Node.js, Javascript, Github)
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
 ![](/images/logos-tech/square/60h/rdf.jpg)
