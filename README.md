@@ -19,8 +19,6 @@ __How?__
 
 >__All sources of available metadata__ (both __internal to VISTA as well as external__) will be __transformed to a single integrated web-standard data model__ which is then __annotated, normalized, and enriched__. This enhanced model is in turn is __embedded back in VISTA as a server-side, security-enabled, in-process, transactional read/write Master Data Model__.   
 
->__The Master VISTA Data Model (MVDM) provides essential new functionality on top of the unmodified VISTA architecture 'as is'__.  Because MVDM respects and leverages the data-driven architecture of VISTA, any and all data definitions changes in any of the nearly 180 VISTA applications will be immediately reflected and operationalized within the VISTA Data Model through automatic triggered updates to the model.  __No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'non-invasive' and 'safe')__ 
-
 >__All components will are built on strictly world wide [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)__ (RDF, JSON-LD) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (Javascript, Node.js, Github,...)
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
@@ -37,7 +35,10 @@ __How?__
 
 
 __Features__
->* A __research and discovery proof-of-concept.__ 
+
+>__The Master VISTA Data Model (MVDM) provides essential new functionality on top of the unmodified VISTA architecture 'as is'__.  Because MVDM respects and leverages the data-driven architecture of VISTA, any and all data definitions changes in any of the nearly 180 VISTA applications will be immediately reflected and operationalized within the VISTA Data Model through automatic triggered updates to the model.  __No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'non-invasive' and 'safe')__ .  Other key features include:
+
+>* A __research and discovery proof-of-concept approach.__ *(not waterfall product development)* 
 * A __data-centric approach__ to managing VISTA data (*not a code-centric approach*).
 * A  __unified web-standards approach__ to exposing and managing data models and metadata (*not a VISTA-specific approach*).
 * A __holistic approach__ to enhancing VISTA because it upgrades data management for all VISTA applications.
