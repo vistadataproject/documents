@@ -23,10 +23,10 @@ __Where?__
 __Project Attributes__
 
 >* __Research and discovery prototype.__ *(not waterfall development)* 
-* __Data-centric__ approach to managing VISTA data (*not code-centric approach*).
-* __Holistic__ approach to enhancing VISTA because it leverages the entire existing data-driven architecture of VISTA. __All data definitions or changes to data definitions of all of the the 180 VISTA applications will be automatically incorporated__ and operationalized within the VISTA Data Model through triggered updates to the model.
-* __Noninvasive__ approach. The Master VISTA Data Model provides __essential new functionality on top of the unmodified VISTA architecture 'as is'.__ No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
-*  __Web standards__ approach to exposing and managing data models and metadata using World Wide Web Consortium (W3C) [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) including:
+* __Data-centric approach__ to managing VISTA data (*not code-centric approach*).
+* __Holistic approach__ to enhancing VISTA because it leverages the entire existing data-driven architecture of VISTA. All data definitions or changes to data definitions of all of the the 180 VISTA applications will be automatically incorporated and operationalized within the VISTA Data Model through triggered updates to the model.
+* __Noninvasive approach__. The Master VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
+*  __Web standards approach__ to exposing and managing data models and metadata using World Wide Web Consortium (W3C) [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) including:
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
 ![](/images/logos-tech/square/60h/rdf.jpg)
