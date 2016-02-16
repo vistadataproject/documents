@@ -19,8 +19,6 @@ __How?__
 
 >__All sources of available metadata__ (both __internal to VISTA as well as external__) will be __transformed to a single integrated web-standard data model__ which is then __annotated, normalized, and enriched__. This enhanced model is in turn is __embedded back in VISTA as a server-side, security-enabled, in-process, transactional read/write Master Data Model__.   
 
->__This provides essential new functionality on top of the  VISTA architecture 'as is'__.  Because this respects and leverages the data-driven architecture of the 'as-is' VISTA, if any data definitions in any of the nearly 180 VISTA applications are modified, any and all changes will be automatically reflected and operationalized in the VISTA Data Model through triggered updates to the model (see Technical Overview for metadata processing details). __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
-
 >All components of this will are built on strictly  [web data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON, JSON-LD, Markdown) and [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) (Javascript, Node.js, D3.js, Github).
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
@@ -36,10 +34,15 @@ __How?__
 ![](/images/logos-tech/square/60h/github.jpg)
 
 
-__Key Attributes__
+__Key Features__
 >* A __research and discovery proof-of-concept.__ 
-* A __data-centric approach__ to managing VISTA data.  (*not a code-centric approach*).
-* A  __unified web-standards approach__ to exposing and managing master data and metadata. (*not a VA- or VISTA-specific approach.*)
+* A __data-centric approach__ to managing VISTA data (*not a code-centric approach*).
+* A  __unified web-standards approach__ to exposing and managing data models and metadata (*not a VISTA-specific approach*).
+* A _holistic approach__ to enhancing VISTA because it upgrades data access for all 180 VISTA applications.
+
+__Evolving VISTA, Holistically__
+
+>__This provides essential new functionality on top of the  VISTA architecture 'as is'__.  Because this respects and leverages the data-driven architecture of the 'as-is' VISTA, if any data definitions in any of the nearly 180 VISTA applications are modified, any and all changes will be automatically reflected and operationalized in the VISTA Data Model through triggered updates to the model. __No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 
 
