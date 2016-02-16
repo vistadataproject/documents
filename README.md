@@ -22,10 +22,10 @@ __Where?__
 
 ## Unique Project Attributes
 
->* __Research and discovery__. Rapid iterative prototyping is used, rather than waterfall development.
-* __Data-centric / Model-centric__ approach to managing VISTA data  (*rather than a code-centric approach*).
-* __Comprehensive__ approach to enhancing VISTA data management. The VISTA Data Model leverages the entire existing data-driven architecture of VISTA. All data definitions or changes to data definitions of all of the the 180 VISTA applications will be automatically incorporated and operationalized within the VISTA Data Model through triggered updates to the model.
-* __Noninvasive__ approach. The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
+>* __Research and discovery__. Rapid iterative prototyping is used (*not waterfall development*).
+* __Data-centric / Model-centric__ approach to managing VISTA data  (*not code-centric approach*).
+* __Comprehensive__ approach to enhancing VISTA data management capability.  The VISTA Data Model comprises the entire current existing data-driven architecture of VISTA. All data definitions of all of the the 180 VISTA applications will be automatically incorporated and operationalized, and maintained always-up-to-date within the VISTA Data Model through direct triggered updates to the model from all authoritative VISTA systems.
+* __Noninvasive__ approach. The VISTA Data Model provides essential new functionality __on top of the unmodified VISTA architecture 'as is'__. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 *  __Web standards__ approach to exposing and managing data models and metadata using World Wide Web Consortium (W3C) [Linked Data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD) and related [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) including:
 
 >![](/images/logos-tech/square/60h/jsonld.jpg)
