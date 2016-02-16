@@ -136,11 +136,11 @@ NodeVISTA
 * https://github.com/robtweed/node-mdb
 
 
+VISTA Installation
 
+* VISTA installation using vagrant (Screencast):  https://www.youtube.com/watch?v=eogchJncTlc
+* VISTA on GTM Windows (cygwin):  https://www.youtube.com/watch?v=WU2kYDWQmc0
 
-<a href="http://www.w3.org/html/logo/">
-<img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-graphics-semantics.png" width="197" height="64" alt="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics" title="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics">
-</a>
 
 
 
@@ -160,3 +160,6 @@ NodeVISTA
 * https://creativecommons.org/about/downloads/
 
 
+<a href="http://www.w3.org/html/logo/">
+<img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-graphics-semantics.png" width="197" height="64" alt="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics" title="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics">
+</a>
