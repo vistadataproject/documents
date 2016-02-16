@@ -38,7 +38,7 @@ __Project Attributes__
 
 >* __Research and discovery prototype.__ *(not a waterfall development project)* 
 * __Data-centric__ approach to managing VISTA data (*not a code-centric approach*).
-*  __Web data standards__ approach to exposing and managing data models and metadata using RDF/Linked Data (*not a VA- or VISTA-specific approach*).
+*  __Web data standards__ approach to exposing and managing data models and metadata using W3C Linked Data (*not a VA- or VISTA-specific approach*).
 * __Comprehensive__ approach to enhancing VISTA because it leverages the entire existing data-driven architecture of VISTA. __All data definitions or changes to data definitions of all of the the 180 VISTA applications will be automatically incorporated__ and operationalized within the VISTA Data Model through triggered updates to the model.
 * __Noninvasive__ approach. The Master VISTA Data Model provides __essential new functionality__ on top of the __unmodified VISTA architecture 'as is'.__ No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 
