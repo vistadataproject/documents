@@ -40,9 +40,9 @@ __Key Attributes__
 * A  __unified web-standards approach to exposing and managing data and metadata__. *This is not a VA-, VISTA-, or healthcare-specific approach.*
 
 
-## Evolving VISTA, Comprehensively...
+## Evolving VISTA, Holistically...
 
->This provides essential __new functionality on top of the entire unmodified VISTA architecture 'as is'__.  Because this leverages the entire existing data-driven architecture of VISTA, if any data definitions in any the 176 modules in VISTA are modified, all of these changes will be comprehensively reflected and operationalized in the VISTA Data Model (VDM) through triggered updates to the model. __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
+>__This provides essential new functionality on top of the  VISTA architecture 'as is'__.  Because this respects and leverages the data-driven architecture of VISTA, if any data definitions in any of the 176 VISTA applications are modified, any and all changes will be automatically reflected and operationalized in the VISTA Data Model (VDM) through triggered updates to the model (see Technical Overview for details). __No existing VISTA code, routines, packages, modules, or infrastructure will be changed or affected in any way (i.e. this is 'non-invasive' and 'safe')__ 
 
 
 ## Technical Overview
