@@ -36,7 +36,7 @@ __How?__
 
 __Project Attributes__
 
->* A __research and discovery prototype.__ *(not a waterfall-developed product)* 
+>* A __research and discovery prototype.__ *(not a waterfall development project)* 
 * A __data-centric approach__ to managing VISTA data (*not a code-centric approach*).
 * A  __unified web-standards approach__ to exposing and managing data models and metadata (*not a VA- or VISTA-specific approach*).
 * A __comprehensive approach__ to enhancing VISTA because it leverages the entire data-driven architecture of VISTA. __All data definitions or changes to data definitions of all of the the 180 VISTA applications will be automatically reflected__ and operationalized within the VISTA Data Model through triggered updates to the model.
