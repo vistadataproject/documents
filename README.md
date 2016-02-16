@@ -36,7 +36,7 @@ __How?__
 
 __Features__
 
->__The Master VISTA Data Model (MVDM) provides essential new functionality on top of the unmodified VISTA architecture 'as is'__.  Because MVDM respects and leverages the data-driven architecture of VISTA, any and all data definitions changes in any of the nearly 180 VISTA applications will be immediately reflected and operationalized within the VISTA Data Model through automatic triggered updates to the model.  __No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'non-invasive' and 'safe')__ .  Other key features include:
+>__The Master VISTA Data Model (MVDM) provides essential new functionality on top of the unmodified VISTA architecture 'as is'__.  Because MVDM respects and leverages the data-driven architecture of VISTA, any and all data definition changes in any of the 180 VISTA applications will be automatically reflected and operationalized within the VISTA Data Model through triggered updates to the model (see Technical Overview for details). __No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'non-invasive' and 'safe')__. Other features include:
 
 >* A __research and discovery proof-of-concept approach.__ *(not waterfall product development)* 
 * A __data-centric approach__ to managing VISTA data (*not a code-centric approach*).
