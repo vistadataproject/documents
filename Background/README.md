@@ -114,33 +114,28 @@ Apache Software Foundation        | 	| https://en.wikipedia.org/wiki/Apache_Lice
 
 ### Links
 
-VISTA
-
+####VISTA
 * https://en.wikipedia.org/wiki/VistA
 * https://en.wikipedia.org/wiki/WorldVistA
 * http://www.hardhats.org/index.html
 * http://nist.gov/healthcare/upload/NIST-Siegel-PART-1.pdf
 * http://worldvista.org/
 
-Fileman
-
+#### Fileman
 * https://en.wikipedia.org/wiki/FileMan
 * http://www.hardhats.org/fileman/FMmain.html
 * http://munnecke.com/blog/?cat=120
 
-NodeVISTA
-
+#### NodeVISTA
 * [Intersystems](https://www.google.com/search?q=intersystems+cache+node.js+VISTA&espv=2&biw=1025&bih=666&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiLtN7gmqjKAhUELaYKHaoODKAQ_AUICCgD&dpr=1.25#imgrc=_)
 * https://robtweed.wordpress.com/2014/07/24/vista-evolution-whats-wrong-with-this-picture
 * https://github.com/dlwicksell/nodem
 * https://github.com/robtweed/node-mdb
 
 
-
-
-<a href="http://www.w3.org/html/logo/">
-<img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-graphics-semantics.png" width="197" height="64" alt="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics" title="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics">
-</a>
+#### VISTA Installation
+* VISTA installation using vagrant (Screencast):  https://www.youtube.com/watch?v=eogchJncTlc
+* VISTA on GTM Windows (cygwin):  https://www.youtube.com/watch?v=WU2kYDWQmc0
 
 
 
@@ -160,3 +155,6 @@ NodeVISTA
 * https://creativecommons.org/about/downloads/
 
 
+<a href="http://www.w3.org/html/logo/">
+<img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-graphics-semantics.png" width="197" height="64" alt="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics" title="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics">
+</a>
