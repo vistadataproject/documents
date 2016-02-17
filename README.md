@@ -51,6 +51,16 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 ![](/images/logos-tech/square/50h/asf.jpg)  
 
 
+## Assumptions
+
+* By virtue of VA's eHMP being coded in Javascript and node.js, the VA has decided that node.js is legitimate for production projects
+ * the backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA
+* By virtue of VA's very large 2015 contract for node.js, the VA has decided that co-resident MUMPs and node.js enabled Javascript is productive and practical
+* By virtue of inclusion in all official releases for many years, Intersystems views in-process node.js coding with MUMPS as both practical and maintainable
+* Javascript is the most popular coding language in the world
+* node.js adoption continues to grow for mainstream production projects, including eBay, etc.
+* Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
+
 
 ## Features
 
@@ -62,16 +72,6 @@ __Representative__  | Exposes, leverages, and enhances all relevant, representat
 __Noninvasive__ | The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 __Web-Standard <br>Data Model__  | Exposes VISTA data models and metadata using the World Wide Web Consortium (W3C) [Web Data Model](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD).
 
-
-## Assumptions
-
-* By virtue of eHMP being largely coded in Javascript and node.js, the VA has decided that node.js is legitimate for production projects
- * the backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA
-* By virtue of VA's very large 2015 contract for node.js, the VA has decided that co-resident MUMPs and node.js enabled Javascript is productive and practical
-* By virtue of inclusion in all official releases for many years, Intersystems views in-process node.js coding with MUMPS as both practical and maintainable
-* Javascript is the most popular coding language in the world
-* node.js adoption continues to grow for mainstream production projects, including eBay, etc.
-* Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
 
 
 ## Tracks
