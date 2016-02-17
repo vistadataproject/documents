@@ -8,6 +8,7 @@
 .
 
 
+<center><IMG SRC='?'></center>
 
 ![VDP Overview - Simple](/images/vdp-simple4.png)
 
