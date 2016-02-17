@@ -11,7 +11,6 @@ MDWS | ??
 JLV | ??
 VPR | ??
 eHMP | ??
-VDP | On-the-data, Patient-centric security; Model-based security.
 
 
 ### Read/Write
@@ -36,5 +35,5 @@ VISTA /CPRS | READ/WRITE |   < 0.2 sec for all transactions <br> This is the gol
 MDWS | READ | Depends on wrapped CPRS RPCs + mid-tier Java code
 JLV | READ|  Depends on wrapped CPRS RPCs + mid-tier Java code
 VPR | READ|  Depends on wrapped CPRS RPCs + mid-tier Java code
-HMP | READ |  Depends wrapped CPRS RPCs  + new RPCs +  mid-tier Javascript and Java code + External Sync services
-eHMP | READ |  ???
+eHMP | READ |  Depends wrapped CPRS RPCs  + new RPCs +  mid-tier Javascript and Java code + External Sync services
+
