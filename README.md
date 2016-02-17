@@ -1,7 +1,7 @@
 # VISTA Data Project
 
 ### Secure Symmetric Read-Write Master Data Model for VA VISTA
-*Research, Discovery, and Prototyype*
+*A Research and Discovery Prototyype*
 
 
 
