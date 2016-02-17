@@ -43,11 +43,10 @@ Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-v
 
 
 
+### VISTA Baseline
 
-
-
-
-
+A current technical summary of VISTA and its various clients functionality, security, and read/write capability:
+[VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md)
 
 
 
