@@ -28,15 +28,14 @@ __Where?__
 
 
 __Project Attributes__
+
 Attribute | Details
----- | -----
+---|---
 __Prototype-Driven__ |  Employs rapid iterative prototyping approach. *Not waterfall development*.
 __Data-centric__ | Novel approach to managing VISTA data.  *Not a code-centric approach*.
 __Comprehensive__  | Exposes, leverages, and enhances *all* VA VISTA data in *all* of VA VISTA systems to the maximium extent available.  The VISTA Data Model comprises the entire current existing data-driven architecture of VISTA.  All data definitions of all of the the 180 VISTA applications will be  incorporated, operationalized, and maintained always-up-to-date within the VISTA Data Model through  direct automated, triggered projection to the model from all authoritative operational VISTA systems.
 __Noninvasive__ | The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 __Web-Standard Model__  | Exposes VISTA data models and metadata using the World Wide Web Consortium (W3C) [Web Data Model](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD).
-
-
 
 
 ## Technical Overview
@@ -47,19 +46,19 @@ __Web-Standard Model__  | Exposes VISTA data models and metadata using the World
 [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)
 
 ![](/images/logos-tech/square/40h/node-js.jpg)
-![](/images/logos-tech/square/40h/js5.jpg)  
-![](/images/logos-tech/square/40h/html5.jpg) 
+![](/images/logos-tech/square/40h/js5.jpg)
+![](/images/logos-tech/square/40h/html5.jpg)
 ![](/images/logos-tech/square/40h/css3.jpg)
-![](/images/logos-tech/square/40h/d3-js.jpg) 
-![](/images/logos-tech/square/40h/vagrant.jpg) 
-![](/images/logos-tech/square/40h/python.jpg) 
-![](/images/logos-tech/square/40h/git.jpg) 
-![](/images/logos-tech/square/40h/github.jpg)   
-![](/images/logos-tech/square/40h/json.jpg) 
-![](/images/logos-tech/square/40h/jsonld.jpg) 
-![](/images/logos-tech/square/40h/rdf.jpg) 
-![](/images/logos-tech/square/40h/markdown.jpg) 
-![](/images/logos-tech/square/40h/CC.jpg) 
+![](/images/logos-tech/square/40h/d3-js.jpg)
+![](/images/logos-tech/square/40h/vagrant.jpg)
+![](/images/logos-tech/square/40h/python.jpg)
+![](/images/logos-tech/square/40h/git.jpg)
+![](/images/logos-tech/square/40h/github.jpg)
+![](/images/logos-tech/square/40h/json.jpg)
+![](/images/logos-tech/square/40h/jsonld.jpg)
+![](/images/logos-tech/square/40h/rdf.jpg)
+![](/images/logos-tech/square/40h/markdown.jpg)
+![](/images/logos-tech/square/40h/CC.jpg)
 ![](/images/logos-tech/square/40h/asf.jpg)  
 
 
