@@ -40,10 +40,10 @@ eHMP | read-only |
 ### Transaction Processing
 What are the current network latency for Reading any data to VISTA? Writing? Transaction processing? 
 
-System |  Functionality | Latancy
+System |  Functionality | Latency / Throughput
 ---|---|---
-VISTA /CPRS | read/write |   < 0.2 sec for all transactions <br> This is the gold standard
-MDWS | read-only | Restricted to a subset of CPRS RPCs
-JLV | read-only |  Restricted to a subset of CPRS and VPR RPCs
-VPR | read-only |  Restricted to the VPR RPCs
-eHMP | read-only |  ???
+VISTA /CPRS | READ/WRITE |   < 0.2 sec for all transactions <br> This is the gold standard
+MDWS | READ | Restricted to a subset of CPRS RPCs
+JLV | READ|  Restricted to a subset of CPRS and VPR RPCs
+VPR | READ |  Restricted to the VPR RPCs
+eHMP | READ |  ???
