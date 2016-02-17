@@ -36,29 +36,29 @@ __Where?__
 
 The VISTA Data Project is based on the following [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards):
 
-![](/images/logos-tech/square/50h/node-js.jpg)
-![](/images/logos-tech/square/50h/js5.jpg)
-![](/images/logos-tech/square/50h/html5.jpg)
-![](/images/logos-tech/square/50h/css3.jpg)
-![](/images/logos-tech/square/50h/vagrant.jpg)
-![](/images/logos-tech/square/50h/git.jpg)
-![](/images/logos-tech/square/50h/github.jpg)
-![](/images/logos-tech/square/50h/jsonld.jpg)
-![](/images/logos-tech/square/50h/json.jpg)
-![](/images/logos-tech/square/50h/rdf.jpg)
-![](/images/logos-tech/square/50h/markdown.jpg)
-![](/images/logos-tech/square/50h/CC.jpg)
-![](/images/logos-tech/square/50h/asf.jpg)  
+![](/images/logos-tech/square/60h/node-js.jpg)
+![](/images/logos-tech/square/60h/js5.jpg)
+![](/images/logos-tech/square/60h/html5.jpg)
+![](/images/logos-tech/square/60h/css3.jpg)
+![](/images/logos-tech/square/60h/vagrant.jpg)
+![](/images/logos-tech/square/60h/git.jpg)
+![](/images/logos-tech/square/60h/github.jpg)
+![](/images/logos-tech/square/60h/jsonld.jpg)
+![](/images/logos-tech/square/60h/json.jpg)
+![](/images/logos-tech/square/60h/rdf.jpg)
+![](/images/logos-tech/square/60h/markdown.jpg)
+![](/images/logos-tech/square/60h/CC.jpg)
+![](/images/logos-tech/square/60h/asf.jpg)  
 
 
 ## Assumptions
 
-* By virtue of VA's eHMP being coded in Javascript and node.js, the VA has decided that node.js is legitimate for production projects
- * the backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA
-* By virtue of VA's very large 2015 contract for node.js, the VA has decided that co-resident MUMPs and node.js enabled Javascript is productive and practical
-* By virtue of inclusion in all official releases for many years, Intersystems views in-process node.js coding with MUMPS as both practical and maintainable
-* Javascript is the most popular coding language in the world
-* node.js adoption continues to grow for mainstream production projects, including eBay, etc.
+* By virtue of VA's eHMP being almost completely rewritten in Javascript and node.js, the VA has decided that node.js is legitimate for production projects. 
+ * The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA
+* By virtue of VA's very large recent contract for node.js, the VA has decided that co-resident MUMPs and node.js enabled Javascript is productive and practical
+* By virtue of inclusion in all official releases for many years and with many years of performance enhancements, Intersystems views in-process node.js coding of Javascript on MUMPS as both practical, maintainable, and highly performant.
+* Javascript is the most popular coding language in the world.
+* Node.js adoption continues to grow for mainstream mission critical production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
 * Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
 
 ## Baseline
