@@ -6,11 +6,11 @@ What are the current security layers, features, issues, vulnerabilities?
 
 System | Security Layers and Issues
 --- | ---
-VISTA/CPRS | Security depends on privileges to execute menu items from the legacy roll-and-scroll interface, which is based on the Kernel module. It is not based on menus that current users have any access to (i.e. obfuscated), nor is it based on any current user interface, which are all graphical (CPRS, MDWS, JLV, HMP).  Fundamentally, this is an 'action-based' model.  Is agnostic to *what* the data is.  Vulnerability:  If an end-user is allowed to execute any menu item, he can exeute that menu item for *all 8 million veteran patients*. It is not patient- nor provider-specific.  There is no Role-based security.  There is no two-factor security.  There is no 'on-the-data security'. There is no encryption.  The cypher that VISTA and CPRS share is hidden deep in each system, but is not encrypted.  This is 'security through obfuscation'.  However, it would be relatively easy to find where this cypher file is.  It should be by encryption.
+VISTA/CPRS | Security depends on privileges to execute menu items from the legacy roll-and-scroll interface, which is based on the Kernel module. It is not based on menus that current users have any access to (i.e. obfuscated), nor is it based on any current user interface, which are all graphical (CPRS, MDWS, JLV, HMP).  Fundamentally, this is an 'action-based' model.  Is agnostic to *what* the data is.  Vulnerability:  If an end-user is allowed to execute any menu item, he can exeute that menu item for *all 8 million veteran patients*. It is not patient- nor provider-specific.  There is no Role-based security.  There is no two-factor security.  There is no 'on-the-data security'.  The cypher that VISTA and CPRS share is hidden deep in each system, but is not encrypted.  This is 'security through obfuscation'. It would be easy to find where this cypher file is. Security should be through encryption, not obfuscation.   
 MDWS | Based on CPRS security.
 JLV | Based on CPRS security.
 VPR | Based on CPRS security.
-eHMP | ??
+eHMP | Based on CPRS security.
 
 
 ### Read/Write
