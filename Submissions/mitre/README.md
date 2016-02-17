@@ -1,6 +1,6 @@
 ### VISTA Data Project: Performance Metrics
 
-VDP architecture can be measured only __relative to the existing architecture__:
+__The VISTA Data Project features can only be measured relative to the existing architecture, not in a vacuum__.
 
 ### Security
 What are the current security layers, features, issues, vulnerabilities?
@@ -40,7 +40,7 @@ eHMP | READ |  ???
 
 
 
-MITRE Team assisting:
+MITRE Team:
 
 * Castleberry, John E. [jcastleberry@mitre.org] - LEAD
 * Shaw, Kevin R. [kshaw@mitre.org]
