@@ -1,16 +1,6 @@
-### VDP Outcomes Review
+### VISTA Data Project: Performance Metrics
 
-MITRE Team
-
-* Castleberry, John E. [jcastleberry@mitre.org] - LEAD
-* Shaw, Kevin R. [kshaw@mitre.org]
-* Esfarjani, Maryam [mesfarjani@mitre.org]
-* Pulvermacher, Mary K. [pulver@mitre.org]
-* Grayeli, Parisa [pgrayeli@mitre.org]
-
-
-Key Tasks:  Performance Metrics for VDP __relative to the existing architecture__:
-
+VDP architecture can be measured only __relative to the existing architecture__:
 
 ### Security
 What are the current security layers, features, issues, vulnerabilities?
@@ -47,3 +37,13 @@ MDWS | READ | Restricted to a subset of CPRS RPCs
 JLV | READ|  Restricted to a subset of CPRS and VPR RPCs
 VPR | READ |  Restricted to the VPR RPCs
 eHMP | READ |  ???
+
+
+
+MITRE Team assisting:
+
+* Castleberry, John E. [jcastleberry@mitre.org] - LEAD
+* Shaw, Kevin R. [kshaw@mitre.org]
+* Esfarjani, Maryam [mesfarjani@mitre.org]
+* Pulvermacher, Mary K. [pulver@mitre.org]
+* Grayeli, Parisa [pgrayeli@mitre.org]
