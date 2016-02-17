@@ -2,6 +2,20 @@
 
 __The VISTA Data Project features can only be measured relative to the existing architecture, not in a vacuum__.
 
+
+## Assumptions
+
+* By virtue of eHMP being largely coded in Javascript and node.js, the VA has decided that node.js is legitimate for production projects
+* the backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA
+* By virtue of its Florida contract for node.js, the VA has decided that co-resident MUMPs and node.js enabled Javascript is productive and practical
+* By virtue of inclusion in all official releases for many years, Intersystems views in-process node.js coding with MUMPS as both practical and maintainable
+* Javascript is the most popular coding language in the world and node.js adoption continues to grow for mainstream production projects
+* Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
+
+Endorsement:  2 x VA, 1 by MUMPS vendor, 1 about mainstream coding and 1 obvious...
+
+
+
 ### Security
 What are the current security layers, features, issues, vulnerabilities?
 
