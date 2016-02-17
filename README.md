@@ -38,7 +38,6 @@ Based on the following [Web Technologies](https://github.com/vistadataproject/do
 ![](/images/logos-tech/square/50h/js5.jpg)
 ![](/images/logos-tech/square/50h/html5.jpg)
 ![](/images/logos-tech/square/50h/css3.jpg)
-![](/images/logos-tech/square/50h/d3-js.jpg)
 ![](/images/logos-tech/square/50h/vagrant.jpg)
 ![](/images/logos-tech/square/50h/git.jpg)
 ![](/images/logos-tech/square/50h/github.jpg)
