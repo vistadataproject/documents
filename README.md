@@ -34,7 +34,7 @@ __Prototype-Driven__ |  Employs rapid iterative prototyping approach. *Not water
 __Data-centric__ | Novel approach to managing VISTA data.  *Not a code-centric approach*.
 __Comprehensive__  | Exposes and leverages *all* of VA VISTA data in *all* of VA VISTA systems.  The VISTA Data Model comprises the entire current existing data-driven architecture of VISTA.  All data definitions of all of the the 180 VISTA applications will be  incorporated, operationalized, and maintained always-up-to-date within the VISTA Data Model through direct triggered updates to the model from all 130 authoritative VISTA systems.
 __Noninvasive__ | The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
-__Web-Standard Model__  | Exposes VISTA data models and metadata using universal World Wide Web Consortium (W3C) [Linked Data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD).
+__Web-Standard Data Model__  | Exposes VISTA data models and metadata using universal World Wide Web Consortium (W3C) [Linked Data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD).
 
 
 
