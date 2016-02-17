@@ -7,6 +7,10 @@
 
 .
 
+<p align="center">
+  <img /images/vdp-simple4.png>
+</p>
+
 
 <p style="text-align: center"><img src="/images/vdp-simple4.png" /></p>
 
