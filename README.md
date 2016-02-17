@@ -7,14 +7,9 @@
 
 .
 
-.
-
 
 ![VDP Overview - Simple](/images/vdp-simple4.png)
 
-
-
-.
 
 .
 
