@@ -3,7 +3,7 @@
 * https://daringfireball.net/projects/markdown/syntax
 
 ### Markdown Cheatsheet
-http://assemble.io/docs/Cheatsheet-Markdown.html
+* http://assemble.io/docs/Cheatsheet-Markdown.html
 
 ### Markdown Editors/Tools
 * https://markable.in/
