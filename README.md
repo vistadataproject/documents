@@ -2,8 +2,11 @@
 
 ### Secure Symmetric Read-Write Master Data Model for VA VISTA
 *Research, Discovery, and Prototyype*
+
 .
+
 .
+
 .
 
 
@@ -12,8 +15,11 @@
 
 
 .
+
 .
+
 .
+
 ## Objective and Method of Delivery
 
 __What?__
