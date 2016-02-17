@@ -8,7 +8,7 @@
 .
 
 
-<center><IMG SRC='?'></center>
+<center><img src=/images/vdp-simple4.png></center>
 
 ![VDP Overview - Simple](/images/vdp-simple4.png)
 
