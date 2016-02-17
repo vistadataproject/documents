@@ -1,4 +1,4 @@
-### VISTA and its various clients: Baseline
+## VISTA and Mid-Tier Clients: Baseline
 
 
 ### Security
