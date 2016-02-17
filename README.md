@@ -53,10 +53,10 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 
 ## Assumptions
 
-* By virtue of VA's eHMP being rewritten almost entirely in Javascript and node.js, the VA has decided that node.js is legitimate for production projects. 
- * The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with [MyHealtheVet](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture) and all others since then.
+* By virtue of VA's eHMP being rewritten almost entirely in Javascript and node.js, the VA has decided that node.js is legitimate for production projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with [MyHealtheVet](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture) and all others since then.
 * By virtue of VA's very large recent contract for node.js, the VA has decided that co-resident MUMPs and node.js enabled Javascript is productive and practical
-* By virtue of inclusion in all official releases, and with many years of performance enhancements, Intersystems views in-process node.js coding of Javascript on MUMPS as both practical, maintainable, and highly performant.
+* By virtue of VA including Node.js as an formally approved and key component of the [OneVA Technical Reference Model](http://www.va.gov/TRM/ToolPage.asp?tid=6716)
+* By virtue of inclusion in all official releases, Intersystems views in-process node.js coding of Javascript on MUMPS as both practical, maintainable, and highly performant.
 * Javascript is the most popular coding language in the world, as measured by all objective metrics of number of projects, coders, new code, and companies developing in the language.
 * Node.js adoption continues to grow for mainstream mission critical production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
 * Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
