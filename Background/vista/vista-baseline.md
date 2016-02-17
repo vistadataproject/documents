@@ -6,10 +6,10 @@ What are the current security layers, features, issues, vulnerabilities?
 
 System | Security Layers and Issues
 --- | ---
-VISTA/CPRS | Security depends on privileges to execute menu items from the roll-and-scroll interface, which is based on the Kernel module. An 'action-based' model.  Is agnostic to *what* the data is.  Vulnerability:  If an end-user is allowed to execute any menu item, he can exeute that menu item for all 8 million veteran patients. It is not patient- nor provider-specific.  There is no Role-based security.  There is no two-factor security.  There is no 'on-the-data security'. There is no encryption.
-MDWS | ??
-JLV | ??
-VPR | ??
+VISTA/CPRS | Security depends on privileges to execute menu items from the legacy roll-and-scroll interface, which is based on the Kernel module. It is not based on any menus that current users know about, nor is it based on any current user interface, which are all graphical (CPRS, MDWS, JLV, HMP).  Fundamentally, this is an 'action-based' model.  Is agnostic to *what* the data is.  Vulnerability:  If an end-user is allowed to execute any menu item, he can exeute that menu item for *all 8 million veteran patients*. It is not patient- nor provider-specific.  There is no Role-based security.  There is no two-factor security.  There is no 'on-the-data security'. There is no encryption. 
+MDWS | Same
+JLV | Same
+VPR | Same
 eHMP | ??
 
 
@@ -23,7 +23,6 @@ MDWS | read-only | NA
 JLV | read-only | NA
 VPR | read-only | NA
 eHMP | read-only | CPRS RPC-based
-
 
 
 ### Transaction Processing
