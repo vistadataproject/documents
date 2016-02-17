@@ -3,7 +3,7 @@
 ### Secure Symmetric Read-Write Master Data Model for VA VISTA
 *Research, Discovery, and Prototyype*
 
-![VDP Overview - Simple](/images/vdp-simple3.png)
+![VDP Overview - Simple](/images/vdp-simple4.png)
 
 ## Objective and Method of Delivery
 
@@ -27,25 +27,25 @@ __Where?__
 * __Comprehensive approach to leveraging ALL of VA VISTA data__.  The VISTA Data Model comprises the entire current existing data-driven architecture of VISTA. All data definitions of all of the the 180 VISTA applications will be automatically incorporated, operationalized, and maintained always-up-to-date within the VISTA Data Model through direct triggered updates to the model from all 130 authoritative VISTA systems.
 * __Noninvasive__. The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 *  __Web standards__ approach to exposing and managing data models and metadata using World Wide Web Consortium (W3C) [Linked Data standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD) and related [web technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) including:
-
->![](/images/logos-tech/square/60h/jsonld.jpg)
-![](/images/logos-tech/square/60h/rdf.jpg)
-![](/images/logos-tech/square/60h/markdown.jpg)
-![](/images/logos-tech/square/60h/node-js.jpg)
-![](/images/logos-tech/square/60h/js5.jpg)
-![](/images/logos-tech/square/60h/html5.jpg)
-![](/images/logos-tech/square/60h/css3.jpg)
-![](/images/logos-tech/square/60h/CC.jpg)
-![](/images/logos-tech/square/60h/asf.jpg)
-![](/images/logos-tech/square/60h/vagrant.jpg)
-![](/images/logos-tech/square/60h/github.jpg)
+*  
+>![](/images/logos-tech/square/40h/jsonld.jpg)
+![](/images/logos-tech/square/40h/rdf.jpg)
+![](/images/logos-tech/square/40h/markdown.jpg)
+![](/images/logos-tech/square/40h/node-js.jpg)
+![](/images/logos-tech/square/40h/js5.jpg)
+![](/images/logos-tech/square/40h/html5.jpg)
+![](/images/logos-tech/square/40h/css3.jpg)
+![](/images/logos-tech/square/40h/CC.jpg)
+![](/images/logos-tech/square/40h/asf.jpg)
+![](/images/logos-tech/square/40h/vagrant.jpg)
+![](/images/logos-tech/square/40h/github.jpg)
 
 
 
 
 ## Technical Overview
 
-![VDP Components Overview](/images/vdp-overview3.png)
+![VDP Components Overview](/images/vdp-overview4.png)
 
 
 ## Tracks
