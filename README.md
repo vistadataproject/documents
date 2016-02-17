@@ -32,7 +32,9 @@ __Where?__
 ![VDP Components Overview](/images/vdp-overview4.png)
 
 
-Based on the following [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards):
+## Technnologies
+
+The VISTA Data Project is based on the following [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards):
 
 ![](/images/logos-tech/square/50h/node-js.jpg)
 ![](/images/logos-tech/square/50h/js5.jpg)
