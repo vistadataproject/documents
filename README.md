@@ -50,9 +50,9 @@ Based on the following [Web Technologies](https://github.com/vistadataproject/do
 
 
 
-## Attributes
+## Features
 
-Attribute | Details
+Feature | Details
 ---|---
 __Prototype-Driven__ |  Employs rapid iterative prototyping approach. *Not waterfall development*.
 __Data-centric__ | Novel approach to managing VISTA data.  *Not a code-centric approach*.
