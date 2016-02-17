@@ -37,13 +37,13 @@ eHMP | read-only |
 
 
 
-### Network Latency
-What are the current network latency for reading data? writing data?
+### Transaction Processing
+What are the current network latency for Reading any data to VISTA? Writing? Transaction processing? 
 
 System |  Functionality | Latancy
 ---|---|---
 VISTA /CPRS | read/write |   < 0.2 sec for all transactions <br> This is the gold standard
-MDWS | read-only | NA
-JLV | read-only |  NA
-VPR | read-only |  NA
+MDWS | read-only | Restricted to a subset of CPRS RPCs
+JLV | read-only |  Restricted to a subset of CPRS and VPR RPCs
+VPR | read-only |  Restricted to the VPR RPCs
 eHMP | read-only |  ???
