@@ -48,12 +48,9 @@ __Web-Standard Data Model__  | Exposes VISTA data models and metadata using univ
 ![VDP Components Overview](/images/vdp-overview4.png)
 
 
-Tech | Standard
+[Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) | [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards)
 --- | ---
-[Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) |
-![](/images/logos-tech/square/40h/m-tech.fw.jpg) ![](/images/logos-tech/square/40h/js5.jpg)v![](/images/logos-tech/square/40h/node-js.jpg) ![](/images/logos-tech/square/40h/npm.jpg) ![](/images/logos-tech/square/40h/d3-js.jpg) ![](/images/logos-tech/square/40h/webstorm.jpg) ![](/images/logos-tech/square/40h/vagrant.jpg) ![](/images/logos-tech/square/40h/python.jpg) ![](/images/logos-tech/square/40h/git.jpg) ![](/images/logos-tech/square/40h/github.jpg)
-[Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards) | 
-![](/images/logos-tech/square/40h/html5.jpg) ![](/images/logos-tech/square/40h/js5.jpg) ![](/images/logos-tech/square/40h/css3.jpg) ![](/images/logos-tech/square/40h/json.jpg) ![](/images/logos-tech/square/40h/jsonld.jpg) ![](/images/logos-tech/square/40h/rdf.jpg) ![](/images/logos-tech/square/40h/markdown.jpg) ![](/images/logos-tech/square/40h/CC.jpg) ![](/images/logos-tech/square/40h/asf.jpg)
+![](/images/logos-tech/square/40h/m-tech.fw.jpg) ![](/images/logos-tech/square/40h/js5.jpg)v![](/images/logos-tech/square/40h/node-js.jpg) ![](/images/logos-tech/square/40h/npm.jpg) ![](/images/logos-tech/square/40h/d3-js.jpg) ![](/images/logos-tech/square/40h/webstorm.jpg) ![](/images/logos-tech/square/40h/vagrant.jpg) ![](/images/logos-tech/square/40h/python.jpg) ![](/images/logos-tech/square/40h/git.jpg) ![](/images/logos-tech/square/40h/github.jpg) |  ![](/images/logos-tech/square/40h/html5.jpg) ![](/images/logos-tech/square/40h/js5.jpg) ![](/images/logos-tech/square/40h/css3.jpg) ![](/images/logos-tech/square/40h/json.jpg) ![](/images/logos-tech/square/40h/jsonld.jpg) ![](/images/logos-tech/square/40h/rdf.jpg) ![](/images/logos-tech/square/40h/markdown.jpg) ![](/images/logos-tech/square/40h/CC.jpg) ![](/images/logos-tech/square/40h/asf.jpg)
 
 
 
