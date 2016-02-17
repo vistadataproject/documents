@@ -8,10 +8,11 @@ What are the current security layers, features, issues, vulnerabilities?
 System | Security Layers and Issues
 --- | ---
 VISTA/CPRS | 
-MDWS | 
-JLV | 
-VPR | 
-eHMP | 
+MDWS | ??
+JLV | ??
+VPR | ??
+eHMP | ??
+VDP | On-the-data, Patient-centric security; Model-based security.
 
 
 ### Read/Write
@@ -19,11 +20,12 @@ What are the current read/write capabilities
 
 System | Read/Write | Notes
 ---|---|---
-VISTA /CPRS | read/write | 
-MDWS | read-only | 
-JLV | read-only | 
-VPR | read-only | 
-eHMP | read-only | 
+VISTA /CPRS | read/write | CPRS RPC-based
+MDWS | read-only | NA
+JLV | read-only | NA
+VPR | read-only | NA
+eHMP | read-only | CPRS RPC-based
+VDP | READ/WRITE, SYMMETRIC | Data model based
 
 
 
@@ -33,9 +35,9 @@ What are the current network latency for Reading any data to VISTA? Writing? Tra
 System |  Functionality | Latency / Throughput
 ---|---|---
 VISTA /CPRS | READ/WRITE |   < 0.2 sec for all transactions <br> This is the gold standard
-MDWS | READ | Restricted to a subset of CPRS RPCs
-JLV | READ|  Restricted to a subset of CPRS and VPR RPCs
-VPR | READ |  Restricted to the VPR RPCs
+MDWS | READ | Depends RPCs + mid-tier Java code
+JLV | READ|  Depends RPCs + mid-tier Java code
+VPR | READ |  Depends RPCs  +  mid-tier Javascript and Java code + External Sync services
 eHMP | READ |  ???
 
 
