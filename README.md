@@ -3,19 +3,16 @@
 ### Secure Symmetric Read-Write Master Data Model for VA VISTA
 *Research, Discovery, and Prototyype*
 .
-
-
-
-
+.
+.
 
 
 ![VDP Overview - Simple](/images/vdp-simple4.png)
 
 
 
-
-
-
+.
+.
 .
 ## Objective and Method of Delivery
 
