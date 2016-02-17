@@ -63,6 +63,15 @@ __Noninvasive__ | The VISTA Data Model provides essential new functionality on t
 __Web-Standard <br>Data Model__  | Exposes VISTA data models and metadata using the World Wide Web Consortium (W3C) [Web Data Model](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD).
 
 
+## Assumptions
+
+* By virtue of eHMP being largely coded in Javascript and node.js, the VA has decided that node.js is legitimate for production projects
+ * the backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA
+* By virtue of VA's very large 2015 contract for node.js, the VA has decided that co-resident MUMPs and node.js enabled Javascript is productive and practical
+* By virtue of inclusion in all official releases for many years, Intersystems views in-process node.js coding with MUMPS as both practical and maintainable
+* Javascript is the most popular coding language in the world
+* node.js adoption continues to grow for mainstream production projects, including eBay, etc.
+* Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
 
 
 ## Tracks
