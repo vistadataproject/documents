@@ -46,17 +46,31 @@ __Web-Standard Data Model__  | Exposes VISTA data models and metadata using univ
 
 [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies)
 
-![](/images/logos-tech/square/40h/jsonld.jpg)  
-![](/images/logos-tech/square/40h/rdf.jpg) 
-![](/images/logos-tech/square/40h/markdown.jpg) 
-![](/images/logos-tech/square/40h/node-js.jpg) 
-![](/images/logos-tech/square/40h/js5.jpg) 
-![](/images/logos-tech/square/40h/html5.jpg) 
-![](/images/logos-tech/square/40h/css3.jpg) 
-![](/images/logos-tech/square/40h/CC.jpg) 
-![](/images/logos-tech/square/40h/asf.jpg) 
-![](/images/logos-tech/square/40h/vagrant.jpg) 
-![](/images/logos-tech/square/40h/github.jpg)
+#### Technologies
+![](/images/logos-tech/square/50h/m-tech.fw.jpg)
+![](/images/logos-tech/square/50h/js5.jpg)
+![](/images/logos-tech/square/50h/node-js.jpg)
+![](/images/logos-tech/square/50h/npm.jpg)
+![](/images/logos-tech/square/50h/d3-js.jpg)
+![](/images/logos-tech/square/50h/webstorm.jpg)
+![](/images/logos-tech/square/50h/vagrant.jpg)
+![](/images/logos-tech/square/50h/python.jpg)
+![](/images/logos-tech/square/50h/git.jpg)
+![](/images/logos-tech/square/50h/github.jpg)
+
+#### Standards
+![](/images/logos-tech/square/50h/html5.jpg)
+![](/images/logos-tech/square/50h/js5.jpg)
+![](/images/logos-tech/square/50h/css3.jpg)
+![](/images/logos-tech/square/50h/json.jpg)
+![](/images/logos-tech/square/50h/jsonld.jpg)
+![](/images/logos-tech/square/50h/rdf.jpg)
+![](/images/logos-tech/square/50h/markdown.jpg)
+![](/images/logos-tech/square/50h/CC.jpg)
+![](/images/logos-tech/square/50h/asf.jpg)
+
+
+
 
 
 
