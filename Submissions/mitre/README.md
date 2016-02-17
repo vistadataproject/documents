@@ -35,9 +35,10 @@ What are the current network latency for Reading any data to VISTA? Writing? Tra
 System |  Functionality | Latency / Throughput
 ---|---|---
 VISTA /CPRS | READ/WRITE |   < 0.2 sec for all transactions <br> This is the gold standard
-MDWS | READ | Depends RPCs + mid-tier Java code
-JLV | READ|  Depends RPCs + mid-tier Java code
-VPR | READ |  Depends RPCs  +  mid-tier Javascript and Java code + External Sync services
+MDWS | READ | Depends on wrapped CPRS RPCs + mid-tier Java code
+JLV | READ|  Depends on wrapped CPRS RPCs + mid-tier Java code
+VPR | READ|  Depends on wrapped CPRS RPCs + mid-tier Java code
+HMP | READ |  Depends wrapped CPRS RPCs  + new RPCs +  mid-tier Javascript and Java code + External Sync services
 eHMP | READ |  ???
 
 
