@@ -61,9 +61,10 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 * Node.js adoption continues to grow for mainstream mission critical production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
 * Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
 
-## Baseline
+## Baseline System
 
-* The VISTA Baseline and functionality (security, performance, read/write) are described here:  [VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md)
+* The VISTA Baseline functionality and capability (security, performance, read/write) are described here:  [VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md)
+* Any enhacements by the VISTA Data Project are __relative__ to the VISTA Baseline.
 
 
 ## Key Features
