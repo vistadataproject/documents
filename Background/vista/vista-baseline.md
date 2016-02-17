@@ -1,4 +1,4 @@
-### VISTA and its various GUIs: Baseline Function
+### VISTA and its various clients: Baseline
 
 
 ### Security
