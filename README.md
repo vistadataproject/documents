@@ -61,8 +61,12 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 * node.js adoption continues to grow for mainstream production projects, including eBay, etc.
 * Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
 
+## VISTA Baseline
 
-## Features
+* The VISTA Baseline and functionality (security, performance, read/write) are described here:  [VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md)
+
+
+## Key Features
 
 Feature | Details
 ---|---
