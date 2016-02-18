@@ -100,7 +100,7 @@ From PWS 8.2 ...
 Artifact | Format(s) | License
 :---: | :--- | :--- 
 Data | CSV if tabular structure; JSON-LD for all other structures. | Creative Commons CC0
-Metadata | JSON-LD | Creative Commons CC0
+Metadata | JSON-LD (RDF) | Creative Commons CC0
 Documents | Markdown (git Markdown or Docbook). From this HTML and PDF shall be auto-generated | Creative Commons CC0
 Code (Software) | Source code, and all dependent code, with full version control history | Apache 2.0
 
