@@ -12,10 +12,12 @@ Layer | Technology | Notes
 CPRS | Delphi | Thick client
 Network | TCP/IP | 
 RPC Broker | M | Interface to external systems
-Applications (176) | M | Namespaced applications
-Kernel | M | Interface layer to roll and scroll screen
-Fileman | M | hierarchical, data-dictionary-driven file/field storage
-Global Storage | M | multidimensional key-value store 
+Applications (176) | M | Namespaced applications. Also known as Packages.
+Kernel/Tools | M | Security, Menu Management, Taskman, Mailman, Package Manager
+Fileman | M | Set of APIs, utility functions, search/edit/inquire/print,  DD utilities. <br>Provides a data-dictionary-driven hierarchical file/field storage mechanism
+Database | M | Global namespaces, data dictionary, hierarchical files
+Global Storage | M | multidimensional key-value storage
+OS | Linux/Win | Operating System
 
 
 
