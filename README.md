@@ -22,12 +22,9 @@ __Why?__
 
 > The requirements of Public Law 113-066 (P.L. 113-066), SECTION 713 – “ELECTRONIC HEALTH RECORDS OF THE DEPARTMENT OF DEFENSE AND THE DEPARTMENT OF VETERANS AFFAIRS,” of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2014 state that by December 31, 2016, VA must achieve an interoperable EHR [Electronic Health Record] with an integrated display of data with the Department of Defense (DoD) and private sector providers. The interoperable EHR must __exchange all relevant health care data between DoD and VA computable in near real time__.
 
-> HOWEVER, there is no single VA EHR system. The VA operates 130 *distinct and unique* EHR systems throuhgout the U.S. that have all evolved independently of each other over the past thirty years. Each system has its own database and its own data model.  Therefore, DoD would have to map its systems to 130 unique systems and data models in order to exchange any data.
+> The Veterans Health Administration (VHA) operates 130 EHR systems (VISTA) throughout the U.S. These have all evolved independently of each other over the past thirty years. There is no national, standard version of VISTA. Each system has its own database and its own data model.  Therefore, DoD cannot interoperate with VA, since there is not VA national version of VISTA.
 
-> By automated extraction of the data model of each of the individual VA systems in a machine processable form, and applying analytics and enrichment to these models, a master data model that maps to both the local system as well as to the national, normalized, master data model would be created.  This provids VA a single 
-
-> Therefore, one needs to have a single, common, national, master data model that each local data model can map to.  This reduces the requirement of DOD to interoperate with 130 VA EHR systems, to interoperating with only one, single, national master data model. 
-
+> VA  therefore needs a single, common, national, master data model for VISTA that maps also to each of the 130 local VISTA data models, and can therefore perform computable transactions against all of VA's systems.  This reduces the requirement of DOD to interoperate with 130 distinct VISTA systems, to interoperating with only one, single,  master VISTA data model. This reduces the burden of interoperability by over a hundredfold. 
 
 __How?__
 
