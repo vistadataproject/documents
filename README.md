@@ -7,7 +7,7 @@
 
 
 
-![VDP Overview - Simple](/images/vdp-simple4.png)
+![VDP Overview - Simple](/images/vdp-simple5.png)
 
 
 
@@ -29,7 +29,7 @@ __Where?__
 
 ## Technical Overview
 
-![VDP Components Overview](/images/vdp-overview4.png)
+![VDP Components Overview](/images/vdp-overview5.png)
 
 
 ## Technnologies
