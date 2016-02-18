@@ -1,6 +1,6 @@
 ## VISTA Technology Stack
 
-* An excellent overview, with commentary by the original data architect of VISTA where he suggests a Metadata-driven future for VISTA: https://www.osehra.org/wiki/osehra-system-architecture
+* VISTA overview, with excellent commentary by the original data architect on the Metadata-driven future of VISTA: https://www.osehra.org/wiki/osehra-system-architecture
 * Interactive map of VISTA components: http://architecture.osehra.org/
 
 Layer | Technology | Notes
