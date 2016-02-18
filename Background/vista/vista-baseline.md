@@ -15,8 +15,8 @@ CPRS | Delphi | Thick client
 Network | TCP/IP | 
 RPC Broker | M | Interface to external systems
 Applications (176) | M | Namespaced applications. Also known as Packages.
-App Framework | M | Kernel/Tools. Provides common services:  Security, Menu Management, Taskman, Mailman (SMTP), Package Manager and Distribution (KIDS)
-DBMS | M | Fileman. Set of APIs, utility functions, search/edit/inquire/print,and data dictionary utilities. <br>Provides a data-dictionary-driven hierarchical file storage mechanism
+Application Framework | M | Kernel/Tools. Provides common services:  Security, Menu Management, Taskman, Mailman (SMTP), Package Manager and Distribution (KIDS)
+DBMS | M | Fileman. Set of APIs, utility functions, search/edit/inquire/print, and data dictionary utilities. Provides a data-dictionary-driven hierarchical file storage mechanism
 Database | M | Global namespaces, data dictionary, hierarchical files
 Global Storage | M | multidimensional key-value storage engine (GTm, Cache)
 OS | Linux/Win | Operating System
