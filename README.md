@@ -28,7 +28,7 @@ __Why?__
 
 __How?__
 
->__All sources of available metadata__ (both __internal to VISTA as well as external__) will be __transformed to a single integrated web-standard data model__ which is then __annotated, normalized, and enriched__. This enhanced model is in turn is __embedded back in VISTA as a server-side, security-enabled, transactional (i.e. computable) read/write Master Data Model__.   
+>__All sources of available metadata and models__ (both internal to VISTA as well as external) will be __transformed to a single integrated web-standard data model__ which is then __annotated, normalized, and enriched__. This enhanced model is in turn is __embedded back in VISTA as a server-side, security-enabled, transactional (i.e. computable) read/write Master Data Model__.   
 
 __Where?__
 
@@ -61,7 +61,7 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 
 ## Tehnical Background
 
-Technical decisions by the VA and in mainstream software that framed the approach being taken here
+Technical decisions by the VA and in mainstream software industry that framed the approach taken here
 
 1. By virtue of VA's technical review and approval of Node.js in the OneVA Technical Reference Model ([TRM](http://www.va.gov/TRM/ToolPage.asp?tid=6716)), VA endorses the use of Javascript/Node (server-side Javascript) in the  VA enterprise architecture. See [TRM-Node](http://www.va.gov/TRM/ToolPage.asp?tid=6716).
 1. By virtue of VA's Enterprise Health Management Platform being rewritten almost entirely in Javascript and Node.js, the VA has decided that Node.js is essential for the success of enterprise projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with MyHealtheVet and the others since then. See [reference](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture).
