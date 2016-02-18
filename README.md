@@ -40,31 +40,31 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 ![](/images/logos-tech/square/60h/js5.jpg)
 ![](/images/logos-tech/square/60h/html5.jpg)
 ![](/images/logos-tech/square/60h/css3.jpg)
-![](/images/logos-tech/square/60h/vagrant.jpg)
-![](/images/logos-tech/square/60h/git.jpg)
-![](/images/logos-tech/square/60h/github.jpg)
+![](/images/logos-tech/square/60h/rdf.jpg)
 ![](/images/logos-tech/square/60h/jsonld.jpg)
 ![](/images/logos-tech/square/60h/json.jpg)
-![](/images/logos-tech/square/60h/rdf.jpg)
 ![](/images/logos-tech/square/60h/markdown.jpg)
+![](/images/logos-tech/square/60h/github.jpg)
+![](/images/logos-tech/square/60h/git.jpg)
+![](/images/logos-tech/square/60h/vagrant.jpg)
 ![](/images/logos-tech/square/60h/CC.jpg)
 ![](/images/logos-tech/square/60h/asf.jpg)  
 
 
 ## Assumptions
 
-* By virtue of VA's assessment of Node.js in the OneVA Technical Reference Model (TRM), VA formally endorses Node.js for use in the VA enterprise architecture. See [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=6716).
+* By virtue of VA's assessment of Node.js in the OneVA Technical Reference Model (TRM), VA formally endorses the Node.js technology for use throughout VA enterprise architecture. See [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=6716).
 * By virtue of VA's very large, multi-year contract for Node.js, the VA has decided that Node-enabled Javascript on MUMPs is productive and practical
-* By virtue of VA's eHMP being rewritten almost entirely in Javascript and node.js, the VA has decided that node.js is required for performance for enterprise projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with MyHealtheVet and all others since then. See [reference](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture).
-* By virtue of inclusion of the Node/Cache binding in all official releases, Intersystems views in-process node.js coding of Javascript on MUMPS as practical, maintainable, and critical for their commercial customers, including VA. See Intersystems Node.js reference manual [HTML](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS) / [PDF](http://docs.intersystems.com/documentation/cache/20122/pdfs/BXJS.pdf)
+* By virtue of VA's Enterprise Health Management Platform being rewritten almost entirely in Javascript and node.js, the VA has decided that Node.js is essential for the success of enterprise projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with MyHealtheVet and many others since then. See [reference](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture).
+* By virtue of inclusion of the Node binding in all official releases of Cache, Intersystems views in-process Javascript coding on Node/MUMPS as practical, maintainable, and critical for their commercial customers, particularly VA. See Intersystems Node.js reference manual [HTML](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS) / [PDF](http://docs.intersystems.com/documentation/cache/20122/pdfs/BXJS.pdf)
 * Node.js adoption continues to grow for mainstream production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
-* Javascript is the most popular coding language in the world, as objectively measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software.
+* Javascript is the most popular coding language in the world, as  measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software.
 * Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
 
-## Baseline System
+## Baseline Systems
 
-* Current, baseline VISTA functionality and capability (security, performance, read/write) are described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
-* All VISTA Data Project enhancments are thus only measurable __relative__ to the [VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
+* Current, baseline VISTA and Client functionality and capability (security, performance, read/write) are described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
+* All VISTA Data Project enhancments are thus measurable only relative to this [ Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
 
 
 ## Key Features
