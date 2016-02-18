@@ -61,10 +61,10 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 * Javascript is the most popular coding language in the world, as objectively measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software.
 * Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
 
-## Baseline VISTA
+## Baseline System
 
-* Current VISTA / Client functionality and capability (security, performance, read/write) are described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
-* VISTA Data Project enhancments to VISTA are thus only measurable __relative__ to the [VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
+* Current, baseline VISTA functionality and capability (security, performance, read/write) are described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
+* All VISTA Data Project enhancments are thus only measurable __relative__ to the [VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
 
 
 ## Key Features
