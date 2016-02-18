@@ -51,16 +51,19 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 ![](/images/logos-tech/square/60h/asf.jpg)  
 
 
-## Assumptions
+## Tehnical Background
 
-* By virtue of VA's formal technical review and approval of the Resource Description Framework (RDF) in the OneVA Technical Reference Model, VA  endorses the RDF (web-standards-based data model) for the VA enterprise architecture. JSON-LD is one of most-used serializations of RDF. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405) and [JSON-LD](http://json-ld.org).
-* By virtue of VA's review and approval of Node.js in the OneVA Technical Reference Model, VA endorses the use of Node.js (server-side Javascript) in the  VA enterprise architecture. See [TRM-NodeJS](http://www.va.gov/TRM/ToolPage.asp?tid=6716) and [Cache/Node](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS_intro)
-* By virtue of VA's very large, multi-year contract for Node.js, the VA has decided that Node-enabled Javascript on MUMPs is productive and practical
-* By virtue of VA's Enterprise Health Management Platform being rewritten almost entirely in Javascript and node.js, the VA has decided that Node.js is essential for the success of enterprise projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with MyHealtheVet and many others since then. See [reference](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture).
-* By virtue of inclusion of the Node binding in all official releases of Cache, Intersystems views in-process Javascript coding on Node/MUMPS as practical, maintainable, and critical for their commercial customers, particularly VA. See Intersystems Node.js reference manual [HTML](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS) / [PDF](http://docs.intersystems.com/documentation/cache/20122/pdfs/BXJS.pdf)
-* Node.js adoption continues to grow for mainstream production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
-* Javascript is the most popular coding language in the world, as  measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software for consumption on the web.
-* Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
+Technical decisions by the VA and in mainstream software that framed the approach being taken here
+
+1. By virtue of VA's review and approval of Node.js in the OneVA Technical Reference Model, VA endorses the use of Node.js (server-side Javascript) in the  VA enterprise architecture. See [TRM-NodeJS](http://www.va.gov/TRM/ToolPage.asp?tid=6716)
+1. By virtue of VA's Enterprise Health Management Platform being rewritten almost entirely in Javascript and node.js, the VA has decided that Node.js is essential for the success of enterprise projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with MyHealtheVet and many others since then. See [reference](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture).
+1.  By virtue of VA's large, multi-year [contract](https://www.google.com/search?q=%22Control%20Number%2015-038%22&rct=j) for Node.js, the VA has decided that Node-enabled Javascript on MUMPs is productive and practical.
+1. By virtue of inclusion of the Node binding in all official releases of Cache, Intersystems views in-process Javascript coding on Node/MUMPS as practical, maintainable, and critical for their commercial customers, particularly VA. See Intersystems and [Cache/Node](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS_intro) reference [HTML](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS) / [PDF](http://docs.intersystems.com/documentation/cache/20122/pdfs/BXJS.pdf)
+1. Node.js adoption continues to grow for mainstream production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
+1. By virtue of VA's formal technical review and approval of the Resource Description Framework (RDF) in the OneVA Technical Reference Model, VA  endorses the RDF (web-standards-based data model) for the VA enterprise architecture. JSON-LD is one of most-used serializations of RDF. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405) and [JSON-LD](http://json-ld.org).
+1. Javascript is the most popular coding language in the world, as  measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software for consumption on the web.
+1. Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
+
 
 ## Baseline Systems
 
