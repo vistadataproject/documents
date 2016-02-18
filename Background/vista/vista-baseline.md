@@ -1,8 +1,11 @@
 ## Baseline: VISTA and its Many Clients
 
-VISTA Technology Stack
 
-What layers and logic does data pass through in VISTA/CPRS during one read/write operation?  Where and how is security enforced? Where is the busines logic?
+### VISTA Technology Stack
+
+* What layers and logic does data pass through during one read/write operation from CPRS to the Global Storage?  
+* Where and how is security enforced? 
+* Where is the busines logic?
 
 Layer | Technology | Notes
 ---|---|--- 
