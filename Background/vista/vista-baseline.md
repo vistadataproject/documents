@@ -3,7 +3,10 @@
 
 ### VISTA Technology Stack
 
-An excellent overview, with commentary by the original data architect of VISTA, Tom Munneke, where he suggests a Metadata-driven future for VISTA: https://www.osehra.org/wiki/osehra-system-architecture
+An excellent overview, with commentary by the original data architect of VISTA where he suggests a Metadata-driven future for VISTA: https://www.osehra.org/wiki/osehra-system-architecture
+
+http://architecture.osehra.org/
+
 
 * What layers and logic does data pass through during one read/write operation from CPRS to the Global Storage?  
 * Where and how is security enforced? 
