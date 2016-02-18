@@ -18,6 +18,12 @@ __What?__
 
  >__Provide a comprehensive security-enabled read/write data model for all VA VISTA data  across VA VISTA operational systems__, establishing the technical foundation  for __master data management__  and computable data representation and __exchange between VA and DoD clinical information systems__. --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.1
 
+__Why?__
+
+> The requirements of Public Law 113-066 (P.L. 113-066), SECTION 713 – “ELECTRONIC HEALTH RECORDS OF THE DEPARTMENT OF DEFENSE AND THE DEPARTMENT OF VETERANS AFFAIRS,” of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2014 state that by December 31, 2016, VA must achieve an interoperable EHR with an integrated display of data with the Department of Defense (DoD) and private sector providers. The interoperable EHR must __exchange all relevant health care data between DoD and VA computable in near real time__.
+
+The VA operates a national electronic healthcare delivery system at over 1200 sites throughout all 50 states based on the Veterans Information System Technology Architecture (VISTA). This is comprised of 130 distinct VISTA systems deployed throughout the U.S. 
+
 __How?__
 
 >__All sources of available metadata__ (both __internal to VISTA as well as external__) will be __transformed to a single integrated web-standard data model__ which is then __annotated, normalized, and enriched__. This enhanced model is in turn is __embedded back in VISTA as a server-side, security-enabled, in-process, transactional read/write Master Data Model__.   
