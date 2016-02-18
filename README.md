@@ -60,9 +60,9 @@ Technical decisions by the VA and in mainstream software that framed the approac
 1.  By virtue of VA's large, multi-year [contract](https://www.google.com/search?q=%22Control%20Number%2015-038%22&rct=j) for Node.js, the VA has decided that Node-enabled Javascript on MUMPs is productive and practical.
 1. By virtue of inclusion of the Node binding in all official releases of Cache, Intersystems views in-process Javascript coding on MUMPS as practical, maintainable, and critical for their commercial customers, particularly VA. See Intersystems documentation on [Cache/Node](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS_intro) and [PDF](http://docs.intersystems.com/documentation/cache/20122/pdfs/BXJS.pdf).
 1. Node.js adoption continues to grow for mainstream production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
-1. By virtue of VA's formal technical review and approval of the Resource Description Framework (RDF) in the OneVA Technical Reference Model [TRM](http://www.va.gov/TRM/StandardPage.asp?tid=6405), VA  endorses the RDF data model for the VA enterprise architecture. JSON-LD is one of most-used serializations of RDF. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405) and [JSON-LD](http://json-ld.org).
 1. Javascript is the most popular coding language in the world, as  measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software for consumption on the web.
 1. Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
+1. By virtue of VA's formal technical review and approval of the Resource Description Framework (RDF) in the OneVA Technical Reference Model [TRM](http://www.va.gov/TRM/StandardPage.asp?tid=6405), VA  endorses the RDF web-standard data model for the VA enterprise architecture. JSON-LD is one of most-used serialization of RDF, used by Google, Yahoo, and Microsoft to drive their web search engines. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405) and [JSON-LD](http://json-ld.org).
 
 
 ## Baseline Systems
