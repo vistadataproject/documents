@@ -40,7 +40,7 @@ __Where?__
 ![VDP Components Overview](/images/vdp-overview5.png)
 
 
-## Technnologies
+## Technologies
 
 The VISTA Data Project is based on the following [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards):
 
@@ -59,7 +59,7 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 ![](/images/logos-tech/square/60h/asf.jpg)  
 
 
-## Tehnical Background
+## Technical Background
 
 Technical decisions by the VA and in mainstream software industry that framed the approach taken here
 
