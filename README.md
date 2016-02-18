@@ -62,8 +62,8 @@ Technical decisions by the VA and in mainstream software that framed the approac
 1. Node.js adoption continues to grow for mainstream production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
 1. Javascript is the most popular coding language in the world, as  measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software for consumption on the web.
 1. Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
-1. By virtue of VA's formal technical review and approval of the Resource Description Framework (RDF) in the OneVA Technical Reference Model [TRM](http://www.va.gov/TRM/StandardPage.asp?tid=6405), VA  endorses the RDF web-standard data model for the VA enterprise architecture. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405).
-1. JSON-LD is the most commonly used form of RDF in production settings. It is used by Google, Yahoo, and Microsoft to index and search all structured data on the web, and by the U.S. National Library of Congress and U.S. National Library of Medicine to structure and search all published books and medical journals, respectively.  See [JSON-LD](http://json-ld.org).
+1. By virtue of VA's formal technical review and approval of the Resource Description Framework (RDF) in the OneVA Technical Reference Model, VA  endorses the RDF (web-standard, web-scale) data model for the VA enterprise architecture. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405).
+1. JSON-LD is the most commonly used form of RDF in deployed, production settings. It is used by Google, Yahoo, and Microsoft to index and search all structured data on the web, and by the U.S. National Library of Congress and U.S. National Library of Medicine to structure and search all published books and medical journals, respectively.  See [JSON-LD](http://json-ld.org).
 
 
 ## Baseline Systems
