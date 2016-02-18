@@ -3,6 +3,11 @@
 
 ### VISTA Technology Stack
 
+An excellent overview, with commentary by the original data architect of VISTA, Tom Munneke:
+
+https://www.osehra.org/wiki/osehra-system-architecture
+
+
 * What layers and logic does data pass through during one read/write operation from CPRS to the Global Storage?  
 * Where and how is security enforced? 
 * Where is the busines logic?
@@ -13,11 +18,12 @@ CPRS | Delphi | Thick client
 Network | TCP/IP | 
 RPC Broker | M | Interface to external systems
 Applications (176) | M | Namespaced applications. Also known as Packages.
-Kernel/Tools | M | Security, Menu Management, Taskman, Mailman, Package Manager
-Fileman | M | Set of APIs, utility functions, search/edit/inquire/print,  DD utilities. <br>Provides a data-dictionary-driven hierarchical file/field storage mechanism
+Kernel/Tools | M | Application framework, providing common services:  Security, Menu Management, Taskman, Mailman (SMTP), Package Manager and Distribution (KIDS)
+Fileman | M | Set of APIs, utility functions, search/edit/inquire/print,and data dictionary utilities. <br>Provides a data-dictionary-driven hierarchical file/field storage mechanism
 Database | M | Global namespaces, data dictionary, hierarchical files
 Global Storage | M | multidimensional key-value storage
 OS | Linux/Win | Operating System
+
 
 
 
