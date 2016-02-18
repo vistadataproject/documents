@@ -59,7 +59,7 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 * By virtue of VA's Enterprise Health Management Platform being rewritten almost entirely in Javascript and node.js, the VA has decided that Node.js is essential for the success of enterprise projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with MyHealtheVet and many others since then. See [reference](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture).
 * By virtue of inclusion of the Node binding in all official releases of Cache, Intersystems views in-process Javascript coding on Node/MUMPS as practical, maintainable, and critical for their commercial customers, particularly VA. See Intersystems Node.js reference manual [HTML](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS) / [PDF](http://docs.intersystems.com/documentation/cache/20122/pdfs/BXJS.pdf)
 * Node.js adoption continues to grow for mainstream production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
-* Javascript is the most popular coding language in the world, as  measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software.
+* Javascript is the most popular coding language in the world, as  measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software for consumption on the web.
 * Non-CPU bound, in process "fetch and insert" logic is ALWAYS faster than on-the-network equivalents. 
 
 ## Baseline Systems
