@@ -23,14 +23,12 @@ M code is interpreted real-time (not compiled or linked), thus allowing an incre
 
 Comparison of Technology Stacks:
 
-* VISTA current: M/FM/ {APIs, HL7, M procedural code, interface code} => 
- * fixed, narrow data slices (code-locked)
-* NodeVISTA: M / FM /NodeM/ {RPC wrappers} / Javascript => 
- * fixed, narrow data slices (code-locked)
-* VDM: M / FM / NodeM / VDM {JSON-LD} / Javascript => 
- * Comprehensive access to all VISTA data via one mechanism (data-centric)
-* VDMN: M / FM / NodeM / VDMN {JSON-LD} / Javascript => 
- * Consistent read / write across VISTA instances
+Version | Stack | Data Access
+---|---|---
+VISTA baseline | M/FM/ {APIs, HL7, M procedural code, interface code} | fixed, narrow data slices (code-locked)
+NodeVISTA | M / FM /NodeM/ {RPC wrappers} / Javascript | fixed, narrow data slices (rpc code-locked)
+VDM |  M / FM / NodeM / VDM {JSON-LD} / Javascript | Comprehensive access to all VISTA data via one mechanism (data-centric) (read-only)
+VDMN |  M / FM / NodeM / VDMN {JSON-LD} / Javascript | Consistent read / write across VISTA instances
 
 
 
