@@ -24,7 +24,7 @@ __Why?__
 
 > The VA Information Systems Technology Architecture (VISTA) is VA's an integrated EHR and resource management system used to provide all adminstrative and clinical information needs to run over 1200 hospitals and clinics throughout the U.S. and to provide veterans the highest quality of care, everywhere.  There are over 130 instances of VISTA deployed nationwide, and each has evolved independently of each other over the past thirty years. Each VISTA system has its own distinct database and distinct data model. Therefore, DOD cannot interoperate with VA.  There is not a single VA system. There are 130.
 
-> VA therefore needs a single national *computable* data model for VISTA that each of the 130 local VISTA systems can both read and write - i.e. provide computable transactions.  This reduces the DoD requirement of computable interoperability with VA from 130 distinct VISTA systems to that of only one computable Master VISTA data model.
+> VA therefore needs a single national *computable* data model for VISTA that each of the 130 local VISTA systems can both read and write - i.e. provide computable interoperability.  This reduces the DoD requirement of computable interoperability with VA from 130 distinct VISTA systems to that of only one computable Master VISTA data model.
 
 __How?__
 
