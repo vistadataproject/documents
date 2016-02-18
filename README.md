@@ -53,7 +53,8 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 
 ## Assumptions
 
-* By virtue of VA's assessment of Node.js in the OneVA Technical Reference Model (TRM), VA formally endorses the Node.js technology for use throughout VA enterprise architecture. See [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=6716).
+* By virtue of VA's formal technical review and approval of the Resource Description Framework (RDF) in the OneVA Technical Reference Model (TRM), VA formally endorses use of the RDF metadata standard for the VA enterprise architecture. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405).
+* By virtue of VA's review and approval of Node.js in the OneVA Technical Reference Model (TRM), VA formally endorses the Node.js technology for use in the  VA enterprise architecture. See [TRM-NodeJS](http://www.va.gov/TRM/ToolPage.asp?tid=6716).
 * By virtue of VA's very large, multi-year contract for Node.js, the VA has decided that Node-enabled Javascript on MUMPs is productive and practical
 * By virtue of VA's Enterprise Health Management Platform being rewritten almost entirely in Javascript and node.js, the VA has decided that Node.js is essential for the success of enterprise projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with MyHealtheVet and many others since then. See [reference](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture).
 * By virtue of inclusion of the Node binding in all official releases of Cache, Intersystems views in-process Javascript coding on Node/MUMPS as practical, maintainable, and critical for their commercial customers, particularly VA. See Intersystems Node.js reference manual [HTML](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS) / [PDF](http://docs.intersystems.com/documentation/cache/20122/pdfs/BXJS.pdf)
