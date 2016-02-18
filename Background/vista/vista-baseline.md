@@ -18,8 +18,20 @@ Database | M | Global namespaces, data dictionary, hierarchical files
 Global Storage | M | multidimensional key-value storage engine (GTm, Cache)
 OS | Linux/Win | Operating System
 
-
 M code is interpreted real-time (not compiled or linked), thus allowing an incredible degree of integration across all applications and across all data.
+
+
+Comparison of Technology Stacks:
+
+* VISTA current: M/FM/ {APIs, HL7, M procedural code, interface code} => 
+ * fixed, narrow data slices (code-locked)
+* NodeVISTA: M / FM /NodeM/ {RPC wrappers} / Javascript => 
+ * fixed, narrow data slices (code-locked)
+* VDM: M / FM / NodeM / VDM {JSON-LD} / Javascript => 
+ * Comprehensive access to all VISTA data via one mechanism (data-centric)
+* VDMN: M / FM / NodeM / VDMN {JSON-LD} / Javascript => 
+ * Consistent read / write across VISTA instances
+
 
 
 ### Questions:
