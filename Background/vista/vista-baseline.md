@@ -8,7 +8,7 @@
 * Where is the busines logic?
 
 Layer | Technology | Notes
----|---|--- 
+---|:---:|--- 
 CPRS | Delphi | Thick client
 Network | TCP/IP | 
 RPC Broker | M | Interface to external systems
