@@ -1,16 +1,7 @@
-## Baseline: VISTA and its Many Clients
+## VISTA Technology Stack
 
-
-### VISTA Technology Stack
-
-An excellent overview, with commentary by the original data architect of VISTA where he suggests a Metadata-driven future for VISTA: https://www.osehra.org/wiki/osehra-system-architecture
-
-http://architecture.osehra.org/
-
-
-* What layers and logic does data pass through during one read/write operation from CPRS to the Global Storage?  
-* Where and how is security enforced? 
-* Where is the busines logic?
+* An excellent overview, with commentary by the original data architect of VISTA where he suggests a Metadata-driven future for VISTA: https://www.osehra.org/wiki/osehra-system-architecture
+* Interactive map of VISTA components: http://architecture.osehra.org/
 
 Layer | Technology | Notes
 ---|:---:|--- 
@@ -27,6 +18,12 @@ OS | Linux/Win | Operating System
 
 M code is interpreted real-time (not compiled or linked), thus allowing an incredible degree of integration across all applications and across all data.
 
+
+### Questions:
+
+* What layers and logic does data pass through during one read/write operation from CPRS to the Global Storage?  
+* Where and how is security enforced? 
+* Where is the busines logic?
 
 
 ### Security
