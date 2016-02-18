@@ -1,5 +1,21 @@
 ## Baseline: VISTA and its Many Clients
 
+VISTA Technology Stack
+
+What layers and logic does data pass through in VISTA/CPRS during one read/write operation?  Where and how is security enforced? Where is the busines logic?
+
+Layer | Technology | Notes
+---|---|--- 
+CPRS | Delphi | Thick client
+Network | TCP/IP | 
+RPC Broker | M | Interface to external systems
+Applications (176) | M | Namespaced applications
+Kernel | M | Interface layer to roll and scroll screen
+Fileman | M | hierarchical, data-dictionary-driven file/field storage
+Global Storage | M | multidimensional key-value store 
+
+
+
 
 ### Security
 What are the current security layers, features, issues, vulnerabilities?
