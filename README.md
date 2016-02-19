@@ -11,7 +11,7 @@ __What?__
 
 > The VA Information Systems Technology Architecture (VISTA) is VA's an integrated EHR and resource management system which provides all adminstrative, financial, and clinical information needs to efficiently manage over 1200 hospitals and clinics throughout the U.S., and to provide veterans access to the highest quality of care, everywhere.  
 
-> There are over 130 instances of VISTA deployed nationwide, and each has evolved independently over the past thirty years. The result is that each VISTA system has its own distinct database and distinct data model.  There is no single "VA system". There are 130. In addition, there is no consistent or standard mechanism to read and write data into any of these VA systems in computable form.
+> There are over 130 instances of VISTA deployed nationwide, and each has evolved independently over the past thirty years. The result is that each VISTA system has its own distinct database and distinct data model.  There is no single "VA system". There are 130. In addition, there is no consistent nor standard mechanism to reading and writing data into any of these VA systems to support transactions.
 
 __Why?__
 
