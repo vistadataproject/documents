@@ -26,7 +26,7 @@ __Why?__
 
 __How?__
 
-> All sources of available metadata and models (both internal to VISTA as well as external) will be transformed to a single integrated web-standard data model which is then annotated, normalized, and enriched. This enhanced model is in turn is embedded back in VISTA as a server-side, security-enabled, transactional (i.e. computable) read/write Master Data Model.   
+> All sources of available metadata and models (both internal to VISTA as well as external) will be transformed to a single integrated web-standard data model which is then annotated, normalized, and enriched. This enhanced model is in turn is embedded back in VISTA as a server-side, security-enabled, symmetric read/write (i.e. transactional) Master Data Model.   
 
 __Where?__
 
