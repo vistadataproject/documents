@@ -1,6 +1,6 @@
 # VISTA Data Project
 
-### A Server-side,  Security-enabled,  Symmetric Read-Write Master Data Model for VA VISTA
+### A Server-side, Secure, Symmetric Read-Write Master Data Model for VA VISTA
 The VISTA Data Project is about comprehensively exposing all of VA's 35 years of patient data and institutional know-how contained in  130 VA VISTA systems in a single machine-processible form, and making all data accessible and computable across all VISTA systems using one consistent mechanism.
 
 ![VDP Overview - Simple](/images/vdp-simple5.png)
