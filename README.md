@@ -28,7 +28,7 @@ __Where?__
 
 ## Technical Overview
 
-![VDP Components Overview](/images/vdp-overview6.png)
+![VDP Components Overview](/images/vdp-overview7.png)
 
 
 ## Technologies
