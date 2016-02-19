@@ -3,26 +3,17 @@
 ### Secure Symmetric Read-Write Master Data Model for VA VISTA
 *A Research and Discovery Prototyype*
 
-
-
-
-
 ![VDP Overview - Simple](/images/vdp-simple5.png)
-
-
-
 
 ## Objective and Method of Delivery
 
 __What?__
 
- >__Provide a comprehensive security-enabled read/write data model for all VA VISTA data  across VA VISTA operational systems__, establishing the technical foundation  for master data management and computable data representation and exchange between VA and DoD clinical information systems. --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.1
+> The VA Information Systems Technology Architecture (VISTA) is VA's an integrated EHR and resource management system which provides all adminstrative, financial, and clinical information needs to run over 1200 hospitals and clinics throughout the U.S. efficiently, and provide veterans access to the highest quality of care, everywhere.  There are over 130 instances of VISTA deployed nationwide, and each has evolved independently over the past thirty years. The result is that each VISTA system has its own distinct database and distinct data model.  There is no single "VA system". There are 130. In addition, there is no secure, standard way to read or write data into any of these VA systems in computable form.
 
 __Why?__
 
-> The VA Information Systems Technology Architecture (VISTA) is VA's an integrated EHR and resource management system which provides all adminstrative, financial, and clinical information needs to run over 1200 hospitals and clinics throughout the U.S. efficiently, and provide veterans access to the highest quality of care, everywhere.  There are over 130 instances of VISTA deployed nationwide, and each has evolved independently over the past thirty years. The result is that each VISTA system has its own distinct database and distinct data model.  There is no single "VA system". There are 130. In addition, there is no secure, standard way to read or write data into any of these VA systems in computable form.
-
-> In order to support the needs of the VISTA Evolution Program, which includes creation of new web-based clients and new services based on VISTA data,  VA needs a __single, standardized mechanism for both read and write of computable data in order to perform transactions against all of the 130 local VISTA systems as if there were only one, national master VISTA system__.  This would reduce the complexity of development and deployment of all new interfaces and services to VISTA from 130 distinct VISTA systems to that of only one standardized, computable master VISTA data model.
+> In order to support the needs of the VISTA Evolution Program, which includes creation of new web-based clients and new services based on VISTA data,  VA needs a __single, standardized mechanism to both read and write computable data to support transactions against all of the 130 local VISTA systems as if they were only one, national master VISTA system__.  This would reduce the complexity of development and deployment of all new interfaces and services to VISTA from 130 distinct VISTA systems to that of only one standardized, computable master VISTA data model.
 
 __How?__
 
