@@ -22,7 +22,7 @@ __Why?__
 
 > The VA Information Systems Technology Architecture (VISTA) is VA's an integrated EHR and resource management system which provides all adminstrative, financial, and clinical information needs to run over 1200 hospitals and clinics throughout the U.S. efficiently, and provide veterans access to the highest quality of care, everywhere.  There are over 130 instances of VISTA deployed nationwide, and each has evolved independently over the past thirty years. The result is that each VISTA system has its own distinct database and distinct data model.  There is no single "VA system". There are 130. In addition, there is no secure, standard way to read or write data into any of these VA systems in computable form.
 
-> VA needs a standardized means to securely read and write computable data into all of the 130 VISTA systems as if there were only one, national master VISTA system.  This would reduce the complexity of interoperability with VA from 130 distinct VISTA systems to that of only one standardized, computable master VISTA data model.
+> In order to support the needs of the VISTA Evolution Program, which includes creation of new web-based clients,  VA needs a standardized means to securely read and write computable data and perform transactions against all of the 130 VISTA systems as if there were only one, national master VISTA system.  This would reduce the complexity of development and deployment of all new interfaces to VISTA from 130 distinct VISTA systems to that of only one standardized, computable master VISTA data model.
 
 __How?__
 
