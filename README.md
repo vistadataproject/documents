@@ -11,7 +11,7 @@ The VISTA Data Project is about comprehensively exposing and representing all of
 
 
 
-## New / Novel Features
+## New and Unique Features
 
 Feature | Details
 ---|---
