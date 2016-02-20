@@ -57,10 +57,10 @@ What are the current read/write capabilities
 System | Read/Write | Notes
 ---|---|---
 VISTA /CPRS | read/write | CPRS RPC-based
-MDWS | read-only | NA
-JLV | read-only | NA
-VPR | read-only | NA
-eHMP | read-only | CPRS RPC-based
+MDWS | read-only | wraps CPRS RPCs
+JLV | read-only | wraps CPRS RPCs
+VPR | read-only | bundles CPRS RPCs
+eHMP | read-only; limited to code-based, RPC-based stateless write | based on VPR RPCs
 
 
 ### Transaction Processing
