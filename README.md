@@ -10,6 +10,19 @@ The VISTA Data Project is about comprehensively exposing and representing all of
 
 
 
+
+## Key Features
+
+Feature | Details
+---|---
+__Prototype-Driven__ |  Employs rapid iterative prototyping approach. *Not waterfall development*.
+__Data-centric__ | Novel approach to managing VISTA data.  *Not a code-centric approach*.
+__Representative__  | Exposes, leverages, and enhances all relevant, representative VA VISTA to the maximium extent available.  The VISTA Data Model comprises the current existing data-driven architecture of VISTA, and therefore leverages all existing VISTA definitions.
+__Noninvasive__ | The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
+__Web-Standard <br>Data Model__  | Exposes VISTA data models and metadata using the World Wide Web Consortium (W3C) [Web Data Model](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD).
+
+
+
 ## Objective and Method of Delivery
 
 __What?__
@@ -75,18 +88,6 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 ## Technical Overview
 
 ![VDP Components Overview](/images/vdp-overview7.png)
-
-
-
-## Key Features
-
-Feature | Details
----|---
-__Prototype-Driven__ |  Employs rapid iterative prototyping approach. *Not waterfall development*.
-__Data-centric__ | Novel approach to managing VISTA data.  *Not a code-centric approach*.
-__Representative__  | Exposes, leverages, and enhances all relevant, representative VA VISTA to the maximium extent available.  The VISTA Data Model comprises the current existing data-driven architecture of VISTA, and therefore leverages all existing VISTA definitions.
-__Noninvasive__ | The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
-__Web-Standard <br>Data Model__  | Exposes VISTA data models and metadata using the World Wide Web Consortium (W3C) [Web Data Model](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD).
 
 
 
