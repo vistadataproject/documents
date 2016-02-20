@@ -6,6 +6,7 @@ The VISTA Data Project is about comprehensively exposing and representing all of
 
 <img style="padding-left: 25em" src="/images/vdp-basic2.png"/>
 
+test
 
 ![VDP Overview - Simple](/images/vdp-basic2.png)
 
