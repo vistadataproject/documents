@@ -6,7 +6,7 @@
 The VISTA Data Project is about comprehensively exposing and representing all of VA's 35 years of patient data and institutional know-how contained in the 130 VA VISTA systems using a modern web-standard machine-processible data model, and through enrichment of the model, make VISTA data accessible securely and in computable form across all VISTA systems with a web standards-based, security-enabled, symmetric-read-write master data model.
 
 
-![VDP-annotated](/images/vdp-basic-annotated6.png)
+![VDP-annotated](/images/vdp-basic-annotated7.png)
 
 
 
