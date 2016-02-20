@@ -56,13 +56,6 @@ Technical decisions by the VA and in mainstream software industry that framed th
 1. By virtue of VA's technical review and approval in the VA Technical Reference Model of the Resource Description Framework ([RDF](https://www.w3.org/standards/techs/rdf#w3c_all)), VA  endorses the RDF data model for use in the VA enterprise architecture. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405).
 1. JSON-LD is the most commonly used form of RDF deployed in production settings. It is used by Google, Yahoo, and Microsoft as a common mechanism to structure and index all the data on the web by their search engines, and by the U.S. National Library of Congress and U.S. National Library of Medicine to structure and search all published books and medical journals, respectively.  See [JSON-LD](http://json-ld.org).
 
-Additional review of these and other foundation technologies is contained in the [Background](https://github.com/vistadataproject/documents/tree/master/Background) section.
-
-
-## Baseline Systems
-
-* Current, baseline VISTA and Client functionality and capability (security, performance, read/write) are described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
-
 
 
 ## Technologies
@@ -83,13 +76,13 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 ![](/images/logos-tech/square/60h/CC.jpg)
 ![](/images/logos-tech/square/60h/asf.jpg)  
 
+* Additional review of these and other foundation technologies is contained in the [Background](https://github.com/vistadataproject/documents/tree/master/Background) section.
+* Current, baseline VISTA and Client functionality and capability (security, performance, read/write) are described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
 
 
 ## Technical Overview
 
 ![VDP Components Overview](/images/vdp-overview7.png)
-
-
 
 ## Tracks
 
