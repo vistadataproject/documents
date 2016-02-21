@@ -9,7 +9,7 @@ The VISTA Data Project is about comprehensively exposing and representing all 35
 
 ## Features
 
-*Unique features of this prototype include:*
+*Unique features of this project and approach include:*
 
 Feature | Details
 ---|---
