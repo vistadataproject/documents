@@ -76,7 +76,7 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 ![](/images/logos-tech/square/60h/asf.jpg)  
 
 * Detailed review of these and other foundation technologies is contained in the [Background](https://github.com/vistadataproject/documents/tree/master/Background) section.
-* The current baseline VISTA and Client functionality and capability (security, performance, read/write) are described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
+* The current baseline VISTA and Client functionality and capability is described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
 
 
 ## Technical Overview
