@@ -21,7 +21,7 @@ __Data Security__ | Provides VISTA with its first comprehensive, granular, "on-t
 __Data-centric__ | A new approach to managing VISTA's data.  *Not a code-centric approach*.
 __Model-driven__ | A model-driven architecture is a new approach to data managment of VISTA data.  *Not a code-centric approach*.
 __Server-side__ | All data and models are processed server-side, in-process - eliminating moving parts and maximizing performance.
-__Self-Contained__ | All data and models transformations and transactions occur 'in-situ' without moving data.  *No "moving parts". No external dependencies. Fully self-contained.*
+__Self-Contained__ | All data and models transformations and transactions occur 'in-situ' on the data within the database.  *No "moving parts". No external dependencies.* This makes it easy to deploy, maintain, and keep highly performant.
 __Representative__  | Exposes, leverages, and enhances all relevant, representative VA VISTA to the maximium extent available.  The VISTA Data Model comprises the current existing data-driven architecture of VISTA, and therefore leverages all existing VISTA definitions.
 __Noninvasive__ | The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 __Web-Model__  | Exposes and manages all VISTA data models using the machine-processable, universal web data model called Resource Description Framework (RDF).  This is the same web model and approach  used by Google, Yahoo, Microsoft, and other major search engines to structure and index all the structured data on the web.
