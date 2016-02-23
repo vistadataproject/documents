@@ -14,7 +14,6 @@ The VISTA Data Project is about comprehensively exposing and representing all 35
 
 Feature | Details
 ---|---
-
 __Uniform__ | Provides VISTA with its first universal, uniform mechanism for reading and writing data
 __Reliability and Safety__ | Provides VISTA with consistent, strict error checks for information provided by clients. *Not hodge-podge of inconsistent methods - HL7, RPCs, and procedureal code - which are all permissive)
 __Prototype-Driven__ |  Employs rapid iterative prototyping approach. *Not waterfall development*.
