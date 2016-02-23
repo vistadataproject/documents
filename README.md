@@ -1,7 +1,7 @@
 # VISTA Data Project
 
 ### Providing a Master Data Model for VA's VISTA:
-#### *Web-standard. Security-enabled. Symmetric-Read-Write.*
+#### *Web-standard. Server-side. Security-enabled. Symmetric-Read-Write.*
 
 The VISTA Data Project is about comprehensively exposing and representing all 35 years of patient data and institutional know-how currently in all the VA's 130 VISTA systems using a modern web-standard data model (Linked Data); and by enriching this model, make all relevant VISTA data accessible and computable across all VISTA systems using a single, web-standard, security-enabled, symmetric-read-write (i.e. transactional) Master Data Model.
 
@@ -17,6 +17,8 @@ Feature | Details
 __Prototype-Driven__ |  Employs rapid iterative prototyping approach. *Not waterfall development*.
 __Data-centric__ | Novel approach to managing VISTA data.  *Not a code-centric approach*.
 __Model-driven<br>Architecture__ | Novel approach to data managment of VISTA data.  *Not a code-centric approach*.
+__Server-side__ <br>
+__Self-Contained__ | All data and models are processed server-side, "on-the-metal*, maximizing performance.  *No moving parts. No external dependencies. Fully self-contained*
 __Representative__  | Exposes, leverages, and enhances all relevant, representative VA VISTA to the maximium extent available.  The VISTA Data Model comprises the current existing data-driven architecture of VISTA, and therefore leverages all existing VISTA definitions.
 __Noninvasive__ | The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 __Web-Standard <br>Data Model__  | Exposes VISTA data models and metadata using the World Wide Web Consortium (W3C) [Web Data Model](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD).
