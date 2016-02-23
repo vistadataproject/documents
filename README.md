@@ -10,7 +10,7 @@ The VISTA Data Project is about comprehensively exposing and representing all 35
 
 ## Features
 
-*Unique features of this project and approach include:*
+*Unique features and approach to VISTA Data management include:*
 
 Feature | Details
 ---|---
