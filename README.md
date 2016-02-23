@@ -16,7 +16,7 @@ Feature | Details
 ---|---
 __Uniform Access__ | Provides VISTA with its first universal, uniform mechanism for reading and writing data
 __Safety__ | Provides VISTA with its first single, comprehensive framework for strict error checks for all information provided to or from clients. *This is a major improvement over the hodge-podge of inconsistent methods (HL7, RPCs, procedureal code), all of which are permissive*
-__Security__ | Provides VISTA with its first comprehensive, data-level security model. This is the foundation for any modern role-based security architecture.
+__Security__ | Provides VISTA with its first comprehensive, granular, "on-the-data", data-level security model. This is the foundation for any modern role-based security architecture.
 __Prototype-Driven__ |  Employs a rapid iterative prototyping approach. *Not waterfall development*.
 __Data-centric__ | A new approach to managing VISTA's data.  *Not a code-centric approach*.
 __Model-driven__ | A model-driven architecture is a new approach to data managment of VISTA data.  *Not a code-centric approach*.
