@@ -14,17 +14,17 @@ The VISTA Data Project is about comprehensively exposing and representing all 35
 
 Feature | Details
 ---|---
-__Uniform Access__ | Provides VISTA with its first universal, uniform mechanism for reading and writing data
-__Safety__ | Provides VISTA with its first single, comprehensive framework for strict error checks for all information provided to or from clients. *This is a major improvement over the hodge-podge of inconsistent methods (HL7, RPCs, procedureal code), all of which are permissive*
-__Security__ | Provides VISTA with its first comprehensive, granular, "on-the-data", data-level security model. This is the foundation for any modern role-based security architecture.
 __Prototype-Driven__ |  Employs a rapid iterative prototyping approach. *Not waterfall development*.
+__Uniform Access__ | Provides VISTA with its first universal, uniform mechanism for reading and writing data
+__Data Safety__ | Provides VISTA with its first single, comprehensive framework for strict error checks for all information provided to or from clients. *This is a major improvement over the hodge-podge of inconsistent methods (HL7, RPCs, procedureal code), all of which are permissive*
+__Data Security__ | Provides VISTA with its first comprehensive, granular, "on-the-data", data-level security model. This is the foundation for any modern role-based security architecture.
 __Data-centric__ | A new approach to managing VISTA's data.  *Not a code-centric approach*.
 __Model-driven__ | A model-driven architecture is a new approach to data managment of VISTA data.  *Not a code-centric approach*.
 __Server-side__ | All data and models are processed server-side, in-process - eliminating moving parts and maximizing performance.
 __Self-Contained__ | All data and models transformations and transactions occur 'in-situ' without moving data.  *No "moving parts". No external dependencies. Fully self-contained.*
 __Representative__  | Exposes, leverages, and enhances all relevant, representative VA VISTA to the maximium extent available.  The VISTA Data Model comprises the current existing data-driven architecture of VISTA, and therefore leverages all existing VISTA definitions.
 __Noninvasive__ | The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
-__Web-Standard__  | Exposes VISTA data models and metadata using the World Wide Web Consortium (W3C) [Web Data Model](https://github.com/vistadataproject/documents/tree/master/Background#standards) (RDF, JSON-LD).
+__Web-Standard__  | Exposes and manages all VISTA data models using the machine-processable, universal web-standard [Web Data Model](https://github.com/vistadataproject/documents/tree/master/Background#standards) (JSON-LD). This is the same web model used by Google, Yahoo, Microsoft, and other major search engines to structure their knowledge graphs and provide web-scale semantic search.
 
 
 
