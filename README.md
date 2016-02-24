@@ -15,8 +15,8 @@ The VISTA Data Project is about comprehensively exposing and representing all 35
 Feature | Details
 ---|---
 __Prototype-Driven__ |  Employs a rapid iterative prototyping approach. *Not waterfall development*.
-__Uniform Access__ | Provides VISTA with its first universal, uniform mechanism for reading and writing data.  This mechamism fully standardized and unified by virtue of the fact that teh read data model has been integrated  with the write data model as one unified,  symmetric model.  
-__Data Safety__ | Provides VISTA with its first single, comprehensive framework for strict error checks for all information provided to or from clients. *This is a major improvement over the hodge-podge of inconsistent methods (HL7, RPCs, procedureal code), all of which are permissive*
+__Uniform Access__ | Provides VISTA with its first universal, uniform mechanism for reading and writing data.  This mechamism fully standardized and unified through a read data model and write write data model fully integrated into a single, symmetric model.  
+__Data Safety__ | Provides VISTA with its first single, comprehensive framework for strict error checks for all information provided to or from all clients. *This is a major improvement over the hodge-podge of inconsistent methods (HL7, RPCs, procedural code), all of which are permissive*
 __Data Security__ | Provides VISTA with its first comprehensive, granular, "on-the-data", data-level security model. This is the foundation for any modern role-based security architecture.
 __Data-centric__ | A new approach to managing VISTA's data.  *Not a code-centric approach*.
 __Model-driven__ | A model-driven architecture is a new approach to data managment of VISTA data.  *Not a code-centric approach*.
