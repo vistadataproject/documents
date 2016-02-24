@@ -25,7 +25,7 @@ __Self-Contained__ | All data and models transformations and transactions occur 
 __Representative__  | Exposes, leverages, and enhances all relevant, representative VA VISTA to the maximium extent available.  The VISTA Data Model comprises the current existing data-driven architecture of VISTA, and therefore leverages all existing VISTA definitions. Any and all enhancements to the VISTA system and its data definitions will automatically be reflected in the VISTA Data Model through automated, triggred updates whenever VISTA's data dictionary is updated (i.e. 100% correspondence of the VDM to any local VISTA).
 __Noninvasive__ | The VISTA Data Model provides essential new functionality on top of the unmodified VISTA architecture 'as is'. No existing VISTA code, routines, packages, modules, or infrastructure will be affected or changed in any way (i.e. this is 'safe' and 'noninvasive').
 __Web-Model__  | Exposes and manages all VISTA data models using the machine-processable, universal web data model called Resource Description Framework (RDF).  This is the same web model and approach  used by Google, Yahoo, Microsoft, and other major search engines to structure and index all the structured data on the web.
-__Web-Standard__ |  All technologies empoloyed are web standard.  For further information see [standards details](https://github.com/vistadataproject/documents/tree/master/Background#standards).
+__Web-Standard__ |  All technologies empoloyed are web standard.  For further information see [standards and technologies](https://github.com/vistadataproject/documents/tree/master/Background#standards).
 
 
 
