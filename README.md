@@ -25,7 +25,7 @@ __Self-Contained__ | __The  VISTA Data Model is embedded directly on the existin
 __Real-Time__ | The VISTA Data Model runtime environment uses Best-of-Breed real-time embedded technology, maximizing transactional processing performance. This is the same runtime environment used to power the largest commericial transactional websites such as eBay. 
 __Web-Standard__ |  All technologies employed are web standard and used by the worlds' largest corporations and organizations.  For further information see [standards and technologies](https://github.com/vistadataproject/documents/tree/master/Background#standards).
 __Web-Scale__  | Manages all VISTA data using the same universal world wide web data model and Linked Data technology used by Google, Yahoo, Microsoft, and other major search engines to crawl, link, and index *all structured data on the web.*
-__Data-driven__ | A new approach to managing VISTA's data. <br> *Not a code-centric approach*.
+__Data-driven__ | A new approach to managing VISTA's data.  *Not a code-centric approach*.
 __Prototype-Evolution__ |  Employs a rapid iterative prototyping approach to evolving VISTA's functionality. *Not waterfall development*.  See [spiral model](https://en.wikipedia.org/wiki/Spiral_model)
 
 
