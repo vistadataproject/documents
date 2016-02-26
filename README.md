@@ -26,7 +26,7 @@ __Real-Time__ | The VISTA Data Model runtime environment uses Best-of-Breed real
 __Web-Standard__ |  All technologies employed are web standard and used by the worlds' largest corporations and organizations.  For further information see [standards and technologies](https://github.com/vistadataproject/documents/tree/master/Background#standards).
 __Web-Scale__  | Manages all VISTA data using the same universal world wide web data model and Linked Data technology used by Google, Yahoo, Microsoft, and other major search engines to crawl, link, and index *all structured data on the web.*
 __Data-driven__ | A new approach to managing VISTA's data.  *Not a code-centric approach*.
-__Prototype-Evolution__ |  Employs a rapid iterative prototyping approach to evolving VISTA's functionality. *Not waterfall development*.  See [spiral model](https://en.wikipedia.org/wiki/Spiral_model)
+__Empiric Evolution__ |  Employs a rapid iterative prototyping approach to evolving VISTA's functionality. *Not waterfall development*.  See [spiral model](https://en.wikipedia.org/wiki/Spiral_model)
 
 
 
