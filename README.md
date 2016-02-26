@@ -17,7 +17,7 @@ The VISTA Data Project is an approach to comprehensively expose and represent al
 Feature | Details
 ---|---
 __Uniform Access__ | Provides VISTA with its first universal, standardized mechanism for reading and writing data.  This mechamism is unified through a read model and write write model that are integrated into one single, symmetric-read-write VISTA Data Model (VDM; See diagram above). *This overcomes the well understood shortcoming with VISTA Data Read and Write. The 20+ year old CPRS-specific RPC Broker cannot be relied on going forward, particularly for non-CPRS clients.*
-__Data Integrity__ | Provides VISTA with its first single, comprehensive framework for strict validation and consistency checks for all information provided to or from all clients. *This is a major improvement over the hodge-podge of methods (HL7, RPCs, procedural code), which are all inconsistent, unpredictable, and highly permissive*
+__Data Integrity__ | Provides VISTA with its first single, comprehensive framework for strict validation and consistency checks for all information provided to or from all clients. *This is a major improvement over the hodge-podge of methods (HL7, RPCs, procedural code), which are all inconsistent, unpredictable, and permissive*
 __Data Security__ | Provides VISTA with its first comprehensive, granular, on-the-data, *Data-Level Security Model*. This is the foundation for any modern role-based security architecture. See [Data-Centric Security](https://en.wikipedia.org/wiki/Data-centric_security)
 __Data-driven__ | A new approach to managing VISTA's data.  *Not a code-centric approach*.
 __Model-centric__ | A model-centric architecture is a new approach to data managment of VISTA data.  *Not a code-centric approach*.
