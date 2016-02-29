@@ -248,12 +248,12 @@ C | 35 |  VISTA Application model(s)/Prototype(s) [Tests] | [MVDM](https://githu
 C | 36 |  Meta-model(s) [VPR] Prototype(s) | [MVDM](https://github.com/vistadataproject/MVDM) | Test code that shows how well the MVDM supports VPR (Read-only) convenience methods - read-only side of #35 | Javascript, Python | Q2 &#8594; Q3  | 5.4.2
 &nbsp; ||||||
 
-#### Track D: Master VISTA Data Model maps
+#### Track D: Master VISTA Data Model Linkage
 Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
 :---: | :---: | :---: | :---: | :---: | :--- | :---: | :---: 
 D | 32  |  Prototype Web-based Rules Hub  | [MVDMlink](https://github.com/vistadataproject/MVDMlink) | Prototype a sharable, crowd source-able mechanism to exchange and grow a library of open, standards-based, validated, and exchangeable transformation rules | Web-based interface | Q3 | 5.4.1
 D | 39 |  Reference model(s)/Prototype(s) ["MVDM Linker"] | [MVDMlink](https://github.com/vistadataproject/MVDMlink) | Prototypes that demonstrate linking out from MVDM | Javascript and/or other translation rules languages | Q3 &#8594; Q4  | 5.4.2
-D | 40 |  Document VISTA-ese for Linking  | [MVDMlink](https://github.com/vistadataproject/MVDMlink) | Human-readable mapping descriptions | Markdown | Q3 &#8594; Q4 | 5.4.2
+D | 40 |  Document VISTA-ese for Linking  | [MVDMlink](https://github.com/vistadataproject/MVDMlink) | Human-readable link descriptions | Markdown | Q3 &#8594; Q4 | 5.4.2
 &nbsp; ||||||
 
 
