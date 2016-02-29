@@ -8,7 +8,8 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 ![VDP-annotated](/images/vdp-basic-annotated12.png)
 
 
-__Data-Centric__:  __MVDM is a completely new, purely data-centric approach to managing VISTA's data__.  It does not involve changing a single line of VISTA's existing M procedural code, nor is it 'wrapping' (i.e. secretly using) any legacy code, routines, or RPCs dressed up within a shiny new programming language or encapsulation mechanisms, which add yet more layers of obfuscation on the data. A data-centric approach __*comprehensively exposes all the data, which exposes the fact that VISTA has a data model*__ - which up to this point has not been realized nor taken advantage of. *This is the opposite of a code-centric approach, which obfuscates the data and its data model*.
+__VISTA Data Project is a completely new, purely data-centric approach to managing VISTA's data__.  It does not involve changing a single line of VISTA's legacy M procedural code, nor is it 'wrapping' (secretly using) any legacy M code, routines, or RPCs dressed up within a new programming language or encapsulation mechanisms, which only add more layers of obfuscation to the data. A data-centric approach __*comprehensively exposes all the data, which exposes the fact that VISTA has a data model*__ - which up to this point has not been realized nor taken advantage of. 
+
 
 
 ## Features
