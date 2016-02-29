@@ -11,10 +11,9 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 ## Features
 
-__VISTA Data Project is a completely new, purely data-centric approach to managing VISTA's data__.  It does not involve changing a single line of VISTA's legacy M procedural code, nor is it 'wrapping' (i.e. secretly using) any legacy M code, routines, or RPCs dressed up as a shiny new programming language or encapsulation mechanisms, which only add more layers of obfuscation to the data. A data-centric approach __*comprehensively exposes all the data, which exposes the fact that VISTA has a data model*__ - which up to this point has not been realized nor taken advantage of. 
+__VISTA Data Project is a completely new, purely data-centric approach to managing VISTA's data__.  A data-centric approach __*comprehensively exposes all the data, which exposes the fact that VISTA has a data model*__ - which up to this point has not been realized nor taken advantage of. 
 
-
-*Specific new and unique features for VISTA Data management that the Master VISTA Data Model (MVDM) provides:*
+*New and unique features for VISTA Data management that the Master VISTA Data Model (MVDM) provides:*
 
 Feature | Details
 ---|---
