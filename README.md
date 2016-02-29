@@ -108,7 +108,7 @@ Track | Name | Description | Git | Technical Deliverables
 A | Infrastructure | Project infrastructure including Test VISTA (“nodeVISTA”), gits, tooling, website | [nodeVISTA](https://github.com/vistadataproject/nodeVISTA), [Website](https://github.com/vistadataproject/vistadataproject.github.io), [documents](https://github.com/vistadataproject/documents) | 3
 B | VDM | VISTA Data Model (VDM) - Comprehensive, native model exposure and package implementation for any specific VISTA | [VDM](https://github.com/vistadataproject/VDM) | 12
 C | MVDM | Master VISTA Data Model (MVDM) - Definition and implementation of master data model spanning all VISTA instances | [MVDM](https://github.com/vistadataproject/MVDM) | 9
-D | MVDMmap | Mapping MVDM to other models such as FHIR | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | 3
+D | MVDMlink | Linking VISTA through MVDM to other systems and services | [MVDMlink](https://github.com/vistadataproject/MVDMlink) | 3
 PM | Project Management | Business/Project Management  | [documents](https://github.com/vistadataproject/documents) | &nbsp;
 
 
@@ -199,7 +199,7 @@ VPR RPC models 			| VPR Maker 		|  vpr.jsonld
 dd.jsonld + rpc.jsonld   	| VDM Maker 		| vdm.jsonld  
 vdm.jsonld + vpr.jsonld 	| MVDM Maker 		| mvdm.jsonld
 vdm.jsonld 			| PIKS Generator 	| piks.jsonld
-MVDM 				| MVDMmap 		| FHIR
+MVDM 				| MVDMlink 		| Linked-data definitions
 Markdown 			| Doc Generator	|  PDF, HTML
 
 
@@ -251,15 +251,15 @@ C | 36 |  Meta-model(s) [VPR] Prototype(s) | [MVDM](https://github.com/vistadata
 #### Track D: Master VISTA Data Model maps
 Track  | PWS#  | Name |  Git | Content(s) | Format(s) | WBS |  PWS<br>Section
 :---: | :---: | :---: | :---: | :---: | :--- | :---: | :---: 
-D | 32  |  Prototype Web-based Rules Hub  | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | Prototype a sharable, crowd source-able mechanism to exchange and grow a library of open, standards-based, validated, and exchangeable transformation rules | Web-based interface | Q3 | 5.4.1
-D | 39 |  Reference model(s)/Prototype(s) ["FHIR Translator"] | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | Prototypes that demonstrate mapping from MVDM to FHIR | Javascript and/or other translation rules languages | Q3 &#8594; Q4  | 5.4.2
-D | 40 |  Document VISTA-ese vs. FHIR  | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | Human-readable mapping descriptions | Markdown | Q3 &#8594; Q4 | 5.4.2
+D | 32  |  Prototype Web-based Rules Hub  | [MVDMlink](https://github.com/vistadataproject/MVDMlink) | Prototype a sharable, crowd source-able mechanism to exchange and grow a library of open, standards-based, validated, and exchangeable transformation rules | Web-based interface | Q3 | 5.4.1
+D | 39 |  Reference model(s)/Prototype(s) ["MVDM Linker"] | [MVDMlink](https://github.com/vistadataproject/MVDMlink) | Prototypes that demonstrate linking out from MVDM | Javascript and/or other translation rules languages | Q3 &#8594; Q4  | 5.4.2
+D | 40 |  Document VISTA-ese for Linking  | [MVDMlink](https://github.com/vistadataproject/MVDMlink) | Human-readable mapping descriptions | Markdown | Q3 &#8594; Q4 | 5.4.2
 &nbsp; ||||||
 
 
 ### Notes
 
-  * Enumerated above are 27 technical deliverables within four tracks ( _VDM_, _MVDM_, _MVDMmap_, and _Infrastructure_).
+  * Enumerated above are 27 technical deliverables within four tracks ( _VDM_, _MVDM_, _MVDMlink_, and _Infrastructure_).
   * Deliverables E1-4 are required but not explicitly enumerated in the PWS.
   * Deliverable #’s have gaps. The following PWS deliverables were retired as redundant or out of scope per government determination: 6, 16, 17, 20-24, 26, 27, 29-31, 34, 37, 38
   * __There is a substantial difference in complexity between read-only and read-write models and implementations.__ To write anything demands knowledge of rules that go beyond the demands of reading. As a result, both VDM and MVDM models and packages will be delivered in two phases, with read coming first. 
