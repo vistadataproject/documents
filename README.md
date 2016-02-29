@@ -147,7 +147,7 @@ More artifacts may be identified as work proceeds.
 5. | mvdm.jsonld | JSON-LD | Formal definition of the MVDM subset of VDM that supports full CRUD | 10.1, 10.2
 6. | piks.jsonld | JSON-LD | Formal annotation of vdm.jsonld that distinguishes Patient, Institution, Knowledge and System (PIKS) classes and properties | 18
 7. | nodeVISTA Scenarios | GT.M and Cache Databases | VISTA databases for testing and demonstrations | Part of E2.2 Development
-8. | MVDM to FHIR Rules | Rules Format | Translation rules (MVDM to FHIR) | Part of 39
+8. | MVDM Linkage Rules | Rules Format | Linkage rules (MVDM out) | Part of 39
 
 #### Software
 
@@ -168,7 +168,7 @@ More artifacts may be identified as work proceeds.
 13. | Example Query Clients | Python, Javascript | Example command line clients that show how to use the FQS | 25
 14. | FQS Web Client | Javascript, HTML | Browser based client for using the FQS | 33
 15. | Metadata Cacher	| Javascript | queries (VISTA Application) metadata using VDM Package | 15
-16. | FHIR Translator | Javascript, Translation rules | prototypes showing mapping from MVDM to FHIR | 39
+16. | MVDM Linker | Javascript, Linking rules | prototypes showing linking of VISTA through MVDM | 39
 17. | Web-based Rules Hub | Javascript, HTML | host for Translation rules | 32
 18. | Document Generators	| Various |	Generators of documentation leveraging common packages such as Sphinx and JSDoc and translators from Markdown to PDF and HTML | E4
 
@@ -185,7 +185,7 @@ Per the PWS, all non PM documentation will be delivered on the Project Gits in t
 3. | [MVDM] Normalization Reports | 12
 4. | Report on [MVDM] Exposure of older models | 14
 5. | Prototype Patient-centric Data Security [Document] | 28 (Document)
-6. | Document VISTA-ese vs. FHIR | 40
+6. | Document VISTA-ese linkability | 40
 
 In addition, programmer documentation will be generated for _VDM Package_, _MVDM Module_ and _FQS_.
 
