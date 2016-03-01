@@ -15,11 +15,14 @@ Agencies use GitHub to engage developers and collaborate with the public on open
 https://government.github.com/
 
 
-### Github as a Content Management System
+### Github for CMS
 http://justwriteclick.com/2015/12/17/why-use-github-as-a-content-management-system/
 
-### Basic use
 
+### Github for Documentation
+https://opensource.com/business/15/7/continuous-integration-and-continuous-delivery-documentation
+
+### Basic use
 To configure:
 >git config --local --list
 git config user.name "userName"
