@@ -15,6 +15,9 @@ Agencies use GitHub to engage developers and collaborate with the public on open
 https://government.github.com/
 
 
+### Github as a Content Management System
+http://justwriteclick.com/2015/12/17/why-use-github-as-a-content-management-system/
+
 ### Basic use
 
 To configure:
