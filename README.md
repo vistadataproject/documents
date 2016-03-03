@@ -8,7 +8,7 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 ![VDP-annotated](/images/vdp-basic-annotated12.png)
 
 
-## VISTA Features
+## New VISTA Features
 
 The VISTA Data Project is a new data-centric approach to VISTA's data. In contrast to the historical code-centric approach to VISTA (where its data is fragmented into thousands of logically disconnected slices and then encapsulated by layers of opaque, undocumented procedural code, further obfuscating the data),  in a data-centric approach to VISTA one first comprehensively exposes all the data in the system, revealing the native and overarching data model.  This master data model - the roadmap to all of VA's institutional knowhow and data - has thus far organically evolved over the past 35 years, hidden from view.  Now, for the first time, this model will be comprehensively surfaced and taken advantage of. 
 
@@ -25,7 +25,7 @@ __Data Linkage__  | __MVDM provides VISTA with the capability to directly, seman
 
 ## MVDM Attributes
 
-Feature | Details
+Attribute | Details
 ---|---
 __Representative__  | __MVDM operationalizes all relevant VA VISTA data to the maximum extent available.__ <br> The VISTA Data Model comprises the current existing data-driven architecture of VISTA, and thus leverages all existing VISTA definitions. There is 100% correspondence and coverage of the internal data definitions of any local VISTA and that of its corresponding  VISTA Data Model (VDM), since these are maintained always in-sync and up-to-date. Any and all enhancements to any VISTA system and its data definitions will automatically be reflected in the VISTA Data Model through automated, triggered updates whenever VISTA's data dictionary is updated. 
 __Real-Time__ | __MVDM is operationalized using Best-of-Breed real-time server-side runtime technology.__<br> The same runtime technology that runs the largest commericial real-time high-traffic websites such as Walmart, eBay, PayPal, Netflix, Uber, LinkedIn, and the New York Times also runs MVDM. *This maximizes transactional processing performance directly on the transactional database.*
