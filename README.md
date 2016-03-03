@@ -30,7 +30,7 @@ __Empiric Evolution__ | __MVDM employs a new approach to emprically evolving VIS
 
 
 
-__Note: As a side-effect of VA taking a data-centric, model-driven approach to VISTA's data, a very high percentage of VISTA's legacy code can be retired.__
+__Note: As a side-effect of VA taking a data-centric, model-driven approach to VISTA's data, a very high percentage of VISTA's legacy code, which is undocumented and unmaintainable - can be retired.__
 
 
 
