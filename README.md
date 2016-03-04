@@ -7,6 +7,8 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 ![VDP-annotated](/images/vdp-basic-annotated12.png)
 
+.
+.
 
 ## VISTA Features
 
