@@ -1,4 +1,4 @@
-## VISTA Introduction
+# VISTA Introduction
 
 ## Links
 
@@ -6,7 +6,8 @@
 * Interactive map of VISTA components: [Component Map](http://architecture.osehra.org)
 
 
-## VISTA Overview
+## VISTA Baseline (2015)
+
 ![vista baseline](http://www.osehra.org/sites/default/files/2011_system_architecture_baseline_0.jpg)
 
 
