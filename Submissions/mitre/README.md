@@ -1,9 +1,6 @@
 ![vdp-onePager-mitre](https://github.com/vistadataproject/documents/blob/master/Submissions/mitre/vdp-mitre.png)
 
 
-![vdp-onePager-mitre](https://github.com/vistadataproject/documents/blob/master/Submissions/mitre/vdp-mitre.pdf)
-
-
 #### MITRE team
 
 * Castleberry, John E. [jcastleberry@mitre.org] - LEAD
