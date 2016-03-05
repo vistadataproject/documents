@@ -1,7 +1,5 @@
-# VISTA Introduction
-
-
-## VISTA Architecture
+# VISTA  Architecture
+Baseline VISTA Architecture as of January 2016.
 
 ![vista baseline](http://www.osehra.org/sites/default/files/2011_system_architecture_baseline_0.jpg)
 
