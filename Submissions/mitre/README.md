@@ -9,5 +9,4 @@ MITRE Team:
 * Grayeli, Parisa [pgrayeli@mitre.org]
 
 
-
-
+![vdp-onePager-mitre](https://github.com/vistadataproject/documents/blob/master/Submissions/mitre/vdp-one_pager-mitre-2016-03-02.png)
