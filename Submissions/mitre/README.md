@@ -1,4 +1,4 @@
-![vdp-onePager-mitre](https://github.com/vistadataproject/documents/blob/master/Submissions/mitre/vdp-mitre.png)
+![vdp-onePager-mitre](https://github.com/vistadataproject/documents/blob/master/Submissions/mitre/src/vdp-mitre.png)
 
 
 #### MITRE team
