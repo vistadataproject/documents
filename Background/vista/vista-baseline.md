@@ -1,4 +1,4 @@
-## VISTA Technology Stack
+## VISTA Technology
 
 
 ### Baseline Architecture (2015)
