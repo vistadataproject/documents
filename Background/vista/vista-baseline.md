@@ -1,16 +1,16 @@
 ## VISTA Technology
 
+### Introduction
 
-### Baseline Architecture (2015)
+* System overview, with commentary by the original VISTA data architect, Tom Munneke [System Overview]( https://www.osehra.org/wiki/osehra-system-architecture): 
+* Interactive map of VISTA components: [Component Map](http://architecture.osehra.org)
+
 
 ![vista baseline](http://www.osehra.org/sites/default/files/2011_system_architecture_baseline_0.jpg)
 
 
 
-### Introduction
 
-* Commentary by the original VISTA data architect, Tom Munneke: [System Overview]( https://www.osehra.org/wiki/osehra-system-architecture): 
-* Interactive map of VISTA components: [Interactive Map](http://architecture.osehra.org)
 
 
 ### Technology Layers
