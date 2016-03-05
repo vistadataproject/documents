@@ -1,10 +1,8 @@
 ## VISTA Technology Stack
 
-VISTA overview - with commentary by the original data architect on the Metadata-driven future of VISTA
-* https://www.osehra.org/wiki/osehra-system-architecture
+VISTA overview: With commentary by Tom Munneke,  the original data architect of VISTA:  [system overview]( https://www.osehra.org/wiki/osehra-system-architecture)
 
-Interactive map of VISTA components
-* http://architecture.osehra.org/
+Interactive map of VISTA components: [components-map](http://architecture.osehra.org)
 
 
 Layer | Technology | Notes
