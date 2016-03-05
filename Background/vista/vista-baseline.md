@@ -2,8 +2,11 @@
 
 ## Links
 
-* System overview, with commentary by the original VISTA data architect, Tom Munneke [System Overview]( https://www.osehra.org/wiki/osehra-system-architecture): 
-* Interactive map of VISTA components: [Component Map](http://architecture.osehra.org)
+Link | Notes
+--- | ---
+[System Overview]( https://www.osehra.org/wiki/osehra-system-architecture) | System overview, with commentary by the original VISTA data architect, Tom Munneke 
+[Component Map](http://architecture.osehra.org) | Interactive map of VISTA components: 
+
 
 
 ## VISTA Baseline (2015)
