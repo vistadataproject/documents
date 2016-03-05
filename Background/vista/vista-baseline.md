@@ -1,7 +1,8 @@
 ## VISTA Technology Stack
 
-[System Overview]( https://www.osehra.org/wiki/osehra-system-architecture): With commentary by the original VISTA data architect
-[Interactive Map](http://architecture.osehra.org) of VISTA components
+Links:
+* [System Overview]( https://www.osehra.org/wiki/osehra-system-architecture): With commentary by the original VISTA data architect
+* [Interactive Map](http://architecture.osehra.org) of VISTA components
 
 
 Layer | Technology | Notes
