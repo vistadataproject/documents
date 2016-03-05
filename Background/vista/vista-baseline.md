@@ -1,13 +1,13 @@
 # VISTA  Architecture
 Baseline VISTA Architecture as of January 2016.
 
-![vista baseline](http://www.osehra.org/sites/default/files/2011_system_architecture_baseline_0.jpg)
-
-
 Links | Notes
 --- | ---
 [System Overview]( https://www.osehra.org/wiki/osehra-system-architecture) | System overview, with commentary by the original VISTA data architect, Tom Munneke 
 [Component Map](http://architecture.osehra.org) | Interactive map of VISTA components: 
+
+
+![vista baseline](http://www.osehra.org/sites/default/files/2011_system_architecture_baseline_0.jpg)
 
 
 
