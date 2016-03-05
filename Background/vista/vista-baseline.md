@@ -1,12 +1,19 @@
 ## VISTA Technology Stack
 
-Current State:
+
+### Baseline Architecture (2015)
 
 ![vista baseline](http://www.osehra.org/sites/default/files/2011_system_architecture_baseline_0.jpg)
+
+
+
+### Introduction
 
 * Commentary by the original VISTA data architect, Tom Munneke: [System Overview]( https://www.osehra.org/wiki/osehra-system-architecture): 
 * Interactive map of VISTA components: [Interactive Map](http://architecture.osehra.org)
 
+
+### Technology Layers
 
 Layer | Technology | Notes
 ---|:---:|--- 
