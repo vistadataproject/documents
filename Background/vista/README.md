@@ -5,14 +5,14 @@
 #### VISTA supports healthcare delivery at over 1200+ hospitals and clinics nationwide
 ![vista-usa](https://github.com/vistadataproject/documents/blob/master/images/deployment-usa.jpg)
 
+#### VISTA supports the healthcare delivery of many nations outside the U.S.A.
 ![vista-world](https://github.com/vistadataproject/documents/blob/master/images/deployment-worldwide.jpg)
 
-#### VISTA as the national healthcare delivery systems of many countries outside the U.S.A.
+
+#### Current News and Reviews
+
 * [VISTA rivals private sector EHRs in popularity](http://www.openhealthnews.com/hotnews/vista-rival-epic-and-cerner-major-deployments-ehr-systems)
-
-
-#### Current Reviews
-* [2014 National physician poll of EHR usability: VISTA rated highest]()
+* [2014 National physician survey of EHR usability: VISTA ranks #1]()
 
 
 #### VISTA
