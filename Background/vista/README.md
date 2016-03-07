@@ -1,10 +1,9 @@
 ### Veterans Information Systems and Technology Architecture (VISTA)
 
-
 #### News and Reviews
 
 * [VISTA rivals private sector EHRs in popularity and deployments](http://www.openhealthnews.com/hotnews/vista-rival-epic-and-cerner-major-deployments-ehr-systems)
-* [National survey of 18,000 physicians on EHRs - VISTA ranked #1.](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md)
+* [VISTA #1 EHR in recent national survey of 18,000 physicians](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md)
 
 
 
@@ -12,10 +11,10 @@
 ![vista-circle](https://github.com/vistadataproject/documents/blob/master/images/vista-integrated-patient-centric.png)
 
 
-#### VISTA supports healthcare delivery at over 1200+ hospitals and clinics nationwide
+#### VISTA supports healthcare delivery at over 1200+  VA hospitals and clinics nationwide
 ![vista-usa](https://github.com/vistadataproject/documents/blob/master/images/deployment-usa.jpg)
 
-#### VISTA supports the healthcare delivery of many nations outside the U.S.A.
+#### VISTA supports the national healthcre delivery system of entire countries outside the U.S.A.
 ![vista-world](https://github.com/vistadataproject/documents/blob/master/images/deployment-worldwide.jpg)
 
 
