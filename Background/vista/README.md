@@ -11,7 +11,7 @@
 ![vista-world](https://github.com/vistadataproject/documents/blob/master/images/deployment-worldwide.jpg)
 
 
-#### Current News and Reviews
+#### VISTA News and Reviews
 
 * [VISTA rivals private sector EHRs in popularity and deployments](http://www.openhealthnews.com/hotnews/vista-rival-epic-and-cerner-major-deployments-ehr-systems)
 * [National survey of 18,000 physicians on EHRs - VISTA ranked #1.](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md)
