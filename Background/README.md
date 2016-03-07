@@ -13,10 +13,9 @@ Who | Design | Description
 [Conor&nbsp;Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL-Conor_Dowling-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014).
 
 
-### VISTA Baseline
-
-A summary of the current 'as is' VISTA and its various clients functionality and capability:
-[VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md)
+### VISTA Overview
+An executive overview of the current 'as is' VISTA and its various clients functionality and capability:
+[VISTA Overview](https://github.com/vistadataproject/documents/tree/master/Background/vista)
 
 
 
