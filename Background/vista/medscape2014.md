@@ -2,7 +2,7 @@
 
 Source:  http://www.medscape.com/features/slideshow/public/ehr2014
 
-Electronic health records (EHRs) have changed the way physicians practice medicine. Medscape invited physicians to participate in a survey of current EHR use; 18,575 physicians across 25 specialties responded during the period from April 9, 2014, through June 3, 2014. They answered questions about their use of an EHR and rated their systems in terms of overall ease of use and other performance traits, as well as their satisfaction with the EHR vendor. Physicians also described how their EHR affects practice operations and patient encounters. The results give an eye-opening portrait of how EHRs are affecting medical practices.
+Electronic health records (EHRs) have changed the way physicians practice medicine. Medscape invited physicians to participate in a survey of current EHR use; __18,575 physicians across 25 specialties responded__ during the period from April 9, 2014, through June 3, 2014. They answered questions about their use of an EHR and rated their systems in terms of overall ease of use and other performance traits, as well as their satisfaction with the EHR vendor. Physicians also described how their EHR affects practice operations and patient encounters. The results give an eye-opening portrait of how EHRs are affecting medical practices.
 
 <img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_01.jpg">
 
