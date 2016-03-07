@@ -13,6 +13,12 @@ Who | Design | Description
 [Conor&nbsp;Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL-Conor_Dowling-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014).
 
 
+### VISTA Baseline
+
+A summary of the current 'as is' VISTA and its various clients functionality and capability:
+[VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md)
+
+
 
 
 ###  Outside Technology and Advocacy 
@@ -40,14 +46,6 @@ K.S.&nbsp;Bhaskar | [GT.M](https://www.fisglobal.com/Solutions/Services/Database
 [Rob&nbsp;Tweed](https://www.linkedin.com/in/rob-tweed-a5419629)<br>[David&nbsp;Wicksell](https://www.linkedin.com/in/dlwicksell)| Node/M | Integrated node.js with MUMPS and VISTA.
 Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-vista-installation-and-testing-using-vagrant) | Built OSEHRA's Automated installation of VISTA environment
 [Manu&nbsp;Sporny](https://www.linkedin.com/in/manusporny) | [JSON-LD](http://json-ld.org/) |  Created and promoted the JSON-LD standard
-
-
-
-### VISTA Baseline
-
-A summary of the current 'as is' VISTA and its various clients functionality and capability:
-[VISTA Baseline](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md)
-
 
 
 ### Technologies
@@ -109,8 +107,6 @@ Apache Software Foundation        | 	| https://en.wikipedia.org/wiki/Apache_Lice
 
 
 
-
-### Links
 
 ####VISTA
 * https://en.wikipedia.org/wiki/VistA
