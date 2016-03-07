@@ -14,7 +14,7 @@
 #### VISTA supports healthcare delivery at over 1200+  VA hospitals and clinics nationwide
 ![vista-usa](https://github.com/vistadataproject/documents/blob/master/images/deployment-usa.jpg)
 
-#### VISTA supports the national healthcre delivery system of entire countries outside the U.S.A.
+#### VISTA supports the national healthcare systems of many countries outside the U.S.A.
 ![vista-world](https://github.com/vistadataproject/documents/blob/master/images/deployment-worldwide.jpg)
 
 
