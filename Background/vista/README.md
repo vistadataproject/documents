@@ -4,7 +4,7 @@
 ![vista-circle](https://github.com/vistadataproject/documents/blob/master/images/vista-integrated-patient-centric.png)
 
 
-#### VISTA deployed in USA
+#### VISTA supports the 1200+ hospitals and clinics of the Veterans Health Administration across the nation
 
 ![vista-usa](https://github.com/vistadataproject/documents/blob/master/images/deployment-usa.jpg)
 
