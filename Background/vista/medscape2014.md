@@ -26,7 +26,7 @@ The percentage of physicians who have no intention of switching to an EHR has re
 
 
 
-Who's Using an EHR?
+## Who's Using an EHR?
 More than half of respondents (56%) using an EHR are part of a hospital or health system network using their institution's EHR. This partly reflects the fact that a majority of hospitals are now using EHRs. As of 2013, more than 80% of eligible hospitals have demonstrated meaningful use of EHRs.[1]
 
 It also relates to the fact that many doctors are leaving the financial headaches of private practice to become salaried hospital employees. Hospitals have been purchasing physician practices, and the number of employed physicians has risen in recent years.
@@ -40,7 +40,7 @@ Only 39% of physicians using an EHR are in independent practice using their own 
 
 
 
-Most Widely Used EHRs
+## Most Widely Used EHRs
 Epic and Cerner, two of the earliest EHR vendors, were first and second among our survey participants in usage in 2014 (23% and 9%, respectively). Both focus on hospitals, health systems, and large physician practices.
 
 However, the difference in usage for other widely used EHRs is not large. eClinicalWorks, for example, is used by 6% of our respondents, Practice Fusion by 3%, Amazing Charts by 1%, and e-MDs by 1%, suggesting a tight horserace for market position in the small to medium-size physician practice sector.
@@ -69,7 +69,7 @@ Almost a quarter (22%) of respondents use systems other than those listed. More 
 
 
 
-Top Five Most Widely Used EHRs vs 2012
+## Top Five Most Widely Used EHRs vs 2012
 There were no dramatic changes in the five most widely used EHRs since Medscape's 2012 survey. In 2012, Epic was the most widely used EHR (22%); in 2014, Epic stayed on top (23%).
 
 Allscripts was rated second in usage in 2012 (10%); in 2014, Allscripts' two EHRs (Enterprise and Professional) garnered 8% of usage, putting it in third place. Cerner claimed the same percentage of users over 2 years (9%), as did eClinicalWorks (6%).
@@ -79,7 +79,7 @@ Allscripts was rated second in usage in 2012 (10%); in 2014, Allscripts' two EHR
 
 
 
-Most Widely Used EHRs by Practice Situation
+## Most Widely Used EHRs by Practice Situation
 Epic dominates the EHR market for hospitals and health systems, with 37% of users, nearly three times as many as Cerner, its next-largest competitor, with 13% of hospital users.
 
 Ronald Sterling, CPA, MBA, Principal of Sterling Solutions in Silver Spring, Maryland, is a national EHR expert and the author of Keys to EMR Success. "The lack of diversity is basically due to the fact that a number of hospitals, and even health systems, require use of specific products by their employee doctors," he says. "The decision is not up to the doctor. Therefore, they are going to have a tendency to use a more limited set of products."
@@ -89,7 +89,7 @@ Independent private practices with their own EHRs, including many smaller practi
 
 
 
-Most Widely Used EHRs by Practice Situation (cont'd)
+## Most Widely Used EHRs by Practice Situation (cont'd)
 Although many EHRs are less widely used, it's worth noting that several were rated highly in categories such as ease of use and overall physician satisfaction.
 
 
@@ -100,7 +100,7 @@ Although many EHRs are less widely used, it's worth noting that several were rat
 
 
 
-The Top Rated EHRs
+## The Top Rated EHRs
 Survey participants were asked to rate their EHRs by several key criteria, including ease of use, vendor support, overall satisfaction with the product, how well it connects with other systems, and usefulness as a clinical tool. We used those scores to develop the ratings shown in upcoming slides. In this and forthcoming slides, a rating of 5 is excellent, 4 equals good, 3 equals average, 2 is below average, and 1 is poor.
 
 The highest-rated EHR, with a score of 3.9, is the Veterans Administration EHR: VA-CPRS. It's regarded as one of the best overall by our physician respondents. Practice Fusion and Amazing Charts tied for second in the ratings for overall user satisfaction (3.7). Medent and e-MDs tied for third place in the ratings (3.5).
@@ -111,7 +111,7 @@ The highest-rated EHR, with a score of 3.9, is the Veterans Administration EHR: 
 
 
 
-Five Top Rated EHRs vs 2012
+## Five Top Rated EHRs vs 2012
 The same 5 EHRs that physicians rated highest in Medscape's 2012 report are again the top 5 in our 2014 report. Amazing Charts, rated number one in 2012 (with a score of 4.2), slipped to the number-three spot in 2014 (3.7). Some EHRs rated higher in certain attributes — for example, ease of use, user satisfaction, and clinical usefulness — than others, so a similar overall score doesn't necessarily mean that the EHRs performed equally well in the various EHR attributes measured.
 
 Why such variation in ratings? One reason is that earlier products focused on creating an acceptable E&M note, says Ronald Sterling. When care and clinical management, quality, and meaningful use became important, older EHRs had to be retrofitted to deal with the new issues, with varying degrees of success.
@@ -123,7 +123,7 @@ Why such variation in ratings? One reason is that earlier products focused on cr
 
 
 
-Top Rated EHRs by Practice Situation: Hospitals and Health Systems
+## Top Rated EHRs by Practice Situation: Hospitals and Health Systems
 Among survey participants who are part of a hospital or health system network and are using that entity's EHR, the Veterans Administration EHR, VA-CPRS, led the pack in overall ratings, with a score of 3.9.
 
 No EHRs had an overall score of 4 or higher. Several reasons are possible, says EHR expert Ronald Sterling. "EHRs have basically been focused on creating E&M-acceptable documentation for office visits, but physicians want better tools to manage care and track patients," he says. "Meanwhile, EHR vendors have been overly focused on meeting the demands of meaningful use rather than addressing the focused needs of doctors."
@@ -138,7 +138,7 @@ Doctors may also use one EHR in the office and another at the hospital. "Doctors
 
 
 
-Top Rated EHRs by Practice Situation: Independent Practices
+## Top Rated EHRs by Practice Situation: Independent Practices
 Among independent practices using their own EHR, VA-CPRS scored highest (4.1), with Amazing Charts, Practice Fusion, and Epic tied for second place in the ratings (3.7). Epic is among the EHRs in longest use (over 20 years), reengineered versions of which have been adopted by Kaiser Permanente, Geisinger Health System, and other integrated delivery systems.
 
 Amazing Charts and Practice Fusion, popular in smaller practices, also appear popular with respondents in hospitals and health systems using their entity's EHR. However, EHRs designed for smaller practices aren't used by hospitals. Rather, physicians who are part of a hospital or health system may use EHRs for smaller practices, even though the entity itself may use a more heavy-duty system such as Epic or Cerner. A hospital may not want the expense of installing its EHR in a physician practice, Sterling notes. "Epic for doctors is not cheap!"
@@ -149,7 +149,7 @@ Amazing Charts and Practice Fusion, popular in smaller practices, also appear po
 
 
 
-Top Rated EHRs for Ease of Use
+## Top Rated EHRs for Ease of Use
 Ease of use, the most important category for many physicians, is measured by several factors: "easy to learn," "ease of data entry," "ease of EHR implementation," "reliability," and "overall ease of use." For many physicians, "ease of use" determines their overall perception and experience with the EHR, affecting patient interactions and time spent documenting.
 
 Amazing Charts, which is not used by hospitals and health systems but is more popular with smaller practices, was rated most highly, with a score of 4.0 for overall ease of use. Practice Fusion and VA-CPRS tied for second (3.9 each) in ease of use; both also scored highly in those attributes in 2012.
@@ -160,7 +160,7 @@ Amazing Charts, which is not used by hospitals and health systems but is more po
 
 
 
-Top Rated EHRs on Satisfaction
+## Top Rated EHRs on Satisfaction
 Satisfaction with EHRs includes various key attributes that are critical to the EHR experience.
 
 Value for the money is related to, among other factors, the complexity of the system compared with what it offers. Some EHRs for large hospital systems contain far more extensive features than do some EHRs for smaller practices, and consequently cost much more, particularly in terms of software and installation.
@@ -175,7 +175,7 @@ Practice Fusion, which rated highly on "value for the money," is billed as a "fr
 
 
 
-Top Rated EHRs for Vendor Support
+## Top Rated EHRs for Vendor Support
 Vendor support is a key to satisfaction with one's EHR. Some physicians have reported that after their EHR was installed, the vendor was difficult to reach, and the practice lost time trying to work around or solve EHR problems. Not surprisingly, the top five EHRs in overall satisfaction also head the list of top rated EHRs for vendor support.
 
 Practice Fusion was highest rated both in "adequacy of vendor training program" (3.7) and "vendor continuing customer service" (3.8), followed by Amazing Charts (3.5 and 3.8, respectively), VA-CPRS (3.5 and 3.6, respectively), e-MDs (3.4 and 3.3, respectively), and Medent (3.3 and 3.6, respectively).
@@ -189,7 +189,7 @@ It's worth noting that Practice Fusion, Amazing Charts, and e-MDs are cloud-base
 
 
 
-Top Rated EHRs for Connectivity
+## Top Rated EHRs for Connectivity
 Medscape asked about EHR connectivity across four domains: with diagnostic devices (eg, ECGs, laboratory information systems); practice management systems; reference and hospital labs; and other physicians (especially in supporting electronic referrals).
 
 The Veterans Administration's VA-CPRS rated highest, scoring 4.0 or better in all domains measured. Epic came in second in three of four domains (3.5-3.7), although third-rated Athenahealth outscored it in the "works with my practice management system" domain (3.9 vs 3.6, respectively).
@@ -203,7 +203,7 @@ Scores in the last domain, "connectivity with other physicians," were not typica
 
 
 
-Top Rated EHRs on Usefulness as Clinical Tools
+## Top Rated EHRs on Usefulness as Clinical Tools
 The use of an EHR as a clinical tool is one of its most important functions. Physician participants rated their EHRs in four domains. VA-CPRS scored the highest in all aspects of use as a clinical tool, including appropriateness of clinical content, ability to support the physician's workflow, patient services, and patient portal.
 
 
@@ -213,7 +213,7 @@ The use of an EHR as a clinical tool is one of its most important functions. Phy
 
 
 
-EHRs' Effect on Your Practice Operations
+## EHRs' Effect on Your Practice Operations
 Despite complaints that EHRs make documentation too burdensome, 63% of our respondents said that an EHR improves documentation; only 27% disagreed. Among participants, 39% felt that EHRs improve collections; only 9% disagreed.
 
 Responses overall showed that physicians are somewhat split in whether they like or dislike their EHRs. Thirty-four percent of participating doctors maintained that an EHR improves clinical operations, yet 35% said it worsens them. Thirty-two percent felt that an EHR improves patient service; 38% said it worsened patient service.
@@ -227,7 +227,7 @@ Ten percent of respondents listed other ways that the EHR affects practice opera
 
 
 
-EHRs' Effect on Patient Encounters
+## EHRs' Effect on Patient Encounters
 One of the most dramatic differences since our 2012 survey shows up in how physicians feel that an EHR affects the doctor-patient relationship. In 2012, 36% of respondents said the EHR had a positive impact, 30% said it had a negative impact, and 34% said it had no impact on patient encounters.
 
 This year, however, some responses were significantly more negative. For example, 70% of respondents said the EHR decreases their face-to-face time with patients, and 57% said it decreases their ability to see patients. Still, about a third (35%) said the EHR improves their ability to respond to patient issues, and 33% said it allows them to more effectively manage patient treatment plans.
@@ -238,7 +238,7 @@ This year, however, some responses were significantly more negative. For example
 
 
 
-Satisfaction With EHR Vendor
+## Satisfaction With EHR Vendor
 Dissatisfaction with EHR vendors has been a perennial sore spot for many physicians. Our survey pointed out encouraging news, although there's still room for improvement. Fully 42% of respondents said they were either very satisfied or somewhat satisfied with their vendor. Less than a fifth (17%) were neutral, and a third (33%) were either somewhat dissatisfied or very dissatisfied.
 
 A small percentage of respondents (9%) don't interact with an EHR vendor, most likely because they are employees or work in large group practices, where vendor interaction is handled by a site administrator or other staff member.
@@ -251,7 +251,7 @@ A small percentage of respondents (9%) don't interact with an EHR vendor, most l
 
 
 
-Has Your EHR System Become...More Comfortable to Use Over Time?
+## Has Your EHR System Become...More Comfortable to Use Over Time?
 Familiarity seems to be vital in using an EHR. While physicians new to EHRs often find them hard to use, use over time appears to make a big difference.
 
 In our 2014 report, 81% of respondents agree that their EHRs have become easier and more comfortable to use over time; only 19% disagree. The likelihood is that practice may not make perfect, but it does enhance the experience.
@@ -268,7 +268,7 @@ Just over half of our respondents (53%) feel that their EHRs do not help with th
 
 
 
-Will You Keep or Switch Your EHR?
+## Will You Keep or Switch Your EHR?
 Despite the fact that many physicians dislike their EHRs, there's no mass migration to new systems among our survey respondents.
 
 Fully 84% of participating physicians say that they plan to keep their EHRs. Many physicians, particularly those who are employed, don't have a choice in whether or not to keep their current system.
@@ -284,7 +284,7 @@ This year, 16% of physicians are planning to switch EHRs for a variety of reason
 
 
 
-Do You Have Patient Privacy Concerns?
+## Do You Have Patient Privacy Concerns?
 What a difference two years makes!
 
 In our 2012 EHR Report, patient privacy concerns were barely on the radar screen of respondents. At that time, fully 77% of participating physicians said they had no patient privacy concerns.
@@ -303,7 +303,7 @@ However, in 2014, only 17% of survey participants said they had no EHR-related p
 
 
 
-Where Do You Stand on Meaningful Use?
+## Where Do You Stand on Meaningful Use?
 In 2012, 44% of respondents said they had already attested to meaningful use, 31% said they planned to attest within the year, and 11% said they planned to attest sometime after 2012. In our 2014 report, 78% of participating physicians said they were attesting to meaningful use Stage 1 or Stage 2 in 2014.
 
 On the other hand, the number of physicians who say they will not attest is growing. In 2012, 14% of survey respondents said they wouldn't bother to attest. In 2014, 16% said they will never attest to meaningful use requirements, and another 6% of participants said they are abandoning meaningful use after meeting the requirements in previous years.
@@ -319,7 +319,7 @@ Thus, 22% of physicians surveyed this year are opting out of or disregarding the
 
 
 
-Web-Based or Installed EHR?
+## Web-Based or Installed EHR?
 The percentage of doctors using installed EHRs is declining as the percentage of those using Web-based EHRs is growing.
 
 In our 2012 survey, 46% of the respondents said they had installed EHRs; 21% had Web-based EHRs. In our 2014 survey, 36% of participants said they use an installed EHR; 29% had Web-based EHRs. Those percentages are likely to widen in the years to come. (A large percentage of physicians [34%] didn't know whether their system was Web-based or installed.)
@@ -335,7 +335,7 @@ In our 2012 survey, 46% of the respondents said they had installed EHRs; 21% had
 
 
 
-Type of EHR System by Practice Size
+## Type of EHR System by Practice Size
 In Medscape's 2014 report, just over one third (35%) of practices with one to nine physicians in the practice used an installed EHR. In our 2012 report, that number was 30%.
 
 Among larger practices, there's a significant difference in use of Web-based or installed EHRs. In groups of 25 or more physicians, 38% had an installed EHR, but only 20% had a Web-based EHR.
@@ -348,7 +348,7 @@ Among larger practices, there's a significant difference in use of Web-based or 
 
 
 
-Cost per Physician to Purchase and Install
+## Cost per Physician to Purchase and Install
 Are EHRs getting less expensive? Despite a growing number of relatively economical Web-based alternatives, the overall answer appears to be no. In 2014, for example, only 8% of doctors paid less than $10,000 per physician for their EHRs, according to survey participants, and only 7% paid $10,000-$34,999. In our 2012 survey, the percentages were 5% and 8%, respectively.
 
 In 2012, only 7% of respondents said their EHR system cost over $50,000 per physician to install. In 2014, almost a quarter (23%) of respondents said their EHR system cost that much.
@@ -361,7 +361,7 @@ More than half of the respondents are unaware of the cost of the EHR, reflecting
 
 
 
-Monthly Fees per Physician for a Web-Based EHR System
+## Monthly Fees per Physician for a Web-Based EHR System
 A benefit of Web-based EHRs is that they are generally less expensive than installed systems. Software upgrades, drug compendium updates, and other changes are all done online, EHR expert Ronald Sterling points out.
 
 The costs, however, are creeping up.
@@ -372,7 +372,7 @@ In 2012, only 4% of survey respondents said they were paying over $700 per month
 
 
 
-Why You Don't Use an EHR
+## Why You Don't Use an EHR
 The number-one reason that physicians say they won't use an EHR is that EHRs interfere with the doctor-patient relationship (40% of responses). Few physicians, even ardent EHR users, would disagree with that.
 
 Number two on the list is that EHRs are too expensive (37% of responses). Besides the cost of the EHR, there are expenses involved in switching all current paper records to electronic records, and there is also lost work time during the transition and switchover. For doctors nearing the end of their careers, the cost and effort are not worth it. (Note: Respondents were allowed to choose more than one answer.)
@@ -387,7 +387,7 @@ The third-most-cited reason — that the incentives offered and penalties levied
 
 
 
-Advice From Other Physicians
+## Advice From Other Physicians
 In our 2014 survey, we asked respondents to offer advice to other doctors based on their experiences with EHRs. Over 11,500 physicians did. A common theme: Many doctors don't do enough homework prior to purchasing an EHR and then are unpleasantly surprised.
 
 Homework, our respondents say, consists of visiting the offices of your colleagues to see how their EHRs work; attending specialty society conclaves where you can test-drive many EHRs and speak with attendees about their experiences; and visiting online chat rooms for EHR users to view their comments and pose your own questions.
@@ -397,30 +397,30 @@ Another common observation: Many physicians aren't sufficiently trained in EHR u
 
 
 
-Demographics
+## Demographics
 
 
 
 
 
-Demographics
+## Demographics
 
 
 
 
-Demographics
-
-
-
-
-
-Demographics
+## Demographics
 
 
 
 
 
-Survey Methodology
+## Demographics
+
+
+
+
+
+## Survey Methodology
 
 
 
