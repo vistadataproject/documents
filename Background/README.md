@@ -19,7 +19,6 @@ An executive overview of the current 'as is' VISTA and its various clients funct
 
 
 
-
 ###  Outside Technology and Advocacy 
 <img src ="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.M3a6a9bd19a8721e2bc69478d9848858eo1%26amp%3Bpid%3D15.1&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.fiercemarkets.net%2Ffiles%2Fgovernmentit%2Ffierceimages%2Fmunneke.jpg&f=1" height=60>
