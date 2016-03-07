@@ -14,7 +14,7 @@ Who | Design | Description
 
 
 ### VISTA Overview
-An executive overview of the current 'as is' VISTA and its various clients functionality and capability:
+An executive overview of the current 'as is' VISTA and its data-integrated architecture:
 [VISTA Overview](https://github.com/vistadataproject/documents/tree/master/Background/vista)
 
 
