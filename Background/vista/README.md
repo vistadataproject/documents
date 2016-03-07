@@ -4,13 +4,16 @@
 ![vista-circle](https://github.com/vistadataproject/documents/blob/master/images/vista-integrated-patient-centric.png)
 
 
-#### VISTA supports the 1200+ hospitals and clinics of the Veterans Health Administration across the nation
+#### VISTA supports the healthcare delivery needs of 1200+ hospitals and clinics of the VA across the nation
 
 ![vista-usa](https://github.com/vistadataproject/documents/blob/master/images/deployment-usa.jpg)
 
 
-#### Current News and Reviews
-http://www.openhealthnews.com/hotnews/vista-rival-epic-and-cerner-major-deployments-ehr-systems
+#### Current News
+* [VISTA the most deployed EHR in the world?](http://www.openhealthnews.com/hotnews/vista-rival-epic-and-cerner-major-deployments-ehr-systems)
+
+#### Current Reviews
+* [Medscape EHR review 2014]( )
 
 #### VISTA
 * https://en.wikipedia.org/wiki/VistA
