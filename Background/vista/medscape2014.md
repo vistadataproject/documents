@@ -15,7 +15,7 @@ If one adds in the 4% of our respondents who are currently installing or impleme
 
 
 
-Are You Using an EHR (vs 2012)?
+## Are You Using an EHR (vs 2012)?
 In Medscape's 2012 EHR Report, 74% of participating doctors said they were currently using EHRs, and another 20% said they were either in the process of installing or implementing an EHR, or planned to purchase or start using an EHR in the next 1-2 years. In our 2014 report, the percentage of current users climbed to 83%, with another 10% of soon-to-be users of EHRs.
 
 The percentage of physicians who have no intention of switching to an EHR has remained fairly constant. In 2012, 7% of respondents had no plans to buy or use an EHR in the next 1-2 years; in 2014, the percentage dropped slightly to 6%. They say they're avoiding EHRs because they interfere with the doctor-patient relationship, are too expensive, and/or the incentives and penalties aren't worth the trouble.
