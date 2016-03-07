@@ -1,6 +1,7 @@
 ### Veterans Information Systems and Technology Architecture (VISTA)
 
 
+![vista-circle](https://github.com/vistadataproject/documents/blob/master/images/vista-integrated-patient-centric.png)
 
 
 #### VISTA Worldwide
