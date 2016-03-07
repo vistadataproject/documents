@@ -4,9 +4,12 @@
 ![vista-circle](https://github.com/vistadataproject/documents/blob/master/images/vista-integrated-patient-centric.png)
 
 
-#### VISTA Worldwide
-http://www.openhealthnews.com/hotnews/vista-rival-epic-and-cerner-major-deployments-ehr-systems
+#### VISTA deployed in USA
 
+![vista-usa](https://github.com/vistadataproject/documents/blob/master/images/deployment-usa.jpg)
+
+#### EHR Reviews
+http://www.openhealthnews.com/hotnews/vista-rival-epic-and-cerner-major-deployments-ehr-systems
 
 
 #### VISTA Document Library
