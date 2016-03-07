@@ -390,23 +390,17 @@ Another common observation: Many physicians aren't sufficiently trained in EHR u
 
 
 
-## Most Widely Used EHRs
-Epic and Cerner, two of the earliest EHR vendors, were first and second among our survey participants in usage in 2014 (23% and 9%, respectively). Both focus on hospitals, health systems, and large physician practices.
+Most Widely Used EHRs
 
-However, the difference in usage for other widely used EHRs is not large. eClinicalWorks, for example, is used by 6% of our respondents, Practice Fusion by 3%, Amazing Charts by 1%, and e-MDs by 1%, suggesting a tight horserace for market position in the small to medium-size physician practice sector.
+Epic and Cerner, two of the earliest EHR vendors, were first and second among our survey participants in usage in 2014 (23% and 9%, respectively). Both focus on hospitals, health systems, and large physician practices. However, the difference in usage for other widely used EHRs is not large. eClinicalWorks, for example, is used by 6% of our respondents, Practice Fusion by 3%, Amazing Charts by 1%, and e-MDs by 1%, suggesting a tight horserace for market position in the small to medium-size physician practice sector. Almost a quarter (22%) of respondents use systems other than those listed. More than 500 EHR vendors offer certified EHRs. Among those cited more regularly by respondents were Aprima, Quest Diagnostics' Care 360, CureMD, DocuTap, HealthFusion's MediTouch, Kareo, and Medicat. [medscape2014_05.jpg]
 
-Almost a quarter (22%) of respondents use systems other than those listed. More than 500 EHR vendors offer certified EHRs. Among those cited more regularly by respondents were Aprima, Quest Diagnostics' Care 360, CureMD, DocuTap, HealthFusion's MediTouch, Kareo, and Medicat. [medscape2014_05.jpg]
+Top Five Most Widely Used EHRs vs 2012
 
-
-
-## Top Five Most Widely Used EHRs vs 2012
-There were no dramatic changes in the five most widely used EHRs since Medscape's 2012 survey. In 2012, Epic was the most widely used EHR (22%); in 2014, Epic stayed on top (23%).
-
-Allscripts was rated second in usage in 2012 (10%); in 2014, Allscripts' two EHRs (Enterprise and Professional) garnered 8% of usage, putting it in third place. Cerner claimed the same percentage of users over 2 years (9%), as did eClinicalWorks (6%). [medscape2014_06.jpg]
+There were no dramatic changes in the five most widely used EHRs since Medscape's 2012 survey. In 2012, Epic was the most widely used EHR (22%); in 2014, Epic stayed on top (23%). Allscripts was rated second in usage in 2012 (10%); in 2014, Allscripts' two EHRs (Enterprise and Professional) garnered 8% of usage, putting it in third place. Cerner claimed the same percentage of users over 2 years (9%), as did eClinicalWorks (6%). [medscape2014_06.jpg]
 
 
+Most Widely Used EHRs by Practice Situation
 
-## Most Widely Used EHRs by Practice Situation
 Epic dominates the EHR market for hospitals and health systems, with 37% of users, nearly three times as many as Cerner, its next-largest competitor, with 13% of hospital users.
 
 Ronald Sterling, CPA, MBA, Principal of Sterling Solutions in Silver Spring, Maryland, is a national EHR expert and the author of Keys to EMR Success. "The lack of diversity is basically due to the fact that a number of hospitals, and even health systems, require use of specific products by their employee doctors," he says. "The decision is not up to the doctor. Therefore, they are going to have a tendency to use a more limited set of products."
@@ -414,7 +408,8 @@ Ronald Sterling, CPA, MBA, Principal of Sterling Solutions in Silver Spring, Mar
 Independent private practices with their own EHRs, including many smaller practices, generally use a different set of products. More than a third (34%) use "other systems." eClinicalWorks rated first in usage (10%), and NextGen and Practice Fusion tied for second place, with 8% each.  [medscape2014_07.jpg]
 
 
-## Most Widely Used EHRs by Practice Situation (cont'd)
+Most Widely Used EHRs by Practice Situation (cont'd)
+
 Although many EHRs are less widely used, it's worth noting that several were rated highly in categories such as ease of use and overall physician satisfaction.   [medscape2014_08.jpg]
 
 
