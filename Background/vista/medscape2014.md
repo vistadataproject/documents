@@ -395,11 +395,7 @@ Epic and Cerner, two of the earliest EHR vendors, were first and second among ou
 
 However, the difference in usage for other widely used EHRs is not large. eClinicalWorks, for example, is used by 6% of our respondents, Practice Fusion by 3%, Amazing Charts by 1%, and e-MDs by 1%, suggesting a tight horserace for market position in the small to medium-size physician practice sector.
 
-Almost a quarter (22%) of respondents use systems other than those listed. More than 500 EHR vendors offer certified EHRs. Among those cited more regularly by respondents were Aprima, Quest Diagnostics' Care 360, CureMD, DocuTap, HealthFusion's MediTouch, Kareo, and Medicat.
-
-
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_05.jpg">
-
+Almost a quarter (22%) of respondents use systems other than those listed. More than 500 EHR vendors offer certified EHRs. Among those cited more regularly by respondents were Aprima, Quest Diagnostics' Care 360, CureMD, DocuTap, HealthFusion's MediTouch, Kareo, and Medicat. [medscape2014_05.jpg]
 
 
 
