@@ -1,7 +1,11 @@
 # Veterans Information Systems and Technology Architecture (VISTA)
 
-#### VISTA General Information
-* http://www.ehealth.va.gov/VistA.asp
+
+
+#### VISTA Worldwide
+http://www.openhealthnews.com/hotnews/vista-rival-epic-and-cerner-major-deployments-ehr-systems
+
+
 
 #### VISTA Document Library
 * MAIN: http://www.va.gov/vdl/
@@ -10,11 +14,13 @@
 * Finance-Admin: http://www.va.gov/vdl/section.asp?secid=3
 * HealtheVet:http://www.va.gov/vdl/section.asp?secid=4
 
-#### VISTA GUI (CPRS)
-* http://www.ehealth.va.gov/CPRS_Demo.asp
 
-#### VISTA Monograph
-* Link: http://www.ehealth.va.gov/VistA_Monograph.asp
+#### VA Links
+* http://www.ehealth.va.gov/VistA.asp
+* http://www.ehealth.va.gov/CPRS_Demo.asp
+* http://www.ehealth.va.gov/VistA_Monograph.asp
 * Contact: OITPDProductSupportMonograph@va.gov
+
+
 
 
