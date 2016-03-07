@@ -48,23 +48,7 @@ However, the difference in usage for other widely used EHRs is not large. eClini
 Almost a quarter (22%) of respondents use systems other than those listed. More than 500 EHR vendors offer certified EHRs. Among those cited more regularly by respondents were Aprima, Quest Diagnostics' Care 360, CureMD, DocuTap, HealthFusion's MediTouch, Kareo, and Medicat.
 
 
-
 <img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_05.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_06.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_07.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_08.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_09.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_10.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_11.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_12.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_13.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_14.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_15.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_16.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_17.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_18.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_19.jpg">
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_20.jpg">
 
 
 
@@ -75,6 +59,7 @@ There were no dramatic changes in the five most widely used EHRs since Medscape'
 Allscripts was rated second in usage in 2012 (10%); in 2014, Allscripts' two EHRs (Enterprise and Professional) garnered 8% of usage, putting it in third place. Cerner claimed the same percentage of users over 2 years (9%), as did eClinicalWorks (6%).
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_06.jpg">
 
 
 
@@ -87,6 +72,8 @@ Ronald Sterling, CPA, MBA, Principal of Sterling Solutions in Silver Spring, Mar
 Independent private practices with their own EHRs, including many smaller practices, generally use a different set of products. More than a third (34%) use "other systems." eClinicalWorks rated first in usage (10%), and NextGen and Practice Fusion tied for second place, with 8% each.
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_07.jpg">
+
 
 
 ## Most Widely Used EHRs by Practice Situation (cont'd)
@@ -96,6 +83,7 @@ Although many EHRs are less widely used, it's worth noting that several were rat
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_08.jpg">
 
 
 
@@ -106,7 +94,7 @@ Survey participants were asked to rate their EHRs by several key criteria, inclu
 The highest-rated EHR, with a score of 3.9, is the Veterans Administration EHR: VA-CPRS. It's regarded as one of the best overall by our physician respondents. Practice Fusion and Amazing Charts tied for second in the ratings for overall user satisfaction (3.7). Medent and e-MDs tied for third place in the ratings (3.5).
 
 
-
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_09.jpg">
 
 
 
@@ -118,6 +106,7 @@ Why such variation in ratings? One reason is that earlier products focused on cr
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_10.jpg">
 
 
 
@@ -133,6 +122,7 @@ In addition, "ease of use is still a significant stumbling block, with physician
 Doctors may also use one EHR in the office and another at the hospital. "Doctors are recording information in the hospital EHR that should be in their own records but may be difficult to transmit," he says.
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_11.jpg">
 
 
 
@@ -145,6 +135,7 @@ Amazing Charts and Practice Fusion, popular in smaller practices, also appear po
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_11.jpg">
 
 
 
@@ -156,6 +147,7 @@ Amazing Charts, which is not used by hospitals and health systems but is more po
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_13.jpg">
 
 
 
@@ -171,6 +163,7 @@ Practice Fusion, which rated highly on "value for the money," is billed as a "fr
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_14.jpg">
 
 
 
@@ -184,6 +177,7 @@ It's worth noting that Practice Fusion, Amazing Charts, and e-MDs are cloud-base
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_15.jpg">
 
 
 
@@ -199,6 +193,7 @@ Connectivity becomes increasingly more important as concepts of "care coordinati
 Scores in the last domain, "connectivity with other physicians," were not typically high. According to the Office of the National Coordinator for Health Information Technology (ONC), only a minority of physicians with EHRs from different vendors are exchanging clinical summaries of patient visits with other physicians.
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_16.jpg">
 
 
 
@@ -208,6 +203,7 @@ The use of an EHR as a clinical tool is one of its most important functions. Phy
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_17.jpg">
 
 
 
@@ -223,6 +219,7 @@ Ten percent of respondents listed other ways that the EHR affects practice opera
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_18.jpg">
 
 
 
@@ -233,6 +230,7 @@ One of the most dramatic differences since our 2012 survey shows up in how physi
 This year, however, some responses were significantly more negative. For example, 70% of respondents said the EHR decreases their face-to-face time with patients, and 57% said it decreases their ability to see patients. Still, about a third (35%) said the EHR improves their ability to respond to patient issues, and 33% said it allows them to more effectively manage patient treatment plans.
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_19.jpg">
 
 
 
@@ -245,6 +243,7 @@ A small percentage of respondents (9%) don't interact with an EHR vendor, most l
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_20.jpg">
 
 
 
@@ -262,6 +261,7 @@ Just over half of our respondents (53%) feel that their EHRs do not help with th
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_21.jpg">
 
 
 
@@ -277,6 +277,7 @@ This year, 16% of physicians are planning to switch EHRs for a variety of reason
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_22.jpg">
 
 
 
@@ -297,6 +298,7 @@ However, in 2014, only 17% of survey participants said they had no EHR-related p
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_23.jpg">
 
 
 
@@ -312,6 +314,7 @@ Thus, 22% of physicians surveyed this year are opting out of or disregarding the
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_24.jpg">
 
 
 
@@ -328,6 +331,7 @@ In our 2012 survey, 46% of the respondents said they had installed EHRs; 21% had
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_25.jpg">
 
 
 
@@ -343,6 +347,7 @@ Among larger practices, there's a significant difference in use of Web-based or 
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_26.jpg">
 
 
 
@@ -357,6 +362,7 @@ More than half of the respondents are unaware of the cost of the EHR, reflecting
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_27.jpg">
 
 
 
@@ -369,6 +375,7 @@ In 2012, only 4% of survey respondents said they were paying over $700 per month
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_28.jpg">
 
 
 
@@ -382,6 +389,7 @@ The third-most-cited reason — that the incentives offered and penalties levied
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_29.jpg">
 
 
 
@@ -395,26 +403,28 @@ Homework, our respondents say, consists of visiting the offices of your colleagu
 Another common observation: Many physicians aren't sufficiently trained in EHR use before going live — a key reason why practice workflow often suffers. In addition, if you plan to customize your EHR, you should be thoroughly versed in how it functions, because an error made on one screen may create systemic errors.
 
 
-
-
-## Demographics
-
-
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_30.jpg">
 
 
 
 ## Demographics
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_31.jpg">
+
+
+
+## Demographics
+
+
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_32.jpg">
+
 
 
 ## Demographics
 
 
-
-
-
-## Demographics
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_33.jpg">
 
 
 
@@ -423,6 +433,7 @@ Another common observation: Many physicians aren't sufficiently trained in EHR u
 ## Survey Methodology
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_34.jpg">
 
 
 
