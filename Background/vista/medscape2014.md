@@ -1,10 +1,7 @@
-## Medscape 2014  National Physician Survey on EHRs
-
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_01.jpg">
-
 ## Medscape EHR Report 2014: Physicians Rate Top EHRs
 Electronic health records (EHRs) have changed the way physicians practice medicine. Medscape invited physicians to participate in a survey of current EHR use; 18,575 physicians across 25 specialties responded during the period from April 9, 2014, through June 3, 2014. They answered questions about their use of an EHR and rated their systems in terms of overall ease of use and other performance traits, as well as their satisfaction with the EHR vendor. Physicians also described how their EHR affects practice operations and patient encounters. The results give an eye-opening portrait of how EHRs are affecting medical practices.
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_01.jpg">
 
 
 
@@ -25,6 +22,7 @@ The percentage of physicians who have no intention of switching to an EHR has re
 
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_03.jpg">
 
 
 
@@ -36,6 +34,7 @@ It also relates to the fact that many doctors are leaving the financial headache
 Only 39% of physicians using an EHR are in independent practice using their own EHR. This partly reflects the fact that independent practices are declining in number, and also that many such practices are run by older physicians nearing retirement, for whom the cost of investing in an EHR, and the steep learning curve, aren't worth it.
 
 
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_04.jpg">
 
 
 
@@ -49,6 +48,23 @@ However, the difference in usage for other widely used EHRs is not large. eClini
 Almost a quarter (22%) of respondents use systems other than those listed. More than 500 EHR vendors offer certified EHRs. Among those cited more regularly by respondents were Aprima, Quest Diagnostics' Care 360, CureMD, DocuTap, HealthFusion's MediTouch, Kareo, and Medicat.
 
 
+
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_05.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_06.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_07.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_08.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_09.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_10.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_11.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_12.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_13.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_14.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_15.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_16.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_17.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_18.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_19.jpg">
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_20.jpg">
 
 
 
