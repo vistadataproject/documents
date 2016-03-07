@@ -42,55 +42,6 @@ Only 39% of physicians using an EHR are in independent practice using their own 
 
 
 
-
-## Most Widely Used EHRs
-Epic and Cerner, two of the earliest EHR vendors, were first and second among our survey participants in usage in 2014 (23% and 9%, respectively). Both focus on hospitals, health systems, and large physician practices.
-
-However, the difference in usage for other widely used EHRs is not large. eClinicalWorks, for example, is used by 6% of our respondents, Practice Fusion by 3%, Amazing Charts by 1%, and e-MDs by 1%, suggesting a tight horserace for market position in the small to medium-size physician practice sector.
-
-Almost a quarter (22%) of respondents use systems other than those listed. More than 500 EHR vendors offer certified EHRs. Among those cited more regularly by respondents were Aprima, Quest Diagnostics' Care 360, CureMD, DocuTap, HealthFusion's MediTouch, Kareo, and Medicat.
-
-
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_05.jpg">
-
-
-
-
-## Top Five Most Widely Used EHRs vs 2012
-There were no dramatic changes in the five most widely used EHRs since Medscape's 2012 survey. In 2012, Epic was the most widely used EHR (22%); in 2014, Epic stayed on top (23%).
-
-Allscripts was rated second in usage in 2012 (10%); in 2014, Allscripts' two EHRs (Enterprise and Professional) garnered 8% of usage, putting it in third place. Cerner claimed the same percentage of users over 2 years (9%), as did eClinicalWorks (6%).
-
-
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_06.jpg">
-
-
-
-
-## Most Widely Used EHRs by Practice Situation
-Epic dominates the EHR market for hospitals and health systems, with 37% of users, nearly three times as many as Cerner, its next-largest competitor, with 13% of hospital users.
-
-Ronald Sterling, CPA, MBA, Principal of Sterling Solutions in Silver Spring, Maryland, is a national EHR expert and the author of Keys to EMR Success. "The lack of diversity is basically due to the fact that a number of hospitals, and even health systems, require use of specific products by their employee doctors," he says. "The decision is not up to the doctor. Therefore, they are going to have a tendency to use a more limited set of products."
-
-Independent private practices with their own EHRs, including many smaller practices, generally use a different set of products. More than a third (34%) use "other systems." eClinicalWorks rated first in usage (10%), and NextGen and Practice Fusion tied for second place, with 8% each.
-
-
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_07.jpg">
-
-
-
-## Most Widely Used EHRs by Practice Situation (cont'd)
-Although many EHRs are less widely used, it's worth noting that several were rated highly in categories such as ease of use and overall physician satisfaction.
-
-
-
-
-
-<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_08.jpg">
-
-
-
-
 ## The Top Rated EHRs
 Survey participants were asked to rate their EHRs by several key criteria, including ease of use, vendor support, overall satisfaction with the product, how well it connects with other systems, and usefulness as a clinical tool. We used those scores to develop the ratings shown in upcoming slides. In this and forthcoming slides, a rating of 5 is excellent, 4 equals good, 3 equals average, 2 is below average, and 1 is poor.
 
@@ -98,7 +49,6 @@ The highest-rated EHR, with a score of 3.9, is the Veterans Administration EHR: 
 
 
 <img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_09.jpg">
-
 
 
 
@@ -110,7 +60,6 @@ Why such variation in ratings? One reason is that earlier products focused on cr
 
 
 <img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_10.jpg">
-
 
 
 
@@ -210,8 +159,6 @@ The use of an EHR as a clinical tool is one of its most important functions. Phy
 
 
 
-
-
 ## EHRs' Effect on Your Practice Operations
 Despite complaints that EHRs make documentation too burdensome, 63% of our respondents said that an EHR improves documentation; only 27% disagreed. Among participants, 39% felt that EHRs improve collections; only 9% disagreed.
 
@@ -238,7 +185,6 @@ This year, however, some responses were significantly more negative. For example
 
 
 
-
 ## Satisfaction With EHR Vendor
 Dissatisfaction with EHR vendors has been a perennial sore spot for many physicians. Our survey pointed out encouraging news, although there's still room for improvement. Fully 42% of respondents said they were either very satisfied or somewhat satisfied with their vendor. Less than a fifth (17%) were neutral, and a third (33%) were either somewhat dissatisfied or very dissatisfied.
 
@@ -247,7 +193,6 @@ A small percentage of respondents (9%) don't interact with an EHR vendor, most l
 
 
 <img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_20.jpg">
-
 
 
 
@@ -438,6 +383,57 @@ Another common observation: Many physicians aren't sufficiently trained in EHR u
 
 <img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_34.jpg">
 
+
+
+
+
+
+
+
+## Most Widely Used EHRs
+Epic and Cerner, two of the earliest EHR vendors, were first and second among our survey participants in usage in 2014 (23% and 9%, respectively). Both focus on hospitals, health systems, and large physician practices.
+
+However, the difference in usage for other widely used EHRs is not large. eClinicalWorks, for example, is used by 6% of our respondents, Practice Fusion by 3%, Amazing Charts by 1%, and e-MDs by 1%, suggesting a tight horserace for market position in the small to medium-size physician practice sector.
+
+Almost a quarter (22%) of respondents use systems other than those listed. More than 500 EHR vendors offer certified EHRs. Among those cited more regularly by respondents were Aprima, Quest Diagnostics' Care 360, CureMD, DocuTap, HealthFusion's MediTouch, Kareo, and Medicat.
+
+
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_05.jpg">
+
+
+
+
+## Top Five Most Widely Used EHRs vs 2012
+There were no dramatic changes in the five most widely used EHRs since Medscape's 2012 survey. In 2012, Epic was the most widely used EHR (22%); in 2014, Epic stayed on top (23%).
+
+Allscripts was rated second in usage in 2012 (10%); in 2014, Allscripts' two EHRs (Enterprise and Professional) garnered 8% of usage, putting it in third place. Cerner claimed the same percentage of users over 2 years (9%), as did eClinicalWorks (6%).
+
+
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_06.jpg">
+
+
+
+
+## Most Widely Used EHRs by Practice Situation
+Epic dominates the EHR market for hospitals and health systems, with 37% of users, nearly three times as many as Cerner, its next-largest competitor, with 13% of hospital users.
+
+Ronald Sterling, CPA, MBA, Principal of Sterling Solutions in Silver Spring, Maryland, is a national EHR expert and the author of Keys to EMR Success. "The lack of diversity is basically due to the fact that a number of hospitals, and even health systems, require use of specific products by their employee doctors," he says. "The decision is not up to the doctor. Therefore, they are going to have a tendency to use a more limited set of products."
+
+Independent private practices with their own EHRs, including many smaller practices, generally use a different set of products. More than a third (34%) use "other systems." eClinicalWorks rated first in usage (10%), and NextGen and Practice Fusion tied for second place, with 8% each.
+
+
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_07.jpg">
+
+
+
+## Most Widely Used EHRs by Practice Situation (cont'd)
+Although many EHRs are less widely used, it's worth noting that several were rated highly in categories such as ease of use and overall physician satisfaction.
+
+
+
+
+
+<img src ="https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014/600h/medscape2014_08.jpg">
 
 
 
