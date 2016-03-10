@@ -1,6 +1,16 @@
-## AMIA Conference
+# AMIA 2016 Call for Participation
+* Call for Participation: https://www.amia.org/amia2016/call-participation
+* Submission Site: https://amiaannual2016.abstractcentral.com/
+* AMIA 2016 Keywords:  https://www.amia.org/amia2016/keywords
+* AMIA 2016 Presentation Types:  https://www.amia.org/amia2016/presentation-types
+* AMIA 2016 Program Themes:  https://www.amia.org/amia2016/themes
 
 
+#### Title:
+
+#### Abstract:
+
+#### Learning Objective (3)
 
 #### Authors / Affiliations
 * Rafael Richards / VA
@@ -8,72 +18,22 @@
 * David Booth /  HL7
 * Eric  Prud’hommeaux  / W3C
 
-
 #### Presentation Type:	
 Systems Demonstration
-
 
 #### Keywords:			
 * Information Integration from diverse sources
 * Clinical Information Systems
 * Informaiton Science and Retrieval
 
-
-
 #### Theme:
 * Data Science
 
 
 
-#### Title:
 
 
-#### Abstract:
-
-
-
-#### Learning Objective (3)
-
-
-
-
-
-Manuscript File
-
-
-
-Bio Sketch/CV
-
-
-
-
-
-
-
-
-# AMIA 2016 Call for Participation
-https://www.amia.org/amia2016/call-participation
-
-
-#### Submission Site:
-https://amiaannual2016.abstractcentral.com/
-
-#### AMIA 2016 Keywords
-https://www.amia.org/amia2016/keywords
-
-Information integration from diverse sources
-Clinical Information Systems
-Information Science and Retrieval
-
-
-#### THEME
-Data Science
-
-
-#### AMIA 2016 Presentation Types
-https://www.amia.org/amia2016/presentation-types
-
-
+# Notes
 
 #### AMIA 2016 Program Themes
 https://www.amia.org/amia2016/themes
@@ -82,8 +42,6 @@ https://www.amia.org/amia2016/themes
 * Data Interoperability and Health Information Exchange: Methods to develop and implement various clinical data integration and exchange activities, including use of standard data formats (e.g., continuity of care document or HL7, Clinical Document Architecture) and vocabularies (e.g., SNOMED, LOINC, ICD-9).
 * Clinical Informatics: Findings related to the design, development, and implementation and maintenance of state-of-the-art clinical systems, including electronic health records, standards and interoperability, clinical decision support, and effects on clinical quality, safety, and patient outcomes.
 * Clinical Research Informatics: Addressing the critical need for effective information management to address the many challenges facing clinical research and the rapid evolution of the biomedical informatics methods specifically designed to address clinical research information management.
-
-
 
 
 #### Systems Demonstrations
