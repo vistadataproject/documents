@@ -1,12 +1,34 @@
 ## AMIA Conference
 
 
+Conor Dowling
+CTO
+Caregraf
+2212 21st Street, Santa Monica, CA 90405
+310 980 7954
+conor-dowling@caregraf.com
+
+
+
+#### AMIA 2016 Call for Participation
+https://www.amia.org/amia2016/call-participation
+
 
 #### Submission Site:
 https://amiaannual2016.abstractcentral.com/
 
 #### AMIA 2016 Keywords
 https://www.amia.org/amia2016/keywords
+
+Information integration from diverse sources
+Clinical Information Systems
+Information Science and Retrieval
+
+
+#### THEME
+Data Science
+
+
 
 
 
@@ -21,6 +43,7 @@ https://www.amia.org/amia2016/themes
 * Data Science: Research and applications of data science in all areas of health and biomedicine, including visualization and exploration of large data sets, data mining, modeling and analytics approaches, technologies to scale to large datasets, and use of simulations to model complex healthcare and health phenomena.
 * Data Interoperability and Health Information Exchange: Methods to develop and implement various clinical data integration and exchange activities, including use of standard data formats (e.g., continuity of care document or HL7, Clinical Document Architecture) and vocabularies (e.g., SNOMED, LOINC, ICD-9).
 * Clinical Informatics: Findings related to the design, development, and implementation and maintenance of state-of-the-art clinical systems, including electronic health records, standards and interoperability, clinical decision support, and effects on clinical quality, safety, and patient outcomes.
+* Clinical Research Informatics: Addressing the critical need for effective information management to address the many challenges facing clinical research and the rapid evolution of the biomedical informatics methods specifically designed to address clinical research information management.
 
 
 
