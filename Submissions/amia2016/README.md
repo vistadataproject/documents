@@ -6,17 +6,16 @@
 * AMIA 2016 Program Themes:  https://www.amia.org/amia2016/themes
 
 
-#### Title:
-
-#### Abstract:
-
-#### Learning Objective (3)
-
 #### Authors / Affiliations
 * Rafael Richards / VA
 * Conor Dowling / Caregraf
 * David Booth /  HL7
 * Eric  Prud’hommeaux  / W3C
+
+
+#### Title:
+
+
 
 #### Presentation Type:	
 Systems Demonstration
@@ -30,6 +29,9 @@ Systems Demonstration
 * Data Science
 
 
+#### Abstract:
+
+#### Learning Objective (3)
 
 
 
