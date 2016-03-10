@@ -3,10 +3,10 @@
 
 
 #### Authors / Affiliations
-Rafael Richards / VA
-Conor Dowling / Caregraf
-David Booth /  HL7
-Eric  Prud’hommeaux  / W3C
+* Rafael Richards / VA
+* Conor Dowling / Caregraf
+* David Booth /  HL7
+* Eric  Prud’hommeaux  / W3C
 
 
 #### Presentation Type:	
@@ -14,14 +14,14 @@ Systems Demonstration
 
 
 #### Keywords:			
-Information Integration from diverse sources
-Clinical Information Systems
-Informaiton Science and Retrieval
+* Information Integration from diverse sources
+* Clinical Information Systems
+* Informaiton Science and Retrieval
 
 
 
 #### Theme:
-Data Science
+* Data Science
 
 
 
