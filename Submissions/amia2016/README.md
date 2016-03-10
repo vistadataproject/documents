@@ -1,16 +1,57 @@
 ## AMIA Conference
 
 
-Conor Dowling
-CTO
-Caregraf
-2212 21st Street, Santa Monica, CA 90405
-310 980 7954
-conor-dowling@caregraf.com
+
+#### Authors / Affiliations
+Rafael Richards / VA
+Conor Dowling / Caregraf
+David Booth /  HL7
+Eric  Prud’hommeaux  / W3C
+
+
+#### Presentation Type:	
+Systems Demonstration
+
+
+#### Keywords:			
+Information Integration from diverse sources
+Clinical Information Systems
+Informaiton Science and Retrieval
 
 
 
-#### AMIA 2016 Call for Participation
+#### Theme:
+Data Science
+
+
+
+#### Title:
+
+
+#### Abstract:
+
+
+
+#### Learning Objective (3)
+
+
+
+
+
+Manuscript File
+
+
+
+Bio Sketch/CV
+
+
+
+
+
+
+
+
+# AMIA 2016 Call for Participation
 https://www.amia.org/amia2016/call-participation
 
 
@@ -27,9 +68,6 @@ Information Science and Retrieval
 
 #### THEME
 Data Science
-
-
-
 
 
 #### AMIA 2016 Presentation Types
