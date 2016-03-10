@@ -9,7 +9,7 @@
 #### Authors / Affiliations
 * Rafael Richards / VA
 * Conor Dowling / Caregraf
-* David Booth /  HL7
+* David Booth /  Hokukahu LLC
 * Eric  Prud’hommeaux  / W3C
 
 
