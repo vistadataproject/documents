@@ -9,7 +9,7 @@ VISTA<br>System | DISA<br>Security | Notes
 Data Dictionary  | NA | Data Dictionary (DD) extracts from at least five current operational VISTA systems. These DD are automatically extracted from any VISTA instance and converted to the JSON-LD form using the "DDJLD Maker" routine, as seen on the architectural diagram [here](https://github.com/vistadataproject/documents/blob/master/README.md). These data dictionaries contain no patient data, PHI, or PII (i.e., no sensitive information).  
 Master | NA | A copy of the current authoritative Master ("Platinum") version of VISTA as maintained internally by the VA. Metadata from this must be complete and without any alterations or redactions. The metadata does not contain any patient data, PHI, or PII (i.e., no sensitive information).
 Test Patients  | NA | A copy of a VISTA with test patients used by VA for internal projects.
-De-identified  | NA | A copy of VISTA with real but de-identified patient data. 
+De-identified  | .COM | A copy of VISTA with real but de-identified patient data. 
 Production| SBU |An exact clone of at least one current operational VISTA ("Production Clone" or “Test VISTA”). This will be kept within the DoD NIPR network, as it will have non de-identified patient data.
 
 
