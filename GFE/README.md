@@ -12,7 +12,7 @@ Data Dictionary  | NA | Data Dictionary (DD) extracts from at least five current
 Master | NA | A copy of the current authoritative Master ("Platinum") version of VISTA as maintained internally by the VA. Metadata from this must be complete and without any alterations or redactions. The metadata does not contain any patient data, PHI, or PII (i.e., no sensitive information).
 Test Patients  | NA | A copy of a VISTA with test patients used by VA for internal projects.
 De-identified  | .COM | A copy of VISTA with real but de-identified patient data. 
-Production| SBU |An exact clone of at least one current operational VISTA ("Production Clone" or “Test VISTA”). This will be kept within the DoD NIPR network, as it will have non de-identified patient data.
+Production| SBU<br>NIPRNET |An exact clone of at least one current operational VISTA ("Production Clone" or “Test VISTA”). This will be kept within the DoD NIPR network, as it will have non de-identified patient data.
 
 
 In addition, the Project requests additional GFE and GFI be provided within 30 days of contract award to successfully execute the Project:
