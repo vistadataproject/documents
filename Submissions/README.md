@@ -46,3 +46,7 @@ Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
 
 ZenHub.io
 * https://github.com/vistadataproject/documents#boards
+
+Slack
+* https://zubeio.slack.com/messages/vistadataproject
+
