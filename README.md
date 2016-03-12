@@ -7,13 +7,6 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 ![VDP-annotated](/images/vdp-basic-annotated12.png)
 
-
-
-![vdp-iceberg](https://github.com/vistadataproject/documents/blob/master/images/src/iceberg/vdp-iceberg-800x600.png)
-
-![vdpiceberg](https://github.com/vistadataproject/documents/blob/master/images/src/iceberg/vdp-iceberg-new-1000w.png)
-.
-
 ## Features
 
 The VISTA Data Project is a new data-centric approach to VISTA data access and management.  This is in contrast to the current code-centric approach to data access which relies on a byzantine array of thousands of narrowly-scoped hard-coded data extractors and interfaces, none of which are documented nor maintained. In a data-centric approach one instead comprehensively exposes all the data in the system revealing the native data model, and then manage the data using a model-driven, data-centric approach.
