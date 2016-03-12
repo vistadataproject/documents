@@ -44,9 +44,9 @@ Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
 
 # Tracking and Collaboration Tools
 
-ZenHub.io
+ZenHub (PM)
 * https://github.com/vistadataproject/documents#boards
 
-Slack
+Zube (Slack messaging:  vista-data-man)
 * https://zubeio.slack.com/messages/vistadataproject
 
