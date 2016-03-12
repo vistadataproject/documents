@@ -11,7 +11,7 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 ![vdp-iceberg](https://github.com/vistadataproject/documents/blob/master/images/src/iceberg/vdp-iceberg-800x600.png)
 
-
+![vdpiceberg](https://github.com/vistadataproject/documents/blob/master/images/src/iceberg/vdp-iceberg-new-1000w.png)
 .
 
 ## Features
