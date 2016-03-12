@@ -7,3 +7,6 @@ ZenHub (PM)
 Zube (Slack messaging:  vista-data-man)
 * https://zubeio.slack.com/messages/vistadataproject
 
+Email
+* vistadataproject@gmail.com
+
