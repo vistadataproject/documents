@@ -41,12 +41,3 @@ Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
 [D](https://github.com/vistadataproject/documents#track-d-master-vista-data-model-maps) | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | [pulse](https://github.com/vistadataproject/MVDMmap/pulse) | [issues](https://github.com/vistadataproject/MVDMmap/issues) | [wiki](https://github.com/vistadataproject/MVDMmap/wiki) | [contributors](https://github.com/vistadataproject/MVDMmap/graphs/contributors) | [commits](https://github.com/vistadataproject/MVDMmap/graphs/commit-activity) | [punchcard](https://github.com/vistadataproject/MVDMmap/graphs/punch-card)
 
 
-
-# Tracking and Collaboration Tools
-
-ZenHub (PM)
-* https://github.com/vistadataproject/documents#boards
-
-Zube (Slack messaging:  vista-data-man)
-* https://zubeio.slack.com/messages/vistadataproject
-
