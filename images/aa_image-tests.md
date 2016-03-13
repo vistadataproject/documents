@@ -1,4 +1,3 @@
 
-![iceberg1](https://github.com/vistadataproject/documents/blob/master/images/src/iceberg/vdp-iceberg1.jpg)
+![iceberg](https://github.com/vistadataproject/documents/blob/master/images/src/iceberg/vdp-iceberg.jpg)
 
-![iceberg2](https://github.com/vistadataproject/documents/blob/master/images/src/iceberg/vdp-iceberg2.jpg)
