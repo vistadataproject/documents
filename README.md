@@ -52,9 +52,9 @@ __What?__
 
 __Why?__
 
-> The mission of the Veterans Health Administration (VHA) is to provide comprehensive integrated lifelong healthcare services to veterans. Because veterans may get their care at any of over 1200 VHA facilities,  VA needs to have a similarly comprehensive, holistic, nationally integrated healthcare information system. Therefore, all relevant VISTA data needs to be accessible in real-time across all VISTA systems.  In addition, in order to support the needs of veterans in today's web-oriented world, VA needs to create new web-based clients and services to provide all necessary information to providers and veterans using mobile, tablet, and web browser based interfaces to support fully ubiquitous access to healthcare services.
+> The mission of the Veterans Health Administration (VHA) is to provide comprehensive integrated lifelong healthcare services to veterans. Because veterans may get their care at any of over 1200 VHA facilities,  VA needs to have a similarly comprehensive, holistic, nationally integrated healthcare information system. Therefore, all relevant VISTA data needs to be accessible in real-time in computable form across all VISTA systems.  In addition, in order to support the needs of veterans in today's mobile web-oriented world, VA needs to create new web-based clients and services to provide all necessary information to providers and veterans at the point of care using mobile, tablet, and web browser based interfaces to support fully ubiquitous access to healthcare services.
 
-> VA therefore needs a single, consistent, web-standard mechanism for real-time read-write transactions to all of the 131 local, unique VISTA systems as one, national master VISTA system.  This reduces the complexity of development, deployment, and maintenance for any new nationwide data service from any of the 131 distinct local VISTA systems to that of only one standardized computable Master VISTA system.
+> VA thus needs a single, consistent, web-standard mechanism for real-time read-write transactions to all of the 131 local, unique VISTA systems as one, national master VISTA system.  This reduces the complexity of development, deployment, and maintenance for any new nationwide data service from any of the 131 distinct local VISTA systems to that of only one standardized computable Master VISTA system.
 
 __How?__
 
