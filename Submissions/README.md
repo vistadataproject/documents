@@ -41,3 +41,11 @@ Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
 [D](https://github.com/vistadataproject/documents#track-d-master-vista-data-model-maps) | [MVDMmap](https://github.com/vistadataproject/MVDMmap) | [pulse](https://github.com/vistadataproject/MVDMmap/pulse) | [issues](https://github.com/vistadataproject/MVDMmap/issues) | [wiki](https://github.com/vistadataproject/MVDMmap/wiki) | [contributors](https://github.com/vistadataproject/MVDMmap/graphs/contributors) | [commits](https://github.com/vistadataproject/MVDMmap/graphs/commit-activity) | [punchcard](https://github.com/vistadataproject/MVDMmap/graphs/punch-card)
 
 
+
+## Data Rights
+All deliverables are developed and delivered on the public Github for contemporaneous public peer review. See also
+* [VA-DoD Interagency Data Rights](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#data-rights), particularly Section 1.6.15.1,  1.6.15.2, 1.6.15.3.
+* [Whitehouse Open Source Policy](https://github.com/WhiteHouse/source-code-policy)
+* [Tom Haight](https://www.linkedin.com/in/tjhaight), DoD / DISA intellectual property expert
+
+
