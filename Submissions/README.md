@@ -44,7 +44,7 @@ Track | Repository | Pulse | Issues | Wiki | Contributors | Commits | Punchcard
 
 ## Data Rights
 All deliverables must be developed, stored, and version controlled on the public Github for contemporaneous public peer review. For details see:
-* [VA-DoD Interagency Data Rights](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#data-rights), particularly Section 1.6.15.1 (public Github requirement),  1.6.15.2 (data, metadata, and documentation licensing), 1.6.15.3 (code licensing).  This was developed through extensive VA and DoD legal and intellectual property review. Contact: [Tom Haight Esq](https://www.linkedin.com/in/tjhaight) at the Defense Information Systems Agency (http://www.disa.mil).
+* [VA-DoD Interagency Data Rights](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#data-rights), particularly Section 1.6.15.1 (public Github requirement),  1.6.15.2 (data, metadata, and documentation licensing), 1.6.15.3 (code licensing).  This was developed through extensive VA and DoD legal and intellectual property review, including [Tom Haight Esq](https://www.linkedin.com/in/tjhaight) at the Defense Information Systems Agency (http://www.disa.mil).
 * [U.S. Federal Open Source Policy](https://github.com/WhiteHouse/source-code-policy)
 
 
