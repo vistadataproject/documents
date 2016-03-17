@@ -81,6 +81,8 @@ Github          | 	| https://en.wikipedia.org/wiki/GitHub <br> https://github.co
 
 
 ### Standards
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/html5.jpg)
+
 ![](/images/logos-tech/square/60h/html5.jpg)
 ![](/images/logos-tech/square/60h/js5.jpg)
 ![](/images/logos-tech/square/60h/css3.jpg)
