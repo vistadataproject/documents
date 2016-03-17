@@ -103,7 +103,7 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 
 ## Technical Overview
 
-![VDP Components Overview](/images/vdp-overview8.png)
+![VDP Components Overview](/images/vdp-technical.png)
 
 ## Tracks
 
