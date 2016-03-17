@@ -47,9 +47,6 @@ Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-v
 
 
 ### Technologies
-
-![](images/logos/logos-tech/square/50h/CC.jpg)
-
 ![](/images/logos-tech/square/60h/m-tech.fw.jpg)
 ![](/images/logos-tech/square/60h/js5.jpg)
 ![](/images/logos-tech/square/60h/node-js.jpg)
@@ -81,17 +78,15 @@ Github          | 	| https://en.wikipedia.org/wiki/GitHub <br> https://github.co
 
 
 ### Standards
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/html5.jpg)
-
-![](/images/logos-tech/square/60h/html5.jpg)
-![](/images/logos-tech/square/60h/js5.jpg)
-![](/images/logos-tech/square/60h/css3.jpg)
-![](/images/logos-tech/square/60h/json.jpg)
-![](/images/logos-tech/square/60h/jsonld.jpg)
-![](/images/logos-tech/square/60h/rdf.jpg)
-![](/images/logos-tech/square/60h/markdown.jpg)
-![](/images/logos-tech/square/60h/CC.jpg)
-![](/images/logos-tech/square/60h/asf.jpg)
+![](/images/logos/logos-tech/square/60h/html5.jpg)
+![](/images/logos/logos-tech/square/60h/js5.jpg)
+![](/images/logos/logos-tech/square/60h/css3.jpg)
+![](/images/logos/logos-tech/square/60h/json.jpg)
+![](/images/logos/logos-tech/square/60h/jsonld.jpg)
+![](/images/logos/logos-tech/square/60h/rdf.jpg)
+![](/images/logos/logos-tech/square/60h/markdown.jpg)
+![](/images/logos/logos-tech/square/60h/CC.jpg)
+![](/images/logos/logos-tech/square/60h/asf.jpg)
 
 
 Name | VA TRM  | Reference
