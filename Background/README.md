@@ -47,16 +47,16 @@ Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-v
 
 
 ### Technologies
-![](/images/logos-tech/square/60h/m-tech.fw.jpg)
-![](/images/logos-tech/square/60h/js5.jpg)
-![](/images/logos-tech/square/60h/node-js.jpg)
-![](/images/logos-tech/square/60h/npm.jpg)
-![](/images/logos-tech/square/60h/d3-js.jpg)
-![](/images/logos-tech/square/60h/webstorm.jpg)
-![](/images/logos-tech/square/60h/vagrant.jpg)
-![](/images/logos-tech/square/60h/python.jpg)
-![](/images/logos-tech/square/60h/git.jpg)
-![](/images/logos-tech/square/60h/github.jpg)
+![](/images/logos/logos-tech/square/60h/m-tech.fw.jpg)
+![](/images/logos/logos-tech/square/60h/js5.jpg)
+![](/images/logos/logos-tech/square/60h/node-js.jpg)
+![](/images/logos/logos-tech/square/60h/npm.jpg)
+![](/images/logos/logos-tech/square/60h/d3-js.jpg)
+![](/images/logos/logos-tech/square/60h/webstorm.jpg)
+![](/images/logos/logos-tech/square/60h/vagrant.jpg)
+![](/images/logos/logos-tech/square/60h/python.jpg)
+![](/images/logos/logos-tech/square/60h/git.jpg)
+![](/images/logos/logos-tech/square/60h/github.jpg)
 
 
 Name | VA TRM  | Reference
