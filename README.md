@@ -83,19 +83,22 @@ Technical decisions by the VA and in mainstream software industry that framed th
 
 The VISTA Data Project is based on the following [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards):
 
-![](/images/logos-tech/square/60h/node-js.jpg)
-![](/images/logos-tech/square/60h/js5.jpg)
-![](/images/logos-tech/square/60h/html5.jpg)
-![](/images/logos-tech/square/60h/css3.jpg)
-![](/images/logos-tech/square/60h/rdf.jpg)
-![](/images/logos-tech/square/60h/jsonld.jpg)
-![](/images/logos-tech/square/60h/json.jpg)
-![](/images/logos-tech/square/60h/markdown.jpg)
-![](/images/logos-tech/square/60h/github.jpg)
-![](/images/logos-tech/square/60h/git.jpg)
-![](/images/logos-tech/square/60h/vagrant.jpg)
-![](/images/logos-tech/square/60h/CC.jpg)
+### Technologies
+![](/images/logos/logos-tech/square/60h/node-js.jpg)
+![](/images/logos/logos-tech/square/60h/js5.jpg)
+![](/images/logos/logos-tech/square/60h/html5.jpg)
+![](/images/logos/logos-tech/square/60h/css3.jpg)
+![](/images/logos/logos-tech/square/60h/rdf.jpg)
+![](/images/logos/logos-tech/square/60h/jsonld.jpg)
+![](/images/logos/logos-tech/square/60h/json.jpg)
+![](/images/logos/logos-tech/square/60h/markdown.jpg)
+![](/images/logos/logos-tech/square/60h/github.jpg)
+![](/images/logos/logos-tech/square/60h/git.jpg)
+![](/images/logos/logos-tech/square/60h/vagrant.jpg)
+![](/images/logos/logos-tech/square/60h/CC.jpg)
 ![](/images/logos-tech/square/60h/asf.jpg)  
+
+
 
 * Detailed review of these and other foundation technologies is contained in the [Background](https://github.com/vistadataproject/documents/tree/master/Background) section.
 * The current baseline VISTA and Client functionality and capability is described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
