@@ -47,6 +47,9 @@ Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-v
 
 
 ### Technologies
+
+![](images/logos/logos-tech/square/50h/CC.jpg)
+
 ![](/images/logos-tech/square/60h/m-tech.fw.jpg)
 ![](/images/logos-tech/square/60h/js5.jpg)
 ![](/images/logos-tech/square/60h/node-js.jpg)
