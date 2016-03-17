@@ -80,10 +80,8 @@ Technical decisions by the VA and in mainstream software industry that framed th
 
 
 ## Technologies
+The VISTA Data Project is based on exclusively [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards):
 
-The VISTA Data Project is based on the following [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards):
-
-### Technologies
 ![](/images/logos/logos-tech/square/60h/node-js.jpg)
 ![](/images/logos/logos-tech/square/60h/js5.jpg)
 ![](/images/logos/logos-tech/square/60h/html5.jpg)
@@ -97,8 +95,6 @@ The VISTA Data Project is based on the following [Web Technologies](https://gith
 ![](/images/logos/logos-tech/square/60h/vagrant.jpg)
 ![](/images/logos/logos-tech/square/60h/CC.jpg)
 ![](/images/logos-tech/square/60h/asf.jpg)  
-
-
 
 * Detailed review of these and other foundation technologies is contained in the [Background](https://github.com/vistadataproject/documents/tree/master/Background) section.
 * The current baseline VISTA and Client functionality and capability is described [here](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-baseline.md).
