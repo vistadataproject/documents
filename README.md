@@ -9,7 +9,7 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 ## Features
 
-The VISTA Data Project is a new data-centric approach to VISTA data access and management.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded interfaces using a 40+ year old language , none of which is vaidated, documented nor maintained. In a data-centric approach one instead comprehensively exposes all the data in the system revealing the native data model, and then manage the data using a model-driven, data-centric approach.
+The VISTA Data Project is a new data-centric approach to VISTA data access and management.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded interfaces that have accumulated over three decades, none of which are vaidated, documented nor maintained. In a data-centric approach one instead comprehensively exposes all the data in the system revealing the native data model, and then manage the data using a model-driven, data-centric approach.
 
 This master data model - the roadmap to all of VA's institutional know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged.  Now, for the first time, this data model will be comprehensively exposed and fully taken advantage of. 
 
