@@ -1,4 +1,4 @@
-## MITRE Project Summary
+## VISTA Data Project - MITRE Summary
 
 ![vdp-mitre](https://github.com/vistadataproject/documents/blob/master/Submissions/mitre/src/VistA_Data_Project-One_Page_Summary-MITRE-2016032.png)
 
