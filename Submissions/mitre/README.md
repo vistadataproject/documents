@@ -1,3 +1,7 @@
+## MITRE Project Summary
+
+![vdp-mitre](https://github.com/vistadataproject/documents/blob/master/Submissions/mitre/VistA_Data_Project-MITRE_Summary-2016032.pdf)
+
 
 #### MITRE team
 
