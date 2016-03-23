@@ -16,8 +16,9 @@ Who | Design | Description
 ### VISTA Overview
 An executive overview of the current 'as is' VISTA and its data-integrated architecture:
 * [VISTA Overview](https://github.com/vistadataproject/documents/tree/master/Background/vista)
-* [VISTA Architecture]()
+* [VISTA Architecture](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-architecture.md)
 * [VISTA vs Commercial EHRs - Survey of 18,00 Physicians - 2014](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md)
+
 
 
 ###  Outside Technology and Advocacy 
