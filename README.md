@@ -264,7 +264,7 @@ D | 40 |  Document VISTA-ese for Linking  | [MVDMlink](https://github.com/vistad
 &nbsp; ||||||
 
 
-## Notes
+## PWS Deliverables Notes
 
   * Enumerated above are 27 technical deliverables within four tracks ( _VDM_, _MVDM_, _MVDMlink_, and _Infrastructure_).
   * Deliverables E1-4 are required but not explicitly enumerated in the PWS.
