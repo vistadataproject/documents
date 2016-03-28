@@ -39,10 +39,7 @@ __Response by Tom Munnecke on 4 years ago (2012)__
 
 https://www.osehra.org/comment/1758#comment-1758
 
-Tom Munnecke's picture
-
 I suggest we incorporate Semantic Web/Metadata concepts
-
 
 VistA uses a metadata-directed approach which in modern terminology would be called a Semantic Web.  Caregraph has analyzed the data dictionary (of the various VistAs and RPMS) and turned it into a semantic web graph they call "Semantic VistA" http://www.caregraf.org/semanticvista  These vocabularies can be browsed at http://vista.caregraf.org/vocabs
 
@@ -73,8 +70,6 @@ I have to smile a bit at this assertion, since I started with this kind of metad
  
 
 __Response by conor dowling on 4 years ago (2012)__
-
-conor dowling's picture
 
 Tom,
 
