@@ -1,6 +1,6 @@
 ###  OSEHRA VISTA Architecture and Planning  (2011)
 
-OSEHRA was created in 2011 as the custodial agent of VA's VISTA architecture and artifacts to enable its evolution with the open-source and commercial community outside VA.    Now, five years later in 2016, has OSEHRA succeeded in this effort?  These are some of the intial tasks OSEHRA set out to accomplish.
+OSEHRA was created in 2011 as the custodial agent of VA's VISTA architecture and artifacts (26K MUMPS routines)  to enable its evolution with the open-source and commercial community outside VA.   These are some of the intial planning and tasks OSEHRA set out to accomplish.
 
 https://www.osehra.org/comment/1758#comment-1758
 
@@ -23,7 +23,7 @@ https://www.osehra.org/comment/1758#comment-1758
 * Verify OSEHRA versus VA Research Group architecture artifacts
 
 
-### ISSUE: How should OSEHR's System Architecture deal with the 26k+ Routines in the VistA codebase?
+__ISSUE: How should OSEHR's System Architecture deal with the 26k+ Routines in the VistA codebase?__
 
 SITUATION: We have XINDEX results for each of the 168 VistA custodial packages, including
 * Overall list of routines (26k+)
@@ -35,7 +35,7 @@ SITUATION: We have XINDEX results for each of the 168 VistA custodial packages, 
 REQUESTED ACTION: Please comment on your suggestions on how to deal with and organize VistA Routines and their dependencies in the architecture.
 
 
-#### Response by Tom Munnecke on 4 years ago (2012)
+__Response by Tom Munnecke on 4 years ago (2012)__
 
 https://www.osehra.org/comment/1758#comment-1758
 
@@ -72,7 +72,7 @@ I have to smile a bit at this assertion, since I started with this kind of metad
 
  
 
-#### Response by conor dowling on 4 years ago (2012)
+__Response by conor dowling on 4 years ago (2012)__
 
 conor dowling's picture
 
