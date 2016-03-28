@@ -1,11 +1,13 @@
-###  OSEHRA System Architecture  (2011)
+###  OSEHRA VISTA Architecture and Planning  (2011)
+
+OSEHRA was created in 2011 as the custodial agent of VA's VISTA architecture and artifacts to enable its evolution with the open-source and commercial community outside VA.    Now, five years later in 2016, has OSEHRA succeeded in this effort?  These are some of the intial tasks OSEHRA set out to accomplish.
 
 https://www.osehra.org/comment/1758#comment-1758
 
-The initial 2011-baseline OSEHRA System Architecture is available in the Architects-Group Documents-Tab. There is also an HTML browser viewable version.
+* The initial 2011-baseline OSEHRA System Architecture is available in the Architects-Group Documents-Tab. There is also an HTML browser viewable version.  
+* Please suggest features, which will improve the architecture; otherwise, the following work is planned between now and December:
 
-Please suggest features, which will improve the architecture; otherwise, the following work is planned between now and December:
-
+#### OSEHRA Tasks for December 2011:
 * Define future-state architecture Software Development Kit (SDK)
 * De-conflict duplicate namespaces and duplicate modules
 * Add master list of Namespaces and Numberspaces, based on VA internal feedback.
@@ -33,8 +35,7 @@ SITUATION: We have XINDEX results for each of the 168 VistA custodial packages, 
 REQUESTED ACTION: Please comment on your suggestions on how to deal with and organize VistA Routines and their dependencies in the architecture.
 
 
-
-#### Submitted by Tom Munnecke on 4 years ago (2012)
+#### Response by Tom Munnecke on 4 years ago (2012)
 
 https://www.osehra.org/comment/1758#comment-1758
 
@@ -71,7 +72,7 @@ I have to smile a bit at this assertion, since I started with this kind of metad
 
  
 
-#### Submitted by conor dowling on 4 years ago (2012)
+#### Response by conor dowling on 4 years ago (2012)
 
 conor dowling's picture
 
