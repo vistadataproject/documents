@@ -1,8 +1,6 @@
-### Prescient words from the original VISTA Architect
+###  OSEHRA System Architecture  (2011)
 
-
-
-###  OSEHRA Charter Tasks (2011)
+https://www.osehra.org/comment/1758#comment-1758
 
 The initial 2011-baseline OSEHRA System Architecture is available in the Architects-Group Documents-Tab. There is also an HTML browser viewable version.
 
@@ -35,10 +33,10 @@ SITUATION: We have XINDEX results for each of the 168 VistA custodial packages, 
 REQUESTED ACTION: Please comment on your suggestions on how to deal with and organize VistA Routines and their dependencies in the architecture.
 
 
-https://www.osehra.org/comment/1758#comment-1758
-
 
 #### Submitted by Tom Munnecke on 4 years ago (2012)
+
+https://www.osehra.org/comment/1758#comment-1758
 
 Tom Munnecke's picture
 
