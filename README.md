@@ -13,7 +13,7 @@ The VISTA Data Project is a new data-centric approach to VISTA data access and m
 
 This master data model - the roadmap to all of VA's institutional know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged.  Now, for the first time, this data model will be comprehensively exposed and fully taken advantage of. 
 
-*__An operationalized Master VISTA Data Model (MVDM) provides VA with four key transformational capabilities:__*
+*__An operationalized Master VISTA Data Model (MVDM) provides VA with three key transformational capabilities:__*
 
 VISTA<br>Data | Details
 ---|---
