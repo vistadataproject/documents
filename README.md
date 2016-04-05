@@ -26,6 +26,9 @@ VISTA<br>Data | Details
 
 
 
+![VDP-enterprise](/images/vdp-enterprise.png)
+
+
 ## MVDM Attributes
 
 Attribute | Details
