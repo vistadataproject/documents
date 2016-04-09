@@ -29,8 +29,7 @@ VISTA<br>Data | Details
 
 VISTA is based on a single highly integrated application database, allowing all of VISTA's 180+ applications to function within a single common database. However, because VISTA's data and applications are so highly integrated, it makes it difficult to interface to external systems.  The issue with VISTA data integration depends whether it is internal or external to the MUMPS environment.  __Internal integration__  within the MUMPS environment is easy because MUMPS is a data-integrated application engine. __External integration__ outside the MUMPS environment is challenging because there is no clean separation of MUMPS application logic and data.
 
-Thus the VISTA Data Project provides a new, clear abstraction layer between the VISTA's data and application logic by surfacing VISTA's native operational data model, and by operationalizing VISTA's data model, make interfacing external to VISTA data much easier.
-
+The VISTA Data Project provides a new, clear abstraction layer between the VISTA's MUMPS data and application logic by surfacing VISTA's native operational data model, and by operationalizing VISTA's data model, makes interfacing external, non-MUMPS applications and data to VISTA far eaier.
 
 ![vista-evolution](/images/code-data-evolution.png)
 
