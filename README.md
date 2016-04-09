@@ -29,8 +29,6 @@ VISTA<br>Data | Details
 
 ![vista-evolution](/images/code-data-evolution.png)
 
-![vista-evolution](/images/code-data-centric.png)
-
 
 
 ## VISTA Data Model (VDM) Attributes
