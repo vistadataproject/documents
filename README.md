@@ -27,6 +27,10 @@ VISTA<br>Data | Details
 
 ## VISTA Data Evolution
 
+Historically VISTA has had two characteristics related to its MUMPS database. (1) VISTA has the virtue of being a single highly integrated application database, with all 180+ VISTA/M  applications integrated within its database, sharing the same data and (2) Because the data and applications are so highly integrated within the database, it makes it difficult to interface to non-MUMPS, external systems.  
+
+The VISTA Data Project provides a new, clear abstraction layer between the VISTA/M  database and the external applications and clients by surfacing VISTA's Data Model,  making a clean separation between the application logic and the data, making interfacing to VISTA's data much easier.
+
 ![vista-evolution](/images/code-data-evolution.png)
 
 
