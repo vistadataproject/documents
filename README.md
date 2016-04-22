@@ -3,7 +3,7 @@
 ### A Real-time Computable Master Data Model for VA's VISTA Systems
 _Server-side. Security-enabled. Symmetric-Read-Write._
 
-The VISTA Data Project is a new data-centric approach to comprehensively exposing, representing, and managing the thirty-five years of patient data and institutional know-how currently in the VA's 131 nationally deployed health information systems (VISTA) using a modern web-standard machine-processable data model; and by enriching and operationalizing this model, make all relevant VISTA data securely accessible and computable in real-time across all VISTA systems as one national, standard Master VISTA system.
+The VISTA Data Project is a new data-centric approach to comprehensively exposing, representing, and managing the thirty-five years of patient data and institutional know-how currently in the VA's 131 nationally deployed health information systems (VISTA) using a modern web-standard machine-processable data model; and by enriching and operationalizing this model, make all relevant VISTA data securely accessible and computable in real-time across all VISTA systems through one national, standard Master VISTA data model (MVDM).
 
 ![VDP-intro](/images/vdp-intro.png)
 
