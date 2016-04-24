@@ -22,14 +22,14 @@ A comparison of the current MUMPS RPC-based approach to interfacing to VISTA sum
 Interface |  MUMPS RPCs | VISTA Data Model
 --- | --- | ---
 Method | MUMPS RPCs <br> Over 3500 unique MUMPS routines| VISTA Data Model-Driven <br> One single read-write mechanism for all data. <br> No code involved. 
-Ease of interfacing to new clients | :no_entry_sign: HARD | EASY
-Security | :exclamation: Patchy, Opaque  |  Comprehensive, Clear
-Authentication | Kernel Access/Verify | Kernel Access/Verify
-Access Control | :exclamation: Applicable only to the legacy terminal interface's  Menu Options  | Applicable to *any* new interface. <br>Data-Centric; <br>Patient-Centric, <br>Attribute-Based Access Control (ABAC)
-Fileman API Compliant| :exclamation: Unreliable, Incomplete <br> (Variable compliance)| Reliable, Complete <br> (100% Compliant)
-Audit |  :exclamation: Incomplete <br>(Bypassess Fileman auditing) | Comprehensive AND Patient-Centric  
-Unit Tested |  :exclamation: NO <br>0% coverage  | YES <br>100% coverage
-Documentation | :exclamation: Incomplete, inconsistent, unclear. <br>(Requires understanding MUMPS code) | Complete, consistent, clear.  <br>(Core is machine generated)
+Ease of interfacing to new clients | :no_entry_sign: HARD | :+1: EASY
+Security | :exclamation: Patchy, Opaque  |  :+1: Comprehensive, Clear
+Authentication | :+1: Kernel Access/Verify | :+1: Kernel Access/Verify
+Access Control | :exclamation: Applicable only to the legacy terminal interface's  Menu Options  | :+1: Applicable to *any* new interface. <br>:+1: Data-Centric; <br>:+1: Patient-Centric, <br> :+1: Attribute-Based Access Control (ABAC)
+Fileman API Compliant| :exclamation: Unreliable, Incomplete <br> :exclamation: Variable compliance| :+1: Reliable, Complete <br> :+1: 100% Compliant
+Audit |  :exclamation: Incomplete <br>(Bypassess Fileman auditing) | :+1: Comprehensive AND  :+1: Patient-Centric  
+Unit Tested |  :exclamation: NO <br> :exclamation:  0% coverage  | :+1: YES <br> :+1: 100% coverage
+Documentation | :exclamation: Incomplete, inconsistent, unclear. <br>:exclamation:  Requires understanding MUMPS code | :+1: Complete, consistent, clear.  <br>:+1: Core is machine generated
 
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
