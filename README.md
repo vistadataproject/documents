@@ -12,16 +12,16 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 ## What Problem does a Master VISTA Data Model (MVDM) Solve?
 
-The VISTA Data Project is a new data-centric approach to VISTA data access and management.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded MUMPS RPC interfaces that have accumulated over three decades, few of which are vaidated, documented nor maintained. In a data-centric approach one instead comprehensively exposes all the data in the system revealing the native data model, and then manage the data using a model-driven, data-centric approach.
+The VISTA Data Project is a new data-centric approach to VISTA data access and management.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded MUMPS RPC interfaces that have accumulated over three decades, few of which are vaidated, documented nor maintained. 
 
-This master VISTA data model - the roadmap to all of VA's institutional know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged.  Now, for the first time, this data model will be comprehensively exposed and fully taken advantage of. 
+In a data-centric approach one instead comprehensively exposes all the data in the system revealing the native data model, and then manage the data using a model-driven, data-centric approach. This master VISTA data model - the roadmap to all of VA's institutional know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged.  Now, for the first time, this data model will be comprehensively exposed and fully taken advantage of. 
 
-A comparison of the current MUMPS RPC-based approach to interfacing to VISTA summarizes the benefits of migration from hard-coded MUMPS RPC-based interfacing to a single, modern, data-centric,  VISTA data model-driven approach:
+A comparison of the current MUMPS RPC-based approach to interfacing to VISTA summarizes the benefits of migration from hard-coded MUMPS RPC-based interfacing to a single, modern, data-centric,  VISTA model-driven approach:
 
 
 Interface |  MUMPS RPCs | VISTA Data Model
 --- | --- | ---
-Method | MUMPS RPCs <br> Over 3500 legacy MUMPS routines| VISTA Data Model-Driven <br> One single read-write mechanism for all data.  No code involved. 
+Method | MUMPS RPCs <br> Over 3500 unique MUMPS routines| VISTA Data Model-Driven <br> One single read-write mechanism for all data. <br> No code involved. 
 Ease of interfacing to new clients | HARD | EASY
 Security | Patchy, Opaque  |  Comprehensive, Clear
 Authentication | Kernel Access/Verify | Kernel Access/Verify
