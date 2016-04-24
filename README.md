@@ -14,7 +14,9 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 __Current VISTA interfacing: Thousands of undocumented MUMPS routines__
 
-Current external interfacing  to VISTA is exclusively through remote procedure calls (RPCs) written in the MUMPS language. These are hard-coded for very specific clients and are not interchangeable to other clients due to the shared, embedded business logic within the custom MUMPS and client code.  Thus maintenance of these interfaces requires knowledge not just of MUMPS code, but of the client code in any number of different languages.  This creates MUMPS-code lock and makes it impossible to migrate to other languages.
+Current external interfacing  to VISTA is through remote procedure calls (RPCs) written in the MUMPS language. These are hard-coded for very specific clients and are not interchangeable to other clients due to the shared, embedded business logic within the custom MUMPS and client code.  
+
+The RPCs may be "wrapped" with any number of client languages, complicating the maintenance of VISTA business logic as it is embedded in procedural code of a variety of different languages depending on the client.  This creates a polyglot "babelized"  VISTA, where parts of its logic is in one language, and other parts of its logic is in another, fragmenting and decentralizing the integrity of its business logic. This makes the system brittle because any changes to the system would require knowlege of at least two completely distinct programming languages and tecnologies.
 
 Security for all RPCs is based on the Terminal  (roll-and-scroll) interface and its Menu Actions. These Menus are hard-coded and exclusive to the terminal interface, and is not applicable to any generalized, external, web, or GUI-based interfaces.
 
@@ -22,9 +24,9 @@ Many of the 3500 RPCs bypass the Fileman API and Data Dictionary, writing direct
 
 __Data-centric VISTA interfacing: A single, secure VISTA Data Model__
 
-All external interfaces and functionality are Model-driven, language-agnostic, client-agnostic, Fileman API compliant,  and secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
-
 All interfacing is through a single,  secure, symmetric read-write Master VISTA Data Model using modern, web-standard languages and tools. The read data model is identical to the write data model, making client access simpler.  Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM).
+
+All external interfaces and functionality are Model-driven, language-agnostic, client-agnostic, Fileman API compliant,  and secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
 
 
 
