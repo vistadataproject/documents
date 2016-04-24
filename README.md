@@ -10,14 +10,14 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 
 
-# What Problem does the VISTA Data Model (VDM) Solve?
+## What Problem does a Master VISTA Data Model (MVDM) Solve?
 
 A comparison of the current MUMPS RPC-based approach to interfacing to VISTA summarizes the benefits of migration from hard-coded MUMPS RPC-based interfacing to a single, modern, data-centric, model-driven approach:
 
 
-Interface |  MUMPS RPC-Based | VISTA Data Model-Based
+Interface |  MUMPS RPCs | VISTA Data Model
 --- | --- | ---
-Method | MUMPS RPCs <br> Over 3500 legacy MUMPS routines| VISTA Data Model-Driven <br> Data-Centric. No code involved. 
+Method | MUMPS RPCs <br> Over 3500 legacy MUMPS routines| VISTA Data Model-Driven <br> One single read-write mechanism for all data.  No code involved. 
 Ease of interfacing to new clients | HARD | EASY
 Security | Patchy, Opaque  |  Comprehensive, Clear
 Authentication | Kernel Access/Verify | Kernel Access/Verify
