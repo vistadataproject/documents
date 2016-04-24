@@ -8,7 +8,9 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 ![VDP-intro](/images/vdp-intro.png)
 
 
-## VISTA Data Interfaces
+# VISTA Data Interfaces: Present and Future
+
+![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
 
 ### Current VISTA Data Interfaces  (over 3500)
 
@@ -22,8 +24,6 @@ All  external interfaces and functionality are Model-driven,  language-agnostic,
 
 All interfacing is through a single,  secure, symmetric read-write Master VISTA Data Model using modern, web-standard languages and tools. The read data model is identical to the write data model, making client access simpler.  Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM).
 
-
-![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
 
 
 ## Features
