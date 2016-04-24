@@ -21,15 +21,15 @@ A comparison of the current MUMPS RPC-based approach to interfacing to VISTA sum
 
 Interface |  MUMPS RPCs | VISTA Data Model
 --- | --- | ---
-Method | MUMPS RPCs <br> Over 3500 unique MUMPS routines| :+1: :new: VISTA Data Model-Driven <br> :+1: :new: One single read-write mechanism for all data. <br>:+1: :new: No code involved. 
+Method | MUMPS RPCs <br> Over 3500 unique MUMPS routines|  :new: Data Model-Driven <br>  :new: One single read-write mechanism for all data. <br>:+1: No code involved. 
 Ease of interfacing to new clients | :no_entry_sign: HARD | :+1: EASY
 Security | :exclamation: Patchy, Opaque  |  :+1: Comprehensive, Clear
 Authentication |  Kernel Access/Verify | Kernel Access/Verify
-Access Control | :exclamation: Applicable only to the legacy terminal interface's  Menu Options  | :+1: :new: Applicable to *any* new interface. <br>:+1: :new: Data-Centric; <br>:+1:  :new: Patient-Centric, <br> :+1: :new:  Attribute-Based Access Control (ABAC)
+Access Control | :exclamation: Relevant only to a legacy terminal interface's  Menu Options  | :new: Applicable to *any* new interface. <br>:new: Data-Centric; <br> :new: Patient-Centric, <br> :new:  Attribute-Based Access Control (ABAC)
 Fileman API Compliant| :exclamation: Unreliable, Incomplete <br> :exclamation: Variable compliance| :+1: Reliable, Complete <br> :+1: 100% Compliant
-Audit |  :exclamation: Incomplete <br>(Bypassess Fileman auditing) | :+1: :new: Comprehensive AND  :+1: :new: Patient-Centric  
-Unit Tested |  :exclamation: NO <br> :exclamation:  0% coverage  | :+1: YES <br> :+1: 100% coverage
-Documentation | :exclamation: Incomplete, inconsistent, unclear. <br>:exclamation:  Requires understanding MUMPS code | :+1: :new: Complete, consistent, clear.  <br>:+1: :new: Core is machine generated
+Audit |  :exclamation: Incomplete <br> :exclamation: Bypassess Fileman auditing | :+1:  Comprehensive AND <br> :new: Patient-Centric  
+Unit Tested  |  :exclamation: NO <br> :exclamation:  0% logic tested  | :+1: YES <br> :+1: 100% logic validated
+Documentation | :exclamation: Incomplete, inconsistent, unclear. <br>:exclamation:  Requires understanding MUMPS code | :+1: Complete, consistent, clear.  <br>:new: Core is machine generated
 
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
