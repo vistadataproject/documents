@@ -12,8 +12,8 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
 
-#### Current 
-__Current VISTA interfacing: Thousands RPCs__. Current external interfacing  to VISTA is through remote procedure calls (RPCs) written in the MUMPS language. These are hard-coded for very specific clients and are not interchangeable to other clients due to the shared, embedded business logic within the custom MUMPS and client code.  
+#### Current: RPC-Based
+Current external interfacing  to VISTA is through remote procedure calls (RPCs) written in the MUMPS language. These are hard-coded for very specific clients and are not interchangeable to other clients due to the shared, embedded business logic within the custom MUMPS and client code.  
 
 The RPCs may be "wrapped" with any number of client languages, complicating the maintenance of VISTA business logic as it is embedded in procedural code of a variety of different languages depending on the client.  This creates a polyglot "babelized"  VISTA, where parts of its logic is in one language, and other parts of its logic is in another, fragmenting and decentralizing the integrity of its business logic. This makes the system brittle because any changes to the system would require knowlege of at least two completely distinct programming languages and tecnologies.
 
@@ -21,8 +21,8 @@ Security for all RPCs is based on the Terminal  (roll-and-scroll) interface and 
 
 Many of the 3500 RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage. Bypassing the FM API means that Fileman security and auditing measures are bypassed, creating a significant security gap. In addition, this makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS RPCs (The read and write RPCs are completely distinct from each other).  The only means to access or interface to new data is to write new MUMPS RPCs using the Terminal-based Actions-centric security, in addition to custom RPC MUMPS security code. 
 
-#### Data-Centric
-__Data-centric VISTA interfacing: A single, secure VISTA Data Model__. All interfacing is through a single,  secure, symmetric read-write Master VISTA Data Model using modern, web-standard languages and tools. The read data model is identical to the write data model, making client access simpler.  Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM).
+#### Future: VISTA Data Model-Based
+All interfacing is through a single,  secure, symmetric read-write Master VISTA Data Model using modern, web-standard languages and tools. The read data model is identical to the write data model, making client access simpler.  Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM).
 
 All external interfaces and functionality are Model-driven, language-agnostic, client-agnostic, Fileman API compliant,  and secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
 
