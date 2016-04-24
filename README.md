@@ -13,7 +13,7 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 Interface |  RPC-Based | VDM-Based
 --- | --- | ---
-Method
+Method |  | 
 Ease of Interfacing to new clients | HARD | EASY
 Security | Patchy, Opaque  |  Comprehensive, Clear
 Authentication | Kernel Access/Verify | Kernel Access/Verify
