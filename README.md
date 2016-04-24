@@ -13,15 +13,15 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 Interface |  RPC-Based | VDM-Based
 --- | --- | ---
-Method | MUMPS RPC routines (over 3500) | Data Model Driven (1)
+Method | MUMPS RPC code <br> (over 3500 MUMPS routines) | Data Model Driven <br>(
 Ease of interfacing to new clients | HARD | EASY
 Security | Patchy, Opaque  |  Comprehensive, Clear
 Authentication | Kernel Access/Verify | Kernel Access/Verify
-Access Control | Terminal-specific Menu Options  | Data-Centric; Patient-Centric, Attribute-Based Access Control (ABAC)
-Fileman API Compliant| Incomplete, Variable | Complete, 100% Compliant
-Audit |  Incomplete, Bypassess FY API  | Comprehensive AND Patient-Centric  
+Access Control | Applicable only to the legacy terminal interface's  Menu Options  | Applicable to *any* new interface. <br>Data-Centric; <br>Patient-Centric, <br>Attribute-Based Access Control (ABAC)
+Fileman API Compliant| Unreliable, Incomplete <br> (Variable compliance)| Reliable, Complete <br> (100% Compliant)
+Audit |  Incomplete <br>(Bypassess Fileman auditing) | Comprehensive AND Patient-Centric  
 Unit Tested |  NO <br>0% coverage  | YES <br>100% coverage
-Documentation | Inconsistent, incomplete. Embedded in MUMPS code | Complete, clear.  Core is machine generated
+Documentation | Incomplete, inconsistent, unclear. <br>(Requires understanding MUMPS code) | Complete, consistent, clear.  <br>(Core is machine generated)
 
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
