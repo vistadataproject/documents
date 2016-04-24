@@ -13,7 +13,7 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 Interface |  RPC-Based | VDM-Based
 --- | --- | ---
-Method | MUMPS RPC code <br> (over 3500 MUMPS routines) | Data Model Driven <br>(
+Method | MUMPS RPCs <br> Over 3500 legacy MUMPS routines| VISTA Data Model-Driven <br> Data-Centric. No code involved. 
 Ease of interfacing to new clients | HARD | EASY
 Security | Patchy, Opaque  |  Comprehensive, Clear
 Authentication | Kernel Access/Verify | Kernel Access/Verify
