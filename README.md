@@ -13,8 +13,8 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 Interface |  RPC-Based | VDM-Based
 --- | --- | ---
-Method |  | 
-Ease of Interfacing to new clients | HARD | EASY
+Method | MUMPS RPC routines (over 3500) | Data Model Driven (1)
+Ease of interfacing to new clients | HARD | EASY
 Security | Patchy, Opaque  |  Comprehensive, Clear
 Authentication | Kernel Access/Verify | Kernel Access/Verify
 Access Control | Terminal-specific Menu Options  | Data-Centric; Patient-Centric, Attribute-Based Access Control (ABAC)
