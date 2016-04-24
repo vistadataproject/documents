@@ -21,7 +21,7 @@ A comparison of the current MUMPS RPC-based approach to interfacing to VISTA sum
 
 Interface |  MUMPS RPCs | VISTA Data Model
 --- | --- | ---
-Method | MUMPS RPCs <br> Over 3500 unique MUMPS routines|  :new: Data Model-Driven <br>  :new: One single read-write mechanism for all data. <br>:+1: No code involved. 
+Method |  MUMPS RPC code <br> Relies on over 3500 legacy MUMPS routines|  :new: Data Model-Driven <br>  :new: :+1: One single, symmetric read-write mechanism for all data. <br>:+1: No code involved. 
 Ease of interfacing to new clients | :no_entry_sign: HARD | :+1: EASY
 Security | :exclamation: Patchy, Opaque  |  :+1: Comprehensive, Clear
 Authentication |  Kernel Access/Verify | Kernel Access/Verify
