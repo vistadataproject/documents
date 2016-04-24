@@ -22,14 +22,14 @@ A comparison of the current MUMPS RPC-based approach to interfacing to VISTA sum
 Interface |  MUMPS RPCs | VISTA Data Model
 --- | --- | ---
 Method | MUMPS RPCs <br> Over 3500 unique MUMPS routines| VISTA Data Model-Driven <br> One single read-write mechanism for all data. <br> No code involved. 
-Ease of interfacing to new clients | HARD | EASY
-Security | Patchy, Opaque  |  Comprehensive, Clear
+Ease of interfacing to new clients | :no_entry_sign: HARD | EASY
+Security | :exclamation: Patchy, Opaque  |  Comprehensive, Clear
 Authentication | Kernel Access/Verify | Kernel Access/Verify
-Access Control | Applicable only to the legacy terminal interface's  Menu Options  | Applicable to *any* new interface. <br>Data-Centric; <br>Patient-Centric, <br>Attribute-Based Access Control (ABAC)
-Fileman API Compliant| Unreliable, Incomplete <br> (Variable compliance)| Reliable, Complete <br> (100% Compliant)
-Audit |  Incomplete <br>(Bypassess Fileman auditing) | Comprehensive AND Patient-Centric  
-Unit Tested |  NO <br>0% coverage  | YES <br>100% coverage
-Documentation | Incomplete, inconsistent, unclear. <br>(Requires understanding MUMPS code) | Complete, consistent, clear.  <br>(Core is machine generated)
+Access Control | :exclamation: Applicable only to the legacy terminal interface's  Menu Options  | Applicable to *any* new interface. <br>Data-Centric; <br>Patient-Centric, <br>Attribute-Based Access Control (ABAC)
+Fileman API Compliant| :exclamation: Unreliable, Incomplete <br> (Variable compliance)| Reliable, Complete <br> (100% Compliant)
+Audit |  :exclamation: Incomplete <br>(Bypassess Fileman auditing) | Comprehensive AND Patient-Centric  
+Unit Tested |  :exclamation: NO <br>0% coverage  | YES <br>100% coverage
+Documentation | :exclamation: Incomplete, inconsistent, unclear. <br>(Requires understanding MUMPS code) | Complete, consistent, clear.  <br>(Core is machine generated)
 
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
