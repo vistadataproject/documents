@@ -25,7 +25,7 @@ Method |  :exclamation:  Relies on over 3500 legacy MUMPS routines <br> :exclama
 Ease of interfacing to new clients | :no_entry_sign: HARD | :+1: EASY
 Security | :exclamation: Patchy, Opaque  |  :+1: Comprehensive, Clear
 Authentication |  Kernel Access/Verify | Kernel Access/Verify
-Access Control | :exclamation: Relevant only to a legacy terminal interface's  Menu Options  | :new: Applicable to *any* new interface. <br>:new: Data-Centric; <br> :new: Patient-Centric, <br> :new:  Attribute-Based Access Control (ABAC)
+Access Control | :exclamation: Dependent on legacy terminal interface Menu Options  | :new: Applicable to *any* new interface. <br>:new: Data-Centric; <br> :new: Patient-Centric, <br> :new:  Attribute-Based Access Control (ABAC)
 Fileman API Compliant| :exclamation: Unreliable, Incomplete <br> :exclamation: Variable compliance| :+1: Reliable, Complete <br> :+1: 100% Compliant
 Audit |  :exclamation: Incomplete <br> :exclamation: Bypassess Fileman auditing | :+1:  Comprehensive AND <br> :new: Patient-Centric  
 Unit Tested  |  :exclamation: NO <br> :exclamation:  0% logic tested  | :+1: YES <br> :+1: 100% logic validated
