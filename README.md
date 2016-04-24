@@ -16,7 +16,7 @@ Current external interfacing  to VISTA is exclusively through MUMPS code remote 
 
 Many of the 3500 RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage. Bypassing the FM API means that Fileman security and auditing measures are bypassed, creating a significant security gap. In addition, this makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS RPCs (The read and write RPCs are completely distinct from each other).  The only means to access or interface to new data is to write new MUMPS RPCs using the Terminal-based Actions-centric security, in addition to custom RPC MUMPS security code. 
 
-### VISTA Data Model Interface  (only one)
+### VISTA Data Model Interface  (just one)
 
 All  external interfaces and functionality are Model-driven,  language-agnostic, client-agnostic, Fileman API compliant,  and secured with  both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
 
