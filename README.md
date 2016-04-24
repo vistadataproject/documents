@@ -8,7 +8,7 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 ![VDP-intro](/images/vdp-intro.png)
 
 
-# The Problem:  VISTA Interfacing
+# VISTA Interfacing
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
 
