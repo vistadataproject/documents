@@ -10,6 +10,20 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 # VISTA Interfacing
 
+
+Interface |  RPC-Based | VDM-Based
+--- | --- | ---
+Method
+Ease of Interfacing to new clients | HARD | EASY
+Security | Patchy, Opaque  |  Comprehensive, Clear
+Authentication | Kernel Access/Verify | Kernel Access/Verify
+Access Control | Terminal-specific Menu Options  | Data-Centric; Patient-Centric, Attribute-Based Access Control (ABAC)
+Fileman API Compliant| Incomplete, Variable | Complete, 100% Compliant
+Audit |  Incomplete, Bypassess FY API  | Comprehensive AND Patient-Centric  
+Unit Tested |  NO <br>0% coverage  | YES <br>100% coverage
+Documentation | Inconsistent, incomplete. Embedded in MUMPS code | Complete, clear.  Core is machine generated
+
+
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
 
 #### Current: RPC-Based
