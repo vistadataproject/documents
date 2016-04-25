@@ -23,7 +23,7 @@ Interface |  MUMPS RPCs | VISTA Data Model
 --- | --- | ---
 Method |  :exclamation:  Relies on over 3500 legacy MUMPS routines <br> :exclamation: Largely undocumented, inconsistent <br> :exclamation:  separate, unique routines for reading vs writing the same data|  :new: Data Model-Driven <br>  :new: One single, symmetric read-write mechanism for all data. <br>:+1: No MUMPS code involved. 
 Ease of interfacing to new clients | :no_entry_sign: HARD | :+1: EASY
-Security | :exclamation: Patchy, Opaque  |  :+1: Comprehensive, Clear
+Security | :exclamation: Patchy, Opaque  | :white_check_mark: :+1: Comprehensive, Clear
 Authentication |  Kernel Access/Verify | Kernel Access/Verify
 Access Control | :exclamation: Dependent on legacy terminal interface Menu Options  | :new: Applicable to *any* new interface. <br>:new: Data-Centric; <br> :new: Patient-Centric, <br> :new:  Attribute-Based Access Control (ABAC)
 Fileman API Compliant| :exclamation: Unreliable, Incomplete <br> :exclamation: Variable compliance| :+1: Reliable, Complete <br> :+1: 100% Compliant
