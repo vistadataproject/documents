@@ -16,20 +16,7 @@ The VISTA Data Project is a new data-centric approach to VISTA interfacing and m
 
 In a data-centric approach one instead comprehensively exposes all the data in the system revealing the native data model, and then manage the data using a model-driven, data-centric approach. This master VISTA data model - the roadmap to all of VA's institutional know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged.  Now, for the first time, this data model will be comprehensively exposed and fully taken advantage of. 
 
-A comparison of the current MUMPS RPC-based approach to interfacing to VISTA summarizes the benefits of migration from hard-coded MUMPS RPC-based interfacing to a single, modern, data-centric, model-driven approach:
-
-
-Interface |  MUMPS RPCs | VISTA Data Model
---- | --- | ---
-Method |   :no_entry_sign:  Relies on over 3500 legacy MUMPS routines <br>  :no_entry_sign: Largely undocumented, inconsistent <br>  :no_entry_sign:  separate, unique routines for reading vs writing the same data| :white_check_mark: :new: Data Model-Driven <br> :white_check_mark: :new: One single, symmetric read-write mechanism for all data. <br>:white_check_mark:  No MUMPS code involved. 
-Ease of interfacing to new clients | :no_entry_sign: HARD | :white_check_mark: EASY
-Security |  :no_entry_sign: Patchy, Opaque  | :white_check_mark:  Comprehensive, Clear
-Authentication |  Kernel Access/Verify | Kernel Access/Verify
-Access Control |  :no_entry_sign: Dependent on legacy terminal interface Menu Options  | :white_check_mark: :new: Applicable to *any* new interface. <br>:white_check_mark: :new: Data-Centric; <br> :white_check_mark: :new: Patient-Centric, <br>:white_check_mark:  :new:  Attribute-Based Access Control (ABAC)
-Fileman API Compliant|  :no_entry_sign: Unreliable, Incomplete <br> :no_entry_sign: Variable compliance| :white_check_mark:  Reliable, Complete <br> :white_check_mark: 100% Compliant
-Audit |   :no_entry_sign: Incomplete <br> :no_entry_sign: Bypassess Fileman auditing | :white_check_mark:  Comprehensive AND <br> :white_check_mark: :new: Patient-Centric  
-Unit Tested  |   :no_entry_sign: NO <br>  :no_entry_sign:  0% logic tested  | :white_check_mark: YES <br> :white_check_mark: 100% logic validated
-Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_entry_sign:  Requires understanding MUMPS code | :white_check_mark: Complete, consistent, clear.  <br>:white_check_mark: :new: Core is machine generated
+A comparison of the current MUMPS RPC-based approach to interfacing to VISTA summarizes the difference between hard-coded MUMPS RPC-based interfacing to that of a single, modern, data-centric, model-driven approach:
 
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
@@ -47,6 +34,22 @@ Many of the 3500 RPCs bypass the Fileman API and Data Dictionary, writing direct
 All interfacing is through a single,  secure, symmetric read-write Master VISTA Data Model using modern, web-standard languages and tools. The read data model is identical to the write data model, making client access simpler.  Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM).
 
 All external interfaces and functionality are Model-driven, language-agnostic, client-agnostic, Fileman API compliant,  and secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
+
+#### VISTA Interfacing: Summary
+
+Interface |  MUMPS RPCs | VISTA Data Model
+--- | --- | ---
+Method |   :no_entry_sign:  Relies on over 3500 legacy MUMPS routines <br>  :no_entry_sign: Largely undocumented, inconsistent <br>  :no_entry_sign:  separate, unique routines for reading vs writing the same data| :white_check_mark: :new: Data Model-Driven <br> :white_check_mark: :new: One single, symmetric read-write mechanism for all data. <br>:white_check_mark:  No MUMPS code involved. 
+Ease of interfacing to new clients | :no_entry_sign: HARD | :white_check_mark: EASY
+Security |  :no_entry_sign: Patchy, Opaque  | :white_check_mark:  Comprehensive, Clear
+Authentication |  Kernel Access/Verify | Kernel Access/Verify
+Access Control |  :no_entry_sign: Dependent on legacy terminal interface Menu Options  | :white_check_mark: :new: Applicable to *any* new interface. <br>:white_check_mark: :new: Data-Centric; <br> :white_check_mark: :new: Patient-Centric, <br>:white_check_mark:  :new:  Attribute-Based Access Control (ABAC)
+Fileman API Compliant|  :no_entry_sign: Unreliable, Incomplete <br> :no_entry_sign: Variable compliance| :white_check_mark:  Reliable, Complete <br> :white_check_mark: 100% Compliant
+Audit |   :no_entry_sign: Incomplete <br> :no_entry_sign: Bypassess Fileman auditing | :white_check_mark:  Comprehensive AND <br> :white_check_mark: :new: Patient-Centric  
+Unit Tested  |   :no_entry_sign: NO <br>  :no_entry_sign:  0% logic tested  | :white_check_mark: YES <br> :white_check_mark: 100% logic validated
+Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_entry_sign:  Requires understanding MUMPS code | :white_check_mark: Complete, consistent, clear.  <br>:white_check_mark: :new: Core is machine generated
+
+
 
 
 
