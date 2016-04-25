@@ -39,7 +39,7 @@ All external interfaces and functionality are Model-driven, language-agnostic, c
 
 Interface |  MUMPS RPCs | VISTA Data Model
 --- | --- | ---
-Method |   :no_entry_sign:  Relies on over 3500 legacy MUMPS routines <br>  :no_entry_sign: Largely undocumented, inconsistent <br>  :no_entry_sign:  separate, unique routines for reading vs writing the same data| :white_check_mark: :new: Data Model-Driven <br> :white_check_mark: :new: One single, symmetric read-write mechanism for all data. <br>:white_check_mark:  No MUMPS code involved. 
+Method |   :no_entry_sign:  Relies on over 3500 client-specific legacy MUMPS routines <br>  :no_entry_sign: Distinct, unique routines for reading vs writing the same data| :white_check_mark: :new: Data Model-Driven <br> :white_check_mark: :new: Client-agnostic <br> :white_check_mark: :new: One single, symmetric read-write mechanism for all data. <br>:white_check_mark:  No MUMPS code involved. 
 Ease of interfacing to new clients | :no_entry_sign: HARD | :white_check_mark: EASY
 Security |  :no_entry_sign: Patchy, Opaque  | :white_check_mark:  Comprehensive, Clear
 Authentication |  Kernel Access/Verify | Kernel Access/Verify
