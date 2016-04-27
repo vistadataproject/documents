@@ -32,7 +32,7 @@ A comparison of the current MUMPS RPC-based approach to interfacing to VISTA sum
 - The only means to access or interface to new data is to write new MUMPS RPCs using the Terminal-based Actions-centric security, in addition to custom RPC MUMPS security code. 
 
 #### Future: Data Model-Based
-+ All external interfaces and functionality are Model-driven, language-agnostic, client-agnostic, Fileman API compliant,  and secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
++ __All external interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant,  and secured__ with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
 + All interfacing is through a single,  secure, symmetric read-write Master VISTA Data Model using modern, web-standard languages and tools. 
 + The read data model is identical to the write data model, making client transactions much simpler. 
 + Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM). 
