@@ -12,6 +12,8 @@ The VISTA Data Project is a new data-centric approach to comprehensively exposin
 
 The VISTA Data Project is a new data-centric approach to VISTA interfacing and master data management.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded MUMPS RPC interfaces that have accumulated over three decades, few of which are vaidated, documented, understood, or maintained. 
 
+VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged in computable form.  Now, for the first time, this data model will be comprehensively exposed and leveraged as the single, unifirm, logical interface to all VISTA data for external interfacing.
+
 A comparison of the current MUMPS RPC-based approach to interfacing to VISTA summarizes the difference between hard-coded MUMPS RPC-based interfacing to that of a single, modern, data-centric, model-driven approach:
 
 
@@ -19,10 +21,14 @@ A comparison of the current MUMPS RPC-based approach to interfacing to VISTA sum
 
 #### Current: MUMPS RPC-Based
 
-- Current external interfacing  to VISTA is through remote procedure calls (RPCs) written in the MUMPS language. These are hard-coded for very specific clients and are not interchangeable to other clients due to the shared, embedded business logic within the custom MUMPS and client code.
-- The RPCs may be "wrapped" with any number of client languages, complicating the maintenance of VISTA business logic as it is embedded in procedural code of a variety of different languages depending on the client.  This creates a polyglot "babelized"  VISTA, where parts of its logic is written in one language, and other parts of the same transactional logic is written in another, fragmenting and decentralizing the integrity of its business logic. This makes the system brittle and difficult to maintain because any changes to the system would require knowlege of at minimum two completely distinct programming languages and technologies.
+- __Current external interfacing  to VISTA is through remote procedure calls (RPCs) written in the MUMPS language.__
+- These are hard-coded for very specific clients and are not interchangeable to other clients due to the shared, embedded business logic within the custom MUMPS and client code.
+- The RPCs may be "wrapped" with any number of client languages or technologies, which only complicates the maintenance of VISTA business logic as it is now embedded and obfuscated within within multiple different languages depending on the client.  
+- This creates a polyglot "babelized"  VISTA, where parts of its logic is written in one language, and other parts of the same transactional logic is written in another, fragmenting and decentralizing the integrity of its business logic. 
+- This makes the system extremely brittle and difficult to maintain because any changes to the system would require knowlege not just of MUMPS, but of the 'wrapping' language and technology as well, which changes over time.
 - Security for all RPCs is based on the Terminal  (roll-and-scroll) interface and its Menu Actions. These Menus are hard-coded and exclusive to the terminal interface, and is not applicable to any generalized, external, web, or GUI-based interfaces.
-- Many of the 3500 RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage. Bypassing the FM API means that Fileman security and auditing measures are bypassed, creating a significant security gap. In addition, this makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS RPCs (The read and write RPCs are completely distinct from each other).  
+- Many of the 3500 RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage. Bypassing the FM API means that Fileman security and auditing measures are bypassed, creating a significant security gap. 
+- Bypassing the Fileman API also makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS RPCs (The read and write RPCs are completely distinct from each other).  
 - The only means to access or interface to new data is to write new MUMPS RPCs using the Terminal-based Actions-centric security, in addition to custom RPC MUMPS security code. 
 
 #### Future: Data Model-Based
@@ -33,9 +39,6 @@ A comparison of the current MUMPS RPC-based approach to interfacing to VISTA sum
 
 
 #### VISTA Interfacing: Summary
-
-VA VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged in computable form.  Now, for the first time, this data model will be comprehensively exposed and fully taken advantage of as uniform logical interface for all VISTA data to external systems.
-
 
 Interface |  MUMPS RPCs (x3500)  | Master VISTA Data Model (x1)
 --- | --- | ---
