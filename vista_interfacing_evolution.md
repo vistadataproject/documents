@@ -26,14 +26,14 @@
 
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-technical.png)
 
-![vdp]https://github.com/vistadataproject/documents/blob/master/images/vdp-vdm_vs_jlv-cprs.png)
+![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-vdm_vs_jlv-cprs.png)
 
-![vdp]https://github.com/vistadataproject/documents/blob/master/images/vdp-vista-integrated.png)
+![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-vista-integrated.png)
 
-![vdp]https://github.com/vistadataproject/documents/blob/master/images/vdp-vista-model-centric.png)
+![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-vista-model-centric.png)
 
-![vdp]https://github.com/vistadataproject/documents/blob/master/images/vdp-vista_interfacing_evolution-graphic.png)
+![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-vista_interfacing_evolution-graphic.png)
 
-![vdp]https://github.com/vistadataproject/documents/blob/master/images/vdp-vista_interfacing_img.png)
+![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-vista_interfacing_img.png)
 
-![vdp]https://github.com/vistadataproject/documents/blob/master/images/vista%20interfacing-summary.png)
+![vdp](https://github.com/vistadataproject/documents/blob/master/images/vista%20interfacing-summary.png)
