@@ -1,23 +1,31 @@
 # VISTA Data Project
 
-### A Real-time Computable Master Data Model for VA's VISTA Systems
-_Server-side. Security-enabled. Symmetric-Read-Write._
-
-The VISTA Data Project is a new data-centric approach to comprehensively exposing, representing, and managing the thirty-five years of patient data and institutional know-how currently in the VA's 131 nationally deployed health information systems (VISTA) using a modern web-standard machine-processable data model; and by enriching and operationalizing this model, make all relevant VISTA data securely accessible and computable in real-time across all VISTA systems through one national, standard Master VISTA Data Model (MVDM).
-
-![VDP-intro](/images/vdp-intro.png)
-
-
-## VISTA Interfacing:  A New Approach
-
-The VISTA Data Project is a new data-centric approach to VISTA interfacing and master data management.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded MUMPS RPC interfaces that have accumulated over three decades, few of which are vaidated, documented, understood, or maintained. 
+The VISTA Data Project is a new data-centric approach to VISTA interfacing and master data management.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded MUMPS RPC interfaces that have accumulated over three decades, few of which are vaidated, documented, or maintained. 
 
 VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged in computable form.  Now, for the first time, this data model will be comprehensively exposed and leveraged as the single, unifirm, logical interface to all VISTA data for external interfacing.
+
+## VISTA Interfacing:  A New Approach
 
 A comparison of the current MUMPS RPC-based approach to interfacing to VISTA summarizes the difference between hard-coded MUMPS RPC-based interfacing to that of a single, modern, data-centric, model-driven approach:
 
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
+
+
+#### VISTA Interfacing: Summary
+
+Interface |  MUMPS RPCs (x3500)  | Master VISTA Data Model (x1)
+--- | --- | ---
+Method |   :no_entry_sign:  Relies on over 3500 client-specific, non-interchangeable legacy MUMPS routines <br>  :no_entry_sign: Distinct, unique routines for reading vs writing the same data <br>  :no_entry_sign: Requires extensive knowledge and experience with MUMPS and VISTA | :white_check_mark: :new: Data Model-Driven <br> :white_check_mark: :new: Client-agnostic <br> :white_check_mark: :new: One single, symmetric read-write mechanism for all data. <br>:white_check_mark: Requires no knowledge or experience with VISTA internals or MUMPS.
+Ease of interfacing to new clients | :no_entry_sign: HARD | :white_check_mark: EASY
+Security |  :no_entry_sign: Patchy, Opaque  | :white_check_mark:  Comprehensive, Clear
+Authentication |  Kernel Access/Verify | Kernel Access/Verify
+Access Control |  :no_entry_sign: Dependent on legacy terminal interface Menu Options  | :white_check_mark: :new: Applicable to *any* new interface. <br>:white_check_mark: :new: Data-Centric; <br> :white_check_mark: :new: Patient-Centric, <br>:white_check_mark:  :new:  Attribute-Based Access Control (ABAC)
+Fileman API Compliant|  :no_entry_sign: Unreliable, Incomplete <br> :no_entry_sign: Variable compliance| :white_check_mark:  Reliable, Complete <br> :white_check_mark: 100% Compliant
+Audit |   :no_entry_sign: Incomplete <br> :no_entry_sign: Bypassess Fileman auditing | :white_check_mark:  Comprehensive AND <br> :white_check_mark: :new: Patient-Centric  
+Unit Tested  |   :no_entry_sign: NO <br>  :no_entry_sign:  0% logic tested  | :white_check_mark: YES <br> :white_check_mark: 100% logic validated
+Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_entry_sign:  Requires understanding MUMPS code | :white_check_mark: Complete, consistent, clear.  <br>:white_check_mark: :new: Core is machine generated
+
 
 #### Current: MUMPS RPC-Based
 
@@ -38,21 +46,12 @@ A comparison of the current MUMPS RPC-based approach to interfacing to VISTA sum
 + Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM). 
 
 
-#### VISTA Interfacing: Summary
+### A Computable Master Data Model for VA's VISTA Systems
+_Server-side. Security-enabled. Symmetric-Read-Write._
 
-Interface |  MUMPS RPCs (x3500)  | Master VISTA Data Model (x1)
---- | --- | ---
-Method |   :no_entry_sign:  Relies on over 3500 client-specific, non-interchangeable legacy MUMPS routines <br>  :no_entry_sign: Distinct, unique routines for reading vs writing the same data <br>  :no_entry_sign: Requires extensive knowledge and experience with MUMPS and VISTA | :white_check_mark: :new: Data Model-Driven <br> :white_check_mark: :new: Client-agnostic <br> :white_check_mark: :new: One single, symmetric read-write mechanism for all data. <br>:white_check_mark: Requires no knowledge or experience with VISTA internals or MUMPS.
-Ease of interfacing to new clients | :no_entry_sign: HARD | :white_check_mark: EASY
-Security |  :no_entry_sign: Patchy, Opaque  | :white_check_mark:  Comprehensive, Clear
-Authentication |  Kernel Access/Verify | Kernel Access/Verify
-Access Control |  :no_entry_sign: Dependent on legacy terminal interface Menu Options  | :white_check_mark: :new: Applicable to *any* new interface. <br>:white_check_mark: :new: Data-Centric; <br> :white_check_mark: :new: Patient-Centric, <br>:white_check_mark:  :new:  Attribute-Based Access Control (ABAC)
-Fileman API Compliant|  :no_entry_sign: Unreliable, Incomplete <br> :no_entry_sign: Variable compliance| :white_check_mark:  Reliable, Complete <br> :white_check_mark: 100% Compliant
-Audit |   :no_entry_sign: Incomplete <br> :no_entry_sign: Bypassess Fileman auditing | :white_check_mark:  Comprehensive AND <br> :white_check_mark: :new: Patient-Centric  
-Unit Tested  |   :no_entry_sign: NO <br>  :no_entry_sign:  0% logic tested  | :white_check_mark: YES <br> :white_check_mark: 100% logic validated
-Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_entry_sign:  Requires understanding MUMPS code | :white_check_mark: Complete, consistent, clear.  <br>:white_check_mark: :new: Core is machine generated
+The VISTA Data Project is a new data-centric approach to comprehensively exposing, representing, and managing the thirty-five years of patient data and institutional know-how currently in the VA's 131 nationally deployed health information systems (VISTA) using a modern web-standard machine-processable data model; and by enriching and operationalizing this model, make all relevant VISTA data securely accessible and computable in real-time across all VISTA systems through one national, standard Master VISTA Data Model (MVDM).
 
-
+![VDP-intro](/images/vdp-intro.png)
 
 
 
