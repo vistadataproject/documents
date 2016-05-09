@@ -4,8 +4,6 @@ The VISTA Data Project is a new data-centric approach to VISTA interfacing and m
 
 VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged in computable form.  Now, for the first time, this data model will be comprehensively exposed and leveraged as the single, unifirm, logical interface to all VISTA data for external interfacing.
 
-## VISTA Interfacing:  A New Approach
-
 A comparison of the current MUMPS RPC-based approach to interfacing to VISTA summarizes the difference between hard-coded MUMPS RPC-based interfacing to that of a single, modern, data-centric, model-driven approach:
 
 
