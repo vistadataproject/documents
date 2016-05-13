@@ -1,16 +1,26 @@
 # VISTA Data Project
 
-The VISTA Data Project is a new data-centric, model-driven approach to VISTA data management and interfacing.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded MUMPS RPC interfaces that have accumulated over three decades, none of which are vaidated, documented, or maintained. 
+The VISTA Data Project is a research and discovery initiative to prototype a data-centric, model-driven approach to VISTA data management and interfacing.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded legacy MUMPS RPC interfaces that have accumulated over three decades, none of which are vaidated, documented, or maintained. 
 
 VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed and leveraged as the single, uniform, logical interface to all VISTA data for external interfacing.
 
-A comparison of the current MUMPS RPC-based approach to interfacing to VISTA summarizes the difference between hard-coded MUMPS RPC-based interfacing to that of a single, modern, data-centric, model-driven approach:
+The figure below summarizes the difference between hard-coded MUMPS RPC-based interfacing (relying on over 3500 MUMPS RPCs)  to that of a single, data model-driven interface:
 
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
 
 
-#### VISTA Interfacing: Summary
+__Features of the VISTA Data Model-driven Interface__:
++ All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
++ All interfaces are secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
++ All interfacing is through a single, secure, symmetric read-write Master VISTA Data Model.
++ All interfaces are written using modern, web-standard languages and tools (Javascript). 
++ The read data model is identical to the write data model (i.e. symmetric), assuring completenes and correctness of both. 
++ Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM). 
+
+
+
+#### VISTA Interfacing: Code-driven vs Model-driven
 
 Interface |  MUMPS RPCs (x3500)  | Master VISTA Data Model (x1)
 --- | --- | ---
@@ -37,17 +47,11 @@ Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_ent
 - Bypassing the Fileman API also makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS RPCs (The read and write RPCs are completely distinct from each other).  
 - The only means to access or interface to new data is to write new MUMPS RPCs using the Terminal-based Actions-centric security, in addition to custom RPC MUMPS security code. 
 
-#### Future: Data Model-Based
-+ __All external interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant,  and secured__ with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
-+ All interfacing is through a single,  secure, symmetric read-write Master VISTA Data Model using modern, web-standard languages and tools. 
-+ The read data model is identical to the write data model, making client transactions much simpler. 
-+ Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM). 
 
 
-###  Master VISTA Data Model
+
+###  VISTA Data Model: Technology Stack
 _Server-side. Security-enabled. Symmetric-Read-Write._
-
-The VISTA Data Project is a new data-centric approach to comprehensively exposing, representing, and managing the thirty-five years of patient data and institutional know-how currently in the VA's 131 nationally deployed health information systems (VISTA) using a modern web-standard machine-processable data model; and by enriching and operationalizing this model, make all relevant VISTA data securely accessible and computable in real-time across all VISTA systems through one national, standard Master VISTA Data Model (MVDM).
 
 ![VDP-intro](/images/vdp-intro.png)
 
