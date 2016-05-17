@@ -6,7 +6,6 @@
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-interfacing-vista-code-centric.png)
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-vista-model-centric.png)
 
-![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-interfacing_evolution-cprs-jlv-vdm.png)
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-vdm_vs_jlv-cprs.png)
 
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-vista_interfacing_evolution-graphic.png)
@@ -18,3 +17,5 @@
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-intro.png)
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-introB.png)
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-technical.png)
+
+
