@@ -1,6 +1,5 @@
 # VISTA Interfacing Evolution
 
-![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-evolution-of-data-connectivity.png)
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/linked-data-evolution.png)
 
 ![vdp](https://github.com/vistadataproject/documents/blob/master/images/vdp-vista-integrated.png)
