@@ -10,7 +10,7 @@ The figure below summarizes the difference between hard-coded MUMPS RPC-based in
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
 
 
-Key features of the VISTA Data Model include:
+__Features of the VISTA Data Model include:__
 + All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
 + All interfaces are secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
 + All interfacing is through a single, secure, symmetric read-write Master VISTA Data Model.
