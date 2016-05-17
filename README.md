@@ -29,7 +29,7 @@ Method |   :no_entry_sign:  Relies on over 3500 client-specific, non-interchange
 Ease of interfacing to new clients | :no_entry_sign: HARD | :white_check_mark: EASY
 Security |  :no_entry_sign: Patchy, Opaque  | :white_check_mark:  Comprehensive, Clear
 Authentication |  Kernel Access/Verify | Kernel Access/Verify
-Access Control |  :no_entry_sign: Dependent on legacy terminal interface Menu Options  | :white_check_mark:  Applicable to *any* new interface :new: <br>:white_check_mark:  Data-Centric; :new: <br> :white_check_mark:  Patient-Centric :new: <br>:white_check_mark:    Attribute-Based Access Control (ABAC) :new:
+Access Control |  :no_entry_sign: Dependent on and specific to the legacy terminal interface Menu Options  | :white_check_mark:  Applicable to any and all (new) interfaces  <br>:white_check_mark:  Data-Centric; :new: <br> :white_check_mark:  Patient-Centric :new: <br>:white_check_mark:    Attribute-Based Access Control (ABAC) :new:
 Fileman API Compliant|  :no_entry_sign: Unreliable, Incomplete <br> :no_entry_sign: Variable compliance| :white_check_mark:  Reliable, Complete <br> :white_check_mark: 100% Compliant
 Audit |   :no_entry_sign: Incomplete <br> :no_entry_sign: Bypassess Fileman auditing | :white_check_mark:  Comprehensive AND <br> :white_check_mark: Patient-Centric :new:  
 Unit Tested  |   :no_entry_sign: NO <br>  :no_entry_sign:  0% logic tested  | :white_check_mark: YES <br> :white_check_mark: 100% logic validated
