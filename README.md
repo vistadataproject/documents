@@ -136,7 +136,7 @@ Technical decisions by the VA and in mainstream software industry that framed th
 
 ## Technical Overview
 
-![VDP Components Overview](/images/vdp-technical.png)
+![VDP Components Overview](/images/vdp-technicalTEST.png)
 
 ## Tracks
 
