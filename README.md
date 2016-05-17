@@ -7,7 +7,7 @@ VISTA's data model - the roadmap to all of VA's institutional and clinical know-
 The figure below summarizes the difference between hard-coded MUMPS RPC-based interfacing (over 3500 MUMPS RPCs)  to that of a single, data model-driven interface:
 
 
-![VDP-vista_interfacing](/images/vdp-vista_interfacingTEST_img.png)
+![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
 
 
 Key features of the VISTA Data Model include:
@@ -40,7 +40,7 @@ Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_ent
 ###  VISTA Data Model: Technology Stack
 _Server-side. Security-enabled. Symmetric-Read-Write._
 
-![VDP-intro](/images/vdp-introTEST.png)
+![VDP-intro](/images/vdp-intro.png)
 
 
 
