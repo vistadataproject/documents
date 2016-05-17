@@ -6,14 +6,14 @@ VISTA's internal operational data model - the roadmap to all of VA's institution
 
 
 
-###  VISTA Data Model:  Overview
+##  VISTA Data Model:  Overview
 _Server-side. Security-enabled. Symmetric-Read-Write._
 
 ![VDP-intro](/images/vdp-intro.png)
 
 
 
-### VISTA: An Evolution in Integration
+## VISTA: An Evolution in Integration
 
 The figure below summarizes the difference between hard-coded MUMPS RPC-based interfacing (over 3500 MUMPS RPCs)  to that of a single model-driven interface:
 
