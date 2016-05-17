@@ -20,7 +20,7 @@ Key features of the VISTA Data Model include:
 
 
 
-#### VISTA Interfacing: Code-driven vs Model-driven
+#### VISTA Interfacing: Code-centric vs Model-centric
 
 Interface |  MUMPS RPCs (x3500)  | Master VISTA Data Model (x1)
 --- | --- | ---
