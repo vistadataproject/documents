@@ -4,6 +4,17 @@ The VISTA Data Project is a research and discovery initiative to prototype a dat
 
 VISTA's internal operational data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been leveraged in computable, operational form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as the single, secure, symmetric read-write interface to all VISTA data for external interfacing and integration.
 
+
+
+###  VISTA Data Model:  Overview
+_Server-side. Security-enabled. Symmetric-Read-Write._
+
+![VDP-intro](/images/vdp-intro.png)
+
+
+
+### VISTA: An Evolution in Integration
+
 The figure below summarizes the difference between hard-coded MUMPS RPC-based interfacing (over 3500 MUMPS RPCs)  to that of a single model-driven interface:
 
 
@@ -34,14 +45,6 @@ Fileman API Compliant|  :no_entry_sign: Unreliable, Incomplete <br> :no_entry_si
 Audit |   :no_entry_sign: Incomplete <br> :no_entry_sign: Bypassess Fileman auditing | :white_check_mark:  Comprehensive AND <br> :white_check_mark: Patient-Centric :new:  
 Unit Tested  |   :no_entry_sign: NO <br>  :no_entry_sign:  0% logic tested  | :white_check_mark: YES <br> :white_check_mark: 100% logic validated
 Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_entry_sign:  Requires understanding MUMPS code | :white_check_mark: Complete, consistent, clear.  <br>:white_check_mark: Core is machine generated  :new: 
-
-
-
-
-###  VISTA Data Model: Functional Overview
-_Server-side. Security-enabled. Symmetric-Read-Write._
-
-![VDP-intro](/images/vdp-intro.png)
 
 
 
