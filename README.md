@@ -2,9 +2,9 @@
 
 The VISTA Data Project is a research and discovery initiative to prototype a data-centric, model-driven approach to VISTA data management and interfacing.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded legacy MUMPS RPC routines that have accumulated over three decades, none of which are validated, documented, or maintained.  Such a code-centric approach does not provide a coherent, comprehensive, maintainable approach to interfacing to VISTA's data.
 
-VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed and leveraged as the single, uniform, logical interface to all VISTA data for external interfacing.
+VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced or leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed and leveraged as the single, uniform read-write interface to all VISTA data for secure external interfacing and integration.
 
-The figure below summarizes the difference between hard-coded MUMPS RPC-based interfacing (over 3500 MUMPS RPCs)  to that of a single, data model-driven interface:
+The figure below summarizes the difference between hard-coded MUMPS RPC-based interfacing (over 3500 MUMPS RPCs)  to that of a single, secure model-driven interface:
 
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
@@ -37,7 +37,7 @@ Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_ent
 
 
 
-###  VISTA Data Model: Technology Stack
+###  VISTA Data Model: Functional Overview
 _Server-side. Security-enabled. Symmetric-Read-Write._
 
 ![VDP-intro](/images/vdp-intro.png)
