@@ -4,16 +4,7 @@ The VISTA Data Project is a research and discovery initiative to prototype a dat
 
 VISTA's internal operational data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been leveraged in computable, operational form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as the single, secure, symmetric read-write interface to all VISTA data for external interfacing and integration.
 
-
-
-##  VISTA Data Model:  Overview
-_Server-side. Security-enabled. Symmetric-Read-Write._
-
-![VDP-intro](/images/vdp-intro.png)
-
-
-
-## VISTA: An Evolution in Integration
+### An Evolution in Integration
 
 The figure below summarizes the difference between hard-coded MUMPS RPC-based interfacing (over 3500 MUMPS RPCs)  to that of a single model-driven interface:
 
@@ -48,7 +39,14 @@ Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_ent
 
 
 
-## VISTA Data Model Features
+##  VISTA Data Model:  Overview
+_Server-side. Security-enabled. Symmetric-Read-Write._
+
+![VDP-intro](/images/vdp-intro.png)
+
+
+
+## VISTA Data Model: Features
 
 *__An operationalized Master VISTA Data Model (MVDM) provides VA with three key transformational capabilities:__*
 
@@ -63,7 +61,7 @@ VISTA<br>Data | Details
 
 
 
-## VISTA Data Model (VDM) Attributes
+## VISTA Data Model: Attributes
 
 Attribute | Details
 ---|---
