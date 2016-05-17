@@ -17,7 +17,7 @@ __Features of the VISTA Data Model include:__
 + All interfacing is through a single, secure, symmetric Master VISTA Data Model.
 + All interfaces are written using modern, web-standard languages and tools (Javascript). 
 + The read data model is identical to the write data model (i.e. symmetric), assuring completeness and correctness of both. 
-+ All existing interfaces that use legacy RPCs (such as CPRS) continue to function on top of the MVDM, and also inherit enhanced patient-centric, attribute-based access control (ABAC) security.
++ All existing clients or interfaces that use legacy RPCs (such as CPRS) continue to function unchanged on top of MVDM through RPC emulation. In addition, all legacy clients acquire all MVDM features, including enhanced patient-centric security and attribute-based access control (ABAC).
 
 
 #### VISTA Interfacing: Code-centric vs Model-centric
