@@ -11,12 +11,14 @@ The figure below summarizes the difference between hard-coded MUMPS RPC-based in
 
 
 __Features of the VISTA Data Model include:__
++ Secure read-write access to all VISTA data is through a security-enhanced Master VISTA Data Model (MVDM). 
 + All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
 + All interfaces are secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
-+ All interfacing is through a single, secure, symmetric read-write Master VISTA Data Model.
++ All interfacing is through a single, secure, symmetric Master VISTA Data Model.
 + All interfaces are written using modern, web-standard languages and tools (Javascript). 
 + The read data model is identical to the write data model (i.e. symmetric), assuring completeness and correctness of both. 
-+ Secure access to all VISTA data is through an ABAC security-enhanced Master VISTA Data Model (MVDM). 
++ All existing interfaces that use legacy RPCs (such as CPRS) continue to function unchanged on top of the MVDM.
+
 
 
 #### VISTA Interfacing: Code-centric vs Model-centric
