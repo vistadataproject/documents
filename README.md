@@ -13,10 +13,6 @@ The figure below summarizes the difference between hard-coded MUMPS RPC-based in
 
 
 
-![vdp-interfacing-evolution](/images/vdp-interfacing-code_vs_model.png)
-
-
-
 __Features of the VISTA Data Model include:__
 + Secure read-write access to all VISTA data is through a security-enhanced Master VISTA Data Model (MVDM). 
 + All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
