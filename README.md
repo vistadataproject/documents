@@ -2,11 +2,11 @@
 
 The VISTA Data Project is a research and discovery initiative to prototype a data-centric, model-driven approach to VISTA data management and interfacing.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded legacy MUMPS RPC routines that have accumulated over three decades, none of which are validated, documented, or maintained.  Such a code-centric approach does not provide a coherent, comprehensive, maintainable approach to interfacing to VISTA's data.
 
-VISTA's internal operational data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been leveraged in computable, operational form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as the single, secure, symmetric read-write interface to all VISTA data for external interfacing and integration.
+VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced and leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as the single, secure, symmetric read-write interface to all VISTA data for external interfacing and integration.
 
-### An Evolution in Integration
+### An Evolution in Data Integration
 
-The figure below summarizes the difference between hard-coded MUMPS RPC-based interfacing (over 3500 MUMPS RPCs)  to that of a single model-driven interface:
+The figure below summarizes the eveolution from hard-coded MUMPS RPC-based interfacing (over 3500 MUMPS RPCs)  to that of a single model-driven interface:
 
 
 ![VDP-vista_interfacing](/images/vdp-vista_interfacing_img.png)
@@ -14,13 +14,13 @@ The figure below summarizes the difference between hard-coded MUMPS RPC-based in
 
 
 __Features of the VISTA Data Model include:__
-+ Secure read-write access to all VISTA data is through a security-enhanced Master VISTA Data Model (MVDM). 
++ All interfacing is through a single, secure, symmetric read-write Master VISTA Data Model.
 + All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
 + All interfaces are secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
-+ All interfacing is through a single, secure, symmetric Master VISTA Data Model.
 + All interfaces are written using modern, web-standard languages and tools (Javascript). 
 + The read data model is identical to the write data model (i.e. symmetric), assuring completeness and correctness of both. 
-+ All existing clients or interfaces that use legacy RPCs (such as CPRS) continue to function unchanged on top of MVDM through RPC emulation. In addition, all legacy clients acquire all MVDM features, including enhanced patient-centric security and attribute-based access control (ABAC).
++ All existing clients or interfaces (such as CPRS) continue to function unchanged on top of MVDM through RPC emulation.
++ All existing clients acquire all MVDM features, including enhanced patient-centric security and attribute-based access control (ABAC).
 
 
 #### VISTA Interfacing: Code-centric vs Model-centric
