@@ -8,7 +8,7 @@ VISTA's data model - the roadmap to all of VA's institutional and clinical know-
 
 The figure below summarizes the evolution from hard-coded RPC-based interfacing (over 3500 MUMPS RPCs)  to that of a single model-driven interface:
 
-![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-overview-20160526.png)
+![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-interfacing-evolution2.png)
 
 
 __Features of the VISTA Data Model include:__
