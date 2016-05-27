@@ -1,7 +1,7 @@
 # VISTA Data Project
 
 
-<img src="https://github.com/vistadataproject/documents/blob/master/images/vdp-wordle.png" height=160>
+<img src="https://github.com/vistadataproject/documents/blob/master/images/vdp-wordle.png" height=300>
 
 
 The VISTA Data Project is a research and discovery initiative to prototype a data-centric, model-driven approach to VISTA data management and interfacing.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded remote procedure calls (RPCs) that have accumulated over three decades, none of which are validated, documented, or maintained.  Such a code-centric approach does not provide a coherent, comprehensive, maintainable approach to interfacing to VISTA's data.
