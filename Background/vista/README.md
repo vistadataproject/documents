@@ -1,7 +1,11 @@
 ### Veterans Information Systems and Technology Architecture (VISTA)
 
-#### A Patient-Centric Integrated EHR
+#### A Patient-Centric EHR
 ![vista-circle](https://github.com/vistadataproject/documents/blob/master/images/vista/vista-integrated-patient-centric.png)
+
+
+#### A fully integrated EHR
+![vista-integrated](https://github.com/vistadataproject/documents/blob/master/images/vista-vivian-animation-50.gif)
 
 
 #### VISTA supports healthcare delivery at over 1200+  VA hospitals and clinics nationwide
