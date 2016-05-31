@@ -1,4 +1,4 @@
-# Linked VISTA - Overview
+# VISTA Data Model - Overview
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-introB.png)
 
 
