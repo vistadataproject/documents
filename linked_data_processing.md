@@ -10,6 +10,3 @@
 ## Metadata Processing - Detail
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-technical.png)
 
-
-## Evolution of Data Connectivity
-![](https://github.com/vistadataproject/documents/blob/master/images/vdp-evolution-of-data-connectivity.png)
