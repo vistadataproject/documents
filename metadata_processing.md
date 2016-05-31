@@ -1,6 +1,4 @@
-# Metadata Management  (JSON-LD)
-
-## Linked VISTA - Overview
+# Linked VISTA - Overview
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-introB.png)
 
 
