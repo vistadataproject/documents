@@ -6,7 +6,7 @@ VISTA's data model - the roadmap to all of VA's institutional and clinical know-
 
 ### An Evolution in Interfacing
 
-The figure below summarizes the evolution from hard-coded MUMPS RPC-based interfacing (over 3500)  to that of a single model-driven interface:
+The figure below summarizes the evolution from hard-coded MUMPS-based interfacing (over 3500 MUMPS RPCs)  to that of a single model-driven interface:
 
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-interfacing-evolution.png)
 
