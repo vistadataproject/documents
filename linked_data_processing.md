@@ -1,13 +1,13 @@
 # Metadata Management  (JSON-LD)
 
-## Linked Data Runtime - Overview
+## Linked VISTA - Overview
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-introB.png)
 
 
-## Linked Data Processing - Overview
+## Metadata Processing - Overview
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-basic.png)
 
-## Linked Data Processing - Detail
+## Metadata Processing - Detail
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-technical.png)
 
 
