@@ -1,4 +1,4 @@
-# Linked Data Processing
+# Metadata Management  (JSON-LD)
 
 ![](https://github.com/vistadataproject/documents/blob/master/images/vdp-evolution-of-data-connectivity.png)
 
