@@ -1,10 +1,10 @@
 # VISTA Data Project
 
-The VISTA Data Project is a research and discovery initiative to prototype a data-centric, model-driven approach to VISTA data management and interfacing.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded remote procedure calls (RPCs) that have accumulated over three decades, none of which are validated, documented, or maintained.  Such a code-centric approach does not provide a coherent, comprehensive, maintainable approach to interfacing to VISTA's data.
+The VISTA Data Project is a research and discovery initiative to prototype a data-centric, model-driven approach to VISTA master data management and interfacing.  This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded remote procedure calls (RPCs) that have accumulated over three decades, none of which are validated, documented, or maintained.  Such a code-centric approach does not provide a coherent, comprehensive, maintainable approach to interfacing to VISTA's data.
 
 VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced and leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as the single, secure, symmetric read-write interface to all VISTA data for external interfacing and integration.
 
-### An Evolution in Data Management
+### An Evolution in Master Data Management
 
 The figure below summarizes the evolution from hard-coded MUMPS RPC-based interfacing (over 3500)  to that of a single model-driven interface:
 
