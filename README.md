@@ -4,11 +4,11 @@ The VISTA Data Project is a research and discovery initiative to prototype a dat
 
 VISTA's data model - the roadmap to all of VA's institutional and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced and leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as the single, secure, symmetric read-write interface to all VISTA data for external interfacing and integration.
 
-### An Evolution in Interfacing
 
-The figure below summarizes the evolution from hard-coded MUMPS-based interfacing (over 3500 MUMPS RPCs)  to that of a single model-driven interface:
+##  VISTA Data Model:  Overview
+_Server-side. Security-enhanced. Symmetric-Read-Write._
 
-![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-interfacing-evolution.png)
+![VDP-intro](https://github.com/vistadataproject/documents/blob/master/images/vdp-introA.png)
 
 
 __Features of the VISTA Data Model include:__
@@ -21,8 +21,16 @@ __Features of the VISTA Data Model include:__
 + All existing clients acquire all MVDM features, including enhanced patient-centric security and attribute-based access control (ABAC).
 
 
-#### VISTA Interfacing: Code-centric vs Model-centric
 
+### An Evolution in Interfacing
+
+The figure below summarizes the evolution from hard-coded MUMPS-based interfacing (over 3500 MUMPS RPCs)  to that of a single model-driven interface:
+
+![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-interfacing-evolution.png)
+
+
+
+#### VISTA Interfacing: Code-centric vs Model-centric
 
 Interface |  MUMPS RPCs (x3500)  | Master VISTA Data Model (x1)
 --- | --- | ---
@@ -35,13 +43,6 @@ Fileman API Compliant|  :no_entry_sign: Unreliable, Incomplete <br> :no_entry_si
 Audit |   :no_entry_sign: Incomplete <br> :no_entry_sign: Bypassess Fileman auditing | :white_check_mark:  Comprehensive AND <br> :white_check_mark: Patient-Centric :new:  
 Unit Tested  |   :no_entry_sign: NO <br>  :no_entry_sign:  0% logic tested  | :white_check_mark: YES <br> :white_check_mark: 100% logic validated
 Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_entry_sign:  Requires understanding MUMPS code | :white_check_mark: Complete, consistent, clear.  <br>:white_check_mark: Core is machine generated  :new: 
-
-
-
-##  VISTA Data Model:  Overview
-_Server-side. Security-enhanced. Symmetric-Read-Write._
-
-![VDP-intro](https://github.com/vistadataproject/documents/blob/master/images/vdp-introA.png)
 
 
 
