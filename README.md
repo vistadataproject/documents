@@ -11,7 +11,7 @@ The figure below summarizes the evolution from hard-coded MUMPS-based interfacin
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-interfacing-evolution.png)
 
 
-__Features of the VISTA Data Model include:__
+__VISTA Data Model Features:__
 + All interfacing is through a single, secure, symmetric read-write Master VISTA Data Model.
 + All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
 + All interfaces are secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
@@ -21,10 +21,10 @@ __Features of the VISTA Data Model include:__
 + All existing clients acquire all MVDM features, including enhanced patient-centric security and attribute-based access control (ABAC).
 
 
-#### VISTA Interfacing: Code-centric vs Model-centric
+#### VISTA Interfacing Evolution
 
 
-Interface |  MUMPS RPCs (x3500)  | Master VISTA Data Model (x1)
+Interface |  Code-driven <br>MUMPS RPCs (x3500)  | Data-driven<br>Master VISTA Data Model (x1)
 --- | --- | ---
 Method |   :no_entry_sign:  Relies on over 3500 client-specific, non-interchangeable legacy MUMPS routines <br>  :no_entry_sign: Distinct, unique routines for reading vs writing the same data <br>  :no_entry_sign: Requires extensive knowledge and experience with MUMPS and VISTA | :white_check_mark:  Data Model-Driven :new: <br> :white_check_mark: Client-agnostic :new: <br> :white_check_mark: One single, symmetric read-write mechanism for all data :new: <br>:white_check_mark: Requires no knowledge or experience with VISTA internals or MUMPS.
 Ease of interfacing to new clients | :no_entry_sign: HARD | :white_check_mark: EASY
