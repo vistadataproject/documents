@@ -145,8 +145,8 @@ Track | Name | Description | Git | Technical Deliverables
 :---: | :---: | :--- | :--- | :---:
 A | Infrastructure | Project infrastructure including Test VISTA (“nodeVISTA”), gits, tooling, website | [nodeVISTA](https://github.com/vistadataproject/nodeVISTA), [Website](https://github.com/vistadataproject/vistadataproject.github.io), [documents](https://github.com/vistadataproject/documents) | 3
 B | VDM | VISTA Data Model (VDM) - Comprehensive, native model exposure and package implementation for any specific VISTA | [VDM](https://github.com/vistadataproject/VDM) | 12
-C | MVDM | Master VISTA Data Model (MVDM) - Definition and implementation of master data model spanning all VISTA instances | [MVDM](https://github.com/vistadataproject/MVDM) | 9
-D | MVDMlink | Linking VISTA through MVDM to other systems and services | [MVDMlink](https://github.com/vistadataproject/MVDMlink) | 3
+C | MVDM | Master VISTA Data Model (MVDM) - Definition and implementation of master data model spanning all VISTA instances | [MVDM](https://github.com/vistadataproject/MVDM) | 10
+D | Demo | End to End Demonstration | [VDM](https://github.com/vistadataproject/VDM) | 1
 PM | Project Management | Business/Project Management  | [documents](https://github.com/vistadataproject/documents) | &nbsp;
 
 
@@ -206,9 +206,7 @@ More artifacts may be identified as work proceeds.
 13. | Example Query Clients | Python, Javascript | Example command line clients that show how to use the FQS | 25
 14. | FQS Web Client | Javascript, HTML | Browser based client for using the FQS | 33
 15. | Metadata Cacher	| Javascript | queries (VISTA Application) metadata using VDM Package | 15
-16. | MVDM Linker | Javascript, Linking rules | prototypes showing linking of VISTA through MVDM | 39
-17. | Web-based Rules Hub | Javascript, HTML | host for Translation rules | 32
-18. | Document Generators	| Various |	Generators of documentation leveraging common packages such as Sphinx and JSDoc and translators from Markdown to PDF and HTML | E4
+16. | Document Generators	| Various |	Generators of documentation leveraging common packages such as Sphinx and JSDoc and translators from Markdown to PDF and HTML | E4
 
 Note that _VDM Package_ and _MVDM Module_ are the key software artifacts of the Project. Other software either helps in their development or configuration or illustrates their use.
 
@@ -223,7 +221,7 @@ Per the PWS, all non PM documentation will be delivered on the Project Gits in t
 3. | [MVDM] Normalization Reports | 12
 4. | Report on [MVDM] Exposure of older models | 14
 5. | Prototype Patient-centric Data Security [Document] | 28 (Document)
-6. | Document VISTA-ese linkability | 40
+6. | Briefing/Presentation on PIKS-based Security | 41
 
 In addition, programmer documentation will be generated for _VDM Package_, _MVDM Module_ and _FQS_.
 
@@ -237,7 +235,6 @@ VPR RPC models 			| VPR Maker 		|  vpr.jsonld
 dd.jsonld + rpc.jsonld   	| VDM Maker 		| vdm.jsonld  
 vdm.jsonld + vpr.jsonld 	| MVDM Maker 		| mvdm.jsonld
 vdm.jsonld 			| PIKS Generator 	| piks.jsonld
-MVDM 				| MVDMlink 		| Linked-data definitions
 Markdown 			| Doc Generator	|  PDF, HTML
 
 
@@ -284,6 +281,7 @@ C | 14  |  Report on [MVDM] Exposure of older models  | [MVDM](https://github.co
 C | 28 |  Prototype Patient-centric Data Security | [MVDM](https://github.com/vistadataproject/VDM) | First document and then provide a self- contained prototype ("Patient Security Prototype") that shows how PIKS- enabled annotations enable patient-centric secure queries. The prototype will enhance FQS and have an example client | Javascript, Markdown | Q3 &#8594; Q4  | 5.4.1
 C | 35 |  VISTA Application model(s)/Prototype(s) [Tests] | [MVDM](https://github.com/vistadataproject/VDM) | MVDM write back tests (tier 1 through 3), enabled by mvdm.js configurations. Test scenarios for Deliverable #11. | Javascript, Python | Q2 &#8594; Q4  | 5.4.2
 C | 36 |  Meta-model(s) [VPR] Prototype(s) | [MVDM](https://github.com/vistadataproject/VDM) | Test code that shows how well the MVDM supports VPR (Read-only) convenience methods - read-only side of #35 | Javascript, Python | Q2 &#8594; Q3  | 5.4.2
+C | 41 | Security Management Summary Report on PIKS Annotation | [documents](https://github.com/vistadataproject/documents) | Documents MVDM-security (authentication/access control/audit) for mixed audience | Markdown | Q4 | 5.4.2 
 &nbsp; ||||||
 
 ### Track D: End to End Demonstration (Demo)
@@ -297,6 +295,7 @@ D | 23  |  End to end Demonstration of VDM and normalized MVDM redefined | [VDM 
   * Enumerated above are 27 technical deliverables within four tracks ( _VDM_, _MVDM_, _MVDMlink_, and _Infrastructure_).
   * Deliverables E1-4 are required but not explicitly enumerated in the PWS.
   * Deliverable #’s have gaps. The following PWS deliverables were retired as redundant or out of scope per government determination: 6, 16, 17, 20-24, 26, 27, 29-31, 34, 37, 38
+  * In June 2016, a mod reintroduced Deliverable #23, added Deliverable #41 and removed deliverables #32, #39 and #40.
   * __There is a substantial difference in complexity between read-only and read-write models and implementations.__ To write anything demands knowledge of rules that go beyond the demands of reading. As a result, both VDM and MVDM models and packages will be delivered in two phases, with read coming first. 
     * __VDM "Read"__ and its package (#7.1 and #E1.1) are due in Q1; Deliverables #8, #15, #18, #19, #25, #33 only require such read-only functionality and are due in Q2
     * __MVDM "Read"__ and its module (#10.1 and #11.1) are due in Q2: Deliverables #28, #36 and all of track D rely only on MVDM ("Read").
