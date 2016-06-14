@@ -137,8 +137,6 @@ Technical decisions by the VA and in mainstream software industry that framed th
 
 ## Technical Overview
 
-![VDP Components Overview](/images/vdp-technicalTEST.png)
-
 ## Tracks
 
 The Project organizes deliverables in five “tracks” each backed by one or more Gits in the Project Repository.
