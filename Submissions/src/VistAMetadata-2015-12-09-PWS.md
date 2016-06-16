@@ -1,16 +1,12 @@
 ## PERFORMANCE WORK STATEMENT
 
-INTERAGENCY AGREEMENT
-BETWEEN
-VETERANS HEALTH AGENCY (VHA)<br>
-AND
-DEFENSE HEALTH AGENCY (DHA)
+__INTERAGENCY AGREEMENT BETWEEN <br>VETERANS HEALTH AGENCY (VHA)<br>AND DEFENSE HEALTH AGENCY (DHA)__
 
 Agreement No.: VA118-15-IA
 
 Part B Identifier: VA VISTA Metadata Program
 
-Veterans Health Information Systems  and Technology Architecture (VISTA) Metadata Audit, Analytics, and Automation
+__Veterans Health Information Systems and Technology Architecture <br> (VISTA) Metadata Audit, Analytics, and Automation__
 
 Pacific Joint Information Technology Center
 
