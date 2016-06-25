@@ -11,6 +11,7 @@ The figure below summarizes the evolution from client-specific code-driven inter
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-interfacing-evolution.png)
 
 
+
 __Data Model Features:__
 + All interfacing is through a single, secure, symmetric read-write Master VISTA Data Model.
 + All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
@@ -23,6 +24,7 @@ __Data Model Features:__
 
 #### VISTA Interfacing Evolution
 
+![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition.png)
 
 Interface |  Code-driven <br>MUMPS RPCs (x3500)  | Data model-driven<br>Master VISTA Data Model (x1)
 --- | --- | ---
