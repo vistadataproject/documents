@@ -23,7 +23,6 @@ __Data Model Features:__
 
 
 #### VISTA Interfacing Evolution
-![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition2.png)
 
 ![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition3.png)
 
