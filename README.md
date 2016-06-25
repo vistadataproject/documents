@@ -24,7 +24,7 @@ __Data Model Features:__
 
 #### VISTA Interfacing Evolution
 
-![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition3.png)
+![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition4.png)
 
 
 Interface |  Code-driven <br>MUMPS RPCs (x3500)  | Data model-driven<br>Master VISTA Data Model (x1)
