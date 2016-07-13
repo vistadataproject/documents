@@ -28,3 +28,25 @@
 * http://www.hardhats.org/index.html
 * http://nist.gov/healthcare/upload/NIST-Siegel-PART-1.pdf
 * http://worldvista.org/
+
+
+#### VISTA History
+* http://worldvista.sourceforge.net/vista/history
+* http://piim.newschool.edu/_media/pdfs/PIIM-RESEARCH_AHLTA_VISTA_History.pdf
+* http://clinfowiki.org/wiki/index.php/Veterans_Health_Information_Systems_and_Technology_Architecture_(VistA)
+* http://vistapedia.net/index.php?title=What_is_VistA_Really
+* https://www.researchgate.net/publication/10705429_VistA-US_Department_of_Veterans_Affairs_national-scale_HIS
+* Tom Munneke History: https://www.youtube.com/watch?v=bb6oXjaapxQ
+
+
+
+
+
+
+
+
+
+
+
+
+
