@@ -147,6 +147,7 @@ A | Infrastructure | Project infrastructure including Test VISTA (â€œnodeVISTAâ€
 B | VDM | VISTA Data Model (VDM) - Comprehensive, native model exposure and package implementation for any specific VISTA | [VDM](https://github.com/vistadataproject/VDM) | 12
 C | MVDM | Master VISTA Data Model (MVDM) - Definition and implementation of master data model spanning all VISTA instances | [MVDM](https://github.com/vistadataproject/MVDM) | 10
 D | Demo | End to End Demonstration | [VDM](https://github.com/vistadataproject/VDM) | 1
+E | Security | Security Model - Definition and implementation of patient-centric security model | [MVDM](https://github.com/vistadataproject/MVDM) | 10
 PM | Project Management | Business/Project Management  | [documents](https://github.com/vistadataproject/documents) | &nbsp;
 
 
