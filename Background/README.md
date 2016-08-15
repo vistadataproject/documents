@@ -9,9 +9,15 @@ This project builds on the efforts of many.
 
 Who | Design | Description
 :--- | :--- | :---
-[Rafael&nbsp;Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-Rafael%20Richards-2015.pdf) This describes the design and features of an enterprise cross-linked Master VISTA Data Model (MVDM) to provide master data management across all VA VISTA systems. (2015)
-[Conor&nbsp;Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos-presentations/60h/fmql.jpg) |  [__FMQL__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL-Conor_Dowling-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014).
+[Rafael&nbsp;Richards](https://www.linkedin.com/in/rafaelrichardsmd) |![](/images/logos/logos-presentations/60h/linkedVISTA.jpg) | [__Linked VISTA__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-Rafael%20Richards-2015.pdf) This describes the design and features of an enterprise cross-linked Master VISTA Data Model (MVDM) to provide master data management across all VA VISTA systems. (2015)
+[Conor&nbsp;Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos/logos-presentations/60h/fmql.jpg) |  [__FMQL__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL-Conor_Dowling-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014).
 
+
+### VISTA Overview
+An executive overview of the current 'as is' VISTA and its data-integrated architecture:
+* [VISTA Overview](https://github.com/vistadataproject/documents/tree/master/Background/vista)
+* [VISTA Architecture](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-architecture.md)
+* [VISTA vs Commercial EHRs - Survey of 18,00 Physicians - 2014](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md)
 
 
 
@@ -42,27 +48,17 @@ Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-v
 [Manu&nbsp;Sporny](https://www.linkedin.com/in/manusporny) | [JSON-LD](http://json-ld.org/) |  Created and promoted the JSON-LD standard
 
 
-
-
-
-
-
-
-
-
-
-
 ### Technologies
-![](/images/logos-tech/square/60h/m-tech.fw.jpg)
-![](/images/logos-tech/square/60h/js5.jpg)
-![](/images/logos-tech/square/60h/node-js.jpg)
-![](/images/logos-tech/square/60h/npm.jpg)
-![](/images/logos-tech/square/60h/d3-js.jpg)
-![](/images/logos-tech/square/60h/webstorm.jpg)
-![](/images/logos-tech/square/60h/vagrant.jpg)
-![](/images/logos-tech/square/60h/python.jpg)
-![](/images/logos-tech/square/60h/git.jpg)
-![](/images/logos-tech/square/60h/github.jpg)
+![](/images/logos/logos-tech/square/60h/m-tech.fw.jpg)
+![](/images/logos/logos-tech/square/60h/js5.jpg)
+![](/images/logos/logos-tech/square/60h/node-js.jpg)
+![](/images/logos/logos-tech/square/60h/npm.jpg)
+![](/images/logos/logos-tech/square/60h/d3-js.jpg)
+![](/images/logos/logos-tech/square/60h/webstorm.jpg)
+![](/images/logos/logos-tech/square/60h/vagrant.jpg)
+![](/images/logos/logos-tech/square/60h/python.jpg)
+![](/images/logos/logos-tech/square/60h/git.jpg)
+![](/images/logos/logos-tech/square/60h/github.jpg)
 
 
 Name | VA TRM  | Reference
@@ -84,15 +80,16 @@ Github          | 	| https://en.wikipedia.org/wiki/GitHub <br> https://github.co
 
 
 ### Standards
-![](/images/logos-tech/square/60h/html5.jpg)
-![](/images/logos-tech/square/60h/js5.jpg)
-![](/images/logos-tech/square/60h/css3.jpg)
-![](/images/logos-tech/square/60h/json.jpg)
-![](/images/logos-tech/square/60h/jsonld.jpg)
-![](/images/logos-tech/square/60h/rdf.jpg)
-![](/images/logos-tech/square/60h/markdown.jpg)
-![](/images/logos-tech/square/60h/CC.jpg)
-![](/images/logos-tech/square/60h/asf.jpg)
+![](/images/logos/logos-tech/square/60h/html5.jpg)
+![](/images/logos/logos-tech/square/60h/js5.jpg)
+![](/images/logos/logos-tech/square/60h/css3.jpg)
+![](/images/logos/logos-tech/square/60h/json.jpg)
+![](/images/logos/logos-tech/square/60h/jsonld.jpg)
+![](/images/logos/logos-tech/square/60h/rdf.jpg)
+![](/images/logos/logos-tech/square/60h/markdown.jpg)
+![](/images/logos/logos-tech/square/60h/CC.jpg)
+![](/images/logos/logos-tech/square/60h/asf.jpg)
+
 
 
 Name | VA TRM  | Reference
@@ -112,51 +109,31 @@ Apache Software Foundation        | 	| https://en.wikipedia.org/wiki/Apache_Lice
 
 
 
-### Links
-
-VISTA
-
+####VISTA
 * https://en.wikipedia.org/wiki/VistA
 * https://en.wikipedia.org/wiki/WorldVistA
 * http://www.hardhats.org/index.html
 * http://nist.gov/healthcare/upload/NIST-Siegel-PART-1.pdf
 * http://worldvista.org/
 
-Fileman
-
+#### Fileman
 * https://en.wikipedia.org/wiki/FileMan
 * http://www.hardhats.org/fileman/FMmain.html
 * http://munnecke.com/blog/?cat=120
 
-NodeVISTA
-
+#### NodeVISTA
 * [Intersystems](https://www.google.com/search?q=intersystems+cache+node.js+VISTA&espv=2&biw=1025&bih=666&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiLtN7gmqjKAhUELaYKHaoODKAQ_AUICCgD&dpr=1.25#imgrc=_)
 * https://robtweed.wordpress.com/2014/07/24/vista-evolution-whats-wrong-with-this-picture
 * https://github.com/dlwicksell/nodem
 * https://github.com/robtweed/node-mdb
 
 
+#### VISTA Installation
+* VISTA installation using vagrant (Screencast):  https://www.youtube.com/watch?v=eogchJncTlc
+* VISTA on GTM Windows (cygwin):  https://www.youtube.com/watch?v=WU2kYDWQmc0
+
 
 
 <a href="http://www.w3.org/html/logo/">
 <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-graphics-semantics.png" width="197" height="64" alt="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics" title="HTML5 Powered with CSS3 / Styling, Graphics, 3D &amp; Effects, and Semantics">
 </a>
-
-
-
-#### Image Credits
-* https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"
-* http://www.unixstickers.com/image/cache/data/stickers/css3/css3_unofficial_shaped-600x600.png
-* http://json-ld.org/images/json-ld-logo.png
-* http://talk.commonmark.org/t/the-markdown-logo/14
-* https://practicalanalytics.files.wordpress.com/2011/08/cube.jpg
-* http://www.intersystems.com/assets/architecture-chart-2011_med.jpg
-* https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg
-* https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg
-* https://upload.wikimedia.org/wikipedia/en/1/15/Logo_D3.svg
-* https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg
-* http://www.git-scm.com/images/logos/downloads/Git-Logo-1788C.png
-* https://www.python.org/community/logos/
-* https://creativecommons.org/about/downloads/
-
-

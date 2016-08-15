@@ -1,23 +1,19 @@
 ## PERFORMANCE WORK STATEMENT
 
-INTERAGENCY AGREEMENT
-BETWEEN
-VETERANS HEALTH AGENCY (VHA)<br>
-AND
-DEFENSE HEALTH AGENCY (DHA)
+__INTERAGENCY AGREEMENT BETWEEN <br>VETERANS HEALTH AGENCY (VHA)<br>AND DEFENSE HEALTH AGENCY (DHA)__
 
 Agreement No.: VA118-15-IA
 
 Part B Identifier: VA VISTA Metadata Program
 
-Veterans Health Information Systems  and Technology Architecture (VISTA) Metadata Audit, Analytics, and Automation
+__Veterans Health Information Systems and Technology Architecture <br> (VISTA) Metadata Audit, Analytics, and Automation__
 
 Pacific Joint Information Technology Center
 
 Date: 12/09/2015
 
 ### Contents
-* Part 1: [General Information](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-1-general-information); [Data Rights](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#data-rights)
+* Part 1: [General Information](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-1-general-information); and  [Data Rights](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#data-rights)
 * Part 2: [Definitions and Acronyms](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-2--definitions--acronyms)
 * Part 3: [Government Furnished Property, Equipment, and Services](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-3-government-furnished-property-equipment-and-services)
 * Part 4: [Contractor Furnished Items](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.md#part-4-contractor-furnished-items-and-services)
@@ -146,15 +142,15 @@ There will be no Other Direct Costs in performance of this contract.
 #### 1.6.15 Data Rights: 
 The Government retains full and unlimited rights to all artifacts (code, documents, materials) produced under this contract.  All artifacts are the property of the Government with all rights and privileges of ownership/copyright belonging exclusively to the Government. 
 
-__1.6.15.1 Artifact Repository: To facilitate the management, reporting, collaboration, and continuity of access of all artifacts and deliverables produced under this contract as a single logical unit, all artifacts and deliverables shall be developed, version-controlled, stored, and delivered on an industry-standard public Github repository (“Project Repository”).__  Upon commencement of the contract period, the contractor shall establish the Project Repository, and provide the URL of the Project Repository to the project manager, contracting representative, and relevant stakeholders.  (Deliverable #1AA)
+__1.6.15.1 Artifact Repository: To facilitate the management, reporting, collaboration, and continuity of access of all government artifacts and deliverables produced under this contract as a single logical unit, all artifacts and deliverables shall be developed, version-controlled, stored, and delivered on an industry-standard public-facing Github repository (“Project Repository”) with clearly designated and appropriate licenses.__  Upon commencement of the contract period, the contractor shall establish the Project Repository, and provide the publically accessible URL of the Project Repository to the project manager, contracting representative, and relevant government stakeholders.  (Deliverable #1)
 
 The Project Repository shall contain the one and only authoritative version of all artifacts produced under this contract. The government, all necessary stakeholders, and the public shall have full read and download access of all artifacts on the Project Repository at all times throughout the lifecycle of the contract to support real-time collaborative development, testing, project management, progress reporting, and oversight of all authoritative artifacts in one location. At the termination of the contract the government shall take ownership of the Project Repository and all contents through the transfer of administrator privileges of the repository, allowing bulk transfer of all artifacts, and assuring future availability of all artifacts to the public, future development, and continuity management. The artifacts in the Project Repository shall have the following properties and data rights:
 
 __1.6.15.2 All data and metadata produced under this contract must be provided in nonproprietary industry-standard machine-processable, structured form on the Project Repository and carry a Creative Commons CC0 license.__  All data must include its corresponding, complete, correct, current operational metadata (schemes, data dictionaries) in machine-processable form, such that fully automated machine interpretation, extraction, translation, loading, and migration of all data to any future data storage system may be accomplished by a third party using industry-standard tools without any loss of information content or context.  If the data is tabular, CSV is required; for all other data structures JSON-LD is required. For metadata JSON-LD is required.
 
-__1.6.15.3 All code (software) produced under this contract shall be developed, version-controlled, and delivered in source code form with associated documentation in the Project Repository, such that real-time third-party review and validation of all code in progress is possible.__  All code that constitutes original works shall carry an Apache 2.0 license.  All code that constitutes derivative works must carry an OSI-approved free and open source license.  
+__1.6.15.3 All code (software) produced under this contract shall be developed, version-controlled, and delivered in source code form with associated documentation in the Project Repository, such that real-time, contemporaneous third-party review and validation of all code in progress is possible.__  The contractor shall clearly identify all source code as either original or derivative. All code that constitutes original works shall carry an Apache 2.0 license.  All code that constitutes derivative works must carry an [OSI-approved](https://opensource.org/licenses) free and open source license. 
 
-All source code, dependent code, libraries, or third-party code shall be in portable, industry-standard, nonproprietary languages. If the source code requires compiling or assembling, these shall be either industry-standard open-source compilers or assemblers, or shall be provided with the software under a free and open source license that has been approved by the Open Source Initiative (OSI). 
+All source code, dependent code, libraries, or third-party code shall be in portable, industry-standard languages. If the source code requires compiling or assembling, these shall be either industry-standard open-source compilers or assemblers, or shall be provided with the software under a free and open source license that has been approved by the [Open Source Initiative](https://opensource.org/licenses) (OSI). 
 
 All code must have corresponding documentation, version-controlled in markdown in the same repository as the source code, and contain at minimum an Installation Guide and a User Guide for the final delivered source code such that a third party may download, install and make full functional use of the delivered code as specified and intended.  The Installation Guide must list all required third-party code, libraries or other dependencies. 
 
@@ -163,7 +159,8 @@ __1.6.15.4  All documentation and reports produced under this contract must be p
 #### 1.6.16 Organizational Conflict of Interest:  
 Contractor and subcontractor personnel performing work under this contract may receive, have access to or participate in the development of proprietary or source selection information (e.g., cost or pricing information, budget information or analyses, specifications or work statements, etc.) or perform evaluation services which may create a current or subsequent Organizational Conflict of Interests (OCI) as defined in FAR Subpart 9.5.  The Contractor shall notify the Contracting Officer immediately whenever it becomes aware that such access or participation may result in any actual or potential OCI and shall promptly submit a plan to the Contracting Officer to avoid or mitigate any such OCI.  The Contractor’s mitigation plan will be determined to be acceptable solely at the discretion of the Contracting Officer and in the event the Contracting Officer unilaterally determines that any such OCI cannot be satisfactorily avoided or mitigated, the Contracting Officer may affect other remedies as he or she deems necessary, including prohibiting the Contractor from participation in subsequent contracted requirements which may be affected by the OCI.
 
-#### 1.6.17 Phase In / Phase Out Period:  To minimize any decreases in productivity and to prevent possible negative impacts on additional services, the Contractor shall have personnel on board, during the sixty day phase in/ phase out periods.  During the phase in period, the Contractor shall become familiar with performance requirements in order to commence full performance of services on the contract start date.  
+#### 1.6.17 Phase In / Phase Out Period:  
+To minimize any decreases in productivity and to prevent possible negative impacts on additional services, the Contractor shall have personnel on board, during the sixty day phase in/ phase out periods.  During the phase in period, the Contractor shall become familiar with performance requirements in order to commence full performance of services on the contract start date.  
 
 
 The contractor shall perform transition planning activities to transition business and technical domain knowledge to Pacific JITC and/or its designees via the designated Project Repository.  The contractor shall generate a phase-out transition plan that elaborates the artifacts to be transitioned on the Project Repository, and a schedule for transition completion. 
