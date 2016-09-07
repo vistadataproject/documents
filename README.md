@@ -15,13 +15,13 @@ The figure below summarizes the evolution from client-specific code-driven inter
 
 
 __Data Model Features:__
-+ All interfacing is through a single, secure, symmetric read-write Master VISTA Data Model.
++ All interfacing is through a __single, secure, symmetric read-write Master VISTA Data Model__.
 + All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
 + All interfaces are secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
 + All interfaces are written using modern, web-standard languages and tools (Javascript). 
 + The read data model is identical to the write data model (i.e. symmetric), assuring completeness and correctness of both. 
-+ All existing clients or interfaces (such as CPRS) continue to function unchanged on top of MVDM through RPC emulation.
-+ All existing clients acquire all MVDM features, including enhanced patient-centric security and attribute-based access control (ABAC).
++ All existing clients or interfaces (such as CPRS) continue to function unchanged on top of MVDM through the a RPC Locker (a new, security isolation locker for all RPCs).
++ All existing clients inherit all MVDM features, including enhanced patient-centric security and attribute-based access control (ABAC).
 
 
 #### VISTA Interfacing Evolution
