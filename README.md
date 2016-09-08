@@ -10,9 +10,9 @@ VISTA's data model - the roadmap to all of VA's institutional and clinical know-
 
 The figure below summarizes the evolution from a MUMPS-based client-specific code-driven interfacing (over 3500 MUMPS routines) to that of a single Javascript-based client-agnostic model-driven interface:
 
-![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-overview-20160907n.png)
+![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-overview-20160907p.png)
 
-Current MUMPS-only VISTA | Javascript, Model-driven VISTA <br> (VISTA Data Project)
+MUMPS /Code-driven VISTA <br> (Current) | Javascript/ Model-driven VISTA <br> (VISTA Data Project)
 ---|---
 __Current interfacing  to VISTA is through over 3500 unique, opaque, one-way  (either read or write)  legacy (20+ years old)  MUMPS remote procedure calls (RPCs) which are neither documented nor maintained.__ These are hard-coded in MUMPS for specific clients only and not interchangeable to other clients due to embedded business logic within the custom MUMPS and client code. |   __All interfacing to VISTA is through one single, secure, symmetric (bidirectional)  read-write Master VISTA Data Model (MVDM).__  The read data model is identical to the write data model (i.e. symmetric)  providing one single universal structured data read/write mechanism. 
 __Access is based on the legacy (1980's) terminal interface and its Menu Actions.__ This is a nonstandard, VA-bespoke, terminal-specific, menu-driven security mechanism, and not applicable for any new, generic, alternative, graphical, or web-based interfaces. The only means to access or interface to data is to write new MUMPS code using the Terminal-specific Actions-centric security, in addition to custom RPC MUMPS security code. | __New, modern, industry-standard, fine-grained access control__ is provided through patient-centric __Attribute-Based Access Control (ABAC).__  All new clients and structured data integrations (left) use the MVDM with ABAC security.  All existing RPC-based clients (right) use the MVDM via the __RPC Locker__, a new RPC security isolation layer. Authentication will leverage enterprise identity management using SAML tokens (top layer)
