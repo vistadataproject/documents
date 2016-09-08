@@ -13,7 +13,6 @@ The figure below summarizes the evolution from client-specific code-driven inter
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-overview-20160907f.png)
 
 
-
 __Data Model Features:__
 + All interfacing is through a __single, secure, symmetric read-write Master VISTA Data Model__.
 + All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
