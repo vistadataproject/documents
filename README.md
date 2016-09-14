@@ -8,7 +8,7 @@ VISTA's data model - the roadmap to all of VA's institutional and clinical know-
 
 ### An Evolution in Interfacing
 
-The figure below summarizes the evolution from thousands of client-specific code-driven interfaces to that of a single, standard, secure model-driven interface:
+The figure below summarizes the evolution from thousands of MUMPS client-specific code-driven interfaces to that of a single, standard, secure, symmetric Javascript/Node  model-driven interface:
 
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-overview-20160914.png)
 
