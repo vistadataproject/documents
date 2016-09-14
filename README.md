@@ -10,7 +10,7 @@ VISTA's data model - the roadmap to all of VA's institutional and clinical know-
 
 The figure below summarizes the evolution from a MUMPS-based client-specific code-driven interfacing (over 3500 MUMPS routines) to that of a single Javascript-based client-agnostic model-driven interface:
 
-![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-overview-20160912.png)
+![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-overview-20160914.png)
 
 MUMPS /Code-driven VISTA <br> (Current) | Javascript/ Model-driven VISTA <br> (VISTA Data Project)
 ---|---
