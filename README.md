@@ -8,7 +8,7 @@ VISTA's data model - the roadmap to all of VA's institutional, business process,
 
 ### An Evolution in Interfacing
 
-The figure below summarizes the evolution from thousands of unique, inconsistent, insecure client-specific code-based interfaces to that of a single, standard, secure client-agnostic linked data model-driven interface:
+The figure below summarizes the evolution from thousands of unique, inconsistent, insecure client-specific code-based interfaces to that of a __single, standard, secure__ client-agnostic linked __data model-driven interface__:
 <br><br><br>
 
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-overview-rpc-transition.png)
