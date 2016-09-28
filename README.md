@@ -11,7 +11,7 @@ VISTA's data model - the roadmap to all of VA's institutional, business process,
 The figure below summarizes the evolution from __thousands of unique, inconsistent, insecure client-specific code-based interfaces__ to that of a __single, standard, secure client-agnostic data model-driven interface__:
 <br><br><br>
 
-![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20160925c.png)
+![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20160926.png)
 
 
 MUMPS /Code-driven VISTA <br> (Current) | Javascript/ Model-driven VISTA <br> (VISTA Data Project)
