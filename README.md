@@ -8,7 +8,7 @@ VISTA's data model - the roadmap to all of VA's institutional, business process,
 
 ### An Evolution in Interfacing
 
-The figure below summarizes the evolution from __thousands of unique, inconsistent, insecure code-based interfaces__ to that of a __single, standard, secure data model-driven interface__:
+The figure below summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standard, secure, symmetric (bidirectional) data model-driven interface__:
 <br><br><br>
 
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20160926.png)
