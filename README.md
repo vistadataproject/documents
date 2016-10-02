@@ -4,11 +4,13 @@ The VISTA Data Project is a research and discovery initiative to prototype a dat
 
 This is in contrast to the current code-centric approach to interfacing with VISTA's data which relies on a byzantine array of thousands hard-coded remote procedure calls (RPCs) that have accumulated over three decades for different clients, none of which are validated, documented, or maintained.  Such a code-centric approach does not provide a coherent, comprehensive, maintainable approach to interfacing to VISTA's data.
 
-VISTA's data model - the roadmap to all of VA's institutional, business process, and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced and leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as a single, secure, symmetric read-write interface to all VISTA data for external interfacing and integration.
+VISTA's data model - the roadmap to all of VA's institutional, business process, and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced and leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as a single, secure, symmetric read-write interface to all VISTA data for external interfacing and integration. This comprehensive, integrated, enterprise data model is the Master VISTA Data Model (MVDM).
 
 ### An Evolution in Interfacing
 
-The figure below summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standard, secure, symmetric (bidirectional) data model-driven interface__:
+The figure below summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standard, secure, symmetric (bidirectional) data model-driven interface__.
+
+The first set of interfaces to migrate to the MVDM are those of the clinical domain of the thick client (CPRS), which is comprised of over one thousant remote procedure calls (RPCs).  Each of these CPRS RPCs will be fully audited and secured in the RPC Locker.
 <br><br><br>
 
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20160926b.png)
