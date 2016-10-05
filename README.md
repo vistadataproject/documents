@@ -10,7 +10,9 @@ VISTA's data model - the roadmap to all of VA's institutional, business process,
 
 The figure below summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standard, secure, symmetric (bidirectional) data model-driven interface__ (MVDM).
 
-The first set of interfaces to migrate are those of the clinical domain. These are based on the VISTA graphical thick client (CPRS), which is comprised of over one thousant remote procedure calls (RPCs).  Each of these CPRS RPCs will be incrementally audited, isolated, and secured in the RPC Locker, with all semantics reflected in the MVDM. In the new state, the CPRS client works through the MVDM and RPCs secured through the RPC Locker. In the MVDM is a configurable set of patient-centric security policies, providing attribute-based access control (ABAC).
+The first set of interfaces to migrate are those of the clinical domain. These are based on the VISTA graphical thick client (CPRS), which is comprised of over one thousant remote procedure calls (RPCs).  Each of these CPRS RPCs will be incrementally audited, isolated, and secured in the RPC Locker, with all semantics reflected in the MVDM. 
+
+In the new state, the CPRS client acccess is secured through the RPC Locker, and reads and writes through the MVDM. In the MVDM is a configurable set of patient-centric security policies, providing attribute-based access control (ABAC). Any new clients read and write through the MVDM using ABAC.
 <br><br><br>
 
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20160926b.png)
