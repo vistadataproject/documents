@@ -22,8 +22,8 @@ An executive overview of the current 'as is' VISTA and its data-integrated archi
 
 
 ###  Outside Technology and Advocacy 
-<img src ="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.M3a6a9bd19a8721e2bc69478d9848858eo1%26amp%3Bpid%3D15.1&f=1" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.fiercemarkets.net%2Ffiles%2Fgovernmentit%2Ffierceimages%2Fmunneke.jpg&f=1" height=60>
+<img src ="http://www.hardhats.org/images/vol_Bella.jpg" height=60>
+<img src="http://www.flickr.com/photos/munnecket/4442022846/" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Mfb5d78aec5d0b64c5289b21071cbdbd4o1%26pid%3D15.1&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fworldvista.org%2FWorldVistA%2FAnthracite_Nancy.jpg&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vxvista.org%2Fdownload%2Fattachments%2F1081367%2FPRESPICT01Bhaskar.jpg&f=1" height=60>
