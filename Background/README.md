@@ -26,7 +26,7 @@ An executive overview of the current 'as is' VISTA and its data-integrated archi
 <img src="http://farm3.static.flickr.com/2742/4442022846_9510a5c265_m.jpg" height=60>
 <img src="http://worldvista.org/WorldVistA/davidwhitten.jpg" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fworldvista.org%2FWorldVistA%2FAnthracite_Nancy.jpg&f=1" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vxvista.org%2Fdownload%2Fattachments%2F1081367%2FPRESPICT01Bhaskar.jpg&f=1" height=60>
+<img src="https://lh6.googleusercontent.com/-_VbNuZFu5jY/TnSkJph4RqI/AAAAAAAAADA/H4JrGWh7JEAfW7uVgHaf0dK7cIddXAu9wCL0B/w452-h449-no/KSBhaskarUndergroundRR20110524.jpg" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.M5eb475ec8ff319f7c6fa1e5e3840e39bo1%26amp%3Bpid%3D15.1&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.openhealthnews.com%2Fsites%2Fopenhealthnews.com%2Ffiles%2Frob_sm.png&f=1" height=60>
