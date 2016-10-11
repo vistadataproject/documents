@@ -17,7 +17,7 @@ Who | Design | Description
 An executive overview of the current 'as is' VISTA and its data-integrated architecture:
 * [VISTA Overview](https://github.com/vistadataproject/documents/tree/master/Background/vista)
 * [VISTA Architecture](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-architecture.md)
-* [VISTA vs Commercial EHRs](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md). A 2014 survey of 18,000 physicians rate VISTA the #1 EHR in the U.S.
+* [VISTA Popularity](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md). A 2014 survey of 18,000 physicians rate VISTA the #1 EHR in the U.S.
 
 
 ###  Outside Technology and Advocacy 
