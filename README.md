@@ -1,6 +1,6 @@
 # VISTA Data Project
 
-The Veterans Information System Technology Architecture (VISTA) is the comprehensive, integrated health information system of the U.S. Department of Veterans Affairs (VA). There are 131 VISTA systems deployed natiowide and operational for the past thirty years, and provide all clinical, financial, and administrative functions for the 1200+ VA hospitals and clinics throughout the United States. 
+The Veterans Information System Technology Architecture (VISTA) is the comprehensive, integrated, national health information system of the U.S. Department of Veterans Affairs (VA). There are 131 VISTA systems deployed natiowide and operational for the past thirty years. These provide all clinical, financial, and administrative functions to support the operations of 1200+ VA hospitals and clinics throughout the United States.
 
 The VISTA Data Project is an initiative to prototype and validate a data-centric, model-driven approach to VA VISTA master data management and interfacing.  This is in contrast to the current code-centric approach to interfacing to VISTA's data which relies on a byzantine array of thousands hard-coded remote procedure calls (RPCs) that have accumulated over three decades for different clients, none of which are validated, documented, or maintained.  Such a code-centric approach does not provide a coherent, comprehensive, maintainable approach to interfacing to VISTA's data.
 
