@@ -16,7 +16,7 @@ The first set of interfaces to migrate are those of the clinical domain. These a
 In the new state, the CPRS client acccess is secured through the RPC Locker, and reads and writes through the MVDM. In the MVDM is a configurable set of patient-centric security policies, providing attribute-based access control (ABAC). Any new clients read and write through the MVDM using ABAC.
 <br><br><br>
 
-![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20160926b.png)
+![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161108.png)
 
 
 MUMPS /Code-driven VISTA <br> (Current) | Javascript/ Model-driven VISTA <br> (VISTA Data Project)
