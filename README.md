@@ -13,7 +13,7 @@ The figure below summarizes the evolution from __thousands of unique, inconsiste
 
 The first set of interfaces to migrate are those of the clinical domain. These are based on the VISTA graphical thick client (CPRS), which is comprised of over one thousant remote procedure calls (RPCs).  Each of these CPRS RPCs will be incrementally audited, isolated, and secured in the RPC Locker, with all semantics reflected in the MVDM. 
 
-In the new state, the CPRS client acccess is secured through the RPC Locker, and reads and writes through the MVDM. In the MVDM is a configurable set of patient-centric security policies, providing attribute-based access control (ABAC). Any new clients read and write through the MVDM using ABAC.
+In the new Model-driven VISTA, All CPRS functionality is secured through the RPC Locker,  and reads and writes through the MVDM. In the MVDM is a configurable set of patient-centric security policies, providing attribute-based access control (ABAC). Any and all other new (non-CPRS) clients would read and write through the MVDM using ABAC.  All clients will inherit VA enterprise authentication via SAML tokens.
 <br><br><br>
 
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161108.png)
