@@ -16,6 +16,7 @@ The first set of interfaces to migrate are those of the clinical domain. These a
 __In Model-driven VISTA, all interfacing is through the Master VistA Data Model (MVDM)  with Attribute-Based Access Control (ABAC)__. For __existing (RPC) clients__, security is first enhanced by the RPC Locker; then all reads and writes are through MVDM/ABAC. For __new clients__ and interfaces, reads and writes are simply through MVDM/ABAC.  Authentication for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
 <br><br><br>
 
+#### VISTA Model Transition
 ![vdp-overview](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161109.png)
 
 
