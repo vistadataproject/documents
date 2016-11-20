@@ -17,7 +17,7 @@ __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVD
 <br>
 
 #### VISTA Interfacing Transition
-VISTA's new unified symmetric read/write interface (blue bidirectional arrow) represents the embedded, security-enhanced (ABAC),  in-process, real-time, server-side, transactional Linked Data Model (RDF / JSON-LD)-driven Master VISTA Data Model (MVDM).
+VISTA's new unified symmetric read/write interface (blue bidirectional arrow with Linked Data symbol) represents the embedded, security-enhanced (ABAC),  in-process, real-time, server-side, transactional Linked Data-driven (JSON-LD) Master VISTA Data Model (MVDM).
 
 ![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161119.png)
 
