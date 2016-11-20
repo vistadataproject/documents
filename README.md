@@ -8,18 +8,19 @@ The VISTA Data Project is a new data-centric, model-driven approach to VA VISTA 
 VISTA's master data model - the roadmap to all of VA's institutional, business process, and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced and leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as a single, secure, symmetric read-write, server-side interface to all VISTA data for external interfacing and integration. This data model uniformly bridges  all 131 existing VISTA system data models, allowing secure read-write access to all VA VISTA systems enterprise-wide using a single Master VISTA Data Model (__MVDM__).
 
 ### An Evolution in Interfacing
+The first set of interfaces to migrate are those of the clinical domain. These are based on the interfaces to the clinical graphical thick client (__CPRS__), and are comprised of over one thousand remote procedure calls (__RPCs__).  Each of these CPRS RPCs will be incrementally audited, emulated, isolated, and secured in the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker specifically blocks any code injection, and blocks any direct MUMPS data access bypassing the Fileman API. 
 
-The figure below summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standard, secure, symmetric (bidirectional) data model-driven interface__ - the Master VistA Data Model (MVDM).
+Within the MVDM is a configurable set of data-centric security policies which logically isolates patient, institutional, knowledge, and systems (PIKS) information. This logical isolation is a necessary foundation for any form of Attribute-Based Access Control (ABAC).
 
-The first set of interfaces to migrate are those of the clinical domain. These are based on the interfaces to the clinical graphical thick client (__CPRS__), and are comprised of over one thousand remote procedure calls (__RPCs__).  Each of these CPRS RPCs will be incrementally audited, emulated, isolated, and secured in the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). Within the MVDM is a configurable set of patient-centric security policies, providing Attribute-Based Access Control (__ABAC__).
-
-__In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM)  with Attribute-Based Access Control (ABAC)__. For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM/ABAC. For __new  clients__ and interfaces, reads and writes are through MVDM/ABAC.  Authentication for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
+__In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM)  with Patient-Centric Access Control (PIKS)__. For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM/PIKS. For __new  clients__ and interfaces, reads and writes are through MVDM/PIKS.  Authentication for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
 <br>
 
 #### VISTA Interfacing Transition
-VISTA's new unified symmetric read/write interface (blue bidirectional arrow with Linked Data symbol) represents the embedded, in-process, server-side, security-enhanced, transactional Linked Data-driven Master VISTA Data Model (MVDM).
 
-![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161119.png)
+![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161119b.png)
+
+*The figure above summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standard, secure, server-side, symmetric (bidirectional) data model-driven interface__ - the Master VistA Data Model (MVDM). VISTA's new unified symmetric read/write interface (blue bidirectional arrow with Linked Data symbol) represents the embedded, in-process, server-side, security-enhanced, transactional Linked Data-driven Master VISTA Data Model (MVDM).*
+
 
 
 
