@@ -16,10 +16,10 @@ __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVD
 <br>
 
 #### VISTA Interfacing Transition
+*The figure below summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standard, secure, server-side, symmetric (bidirectional) data model-driven interface__ - the Master VistA Data Model (MVDM). VISTA's new unified symmetric read/write interface (blue bidirectional arrow with Linked Data symbol) represents the embedded, in-process, server-side, security-enhanced, transactional Linked Data-driven Master VISTA Data Model (MVDM).*
 
 ![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161119b.png)
 
-*The figure above summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standard, secure, server-side, symmetric (bidirectional) data model-driven interface__ - the Master VistA Data Model (MVDM). VISTA's new unified symmetric read/write interface (blue bidirectional arrow with Linked Data symbol) represents the embedded, in-process, server-side, security-enhanced, transactional Linked Data-driven Master VISTA Data Model (MVDM).*
 
 
 
