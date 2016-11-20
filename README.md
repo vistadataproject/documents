@@ -17,7 +17,7 @@ __In Model-driven VISTA, all interfacing is through the Master VistA Data Model 
 <br><br><br>
 
 #### VISTA Interfacing Transition
-![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161118.png)
+![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161119.png)
 
 
 
