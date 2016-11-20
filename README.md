@@ -57,7 +57,7 @@ Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_ent
 
 
 
-##  VISTA Data Model:  Overview
+##  VISTA Data Model:  Details
 _Server-side. Security-enhanced. Symmetric-Read-Write._
 
 ![VDP-intro](https://github.com/vistadataproject/documents/blob/master/images/vdp-introA.png)
