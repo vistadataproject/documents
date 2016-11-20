@@ -14,8 +14,7 @@ The figure below summarizes the evolution from __thousands of unique, inconsiste
 The first set of interfaces to migrate are those of the clinical domain. These are based on the interfaces to the clinical graphical thick client (__CPRS__), and are comprised of over one thousand remote procedure calls (__RPCs__).  Each of these CPRS RPCs will be incrementally audited, emulated, isolated, and secured in the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). Within the MVDM is a configurable set of patient-centric security policies, providing Attribute-Based Access Control (__ABAC__).
 
 __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM)  with Attribute-Based Access Control (ABAC)__. For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM/ABAC. For __new  clients__ and interfaces, reads and writes are through MVDM/ABAC.  Authentication for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
-<br><br><br>
-
+<br>
 
 #### VISTA Interfacing Transition
 Within VISTA's new symmetric read/write interface (blue bidirectional arrow) is the embedded, real-time, server-side, in-process transactional, RDF-based transactional Master VISTA Data Model.
