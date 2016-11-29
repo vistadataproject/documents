@@ -1,0 +1,19 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "description": "### A Real-time Computable Master Data Model for VA's VISTA Systems _Server-side. Security-enabled. Symmetric-Read-Write._",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vistadataproject/documents.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vistadataproject/documents/issues"
+  },
+  "homepage": "https://github.com/vistadataproject/documents#readme"
+}

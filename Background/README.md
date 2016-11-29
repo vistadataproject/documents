@@ -17,18 +17,17 @@ Who | Design | Description
 An executive overview of the current 'as is' VISTA and its data-integrated architecture:
 * [VISTA Overview](https://github.com/vistadataproject/documents/tree/master/Background/vista)
 * [VISTA Architecture](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-architecture.md)
-* [VISTA vs Commercial EHRs - Survey of 18,00 Physicians - 2014](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md)
-
+* [VISTA Popularity](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md). A 2014 survey of 18,000 physicians rate VISTA the #1 EHR in the U.S.
 
 
 ###  Outside Technology and Advocacy 
-<img src ="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.M3a6a9bd19a8721e2bc69478d9848858eo1%26amp%3Bpid%3D15.1&f=1" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fassets.fiercemarkets.net%2Ffiles%2Fgovernmentit%2Ffierceimages%2Fmunneke.jpg&f=1" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Mfb5d78aec5d0b64c5289b21071cbdbd4o1%26pid%3D15.1&f=1" height=60>
+<img src ="http://www.hardhats.org/images/vol_Bella.jpg" height=60>
+<img src="http://farm3.static.flickr.com/2742/4442022846_9510a5c265_m.jpg" height=60>
+<img src="http://worldvista.org/WorldVistA/davidwhitten.jpg" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fworldvista.org%2FWorldVistA%2FAnthracite_Nancy.jpg&f=1" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.vxvista.org%2Fdownload%2Fattachments%2F1081367%2FPRESPICT01Bhaskar.jpg&f=1" height=60>
+<img src="https://lh6.googleusercontent.com/-_VbNuZFu5jY/TnSkJph4RqI/AAAAAAAAADA/H4JrGWh7JEAfW7uVgHaf0dK7cIddXAu9wCL0B/w452-h449-no/KSBhaskarUndergroundRR20110524.jpg" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.M5eb475ec8ff319f7c6fa1e5e3840e39bo1%26amp%3Bpid%3D15.1&f=1" height=60>
+<img src="https://www.vxvista.org/download/thumbnails/8061163/PH3.JPG?version=1&modificationDate=1338915701253&api=v2" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.openhealthnews.com%2Fsites%2Fopenhealthnews.com%2Ffiles%2Frob_sm.png&f=1" height=60>
 <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60>
 <img src ="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Finnotribe.com%2Fwp-content%2Fuploads%2F2013%2F08%2FMSporny.jpg&f=1" height=60>
