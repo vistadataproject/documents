@@ -2,6 +2,8 @@ __Deliverable 15__: Date-stamped Metadata__ for lab, surgery, TIU notes and othe
 
 from _nodeVISTA_'s K slice as defined by its PIKS file
 
+See VDM/definitions/systems/nodeVISTA/metaData (will move in here)
+
 ## K file table ...
 
 K files 799 of nodeVISTA
