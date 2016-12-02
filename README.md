@@ -11,8 +11,6 @@ VISTA's master data model - the roadmap to all of VA's institutional, business p
 The first set of interfaces to migrate are those of the clinical domain. These are based on the interfaces to the clinical graphical thick client (__CPRS__), and are comprised of over one thousand remote procedure calls (__RPCs__).  Each of these CPRS RPCs will be incrementally audited, emulated, isolated, and secured in the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and blocks any code injection, and redirects all database access through the Fileman (database) API.  
 
 Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical isolation of patient, institutional, knowledge, and systems information. This logical isolation of patient data from all other kinds of data is a necessary foundation for patient-centric access control. 
-
-__In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM).__ For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM. For __new  clients and interfaces__, reads and writes are through MVDM.  __Authentication__ for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
 <br>
 
 #### VISTA Interfacing Transition
@@ -22,6 +20,7 @@ VISTA's new unified, symmetric read/write interface (blue bidirectional arrow) r
 
 ![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161119b.png)
 
+__In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM).__ For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM. For __new  clients and interfaces__, reads and writes are through MVDM.  __Authentication__ for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
 
 
 
