@@ -15,10 +15,10 @@
 
 
 ### VISTA supports the national healthcare systems of many countries outside the U.S.A.
-National healthcare systems running VISTA:
-* Jordan: One national VISTA supports 50 hospitals and 950 clinics, caring for the entire population of Jordan (8 million patients)
-* India:  One cloud-based national VISTA supporting care of over 20 million patients; target is 40 million by 2020.
 ![vista-world](https://github.com/vistadataproject/documents/blob/master/images/vista/deployment-worldwide.jpg)
+National healthcare systems running VISTA:
+* Jordan: A single instance of VISTA runs the entire national network of 50 hospitals and 950 clinics, providing a single national digital health record for the entire population of Jordan (8 million).
+* India:  A single cloud-based VISTA supporting care of over 20 million patients. 
 
 
 ### News and Reviews
