@@ -1,10 +1,11 @@
 # Veterans Information Systems and Technology Architecture (VISTA)
 
-### A Patient-Centric EHR
+###  Patient-Centric EHR
 ![vista-circle](https://github.com/vistadataproject/documents/blob/master/images/vista/vista-integrated-patient-centric.png)
 
 
 ### Comprehensive integrated EHR
+184 Applications integrated to a single database
 ![vista-integrated](https://github.com/vistadataproject/documents/blob/master/images/vista-vivian-animation-50.gif)
 
 
@@ -14,6 +15,9 @@
 
 
 ### VISTA supports the national healthcare systems of many countries outside the U.S.A.
+National healthcare systems running VISTA:
+* Jordan: One national VISTA supports 50 hospitals and 950 clinics, caring for the entire population of Jordan (8 million patients)
+* India:  One cloud-based national VISTA supporting care of over 20 million patients; target is 40 million by 2020.
 ![vista-world](https://github.com/vistadataproject/documents/blob/master/images/vista/deployment-worldwide.jpg)
 
 
