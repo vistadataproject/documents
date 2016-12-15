@@ -96,11 +96,11 @@ In Year 2, the demo will by nature expand its scope just through the underlying 
 
 Track | Q1 | Q2 | Q3 | Q4
 --- | --- | --- | --- | ---
-Clinical RPCs (Track 1) | CPOE outline and basic prototyping | CPOE Delivery 1 | CPOE Delivery 2, Other Clinical Domains 1 | CPOE Final, Other Clinical Domains 2
-Non Clinical RPCs (Track 2) | Outline and basic prototyping | NC RPC Delivery | - | -
-Security (Track 3) | PIKS analysis upgrade based on Track 2 Outlines | - | Security Prototype Upgrade | -
-Infrastructure (Track 4) | Query Framework Upgrade, Parameter Service, RPC Server Upgrade 1, MVDM Service Server 1 | MVDM Write Framework Upgrade | nodeVISTA Vagrant Upgrade | -
-Demonstration (Track 5) | Demo 2.1 | Demo 2.2 | Demo 2.3 | Demo 2.4
+__Clinical RPCs__ (Track 1) | CPOE outline and basic prototyping | CPOE Delivery 1 | CPOE Delivery 2, Other Clinical Domains 1 | CPOE Final, Other Clinical Domains 2
+__Non Clinical RPCs__ (Track 2) | Outline and basic prototyping | NC RPC Delivery | - | -
+__Security__ (Track 3) | PIKS analysis upgrade based on Track 2 Outlines | - | Security Prototype Upgrade | -
+__Infrastructure__ (Track 4) | Query Framework Upgrade, Parameter Service, RPC Server Upgrade 1, MVDM Service Server 1 | MVDM Write Framework Upgrade | nodeVISTA Vagrant Upgrade | -
+__Demonstration__ (Track 5) | Demo 2.1 | Demo 2.2 | Demo 2.3 | Demo 2.4
 
   * Infrastructure will be upgraded as needed for Tracks 1 and 2. Only distinct pieces of work are called out explicitly above
   * Demonstration will be upgraded as functionality is added in Tracks 1 and 2
