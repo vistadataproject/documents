@@ -31,7 +31,7 @@ Year 2 work breaks into five tracks:
   4. Infrastructure required for MVDM and nodeVISTA
   5. Integrated, easy to install Demonstration 
 
-## Clinical RPC Support (417)
+## Clinical RPCs (417)
 
 There are 417 Clinical RPCs - those that effect a patient's record - in the CPRS RPC Interface or 40% of the total.
 
