@@ -37,7 +37,7 @@ Year 2 work breaks into __five tracks__:
 
 There are 417 Clinical RPCs - those that effect a patient's record - in the CPRS RPC Interface or 40% of the total.
 
-Note: for details on all 417, [see](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD.md#clinical-417).
+Note: for details on all 417, [see](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD#clinical-417).
 
 CPRS uses these RPCs to update and enhance a Patient's record and RPCs that update (sometimes termed "write back RPCs") are much more complicated than RPCs which just read data. 
     
@@ -53,7 +53,7 @@ Year 2 will reuse these utilities to provide MVDM support for all Clinical RPCs.
 
 The 555 Non-Clinical RPCs deal with user preferences ("what is a user's preferred size of vital screen?"), system settings ("web site of system") and, in particular, a large volume of meta-data that drives the choices a user can make when ordering and documenting as she cares for a patient ("list of drugs you can order", "document types you can write").
 
-Note: for details on all 555, [see](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD.md#non-clinical-555).
+Note: for details on all 555, [see](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD#non-clinical-555).
     
 While large in number, these RPCs are substantively __simpler than Clinical RPCs__. They mainly READ data as CPRS doesn't change non clinical data other than user preferences.
 
@@ -101,12 +101,13 @@ Track | Q1 | Q2 | Q3 | Q4
 __Clinical RPCs__ (Track 1) | CPOE outline and basic prototyping | CPOE Delivery 1 | CPOE Delivery 2, Other Clinical Domains 1 | CPOE Final, Other Clinical Domains 2
 __Non Clinical RPCs__ (Track 2) | Outline and basic prototyping | NC RPC Delivery | - | -
 __Security__ (Track 3) | PIKS analysis upgrade based on Track 2 Outlines | - | Security Prototype Upgrade | -
-__Infrastructure__ (Track 4) | Query Framework Upgrade, Parameter Service, RPC Server Upgrade 1, MVDM Service Server 1 | MVDM Write Framework Upgrade | nodeVISTA Vagrant Upgrade | -
+__Infrastructure__ (Track 4) | Query Framework Upgrade, Parameter Service, RPC Server Upgrade 1, MVDM Service Server 1, Dialog Test Utilities | MVDM Write Framework Upgrade | nodeVISTA Vagrant Upgrade | nodeVISTA Vagrant final
 __Demonstration__ (Track 5) | Demo 2.1 | Demo 2.2 | Demo 2.3 | Demo 2.4
 
+  * CPOE (Orders) will frame much of the work for year 2. To add MVDM support for VISTA orders will force infrastructure upgrades,  significant meta-data addition to the test system and analysis of non-CPRS driven data flows
+  * Track 2 may not end in Q2. If it does go on then work on clinical domains beyond CPOE will be impacted
   * Infrastructure will be upgraded as needed for Tracks 1 and 2. Only distinct pieces of work are called out explicitly above
   * Demonstration will be upgraded as functionality is added in Tracks 1 and 2
-  * Track 2 may not end in Q2. If it does go on then work on clinical domains beyond CPOE will be impacted
   
 # Relationship to Year 1 Deliverables and CLINs
 
