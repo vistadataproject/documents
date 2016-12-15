@@ -21,15 +21,17 @@ Out of Scope | 60 (5.7%)
 
 _Out of Scope_ RPCs include those used for printing, formally deprecated calls and those that monitor MUMPS code patches.
 
+You can read the full list of RPCs broken down by type [here](http://vistadataproject.info/artifacts/vdpYear2RPCs)
+
 # Tracks
 
-Year 2 work breaks into five tracks:
+Year 2 work breaks into __five tracks__:
 
-  1. Clinical RPC Support over MVDM
-  2. Non Clinical RPC Support over MVDM
-  3. Security including Authentication, Access Control and Auditing
-  4. Infrastructure required for MVDM and nodeVISTA
-  5. Integrated, easy to install Demonstration 
+  1. __Clinical RPCs__ supported in MVDM
+  2. __Non Clinical RPCs__ supported in MVDM
+  3. __Security__ including Authentication, Access Control and Auditing
+  4. __Infrastructure__ required for MVDM and nodeVISTA
+  5. Integrated, easy to install __Demonstration__
 
 ## Clinical RPCs (417)
 
