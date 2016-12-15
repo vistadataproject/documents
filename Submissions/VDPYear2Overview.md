@@ -95,6 +95,7 @@ In Year 2, the demo will by nature expand its scope just through the underlying 
 # Outline of Schedule
 
 Track | Q1 | Q2 | Q3 | Q4
+--- | --- | --- | --- | ---
 Clinical RPCs (Track 1) | CPOE outline and basic prototyping | CPOE Delivery 1 | CPOE Delivery 2, Other Clinical Domains 1 | CPOE Final, Other Clinical Domains 2
 Non Clinical RPCs (Track 2) | Outline and basic prototyping | NC RPC Delivery | - | -
 Security (Track 3) | PIKS analysis upgrade based on Track 2 Outlines | - | Security Prototype Upgrade | -
