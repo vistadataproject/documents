@@ -21,7 +21,7 @@ Out of Scope | 60 (5.7%)
 
 _Out of Scope_ RPCs include those used for printing, formally deprecated calls and those that monitor MUMPS code patches.
 
-You can read the full list of RPCs broken down by type [here](http://vistadataproject.info/artifacts/vdpYear2RPCs)
+You can read the full list of RPCs broken down by type [here](http://vistadataproject.info/artifacts/http://vistadataproject.info/artifacts/cprsRPCBreakdown)
 
 # 5 Tracks
 
