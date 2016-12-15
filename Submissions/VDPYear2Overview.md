@@ -91,3 +91,20 @@ Demonstrability is key for any practical project. The various pieces being engin
 Year 1 delivered a fully integrated demo with CPRS working seemlessly over an MVDM-enabled VISTA. In addition, there was a Web client ("MVDM Management Client") that showed all of the activity involved as CPRS interacted with this re-engineered VISTA.
 
 In Year 2, the demo will by nature expand its scope just through the underlying expansion of MVDM. In addition, two new clients will be developed, one to showcase auditing and another to demonstrate how easy it is to build new clients directly over MVDM.
+
+# Outline of Schedule
+
+Track | Q1 | Q2 | Q3 | Q4
+Clinical RPCs (Track 1) | CPOE outline and basic prototyping | CPOE Delivery 1 | CPOE Delivery 2, Other Clinical Domains 1 | CPOE Final, Other Clinical Domains 2
+Non Clinical RPCs (Track 2) | Outline and basic prototyping | NC RPC Delivery | - | -
+Security (Track 3) | PIKS analysis upgrade based on Track 2 Outlines | - | Security Prototype Upgrade | -
+Infrastructure (Track 4) | Query Framework Upgrade, Parameter Service, RPC Server Upgrade 1, MVDM Service Server 1 | MVDM Write Framework Upgrade | nodeVISTA Vagrant Upgrade | -
+Demonstration (Track 5) | Demo 2.1 | Demo 2.2 | Demo 2.3 | Demo 2.4
+
+  * Infrastructure will be upgraded as needed for Tracks 1 and 2. Only distinct pieces of work are called out explicitly above
+  * Demonstration will be upgraded as functionality is added in Tracks 1 and 2
+  * Track 2 may not end in Q2. If it does go on then work on clinical domains beyond CPOE will be impacted
+  
+# Relationship to Year 1 Deliverables and CLINs
+
+TBD - map back to year 1 deliverables for easy reporting.
