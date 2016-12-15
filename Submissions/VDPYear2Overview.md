@@ -21,6 +21,8 @@ Out of Scope | 60 (5.7%)
 
 _Out of Scope_ RPCs include those used for printing, formally deprecated calls and those that monitor MUMPS code patches.
 
+[Full details](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD)
+
 # 5 Tracks
 
 Year 2 work breaks into __five tracks__:
@@ -35,7 +37,7 @@ Year 2 work breaks into __five tracks__:
 
 There are 417 Clinical RPCs - those that effect a patient's record - in the CPRS RPC Interface or 40% of the total.
 
-Note: for details on all 417, [see](https://github.com/vistadataproject/VDM/blob/master/definitions/RPC/cprsRPCBreakdown.md#clinical-417).
+Note: for details on all 417, [see](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD.md#clinical-417).
 
 CPRS uses these RPCs to update and enhance a Patient's record and RPCs that update (sometimes termed "write back RPCs") are much more complicated than RPCs which just read data. 
     
@@ -51,7 +53,7 @@ Year 2 will reuse these utilities to provide MVDM support for all Clinical RPCs.
 
 The 555 Non-Clinical RPCs deal with user preferences ("what is a user's preferred size of vital screen?"), system settings ("web site of system") and, in particular, a large volume of meta-data that drives the choices a user can make when ordering and documenting as she cares for a patient ("list of drugs you can order", "document types you can write").
 
-Note: for details on all 555, [see](https://github.com/vistadataproject/VDM/blob/master/definitions/RPC/cprsRPCBreakdown.md#non-clinical-555).
+Note: for details on all 555, [see](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD.md#non-clinical-555).
     
 While large in number, these RPCs are substantively __simpler than Clinical RPCs__. They mainly READ data as CPRS doesn't change non clinical data other than user preferences.
 
