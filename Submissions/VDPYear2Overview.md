@@ -43,7 +43,7 @@ CPRS uses these RPCs to update and enhance a Patient's record and RPCs that upda
     
 Specifically, these Clinical RPCs encompass _CPOE_ (Order Management) and user controlled and often stateful data entry about a patient's health (Problem, Allergy, Immunization, Documents ...). 
     
-Order Entry (CPOE) is the key function offered by VISTA and migrating it to MVDM will take a substantial part of the Project's efforts going forward. In particular, some aspects of Order management don't involve CPRS directly but must be addressed to develop and test CPRS interactions. In addition, the test VISTA system used in the project was not pre-configured for Order Entry and as a result, developers will need to perform basic system configuration in order to develop and test VISTA ordering in a master model.
+__Computerized Physician Order Entry (CPOE) is the key function offered by VISTA__ and migrating it to MVDM will take a substantial part of the Project's efforts going forward. In particular, some aspects of Order management don't involve CPRS directly but must be addressed to develop and test CPRS interactions. In addition, the test VISTA system used in the project was not pre-configured for Order Entry and as a result, developers will need to perform basic system configuration in order to develop and test VISTA ordering in a master model.
 
 Year 1 of VDP proved that even the hardest of Clinical RPCs could be supported over an MVDM. In doing so, a set of _MVDM Utilities_ were developed that support reading, writing and checking any VISTA class or property. 
 
