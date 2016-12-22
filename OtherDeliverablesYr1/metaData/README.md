@@ -1,6 +1,6 @@
 __Deliverable 15__: Date-stamped Metadata__ for lab, surgery, TIU notes and other applications in a MVDM compatible format
 
-from _nodeVISTA_'s K slice as defined by its PIKS file, stored with _LFS_, git's large file storage mechanism. So the git holds pointers to these (large) files. To download the full files, use _git lfs fetch_.
+from _nodeVISTA_'s K slice as defined by its PIKS file, stored with _LFS_, git's large file storage mechanism. So the git holds pointers to these (large) files. To download the full files, use _git checkout ._ but make sure you've run _git lfs track "*.bjld" first.
 
 See VDM/definitions/systems/nodeVISTA/metaData (will move in here)
 
