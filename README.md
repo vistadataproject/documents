@@ -27,10 +27,10 @@ The MVDM is indicated by the blue bidirectional arrow (with the embedded Linked 
 CPRS RPC Clients include the following:
 * CPRS [VDL](https://www.va.gov/vdl/application.asp?appid=61)
 * VPR
-* HMP / eHMP
+* eHMP
 * JLV
-* MDWS [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242); [Guide](https://vacloud.us/groups/mdws); [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare)
-* SupraVistA  [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557); [website](http://www.supravista.com); [YouTube](https://youtu.be/fKveUSFj6a8)
+* MDWS ([TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242); [Guide](https://vacloud.us/groups/mdws); [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) )
+* SupraVistA ([TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557); [website](http://www.supravista.com); [YouTube](https://youtu.be/fKveUSFj6a8) )
 
 
 
