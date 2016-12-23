@@ -24,9 +24,13 @@ __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVD
 
 The MVDM is indicated by the blue bidirectional arrow (with the embedded Linked Data symbol). This represents the real-time, embedded, transactional, server-side, security-enhanced, Linked Data Model-driven interface
 
-CPRS RPC Clients include the following: (1) CPRS [VDL](https://www.va.gov/vdl/application.asp?appid=61) (2) VPR (3) HMP (4) JLV
-(5) MDWS ([TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242); [Guide](https://vacloud.us/groups/mdws); [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) )
-(6) SupraVistA ([TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557); [website](http://www.supravista.com); [YouTube](https://youtu.be/fKveUSFj6a8) )
+Existing CPRS RPC Clients include the following: 
+* (1) CPRS [VDL](https://www.va.gov/vdl/application.asp?appid=61) 
+* (2) VPR 
+* (3) HMP 
+* (4) JLV
+* (5) MDWS ([TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242); [Guide](https://vacloud.us/groups/mdws); [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) )
+* (6) SupraVistA ([TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557); [website](http://www.supravista.com); [YouTube](https://youtu.be/fKveUSFj6a8) )
 
 
 
