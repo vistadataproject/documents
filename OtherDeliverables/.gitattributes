@@ -1,2 +1,0 @@
-bjld filter=lfs diff=lfs merge=lfs -text
-*.bjld filter=lfs diff=lfs merge=lfs -text
