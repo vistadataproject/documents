@@ -1,0 +1,310 @@
+<!doctype html>
+<html>
+<head>
+<title>FileMan Query Maker</title>
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<style type="text/css"> 
+body {
+    font-size: 14px;
+    font-family: Trebuchet MS, Verdana, Geneva, sans-serif;
+    background: #fff;
+    padding: 20px 20px 20px 20px;
+    color: #666;
+}
+h1 { font-size: 1.6em; font-weight: normal; }
+a { color: #c00000; }
+th, td {
+    border: 1px dotted #eee;
+    padding: 2px 4px; 
+}
+#fmql-form {
+    margin-top: 10px;
+    padding: 0;
+    float: left; 
+    margin-bottom: 30px;
+    width: 60%;
+}
+#header { float: right; width: 35%;}
+#heading { text-align: right;}
+#intro { text-align: right;}
+#footer { clear: both; margin-top: 20px; text-align: center;}
+#query { 
+    width: 100%;
+    display: block; 
+    height: 100px; 
+    margin-bottom: 10px;
+}
+.options {
+    float: left;
+    font-size: 0.9em;
+    padding-top: 10px;
+}
+.options h3 {
+    margin: 5px;
+}
+.option {display: inline-block; padding-right: 60px;}
+.option-title { padding-right: 3px; }
+.form-buttons {
+    clear: both;
+    padding-top: 10px;
+    margin: 10px 0px;
+}
+#results {
+    clear: both;
+    border: 1px solid #eee;
+    margin: 0px;
+    padding: 10px;
+    background-color: #fcfcfc;
+}
+</style> 
+<script type="text/javascript" src="fmQMCannedQueries.js"></script>
+<script type="text/javascript" src="fmUtils.js"></script>
+<script type="text/javascript">
+
+/* 
+ * FileMan Query Maker
+ *
+ * In default setup, handles urls of form:
+ *      /query?fmql=...
+ *
+ * LICENSE:
+ * This program is free software; you can redistribute it and/or modify it under the terms of 
+ * the GNU Affero General Public License version 3 (AGPL) as published by the Free Software 
+ * Foundation. Modified or not:
+ * - as required under Section 5, its source must retain appropriate legal notices
+ * - in accordance with Section 7(b), its display must retain the "Master FileMan's Data" slogan with its link to http://vista.caregraf.info
+ * (c) 2014 Caregraf
+ */
+
+/*
+ * Invocation Cases:
+ * - URL bar chooses query (and format): fmql= 
+ *   - get query from url and send to fmqlEP
+ *   - make sure query box matches
+ * - User manually fills in/chooses a query and hits send
+ *   - get query and form from forms and reset url bar
+ *   - this will kick in the above
+ */
+function processLoad()
+{
+    // Always fill in options
+    fillInCannedQueries();
+    // Process url bar for query
+    sendQueryInURLBar();
+}
+
+// Pull CANNED QUERIES from a static definition
+function fillInCannedQueries()
+{
+    var select = document.getElementById("query_choice");
+    for (var i=0; i<CANNEDQUERIES.length; i++)
+    {
+        var option = document.createElement("option");
+        option.setAttribute("value", "q" + i.toString());
+        option.setAttribute("value1", CANNEDQUERIES[i][0]);
+        option.appendChild(document.createTextNode(CANNEDQUERIES[i][1]));
+        select.appendChild(option);
+    }
+}
+ 
+// From URL bar: it is the master. Form fills on page just set this
+function sendQueryInURLBar()
+{
+    if (!location.search)
+        return;
+    var args = new Object();
+    var srch = location.search.substring(1);
+    var pairs = srch.split("&");
+    var query = "";
+    var format = "";
+    for(var i=0; i < pairs.length; i++)
+    {
+        var pos = pairs[i].indexOf("=");
+        if (pos == -1)
+            continue;
+        var argname = pairs[i].substring(0, pos);
+        var value = pairs[i].substring(pos+1);
+        value = decodeURIComponent(value);
+        if (argname == "query")
+            query = value;
+        else if (argname == "format")
+            format = value;
+        else
+        {
+            location.search = "";
+            return;
+        }
+    }
+    if (!query)
+    {
+         location.search = "";
+         return;
+    }
+    if (!format)
+         format = "JSON";
+
+    boxQuery(query, format);
+
+    var xhr = getXMLHttpRequest();
+    xhr.onreadystatechange = function()
+    { 
+         if(xhr.readyState == 4)
+         {
+              if(xhr.status == 200) 
+              {
+                  if (format == "JSONLD" || format == "JSON")
+                      html("results", "<pre>" + makeJSONPretty(xhr.responseText) + "</pre>"); 
+                  else if (format == "HTML") {
+                  	  html("results", xhr.responseText.replace("id='results'", ''));
+                  }
+                  else if (format == "XML") {
+                  	html("results", '<textarea rows="20" cols="100" style="border:none;">' + JSON.parse(xhr.responseText).xml + "</textarea>");
+                  }
+                  else if (format == "CSV") {
+                  	console.log(xhr.responseText);
+                  	html("results", "<pre>" + JSON.parse(xhr.responseText).csv + "<pre>");
+                  }
+                  else if (xhr.responseXML) // application/xml
+                      html("results", "<pre>" +  ConvChar(xhr.responseText) + "</pre>");
+                  else
+                      html("results", xhr.responseText);
+              }
+              else 
+                  html("results", "<pre>" + xhr.status + "</pre>");
+         }
+    }; 
+
+    EPURL = "https://" + location.host + "/vdmService";
+    queryURL = EPURL + "?query=" + encodeURIComponent(query);
+    queryURL += "&format=" + format;
+    xhr.open('GET', queryURL,  true); 
+    xhr.send(null);   
+}
+
+/*
+ * Support user choosing a canned query or filling in a query 
+ * in the query box and hitting send and updating the query
+ * box from the location bar.
+ */
+function boxQuery(query, format)
+{
+    document.getElementById('query').value = query;
+    if (!format)
+        return; // leave at selected index
+    if (format == "HTML")
+    	document.getElementById('format').selectedIndex = 0;
+    else if (format == "JSON")
+        document.getElementById('format').selectedIndex = 1;
+    else if (format == "JSONLD")
+        document.getElementById('format').selectedIndex = 2; 
+    else if (format == "CSV")
+    	document.getElementById('format').selectedIndex = 3;
+    else if (format == "XML")
+    	document.getElementById('format').selectedIndex = 4;
+}
+
+function handleSendQuery()
+{
+    var query = document.getElementById("query").value;
+    if (!query)
+        return;
+    var formatIndex = document.getElementById("format").selectedIndex;
+    var format =  document.getElementById("format")[formatIndex].text;
+    var queryArgs = "query=" + encodeURIComponent(query);
+    if (format != "JSON")
+        queryArgs += "&format=" + format;
+    location.search = queryArgs;
+}
+
+/*
+ * JSON format: make it "pretty"
+ */
+function makeJSONPretty(jsonReply)
+{
+    if (typeof JSON == 'undefined')
+        return jsonReply; // IE 7
+    /* Parse it and then set indent to 1 */
+    return JSON.stringify(JSON.parse(jsonReply), null, 1);
+}
+
+/*
+ * To display XML inline
+ */ 
+function ConvChar( str ) {
+  c = {'<':'&lt;', '>':'&gt;', '&':'&amp;', '"':'&quot;', "'":'&#039;',
+       '#':'&#035;' };
+  return str.replace( /[<&>'"#]/g, function(s) { return c[s]; } );
+}
+
+/*
+ * HTML format - client side from JSON. 
+ *
+ * Calls into shared library with Rambler. See URLs to be query form
+ */
+SELECTLIMIT = "100";
+function makeHTMLFromJSON(jsonReply, query)
+{
+    var json = toJSON(jsonReply);
+    if ("error" in json)
+        return ("<pre>" + jsonReply + "</pre>");
+    if (query.match(/SELECT TYPES/) || query.match(/DESCRIBE TYPE/) || query.match(/SELECT TYPE REFS/))
+        return "<p>Cannot Display HTML for Schema Queries. Select JSON.</p>";
+    if (query.match(/^SELECT /))
+        return selectResultToHTML(json, false, "/query");
+    if (query.match(/^DESCRIBE /))
+        return describeResultToHTML(json, false, "/query");
+    if (query.match(/^COUNT REFS/))
+        // must set limit for reference queries: ie/ all vitals to patient 9
+        return countRefsResultToHTML(json, false, "/query", SELECTLIMIT)
+    if (query.match(/^COUNT/))
+        return "<p>" + json["count"] + "</p>";
+    // May be DESCRIBE TYPE etc ie/ the Schema Queries. Only do JSON for now.
+    return "<p>Cannot Display HTML for this Response Type. Select JSON</p>";
+}
+
+</script>
+</head>
+
+<body onload="processLoad()">
+
+<div id="header"> 
+<div id="heading">
+<h1>VDM Query Maker</h1>
+<!--[if lt IE 7]>
+<div style="color: red">Warning: You are running a version of Internet Explorer (IE) that is over ten years old. Caregraf web applications are tested on IE version 7 and later and their behavior on earlier versions is unpredictable. May we suggest you browse Caregraf using a newer version of IE (now at version 9) or a different browser such as Mozilla Firefox or Google Chrome.</div>
+<![endif]-->
+</div> 
+</div> 
+
+<form id="fmql-form" name="fmql-form" action="?" enctype="application/x-www-form-urlencoded" method="get">
+<textarea id="query" name="query" rows="5" cols="80">Enter a query or pick a canned query and then hit send!</textarea>        
+<div class="options">     
+<div class="option">
+<span class="option-title">Query: </span> 
+<select id="query_choice" name="query_choice" onchange="if (this.selectedIndex == 0) return; boxQuery(this.options[this.selectedIndex].getAttribute('value1'));">
+<option>Pick a Canned Query</option>
+</select>
+</div>
+<div class="option"> 
+<span class="option-title">Format: </span> 
+<select id="format" name="format">
+<option value="HTML" selected="selected">HTML</option> 
+<option value="JSON">JSON</option> 
+<option value="JSONLD">JSONLD</option> 
+<option value="CSV">CSV</option>
+<option value="XML">XML</option>
+</select> 
+</div> 
+<input type="button" value="Send Query" onclick="handleSendQuery()" /> 
+</div>
+</form> 
+
+<div id="results">
+</div>
+
+</body>
+</html>
+

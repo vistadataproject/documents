@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+<head>
+<title>FileMan Schema</title>
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<![endif]-->
+<meta charset="utf-8"/>
+<meta name="application-name" content="FileMan Schema"/>
+<meta name="fragment" content="!">
+<link rel='stylesheet' href='/fmBase.css' type='text/css'>
+<script type="text/javascript" src="/fmUtils.js"></script>
+<script type="text/javascript">
+/*
+ * FileMan Schema Browser - Powered by FMQL
+ *
+ * Links out to and is linked to by the Rambler.
+ *
+ * LICENSE:
+ * This program is free software; you can redistribute it and/or modify it under the terms of the GNU Affero General Public License version 3 (AGPL) as published by the Free Software Foundation. 
+ * Modified or not:
+ * - as required under Section 5, its source must retain appropriate legal notices
+ * - in accordance with Section 7(b), its display must retain the "Master FileMan's Data" slogan with its link to http://vista.caregraf.info
+ * (c) 2014 Caregraf
+ */
+
+// app prefix (for utils)
+var APPPREFIX = "schema";
+
+// cache all files MU if ever made
+var ALLFILESREPLY = "";
+
+// Initialize utils
+window.onload = handleURIChange;
+
+function processURI(uri)
+{
+    html("fmql", "");
+
+    var baseTitle = "FileMan Schema";
+
+    // must add schema as parseQuery relies on it
+    // if uri == "" then will just have schema 
+    var args = parseQueryURI("schema/" + uri);
+
+    // invalid URI go to home page (back to /schema)
+    if (!args)
+    {
+        goHome();
+        return;
+    }
+
+    document.title = baseTitle + ":" + uri;
+
+    html("fmql", "<div class='fmqlResults' id=\"" + "fmql1" + "\"></div>");
+
+    // special cache
+    if ((args["OP"] == "SELECT TYPES") && ALLFILESREPLY)
+    {
+        handleFMQLReply(1, ALLFILESREPLY);
+        return;
+    }
+
+    doFMQLQuery(args, 1, handleFMQLReply);
+}
+
+function handleFMQLReply(index, reply)
+{
+    if (!reply)
+    {
+        html("fmql" + index, "<div class='error'><strong>Error! Timed out</strong></div>");
+        return;
+    }
+    if ("error" in reply)
+    {
+        html("fmql" + index, "<div class='error'><strong>Error: </strong> " + reply["error"] + "</div>");
+        return;
+    }
+    var args = reply["fmql"];
+    var resultsMarkup = "";
+    if (args["OP"] == "SELECT TYPES")
+    {
+        ALLFILESREPLY = reply;
+        resultsMarkup += "<div><h1>Populated Files</h1>";
+        resultsMarkup += "<p>In this system " + reply["results"].length + " out of " + reply["topCount"] + " have entries.</p></div>"; 
+        resultsMarkup += selectAllResultsToHTML(reply, true, URISEP, true);
+    }
+    else if (args["OP"] == "DESCRIBE TYPE")
+    {
+        var typeId = args["TYPE"];
+        if (!("parent" in reply))
+        {
+            var cargs = {};
+            cargs["OP"] = "SELECT TYPE REFS";
+            cargs["TYPE"] = typeId; 
+            htmla("fmql", "<hr/>");
+            htmla("fmql", "<div class='fmqlResults' id=\"" + "fmql2" + "\"></div>");
+            doFMQLQuery(cargs, 2, handleFMQLReply);
+            var ramblerBase = "/rambler" + HASHSYMBOL;
+            if (/\/$/.test(URISEP))
+                ramblerBase = "/rambler/";
+            resultsMarkup += "<div><a class='button' href='" + ramblerBase + typeId + "'>View Contents</a></div>";
+        }
+        var resultsMU = describeTypeResultToHTML(reply, true, URISEP);
+        resultsMarkup += "<div id='resultsHeader'><h1><a href='/schema'>Files</a> -> " + reply["name"] + " (" + typeId + ")</h1></div>";
+        resultsMarkup += resultsMU;
+    }
+    else
+    {
+        if (reply["results"].length == 0)
+            resultsMarkup += "<h2>Referenced by</h2>"; 
+        else
+            resultsMarkup += "<h2>Referenced by " + reply["results"].length.toString() + " types</h2>";
+        resultsMarkup += selectAllReferrersToHTML(reply, true, URISEP);
+    }
+    resultsMarkup += makeResultFooter(args);
+    html("fmql" + index, resultsMarkup);
+}
+
+function makeResultFooter(args)
+{
+    return "";
+}
+
+</script>
+</head>
+
+<body>
+
+<div id="header">
+<h1 id="logo"><a href="/schema">FileMan Schema Browser</a></h1>
+<!--[if lt IE 7]>
+<div style="color: red">Warning: You are running a version of Internet Explorer (IE) that is over ten years old. Caregraf web applications are tested on IE version 7 and later and their behavior on earlier versions is unpredictable. May we suggest you browse Caregraf using a newer version of IE (now at version 9) or a different browser such as Mozilla Firefox or Google Chrome.</div>
+<![endif]-->
+</div>
+<div id="fmql">
+</div>
+
+<div id="footer"><a href="http://vista.caregraf.info">Master FileMan's Data</a>&trade; (c) 2014 <span id="flogo"><a href="http://www.caregraf.com">Caregraf</a></span></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</body>
+
+</html>
+

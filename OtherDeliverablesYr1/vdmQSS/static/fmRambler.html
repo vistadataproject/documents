@@ -1,0 +1,172 @@
+<!doctype html>
+<html>
+<head>
+<title>FileMan Rambler</title>
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/>
+<![endif]-->
+<meta charset="utf-8"/>
+<meta name="application-name" content="FileMan Rambler"/>
+<link rel='stylesheet' href='/fmBase.css' type='text/css'>
+<script type="text/javascript" src="/fmUtils.js"></script>
+<script type="text/javascript">
+/*
+ * FileMan Rambler - Powered by FMQL
+ *
+ * A simple "walk through FileMan" client that:
+ * - let's a VistA querier appreciate the structure of FileMan in  
+ *   general and what's stored in a specific instance
+ * - illustrates how to use an FMQL endpoint in your own clients. 
+ *   This client was coded in "endpoint calling" Javascript as an example.
+ * - links VA standard and other standard vocabularies to the Caregraf
+ *   datasets.
+ *
+ * Links out to and is linked to by the Schema Browser.
+ *
+ * LICENSE:
+ * This program is free software; you can redistribute it and/or modify it under the terms of the GNU Affero General Public License version 3 (AGPL) as published by the Free Software Foundation. 
+ * Modified or not:
+ * - as required under Section 5, its source must retain appropriate legal notices
+ * - in accordance with Section 7(b), its display must retain the "Master FileMan's Data" slogan with its link to http://vista.caregraf.info
+ * (c) 2014 Caregraf
+ */
+
+// app prefix (for utils)
+var APPPREFIX = "rambler";
+
+// Initialize utils
+window.onload = handleURIChange;
+
+var SPLASH = "<h1>Welcome to FileMan Rambling</h1><p>In a VistA system, FileMan has over 2000 first class file types - over 5000 if you count subfiles. Where to start?</p><p>Maybe with <a href=\"/rambler/2\">Patients</a> or its partner, <a href=\"/schema#!9000001\">IHS Patient</a>. Patient data clusters around these two. Maybe see who's been in <a href=\"/rambler/405_4-2\">Bed 2</a> or who's on the <a href=\"/rambler/49-2\">Medical Staff</a> or what <a href=\"/rambler/40_9-3\">Wards</a> does your institution have or <a href=\"/rambler/869_1-4\">HL7 TCP Links</a> or ...? Maybe you only want <em>meta data</em>? The <a href=\"/schema\">Schema</a>, <a href=\"/rambler/9_4\">every package</a> or ... </p><p>The best way to learn FileMan is go for a walk. Into its files, about its files. Just ramble ...</p>";
+
+function processURI(uri)
+{
+    html("fmql", "");
+
+    var baseTitle = "FileMan Rambler";
+
+    // Special intercept of old form: schema/
+    if (/schema\/?/.test(uri))
+    {
+        goHome();
+        return;
+    }
+
+    if (uri == "")
+    {
+        document.title = baseTitle; 
+        html("fmql", SPLASH);
+        return;
+    }
+
+    // Note: if #! and user drops ! then will go back to main page
+    var args = parseQueryURI(uri);
+ 
+    // invalid URI go to home page
+    if (!args)
+    {
+        goHome();
+        return;
+    }
+
+    document.title = baseTitle + ":" + uri;
+
+    // Doing MU setup here as replies can have any order 
+    html("fmql", "<div class='fmqlResults' id=\"" + "fmql1" + "\"></div>");
+    doFMQLQuery(args, 1, handleFMQLReply);
+    // Rambler does a COUNT REFS for all DESCRIBEs
+    if (args["OP"] == "DESCRIBE")
+    {
+        var cargs = {};
+        cargs["OP"] = "COUNT REFS";
+        cargs["URI"] = args["URI"];
+        htmla("fmql", "<hr/>");
+        htmla("fmql", "<div class='fmqlResults' id=\"" + "fmql2" + "\"></div>");
+        doFMQLQuery(cargs, 2, handleFMQLReply);
+    }
+
+}
+
+function handleFMQLReply(index, reply)
+{
+    if (!reply)
+    {
+        html("fmql" + index, "<div class='error'><strong>Error! Timed out</strong></div>");
+        return;
+    }
+    if ("error" in reply)
+    {
+        html("fmql" + index, "<div class='error'><strong>Error: </strong> " + reply["error"] + "</div>");
+        return;
+    }
+
+    var resultsMarkup = "";
+    var args = reply["fmql"];
+    var schemaBase = "/schema" + HASHSYMBOL;
+    if (/\/$/.test(URISEP))
+        schemaBase = "/schema/";
+    if (args["OP"] == "SELECT")
+    {
+        resultsMarkup = resultsMarkup + "<div><a class='button' href='" + schemaBase + args["TYPE"] + "'>View Schema</a></div>";
+        resultsMarkup += "<div id='resultsHeader'><h1>" + args["TYPELABEL"] + " (" + args["TYPE"] + ")" + "</h1></div>";
+        resultsMarkup += selectResultToHTML(reply, true, URISEP);
+    }
+    else if (args["OP"] == "DESCRIBE")
+    {
+        var resultsMU = describeResultToHTML(reply, true, URISEP);
+        var result = reply["results"][0];
+        var typeId = args["URI"].split("-")[0];
+        var recordId = args["URI"].split("-")[1];
+        resultsMarkup += "<div><a class='button' href='" + schemaBase + typeId + "'>View Schema</a></div>";
+        if (("sameAs" in result["uri"]) && (result["uri"]["sameAs"]!="LOCAL")) // Link Out if can.
+            resultsMarkup += "<div id='dataset' class='button'>" + sameAsLink(result["uri"], "/rambler" + HASHSYMBOL, "View SameAs") + "</div>";
+        var labelps = /(.+)\/([^\/]+)$/.exec(result["uri"]["label"]);
+        resultsMarkup +=  "<div id='resultsHeader'><h1><a href='" + URISEP + typeId + "'>" + labelps[1] + "</a> > " + labelps[2] + " (" + recordId + ")" + "</h1></div>";
+        resultsMarkup += resultsMU;
+    }
+    else
+    {
+        if (reply["total"] == "0")
+            resultsMarkup += "<h2>Referenced by</h2>"; 
+        else
+            resultsMarkup += "<h2>Referenced by " + reply["total"] + " indexed entries</h2>";
+        resultsMarkup += countRefsResultToHTML(reply, true, URISEP, SELECTLIMIT);
+    }
+    resultsMarkup += makeResultFooter(args);
+    html("fmql" + index, resultsMarkup);
+}
+
+function makeResultFooter(args)
+{
+    var resultsMarkup = "<div class='resultFooter'>";
+    var query = makeQuery(args);
+    resultsMarkup += "<div class='query'>FMQL: <a href='" + "/query?fmql=" + query + "&format=HTML" + "'>" + query + "</a></div>";
+    resultsMarkup += "</div>";
+    return resultsMarkup;
+}
+
+</script>
+</head>
+
+<body>
+
+<div id="header">
+<h1 id="logo"><a href="/rambler">FileMan Rambler</a></h1>
+<!--[if lt IE 7]>
+<div style="color: red">Warning: You are running a version of Internet Explorer (IE) that is over ten years old. Caregraf web applications are tested on IE version 7 and later and their behavior on earlier versions is unpredictable. May we suggest you browse Caregraf using a newer version of IE (now at version 9) or a different browser such as Mozilla Firefox or Google Chrome.</div>
+<![endif]-->
+</div>
+<div id="fmql">
+</div>
+
+<div id="footer"><a href="http://vista.caregraf.info">Master FileMan's Data</a>&trade; (c) 2014 <span id="flogo"><a href="http://www.caregraf.com">Caregraf</a></span></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</body>
+
+</html>
+
