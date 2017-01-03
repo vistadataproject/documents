@@ -17,17 +17,14 @@ Within the MVDM is a configurable set of patient-centric security policies. This
 
 Over the years several generations of VISTA data access frameworks were created using contemporary languages and frameworks in vogue at that time. While considered "modern" for their time, none of them resolved any of the true underlying issues of the MUMPS RPCs. Rather, all took the same approach and simply "wrapped" the legacy unmodified, undocumentd, untested, and insecure CPRS RPCs.  A few of these _CPRS RPC code re-packaging frameworks_ include the following:
 
-Mid-tier | CPRS RPC<br>code wrapper | Links | Notes | Read/Write
---- | --- | --- | --- | ---
-JLV mid-tier | Java | [video](https://youtu.be/yPNBw2XpXqc) | Joint Legacy Viewer | Read-only
-MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services | Read-only
-VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS | Read-only
-SupraVistA | Delphi | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557) / [web](http://www.supravista.com) / [video](https://youtu.be/fKveUSFj6a8) | Supplemental user interface to CPRS | Read-only
-VPR | MUMPS | [docs](https://www.va.gov/vdl/application.asp?appid=197) | Virtual Patient Record | Read-only
-eHMP mid-tier | Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform; leverages the VPR wrapper | Read-mostly
-VSA | Java |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper | Read-only
-MWS | MUMPS | [slides](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDAwNzE5MTE1ODIzMDI0NzMyODcBMDUwMDM4NjI0NzMwODAyNjMyNjMBYVJLWS1rV1lsdHNKATAuMQEBdjI) | M Web Services ; direct Fileman data access | No security
-MHV mid-tier | Java |  | My HealtheVet;  Re-hosts VISTA data | Read-only
+Mid-tier | CPRS RPC<br>code wrapper | Links | Notes
+--- | --- | --- | ---
+MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services
+VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS
+VSA | Java(script) |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper
+eHMP | Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform; leverages the VPR wrapper
+MHV  | Java EE|  | My HealtheVet;  Re-hosts VISTA data
+
 
 <br>
 
