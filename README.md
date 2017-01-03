@@ -22,8 +22,8 @@ Mid-tier | CPRS RPC<br>code wrapper | Links | Notes
 MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services
 VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS
 VSA | Java(script) |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper
-eHMP | Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform; leverages the VPR wrapper
-MHV  | Java EE|  | My HealtheVet;  Re-hosts VISTA data
+eHMP RDK | Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform; Re-hosts VISTA data
+MHV mid-tier | Java EE|  | My HealtheVet;  Re-hosts VISTA data
 
 
 <br>
