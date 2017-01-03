@@ -8,9 +8,19 @@ The VISTA Data Project is a new data-centric, model-driven approach to VA VISTA 
 VISTA's master data model - the roadmap to all of VA's institutional, business process, and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced and leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as a single, secure, symmetric read-write, server-side interface to all VISTA data in all VISTA systems for external interfaces and integration. This data model uniformly bridges  all VISTA data models, allowing secure read-write access to all 131 VISTA systems enterprise-wide using a single Master VISTA Data Model (__MVDM__).
 
 ### An Evolution in Interfacing
-The first set of interfaces to migrate are those of the clinical domain. These are based on the interfaces to the clinical graphical thick client (__CPRS__), and are comprised of over one thousand remote procedure calls (__RPCs__).  Each of these CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system).  
+The first set of interfaces to migrate are those of the clinical domain. These are based on the end-user interfaces of the graphical thick client called __CPRS__, and are comprised of over one thousand remote procedure calls (__RPCs__).  Each of these CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system).  
 
 Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
+
+CPRS Clients, and their RPC wrapper language (parenthesis) include the following: 
+Client | RPC code wrapper | Links
+--- | --- | ---
+CPRS | Delphi |  [documentation](https://www.va.gov/vdl/application.asp?appid=61) 
+JLV | Java | [youtube](https://youtu.be/yPNBw2XpXqc)
+MDWS | Java | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242); [Guide](https://vacloud.us/groups/mdws); [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) 
+SupraVistA | Delphi |  [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557); [website](http://www.supravista.com); [YouTube](https://youtu.be/fKveUSFj6a8) 
+VPR | MUMPS |  [documentation](https://www.va.gov/vdl/application.asp?appid=197)
+eHMP | Javascript | [website](https://vacloud.us/groups/ehmp)
 
  
 <br>
@@ -23,17 +33,6 @@ __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVD
 ![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161119b.png)
 
 The MVDM is indicated by the blue bidirectional arrow (with the embedded Linked Data symbol). This represents the real-time, embedded, transactional, server-side, security-enhanced, Linked Data Model-driven interface
-
-Existing CPRS Clients, and their RPC wrapper language (parenthesis) include the following: 
-* (1) CPRS (Delphi wrapper) -  [documentation](https://www.va.gov/vdl/application.asp?appid=61) 
-* (2) JLV (Java wrapper) - [youtube](https://youtu.be/yPNBw2XpXqc)
-* (3) MDWS (Java wrapper)-  [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242); [Guide](https://vacloud.us/groups/mdws); [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) 
-* (4) SupraVistA (Delphi wrapper) -  [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557); [website](http://www.supravista.com); [YouTube](https://youtu.be/fKveUSFj6a8) 
-* (5) VPR (MUMPS wrapper) -  [documentation](https://www.va.gov/vdl/application.asp?appid=197)
-* (6) eHMP (Javascript wrapper) -  [website](https://vacloud.us/groups/ehmp)
-
-
-
 
 
 
