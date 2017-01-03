@@ -14,6 +14,7 @@ Client | CPRS RPC<br>code wrapper | Links | Notes
 --- | --- | --- | ---
 JLV | Java | [video](https://youtu.be/yPNBw2XpXqc) | Joint Legacy Viewer
 MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services
+VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS
 SupraVistA | Delphi | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557) / [web](http://www.supravista.com) / [video](https://youtu.be/fKveUSFj6a8) | Supplemental user interface to CPRS
 VPR | MUMPS | [docs](https://www.va.gov/vdl/application.asp?appid=197) | Virtual Patient Record
 eHMP | Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform; leverages the VPR wrapper
