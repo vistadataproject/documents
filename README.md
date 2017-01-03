@@ -16,12 +16,12 @@ CPRS Clients, and their RPC wrapper language (parenthesis) include the following
 
 Client | RPC code wrapper | Links
 --- | --- | ---
-CPRS | Delphi |  [documentation](https://www.va.gov/vdl/application.asp?appid=61) 
-JLV | Java | [youtube](https://youtu.be/yPNBw2XpXqc)
-MDWS | Java | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242); [Guide](https://vacloud.us/groups/mdws); [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) 
-SupraVistA | Delphi |  [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557); [website](http://www.supravista.com); [YouTube](https://youtu.be/fKveUSFj6a8) 
-VPR | MUMPS |  [documentation](https://www.va.gov/vdl/application.asp?appid=197)
-eHMP | Javascript | [website](https://vacloud.us/groups/ehmp)
+CPRS | Delphi |  [docs](https://www.va.gov/vdl/application.asp?appid=61) 
+JLV | Java | [video](https://youtu.be/yPNBw2XpXqc)
+MDWS | Java | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) 
+SupraVistA | Delphi |  [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557) / [web](http://www.supravista.com) / [video](https://youtu.be/fKveUSFj6a8) 
+VPR | MUMPS |  [docs](https://www.va.gov/vdl/application.asp?appid=197)
+eHMP | Javascript | [web](https://vacloud.us/groups/ehmp)
 
  
 <br>
