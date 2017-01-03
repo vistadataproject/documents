@@ -12,15 +12,15 @@ The first set of interfaces to migrate are those of the clinical domain. This ar
 
 Client | CPRS RPC<br>code wrapper | Links | Notes
 --- | --- | --- | ---
-JLV | Java | [video](https://youtu.be/yPNBw2XpXqc) |
-MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) |
-SupraVistA | Delphi | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557) / [web](http://www.supravista.com) / [video](https://youtu.be/fKveUSFj6a8) |
-VPR | MUMPS | [docs](https://www.va.gov/vdl/application.asp?appid=197) |
-eHMP | Javascript | [web](https://vacloud.us/groups/ehmp) |
-VSA | Java |  [slides](http://slideplayer.com/slide/6149872/) | Automated RPC wrapper 
-MWS | MUMPS | [slides](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDAwNzE5MTE1ODIzMDI0NzMyODcBMDUwMDM4NjI0NzMwODAyNjMyNjMBYVJLWS1rV1lsdHNKATAuMQEBdjI) | M Web Services 
-MHV | Java |  | Re-hosts VISTA data | 
- 
+JLV | Java | [video](https://youtu.be/yPNBw2XpXqc) | Joint Legacy Viewer
+MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services
+SupraVistA | Delphi | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557) / [web](http://www.supravista.com) / [video](https://youtu.be/fKveUSFj6a8) | Supplemental user interface to CPRS
+VPR | MUMPS | [docs](https://www.va.gov/vdl/application.asp?appid=197) | Virtual Patient Record
+eHMP | Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform; leverages the VPR wrapper
+VSA | Java |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper 
+MWS | MUMPS | [slides](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDAwNzE5MTE1ODIzMDI0NzMyODcBMDUwMDM4NjI0NzMwODAyNjMyNjMBYVJLWS1rV1lsdHNKATAuMQEBdjI) | M Web Services ; direct Fileman data access
+MHV | Java |  | My HealtheVet;  Re-hosts VISTA data
+
  
 Each of the CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system). 
 
