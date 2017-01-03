@@ -11,7 +11,11 @@ VISTA's master data model - the roadmap to all of VA's institutional, business p
 ### An Evolution in Interfacing
 The first set of interfaces to migrate are those of the clinical domain. This are based on the graphical user interface to VISTA called the Computerized Patient Record System __[CPRS](https://www.va.gov/vdl/application.asp?appid=61)__, which is comprised of over one thousand remote procedure calls (__RPCs__).  
  
-Over the years several generations of VISTA data access frameworks have been developed.  On the surface they appeared modern because they used "new" languages and technologies. However, under the hood, all used the same approach: wrapping a subset of the legacy unmodified, undocumentd, untested, and insecure CPRS RPCs. None of these  resolved the underlying problems of the legacy RPCs.  A few of these _CPRS RPC code re-packaging frameworks_ include the following:
+Each of the original CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system). 
+
+Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
+
+Note that over the years several generations of VISTA data access frameworks have been attempted, but none resolved any of the underlying issues of the RPCs.  On the surface they appeared modern because they used contemporary languages and technologies. However, under the hood, these were simply wrapping a subset of the legacy unmodified, undocumentd, untested, and insecure CPRS RPCs. None of these "wrappers" resolved the underlying problems of the legacy RPCs.  A few of these _CPRS RPC code re-packaging frameworks_ include the following:
 
 Client | CPRS RPC<br>code wrapper | Links | Notes | Read/Write
 --- | --- | --- | --- | ---
@@ -24,10 +28,6 @@ eHMP | Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Pl
 VSA | Java |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper | Read-only
 MWS | MUMPS | [slides](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDAwNzE5MTE1ODIzMDI0NzMyODcBMDUwMDM4NjI0NzMwODAyNjMyNjMBYVJLWS1rV1lsdHNKATAuMQEBdjI) | M Web Services ; direct Fileman data access | No security
 MHV | Java |  | My HealtheVet;  Re-hosts VISTA data | Read-only
-
-Each of the original CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system). 
-
-Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
 
 <br>
 
