@@ -13,7 +13,7 @@ The first set of interfaces to migrate are those of the clinical domain. This ar
 Over the years several VISTA data access frameworks have been developed. On the surface, they use different languages and technologies, however, underneath they are each wrapping some different sub-set of the original unmodified CPRS RPCs.  These CPRS RPC code re-packaging frameworks include the following:
 
 Client | CPRS RPC<br>code wrapper | Links | Notes
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 JLV | Java | [video](https://youtu.be/yPNBw2XpXqc) | Joint Legacy Viewer | Read-only
 MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services | Read-only
 VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS | Read-only
