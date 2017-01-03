@@ -10,22 +10,22 @@ VISTA's master data model - the roadmap to all of VA's institutional, business p
 ### An Evolution in Interfacing
 The first set of interfaces to migrate are those of the clinical domain. This are based on the graphical user interface to VISTA called the Computerized Patient Record System __[CPRS](https://www.va.gov/vdl/application.asp?appid=61)__, and is comprised of over one thousand remote procedure calls (__RPCs__).  
 
-There are many VISTA data access frameworks that re-use the CPRS RPCs by wrapping them within other languages.  Some of these CPRS RPC code wrapping frameworks include the following:
+Over the years several VISTA data access frameworks have been developed. On the surface, they use different languages and technologies, however, underneath they are each wrapping some different sub-set of the original unmodified CPRS RPCs.  These CPRS RPC code re-packaging frameworks include the following:
 
 Client | CPRS RPC<br>code wrapper | Links | Notes
 --- | --- | --- | ---
-JLV | Java | [video](https://youtu.be/yPNBw2XpXqc) | Joint Legacy Viewer
-MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services
-VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS
-SupraVistA | Delphi | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557) / [web](http://www.supravista.com) / [video](https://youtu.be/fKveUSFj6a8) | Supplemental user interface to CPRS
-VPR | MUMPS | [docs](https://www.va.gov/vdl/application.asp?appid=197) | Virtual Patient Record
-eHMP | Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform; leverages the VPR wrapper
-VSA | Java |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper 
-MWS | MUMPS | [slides](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDAwNzE5MTE1ODIzMDI0NzMyODcBMDUwMDM4NjI0NzMwODAyNjMyNjMBYVJLWS1rV1lsdHNKATAuMQEBdjI) | M Web Services ; direct Fileman data access
-MHV | Java |  | My HealtheVet;  Re-hosts VISTA data
+JLV | Java | [video](https://youtu.be/yPNBw2XpXqc) | Joint Legacy Viewer | Read-only
+MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services | Read-only
+VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS | Read-only
+SupraVistA | Delphi | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7557) / [web](http://www.supravista.com) / [video](https://youtu.be/fKveUSFj6a8) | Supplemental user interface to CPRS | Read-only
+VPR | MUMPS | [docs](https://www.va.gov/vdl/application.asp?appid=197) | Virtual Patient Record | Read-only
+eHMP | Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform; leverages the VPR wrapper | Read-mostly
+VSA | Java |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper | Read-only
+MWS | MUMPS | [slides](https://docs.google.com/viewer?a=v&pid=forums&srcid=MDAwNzE5MTE1ODIzMDI0NzMyODcBMDUwMDM4NjI0NzMwODAyNjMyNjMBYVJLWS1rV1lsdHNKATAuMQEBdjI) | M Web Services ; direct Fileman data access | No security
+MHV | Java |  | My HealtheVet;  Re-hosts VISTA data | Read-only
 
  
-Each of the CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system). 
+Each of the original CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system). 
 
 Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
 
