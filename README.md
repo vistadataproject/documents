@@ -10,7 +10,7 @@ VISTA's master data model - the roadmap to all of VA's institutional, business p
 ### An Evolution in Interfacing
 The first set of interfaces to migrate are those of the clinical domain. These are based on the interfaces to the clinical graphical thick client (__CPRS__), and are comprised of over one thousand remote procedure calls (__RPCs__).  Each of these CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system).  
 
-Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical isolation of patient data from all other kinds of data. Categories of data isolated include patient, institutional, knowledge, and systems/configuration __(PIKS)__ logical components.  This logical management of data is the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledgebase management.
+Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
 
  
 <br>
