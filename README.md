@@ -9,9 +9,9 @@ VISTA's master data model - the roadmap to all of VA's institutional, business p
 
 
 ### An Evolution in Interfacing
-The first set of interfaces to migrate are those of the clinical domain. This are based on the graphical user interface to VISTA called the Computerized Patient Record System __[CPRS](https://www.va.gov/vdl/application.asp?appid=61)__, and is comprised of over one thousand remote procedure calls (__RPCs__).  
+The first set of interfaces to migrate are those of the clinical domain. This are based on the graphical user interface to VISTA called the Computerized Patient Record System __[CPRS](https://www.va.gov/vdl/application.asp?appid=61)__, which is comprised of over one thousand remote procedure calls (__RPCs__).  
  
- Over the years several VISTA data access frameworks have been developed. On the surface, they use different languages and technologies, however, underneath they are each wrapping some different sub-set of the original unmodified, undocumentd, and untested MUMPS CPRS RPCs.  These CPRS RPC code re-packaging frameworks include the following:
+Over the years many VISTA data access frameworks have been developed, but all have approached it as an encapsulation exercise.  On the surface each appears to use "new" languages and technologies, while under the hood each is wrapping a sub-set of the same legacy unmodified, undocumentd, untested, and insecure MUMPS CPRS RPCs.  These _CPRS RPC code re-packaging frameworks_ include the following:
 
 Client | CPRS RPC<br>code wrapper | Links | Notes | Read/Write
 --- | --- | --- | --- | ---
