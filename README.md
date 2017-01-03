@@ -15,7 +15,7 @@ Each of the original CPRS RPCs will be incrementally audited, emulated, isolated
 
 Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
 
-Over the years several generations of VISTA data access frameworks were created. A few of these _CPRS RPC code re-packaging frameworks_ include the following:
+A few mid-tier VISTA data services have been created in the past. Rather than operationalizing the native VISTA data model, however, all of these wrap the legacy, unmodified, insecure CPRS RPCs .  These _CPRS RPC code re-packaging frameworks_ include the following:
 
 Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
 --- | --- | --- | ---
