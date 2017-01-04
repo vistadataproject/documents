@@ -15,16 +15,6 @@ Each of the original CPRS RPCs will be incrementally audited, emulated, isolated
 
 Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
 
-A few mid-tier VISTA data services have been created in the past. Rather than operationalizing the native VISTA data model, however, all of these wrap the legacy, unmodified, insecure CPRS RPCs .  These _CPRS RPC code re-packaging frameworks_ include the following:
-
-Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
---- | --- | --- | ---
-MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services
-VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS
-VSA | Java(script) |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper
-eHMP RDK| Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform
-
-
 <br>
 
 #### VISTA Interfacing Transition
@@ -132,6 +122,19 @@ __How?__
 __Where?__
 
 > All artifacts and deliverables shall be developed, version-controlled, stored, and delivered on an industry-standard public Github repository (“Project Repository”). ... The Project Repository shall contain the one and only authoritative version of all artifacts produced ... The government, all necessary stakeholders, and the public shall have full read and download access of all artifacts on the Project Repository at all times --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.6.15.1
+
+
+### Prior Interfacing Approaches
+
+A few mid-tier VISTA data services have been created in the past. However, rather than surfacing and operationalizing the true native VISTA Data Model (VDM), these services wrap the legacy, unmodified, insecure CPRS RPCs, locking VA into all the problems inherent with these 20+ year old MUMPS routines .  These _CPRS RPC code re-packaging frameworks_ include the following:
+
+Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
+--- | --- | --- | ---
+MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services
+VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS
+VSA | Java(script) |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper
+eHMP RDK| Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform
+
 
 
 
