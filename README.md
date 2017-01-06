@@ -125,7 +125,7 @@ __Where?__
 
 ### Prior Interfacing Approaches
 
-A few mid-tier VISTA data services have been created in the past. However, rather than surfacing and operationalizing the true native VISTA Data Model (VDM), these services wrap the legacy, unmodified, insecure CPRS RPCs, locking VA into all the problems inherent with these 20+ year old MUMPS routines .  These _CPRS RPC code re-packaging frameworks_ include the following:
+Several VISTA data services have been created in the past. However, rather than surfacing the native operational VISTA Data Model (VDM), these services wrap a (distinct, non-VISTA) object model __above__ the legacy, unmodified MUMP RPCss, encapsulating and propagating all the issues inherent with these 20+ year old MUMPS code (including lack of security, auditing, or testing).  These _CPRS RPC code wrapping frameworks_ include the following:
 
 Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
 --- | --- | --- | ---
