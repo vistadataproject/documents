@@ -136,9 +136,9 @@ Several VISTA data services have been created in the past.  Rather than surfacin
 Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
 --- | --- | --- | ---
 MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services
-VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#); [github](https://github.com/va-projects/year/tree/master/2016/VIA_API_specs) | VISTA Integration Adapter; successor to MDWS
-VSA | Java|  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper
-RDK| Javascript |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) |  A re-packaging of the [VPR RPCs](https://www.va.gov/vdl/documents/Clinical/virtual_patient_record/vpr_tm.pdf); used by [eHMP](https://vacloud.us/groups/ehmp)
+VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#); [github](https://github.com/va-projects/year/tree/master/2016/VIA_API_specs) | Successor to MDWS
+VSA | Java|  [slides](http://slideplayer.com/slide/6149872/) | Automated legacy RPC wrapper
+RDK| Javascript |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) |  A repackaging of the [VPR RPCs](https://www.va.gov/vdl/documents/Clinical/virtual_patient_record/vpr_tm.pdf) used by [eHMP](https://vacloud.us/groups/ehmp)
 
 
 
