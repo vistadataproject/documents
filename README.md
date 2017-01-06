@@ -27,6 +27,20 @@ __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVD
 
 
 
+### Prior Interfacing Approaches
+
+Several VISTA data services have been created in the past.  Rather than surfacing and operationalizing the true, native VISTA Data Model (VDM) - these approaches wrap legacy, unmodified MUMPS RPCs within various frameworks  __above__ the RPCs. This "encapsulation" propagates all the problems inherent with all the legacy MUMPS RPCs - most notably lack of auditing and security. These _CPRS RPC code wrapping frameworks_ include the following:
+
+Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
+--- | --- | --- | ---
+MDWS | Java | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | SOAP/Java wrappers for RPCs
+VIA | Java  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#); [github](https://github.com/va-projects/year/tree/master/2016/VIA_API_specs) | SOAP/XML wrappers for RPCs
+VSA | Java|  [slides](http://slideplayer.com/slide/6149872/) | RPC Wrapper generation backed by tooling
+RDK| Javascript |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) | Hand-crafted wrappers for RPCs used by CPRS.
+
+
+
+
 
 Code-driven VISTA <br> (Current) | Model-driven VISTA <br> (VISTA Data Project)
 ---|---
@@ -121,24 +135,6 @@ __How?__
 __Where?__
 
 > All artifacts and deliverables shall be developed, version-controlled, stored, and delivered on an industry-standard public Github repository (“Project Repository”). ... The Project Repository shall contain the one and only authoritative version of all artifacts produced ... The government, all necessary stakeholders, and the public shall have full read and download access of all artifacts on the Project Repository at all times --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.6.15.1
-
-
-
-
-
-
-
-
-### Prior Interfacing Approaches
-
-Several VISTA data services have been created in the past.  Rather than surfacing and operationalizing the true, native VISTA Data Model (VDM) - these approaches wrap legacy, unmodified MUMPS RPCs within various frameworks  __above__ the RPCs. This "encapsulation" propagates all the problems inherent with all the legacy MUMPS RPCs - most notably lack of auditing and security. These _CPRS RPC code wrapping frameworks_ include the following:
-
-Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
---- | --- | --- | ---
-MDWS | Java | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | SOAP/Java wrappers for RPCs
-VIA | Java  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#); [github](https://github.com/va-projects/year/tree/master/2016/VIA_API_specs) | SOAP/XML wrappers for RPCs
-VSA | Java|  [slides](http://slideplayer.com/slide/6149872/) | RPC Wrapper generation backed by tooling
-RDK| Javascript |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) | Hand-crafted wrappers for RPCs used by CPRS.
 
 
 
