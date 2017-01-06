@@ -123,16 +123,28 @@ __Where?__
 > All artifacts and deliverables shall be developed, version-controlled, stored, and delivered on an industry-standard public Github repository (“Project Repository”). ... The Project Repository shall contain the one and only authoritative version of all artifacts produced ... The government, all necessary stakeholders, and the public shall have full read and download access of all artifacts on the Project Repository at all times --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.6.15.1
 
 
+
+
+
+
+
+
 ### Prior Interfacing Approaches
 
-Several VISTA data services have been created in the past. However, rather than surfacing the native operational VISTA Data Model (VDM), these services wrap a (distinct, non-VISTA) object model __above__ the legacy, unmodified MUMP RPCss, encapsulating and propagating all the issues inherent with these 20+ year old MUMPS code (including lack of security, auditing, or testing).  These _CPRS RPC code wrapping frameworks_ include the following:
+Several VISTA data services have been created in the past.  Rather than surfacing the native operational VISTA Data Model (VDM) - all of these approaches wrap legacy, unmodified MUMPS RPCs and create a distinct (non-VISTA) object model __above__ these RPCs. These approaches therefore all encapsulate and propagate forward all the issues inherent with the legacy MUMPS RPCs. These _CPRS RPC code wrapping frameworks_ include the following:
 
 Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
 --- | --- | --- | ---
 MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | Medical Domain Web Services
 VIA | ??  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) | VISTA Integration Adapter; successor to MDWS
 VSA | Java(script) |  [slides](http://slideplayer.com/slide/6149872/) | VISTA Services Assempler; automated RPC wrapper
-eHMP RDK| Javascript | [web](https://vacloud.us/groups/ehmp) | Health Management Platform
+eHMP RDK| Javascript |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) | used by [eHMP]([web](https://vacloud.us/groups/ehmp) 
+
+
+
+
+
+
 
 
 
