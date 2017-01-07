@@ -29,7 +29,9 @@ __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVD
 
 ### Prior Interfacing Approaches
 
-Several VISTA data services have been created in the past.  Rather than surfacing and operationalizing the true, native VISTA Data Model (VDM) - these approaches wrap legacy, unmodified MUMPS RPCs within various frameworks  __above__ the RPCs. This "encapsulation" propagates all the problems inherent with all the legacy MUMPS RPCs - most notably lack of auditing and security. These _CPRS RPC code wrapping frameworks_ include the following:
+![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/vdp-model-above-below.png)
+
+Several VISTA data services have been created in the past.  All of these - rather than surfacing and operationalizing the true, native Master VISTA Data Model (MVDM) as the foundation for interfacing instead wrap legacy, unmodified MUMPS RPCs within various frameworks  __above__ the RPCs. This "encapsulation" propagates all the problems inherent with all the legacy MUMPS RPCs - most notably lack of auditing and security. These _CPRS RPC code wrapping frameworks_ include the following:
 
 Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
 --- | --- | --- | ---
