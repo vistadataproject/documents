@@ -22,7 +22,7 @@ Within the MVDM is a configurable set of patient-centric security policies. This
 
 __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM).__  The MVDM and its symmetric, server-side, security-enhanced Linked Data Model-driven interface is indicated by the blue bidirectional arrow with Linked Data icon. For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM. For __new  clients and interfaces__, reads and writes are through MVDM.  __Authentication__ for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
 
-![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20161119b.png)
+![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20170106.png)
 
 
 
