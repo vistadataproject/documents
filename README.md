@@ -36,12 +36,12 @@ Current VISTA data interfaces wrap the legacy, unmodified MUMPS RPCs within vari
 
 A few of the mid-tier _CPRS RPC code wrapping frameworks_ include the following:
 
-Mid-tier<br>VISTA services | CPRS RPC<br>code wrapper | Links | Notes
+Mid-tier<br>Object Models | CPRS RPC<br>code wrappers | Links | Notes
 --- | --- | --- | ---
-MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | SOAP/Java wrappers for RPCs
-VIA | Java  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#); [github](https://github.com/va-projects/year/tree/master/2016/VIA_API_specs) | SOAP/XML wrappers for RPCs
-VSA | Java|  [slides](http://slideplayer.com/slide/6149872/) | RPC Wrapper generation backed by tooling
-RDK| Javascript |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) | Hand-crafted wrappers for RPCs used by CPRS.
+MDWS | C# | [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) / [guide](https://vacloud.us/groups/mdws) /  [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | SOAP/Java wrappers for RPCs.
+VIA | Java  | [TRM](https://www.va.gov/TRM/ToolPage.asp?tid=8338#); [github](https://github.com/va-projects/year/tree/master/2016/VIA_API_specs) | SOAP/XML wrappers for RPCs.
+VSA | Java|  [slides](http://slideplayer.com/slide/6149872/) | RPC Wrapper generation backed by tooling. No current use in VA.
+RDK| Javascript |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) | Hand-crafted wrappers for RPCs used by CPRS. Used by eHMP.
 
 
 <br><br><br><br>
