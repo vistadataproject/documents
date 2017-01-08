@@ -22,7 +22,7 @@ Within the MVDM is a configurable set of patient-centric security policies. This
 
 __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM).__  The MVDM and its symmetric, server-side, security-enhanced Linked Data Model-driven interface is indicated by the blue bidirectional arrow with Linked Data icon. For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM. For __new  clients and interfaces__, reads and writes are through MVDM.  __Authentication__ for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
 
-![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20170106.png)
+![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20170108.png)
 
 
 
@@ -30,7 +30,7 @@ __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVD
 ### Current Interfacing Approaches
 All past and current VISTA data interfaces - in contrast to surfacing and establishing the underlying Master VISTA Data Model (MVDM) as the foundation for interfacing - instead wrap and encapsulate legacy, unmodified MUMPS RPCs within various mid-tier object models  __above__ the RPCs.
 
-![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/vdp-model-above-below.png)
+![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/vdp-model-above-below-20170108.png)
 
 Rather than resolving the security and auditing issues of the RPCs,  encapsulation of legacy RPCs within a mid-tier object model propagates the issues inherent to the MUMPS RPCs - most notably lack of auditing and security. 
 
