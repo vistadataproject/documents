@@ -17,7 +17,7 @@ Current VISTA data interfaces wrap legacy, unmodified MUMPS remote procedure cal
 A few of the mid-tier _RPC code wrapping frameworks_ include the following:
 
 Mid-tier<br>Object Models | CPRS RPC<br>code wrappers | TRM | Links | Notes
---- | --- | --- | ---
+--- | --- | --- | --- | ----
 MDWS | C# | [TRM approved](http://www.va.gov/TRM/ToolPage.asp?tid=7242) |  [guide](https://vacloud.us/groups/mdws) ;   [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | SOAP/Java wrappers for RPCs.
 VIA | Java  | [TRM approved](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) |  [github](https://github.com/va-projects/year/tree/master/2016/VIA_API_specs) | SOAP/XML wrappers for RPCs.<br> ?TRM approval.
 VSA | Java|  No | [slides](http://slideplayer.com/slide/6149872/) | RPC Wrapper generation backed by tooling.<br> ?TRM approval. 
