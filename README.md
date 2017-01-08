@@ -7,32 +7,10 @@ The VISTA Data Project is a new data-centric, model-driven approach to VA VISTA 
 
 VISTA's master data model - the roadmap to all of VA's institutional, business process, and clinical know-how and data - has evolved organically over the past 35 years, but has not been surfaced and leveraged in computable form.  Now, for the first time, VISTA's data model will be comprehensively exposed, enriched, and operationalized as a single, secure, symmetric read-write, server-side interface to all VISTA data in all VISTA systems for external interfaces and integration. This data model uniformly bridges  all VISTA data models, allowing secure read-write access to all 131 VISTA systems enterprise-wide using a single Master VISTA Data Model (__MVDM__).
 
-
-# VISTA Interfacing Evolution
-*The figure summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standardized, secure, server-side, symmetric (bidirectional) Linked Data model-driven interface__ - the Master VistA Data Model (MVDM).*   
-
-__In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM).__  The MVDM and its symmetric, server-side, security-enhanced Linked Data Model-driven interface is indicated by the blue bidirectional arrow with Linked Data icon. For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM. For __new  clients and interfaces__, reads and writes are through MVDM.  __Authentication__ for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
-
-![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20170108.png)
-
-
-
-### VISTA Interfacing Transition
-The first set of interfaces to migrate are those of the clinical domain. This are based on the graphical user interface to VISTA called the Computerized Patient Record System __[CPRS](https://www.va.gov/vdl/application.asp?appid=61)__, which is comprised of over one thousand remote procedure calls (__RPCs__).  
- 
-Each of the original CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system). 
-
-Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
-
-
-<br><br><br>
-
-
 ### Contrasting Interfacing Approaches
-Current VISTA data interfaces wrap legacy, unmodified MUMPS remote procedure calls (RPCs) within various mid-tier object models  __above the RPCs__ (left).  This encapsulation and dependency on legacy RPCs within the model not just fails to remediate, but propagates all the issues inherent to the MUMPS RPCs - most notably lack of testing, auditing and security. In contrast, the true, native, operational Master VISTA Data Model  __under the RPCs__ (right), not only provides a single, standardized, server-side "on the metal" interface to all VISTA data, but also remediates, documents, tests, audits, and secures all the legacy RPCs within the RPC Locker.
+Current VISTA data interfaces wrap legacy MUMPS remote procedure calls (RPCs) within various mid-tier object models  __above the RPCs__ (figure below, left).  This dependency and encapsulation of legacy RPCs within the model not just fails to remediate, but propagates all the issues inherent to the MUMPS RPCs - most notably lack of testing, auditing and security. In contrast, the true, native, operational Master VISTA Data Model  __under the RPCs__ (figure below, right), not only provides a single, standardized, server-side interface to all VISTA data, but also remediates, documents, tests, audits, and secures all the legacy RPCs within the RPC Locker.
 
 ![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/vdp-model-above-below-20170108d.png)
-
 
 A few of the mid-tier _RPC code wrapping frameworks_ include the following:
 
@@ -43,9 +21,25 @@ VIA | Java  |  [TRM ](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) |  [github]
 VSA | Java|  NA | [slides](http://slideplayer.com/slide/6149872/) | RPC Wrapper generation backed by tooling.
 RDK| Javascript | NA |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) | Hand-crafted wrappers for RPCs used by CPRS. Used by eHMP.
 
-<br><br><br><br>
+
+## VISTA Interfacing Evolution
+*The figure summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standardized, secure, server-side, symmetric (bidirectional) Linked Data model-driven interface__ - the Master VistA Data Model (MVDM).*   
+
+__In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM).__  The MVDM and its symmetric, server-side, security-enhanced Linked Data Model-driven interface is indicated by the blue bidirectional arrow with Linked Data icon. For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM. For __new  clients and interfaces__, reads and writes are through MVDM.  __Authentication__ for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
+
+![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20170108.png)
 
 
+#### The VISTA Interfacing Transition
+The first set of interfaces to migrate are those of the clinical domain. This are based on the graphical user interface to VISTA called the Computerized Patient Record System __[CPRS](https://www.va.gov/vdl/application.asp?appid=61)__, which is comprised of over one thousand remote procedure calls (__RPCs__).  
+ 
+Each of the original CPRS RPCs will be incrementally audited, emulated, isolated, and secured by the __RPC Locker__, with all semantics reflected in the Master VistA Data Model (__MVDM__). The RPC Locker audits and prevents any code injection, and directs all database access correctly through the Fileman API (database management system). 
+
+Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
+
+
+
+### Comparison of Code-driven VISTA to VISTA Data Project
 Code-driven VISTA <br> (Current) | Model-driven VISTA <br> (VISTA Data Project)
 ---|---
 __Current interfacing  to VISTA is through thousands (over 3300) of unique, opaque, one-way  (either read or write)  legacy (20+ years old)  MUMPS remote procedure calls (RPCs) which are neither documented nor maintained.__ These are hard-coded in MUMPS for specific clients only and not interchangeable to other clients due to business logic within the custom MUMPS and client code. |   __All interfacing to VISTA is through one single, secure, symmetric (bidirectional)  read-write Master VISTA Data Model (MVDM).__  The read data model is identical to the write data model (i.e. symmetric)  providing one single universal structured data read/write mechanism. 
