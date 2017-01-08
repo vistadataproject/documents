@@ -32,7 +32,7 @@ Within the MVDM is a configurable set of patient-centric security policies. This
 ### Contrasting Interfacing Approaches
 Current VISTA data interfaces wrap legacy, unmodified MUMPS remote procedure calls (RPCs) within various mid-tier object models  __above the RPCs__ (left).  This encapsulation and dependency on legacy RPCs within the model not just fails to remediate, but propagates all the issues inherent to the MUMPS RPCs - most notably lack of testing, auditing and security. In contrast, the true, native, operational Master VISTA Data Model  __under the RPCs__ (right), not only provides a single, standardized, server-side "on the metal" interface to all VISTA data, but also remediates, documents, tests, audits, and secures all the legacy RPCs within the RPC Locker.
 
-![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/vdp-model-above-below-20170108c.png)
+![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/vdp-model-above-below-20170108d.png)
 
 
 A few of the mid-tier _RPC code wrapping frameworks_ include the following:
