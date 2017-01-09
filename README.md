@@ -12,16 +12,13 @@ Current VISTA data interfaces wrap legacy MUMPS remote procedure calls (RPCs) wi
 
 ![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/vdp-model-above-below-20170108e.png)
 
-Examples of the mid-tier _RPC code wrapping frameworks_ include  MDWS (C# RPC wrapper), VIA (Java RPC wrapper), VSA (Java RPC wrapper), and eHMP RDK (Javascript RPC wrapper). [[historical details](https://github.com/vistadataproject/documents/blob/master/README.md#current-mid-tier-mumps-rpc-code-wrapping-frameworks)]
+Examples of the mid-tier _RPC code wrapping frameworks_ include  Medical Domain Web Services (MDWS; C# wrapper), VISTA Integration Adapter (VIA; Java wrapper), VISTA Service Assembler (VSA; Java wrapper), and eHMP Resource Development Toolkit (RDK; Javascript wrapper). [[historical details](https://github.com/vistadataproject/documents/blob/master/README.md#current-mid-tier-mumps-rpc-code-wrapping-frameworks)]
 
 
 
 
-## NOTES
-
-### Current Mid-tier MUMPS RPC code wrapping frameworks
-
-A few of the mid-tier _RPC code wrapping frameworks_ include the following:
+#### Notes
+Current Mid-tier MUMPS RPC code wrapping frameworks
 
 Mid-tier Models | RPC code wrappers | TRM Approval| Links | Notes
 --- | --- | --- | --- | ----
@@ -30,11 +27,10 @@ VIA | Java  |  [TRM ](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) |  [github]
 VSA | Java|  NA | [slides](http://slideplayer.com/slide/6149872/) | RPC Wrapper generation backed by tooling.
 RDK| Javascript | NA |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) | Hand-crafted wrappers for RPCs used by CPRS. Used by eHMP.
 
-- __Current external interfacing  to VISTA is through remote procedure calls (RPCs) written in the MUMPS language.__
-- These are hard-coded for very specific clients and are not interchangeable to other clients due to the shared, embedded business logic within the custom MUMPS and client code.
-- The RPCs may be "wrapped" with any number of client languages or technologies, which only complicates the maintenance of VISTA business logic as it is now embedded and obfuscated within within multiple different languages depending on the client.  
-- This creates a polyglot "babelized"  VISTA, where parts of its logic is written in one language, and other parts of the same transactional logic is written in another, fragmenting and decentralizing the integrity of its business logic. 
-- This makes the system extremely brittle and difficult to maintain because any changes to the system would require knowlege not just of MUMPS, but of the 'wrapping' language and technology as well, which changes over time.
+- Current interfacing to VISTA is through wrapping of legacy MUMPS remote procedure calls (RPCs) within some other language.
+- The RPCs may be "wrapped" with any number of client languages or technologies, which complicates the maintenance of VISTA business logic as it is fragmented and embedded within within multiple different languages within different clients.  
+- This creates a "babelized"  VISTA, where parts of its logic is written in one language, and other parts of the same transactional logic is written in another, fragmenting and decentralizing the integrity of its business logic. 
+- This makes the system brittle and difficult to change because any changes to the system would require knowlege not just of MUMPS, but of the 'wrapping' language and technology as well, both changing over time.
 - Security for all RPCs is based on the Terminal  (roll-and-scroll) interface and its Menu Actions. These Menus are hard-coded and exclusive to the terminal interface, and is not applicable to any generalized, external, web, or GUI-based interfaces.
 - Many of the 3500 RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage. Bypassing the FM API means that Fileman security and auditing measures are bypassed, creating a significant security gap. 
 - Bypassing the Fileman API also makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS RPCs (The read and write RPCs are completely distinct from each other).  
