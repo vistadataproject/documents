@@ -73,13 +73,6 @@ Who | Design | Description
 [Conor&nbsp;Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos/logos-presentations/60h/fmql.jpg) |  [__FMQL__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL-Conor_Dowling-2014.pdf) This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014).
 
 
-## VISTA
-An executive overview of the current 'as is' VISTA and its data-integrated architecture:
-* [VISTA Overview](https://github.com/vistadataproject/documents/tree/master/Background/vista)
-* [VISTA Architecture](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-architecture.md)
-* [VISTA Popularity](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md). A 2014 survey of 18,000 physicians rate VISTA the #1 EHR in the U.S.
-
-
 ###  Outside Technology and Advocacy 
 <img src ="http://www.hardhats.org/images/vol_Bella.jpg" height=60>
 <img src="http://farm3.static.flickr.com/2742/4442022846_9510a5c265_m.jpg" height=60>
@@ -167,6 +160,11 @@ Apache Software Foundation        | 	| https://en.wikipedia.org/wiki/Apache_Lice
 
 
 
+# VISTA
+An executive overview of the current 'as is' VISTA and its data-integrated architecture:
+* [VISTA Overview](https://github.com/vistadataproject/documents/tree/master/Background/vista)
+* [VISTA Architecture](https://github.com/vistadataproject/documents/blob/master/Background/vista/vista-architecture.md)
+* [VISTA Survey](https://github.com/vistadataproject/documents/blob/master/Background/vista/medscape2014.md). A 2014 survey of 18,000 U.S. physicians rate VISTA as the most usable EHR.
 
 ####VISTA
 * https://en.wikipedia.org/wiki/VistA
