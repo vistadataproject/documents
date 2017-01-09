@@ -24,7 +24,7 @@ Each of the original CPRS RPCs will be incrementally audited, emulated, isolated
 Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
 
 
-<br><br>
+<br>
 
 ## Comparison of Code-driven VISTA to Model-driven VISTA
 Code-driven VISTA <br> (Current) | Model-driven VISTA <br> (VISTA Data Project)
@@ -34,19 +34,6 @@ __Access is based on the legacy (1980's) terminal interface and its Menu Actions
 __Many of the MUMPS RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage.__ Bypassing the Fileman API means that the security and auditing measures of  the database are bypassed, creating a significant security gap, in addition to currupted data dictionary.  This makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS global data access code. | __All  interfaces and functionality are Model-driven,  language-agnostic, client-agnostic, and Fileman API compliant, assuring universal auditing of all data access.__ 
 
 
-
-
-__Data Model Features:__
-+ All interfacing is through a __single, secure, symmetric read-write Master VISTA Data Model__.
-+ All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
-+ All interfaces are secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
-+ All interfaces are written using modern, web-standard languages and tools (Javascript). 
-+ The read data model is identical to the write data model (i.e. symmetric), assuring completeness and correctness of both. 
-+ All existing clients or interfaces (such as CPRS) continue to function unchanged on top of MVDM through the a RPC Locker (a new, security isolation locker for all RPCs).
-+ All existing clients inherit all MVDM features, including enhanced patient-centric security and attribute-based access control (ABAC).
-
-
-#### VISTA Interfacing Evolution
 
 Interface |  Code-driven <br>MUMPS RPCs (x3500)  | Data model-driven<br>Master VISTA Data Model (x1)
 --- | --- | ---
@@ -62,10 +49,25 @@ Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_ent
 
 
 
+
+
 ##  VISTA Data Model:  Details
 _Server-side. Security-enhanced. Symmetric-Read-Write._
 
 ![VDP-intro](https://github.com/vistadataproject/documents/blob/master/images/vdp-introA.png)
+
+
+
+__Data Model Features:__
++ All interfacing is through a __single, secure, symmetric read-write Master VISTA Data Model__.
++ All interfaces are Model-driven, language-agnostic, client-agnostic, Fileman API compliant.
++ All interfaces are secured with both existing Kernel authentication, in addition to new modern, industry-standard, patient-centric, attribute-based access control (ABAC).
++ All interfaces are written using modern, web-standard languages and tools (Javascript). 
++ The read data model is identical to the write data model (i.e. symmetric), assuring completeness and correctness of both. 
++ All existing clients or interfaces (such as CPRS) continue to function unchanged on top of MVDM through the a RPC Locker (a new, security isolation locker for all RPCs).
++ All existing clients inherit all MVDM features, including enhanced patient-centric security and attribute-based access control (ABAC).
+
+
 
 
 
@@ -95,7 +97,7 @@ RDK| Javascript | NA |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) 
 
 
 
-## Objective and Method of Delivery
+# Objective and Method of Delivery
 
 __What?__
 
@@ -116,41 +118,6 @@ __How?__
 __Where?__
 
 > All artifacts and deliverables shall be developed, version-controlled, stored, and delivered on an industry-standard public Github repository (“Project Repository”). ... The Project Repository shall contain the one and only authoritative version of all artifacts produced ... The government, all necessary stakeholders, and the public shall have full read and download access of all artifacts on the Project Repository at all times --- See [PWS](https://github.com/vistadataproject/documents/blob/master/Submissions/src/VistAMetadata-2015-12-09-PWS.pdf) Section 1.6.15.1
-
-
-
-## Technologies
-The VISTA Data Project is based on the following [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards):
-
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/node-js.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/js5.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/html5.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/css3.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/rdf.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/jsonld.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/json.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/markdown.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/github.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/git.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/vagrant.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/CC.jpg)
-![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/asf.jpg)  
-
-* Detailed review of these and other foundation technologies is contained in the [Background](https://github.com/vistadataproject/documents/tree/master/Background) section.
-
-
-## Technical Background
-
-Technical decisions by the VA and in mainstream software industry that framed the approach taken here
-
-1. By virtue of VA's technical review and approval of Node.js in the VA Technical Reference Model ([TRM](http://www.va.gov/TRM/ToolPage.asp?tid=6716)), VA endorses the use of server-side Javascript/Node in the  VA enterprise architecture. See [TRM-Node](http://www.va.gov/TRM/ToolPage.asp?tid=6716).
-1. By virtue of VA's Enterprise Health Management Platform being rewritten almost entirely in Javascript and Node.js, the VA has decided that Node.js is essential for the success of enterprise projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with MyHealtheVet and the others since then. See [reference](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture).
-1.  By virtue of VA's large, multi-year [contract](https://www.fbo.gov/index?s=opportunity&mode=form&tab=core&id=2a9bd7f10699f046bd284a2ac28ccf9e&_cview=0) (and [see](https://www.google.com/search?q=%22Control%20Number%2015-038%22&rct=j)) for Node.js, the VA has decided that Node-enabled Javascript on MUMPs is productive and practical.
-1. By virtue of inclusion of the Node in all official releases of Cache, Intersystems views in-process Javascript coding on Cache as practical, maintainable, and essential for their commercial customers, particularly VA. See Intersystems documentation on [Cache/Node](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS_intro) and [PDF](http://docs.intersystems.com/documentation/cache/20122/pdfs/BXJS.pdf).
-1. Node.js adoption continues to grow for mainstream production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
-1. Javascript is the most popular coding language in the world, as  measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software for consumption on the web.
-1. By virtue of VA's technical review and approval in the VA Technical Reference Model of the Resource Description Framework ([RDF](https://www.w3.org/standards/techs/rdf#w3c_all)), VA  endorses the RDF data model for use in the VA enterprise architecture. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405).
-1. JSON-LD is the most commonly used form of RDF deployed in production settings. It is used by Google, Yahoo, and Microsoft as a common mechanism to structure and index all the data on the web by their search engines, and by the U.S. National Library of Congress and U.S. National Library of Medicine to structure and search all published books and medical journals, respectively.  See [JSON-LD](http://json-ld.org).
 
 
 
@@ -195,6 +162,43 @@ K.S.&nbsp;Bhaskar | [GT.M](https://www.fisglobal.com/Solutions/Services/Database
 [Rob&nbsp;Tweed](https://www.linkedin.com/in/rob-tweed-a5419629)<br>[David&nbsp;Wicksell](https://www.linkedin.com/in/dlwicksell)| Node/M | Integrated node.js with MUMPS and VISTA.
 Chris&nbsp;Edwards | [Vagrant Installer](https://www.osehra.org/blog/automated-vista-installation-and-testing-using-vagrant) | Built OSEHRA's Automated installation of VISTA environment
 [Manu&nbsp;Sporny](https://www.linkedin.com/in/manusporny) | [JSON-LD](http://json-ld.org/) |  Created and promoted the JSON-LD standard
+
+
+
+
+
+# Technologies
+The VISTA Data Project is based on the following [Web Technologies](https://github.com/vistadataproject/documents/tree/master/Background#technologies) and  [Web Standards](https://github.com/vistadataproject/documents/tree/master/Background#standards):
+
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/node-js.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/js5.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/html5.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/css3.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/rdf.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/jsonld.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/json.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/markdown.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/github.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/git.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/vagrant.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/CC.jpg)
+![](https://github.com/vistadataproject/documents/blob/master/images/logos/logos-tech/square/60h/asf.jpg)  
+
+* Detailed review of these and other foundation technologies is contained in the [Background](https://github.com/vistadataproject/documents/tree/master/Background) section.
+
+
+Technical decisions by the VA and in mainstream software industry that framed the approach:
+
+1. By virtue of VA's technical review and approval of Node.js in the VA Technical Reference Model ([TRM](http://www.va.gov/TRM/ToolPage.asp?tid=6716)), VA endorses the use of server-side Javascript/Node in the  VA enterprise architecture. See [TRM-Node](http://www.va.gov/TRM/ToolPage.asp?tid=6716).
+1. By virtue of VA's Enterprise Health Management Platform being rewritten almost entirely in Javascript and Node.js, the VA has decided that Node.js is essential for the success of enterprise projects.  The backdrop to this decision was the conspicuous failure of numerous mid-tier Java wrappers for VISTA, starting with MyHealtheVet and the others since then. See [reference](http://www.openhealthnews.com/story/2014-07-27/vista-evolution-whats-wrong-picture).
+1.  By virtue of VA's large, multi-year [contract](https://www.fbo.gov/index?s=opportunity&mode=form&tab=core&id=2a9bd7f10699f046bd284a2ac28ccf9e&_cview=0) (and [see](https://www.google.com/search?q=%22Control%20Number%2015-038%22&rct=j)) for Node.js, the VA has decided that Node-enabled Javascript on MUMPs is productive and practical.
+1. By virtue of inclusion of the Node in all official releases of Cache, Intersystems views in-process Javascript coding on Cache as practical, maintainable, and essential for their commercial customers, particularly VA. See Intersystems documentation on [Cache/Node](http://docs.intersystems.com/ens20141/csp/docbook/DocBook.UI.Page.cls?KEY=BXJS_intro) and [PDF](http://docs.intersystems.com/documentation/cache/20122/pdfs/BXJS.pdf).
+1. Node.js adoption continues to grow for mainstream production projects, including Netflix, New York Times, PayPal, LinkedIn, Walmart, Yahoo, and Uber.
+1. Javascript is the most popular coding language in the world, as  measured by number of projects, coders, and new code on Github, and by the number of companies developing and deploying enterprise software for consumption on the web.
+1. By virtue of VA's technical review and approval in the VA Technical Reference Model of the Resource Description Framework ([RDF](https://www.w3.org/standards/techs/rdf#w3c_all)), VA  endorses the RDF data model for use in the VA enterprise architecture. See [TRM-RDF](http://www.va.gov/TRM/StandardPage.asp?tid=6405).
+1. JSON-LD is the most commonly used form of RDF deployed in production settings. It is used by Google, Yahoo, and Microsoft as a common mechanism to structure and index all the data on the web by their search engines, and by the U.S. National Library of Congress and U.S. National Library of Medicine to structure and search all published books and medical journals, respectively.  See [JSON-LD](http://json-ld.org).
+
+
 
 
 ### Technologies
