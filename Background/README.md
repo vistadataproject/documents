@@ -24,7 +24,7 @@ Each of the original CPRS RPCs will be incrementally audited, emulated, isolated
 Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
 
 
-<br>
+<br><br><br><br>
 
 ## Comparison of Code-driven VISTA to Model-driven VISTA
 Code-driven VISTA <br> (Current) | Model-driven VISTA <br> (VISTA Data Project)
@@ -33,6 +33,8 @@ __Current interfacing  to VISTA is through thousands (over 3300) of unique, opaq
 __Access is based on the legacy (1980's) terminal interface and its Menu Actions.__ This is a nonstandard, bespoke, opaque mechanism hardwirted to permutations of permissions to use 9000 menu opttions within 1700 menus within a legacy terminal interface. Clearly this  is not applicable to any new, modern, generic, or graphical interfaces such as web or mobile. The only way to interface to data currently is to write new MUMPS code using the opaque Terminal-specific Actions-centric security, in addition to custom RPC MUMPS security code. | __New, modern, industry-standard, fine-grained access control__ is provided through patient-centric access control (PCAC; new blue layer).  All existing RPC-based clients (left) access the MVDM via the __RPC Locker__, an RPC isolation and audit security layer (new). All new clients and integrations (right) access the MVDM via PCAC security. Authentication (top layer) will leverage enterprise identity and authentication management with time-limited SAML tokens.  
 __Many of the MUMPS RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage.__ Bypassing the Fileman API means that the security and auditing measures of  the database are bypassed, creating a significant security gap, in addition to currupted data dictionary.  This makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS global data access code. | __All  interfaces and functionality are Model-driven,  language-agnostic, client-agnostic, and Fileman API compliant, assuring universal auditing of all data access.__ 
 
+
+<br><br><br><br>
 
 
 Interface |  Code-driven <br>MUMPS RPCs (x3500)  | Data model-driven<br>Master VISTA Data Model (x1)
@@ -49,6 +51,7 @@ Documentation |  :no_entry_sign: Incomplete, inconsistent, unclear. <br> :no_ent
 
 
 
+<br><br><br><br>
 
 
 ##  VISTA Data Model:  Details
@@ -69,31 +72,7 @@ __Data Model Features:__
 
 
 
-
-
-# NOTES
-
-### Current Mid-tier MUMPS RPC code wrapping frameworks
-
-A few of the mid-tier _RPC code wrapping frameworks_ include the following:
-
-Mid-tier Models | RPC code wrappers | TRM Approval| Links | Notes
---- | --- | --- | --- | ----
-MDWS | C# |  [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) |  [guide](https://vacloud.us/groups/mdws)   [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | SOAP/Java wrappers for RPCs.
-VIA | Java  |  [TRM ](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) |  [github](https://github.com/va-projects/year/tree/master/2016/VIA_API_specs) | SOAP/XML wrappers for RPCs.
-VSA | Java|  NA | [slides](http://slideplayer.com/slide/6149872/) | RPC Wrapper generation backed by tooling.
-RDK| Javascript | NA |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) | Hand-crafted wrappers for RPCs used by CPRS. Used by eHMP.
-
-- __Current external interfacing  to VISTA is through remote procedure calls (RPCs) written in the MUMPS language.__
-- These are hard-coded for very specific clients and are not interchangeable to other clients due to the shared, embedded business logic within the custom MUMPS and client code.
-- The RPCs may be "wrapped" with any number of client languages or technologies, which only complicates the maintenance of VISTA business logic as it is now embedded and obfuscated within within multiple different languages depending on the client.  
-- This creates a polyglot "babelized"  VISTA, where parts of its logic is written in one language, and other parts of the same transactional logic is written in another, fragmenting and decentralizing the integrity of its business logic. 
-- This makes the system extremely brittle and difficult to maintain because any changes to the system would require knowlege not just of MUMPS, but of the 'wrapping' language and technology as well, which changes over time.
-- Security for all RPCs is based on the Terminal  (roll-and-scroll) interface and its Menu Actions. These Menus are hard-coded and exclusive to the terminal interface, and is not applicable to any generalized, external, web, or GUI-based interfaces.
-- Many of the 3500 RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage. Bypassing the FM API means that Fileman security and auditing measures are bypassed, creating a significant security gap. 
-- Bypassing the Fileman API also makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS RPCs (The read and write RPCs are completely distinct from each other).  
-- The only means to access or interface to new data is to write new MUMPS RPCs using the Terminal-based Actions-centric security, in addition to custom RPC MUMPS security code. 
-
+<br><br><br><br>
 
 
 
