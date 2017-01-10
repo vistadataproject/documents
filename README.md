@@ -12,8 +12,7 @@ Current VISTA data interfaces wrap legacy MUMPS remote procedure calls (RPCs) wi
 
 ![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/vdp-model-above-below-20170108e.png)
 
-Examples of the mid-tier _RPC code wrapping frameworks_ include  Medical Domain Web Services (MDWS; C# wrapper), VISTA Integration Adapter (VIA; Java wrapper), VISTA Service Assembler (VSA; Java wrapper), and eHMP Resource Development Toolkit (RDK; Javascript wrapper). [[historical details](https://github.com/vistadataproject/documents/blob/master/README.md#current-mid-tier-mumps-rpc-code-wrapping-frameworks)]
-
+Examples of the mid-tier _RPC code wrapping frameworks_ include  MDWS (C# wrapper), VIA (Java wrapper), VSA (Java wrapper), and eHMP RDK (Javascript wrapper).
 
 
 
