@@ -16,23 +16,3 @@ Examples of the mid-tier _RPC code wrapping frameworks_ include  Medical Domain 
 
 
 
-
-#### Notes
-Current Mid-tier MUMPS RPC code wrapping frameworks
-
-Mid-tier Models | RPC code wrappers | TRM Approval| Links | Notes
---- | --- | --- | --- | ----
-MDWS | C# |  [TRM](http://www.va.gov/TRM/ToolPage.asp?tid=7242) |  [guide](https://vacloud.us/groups/mdws)   [blog](https://robtweed.wordpress.com/2012/11/20/openmdws-transforming-vista-into-an-open-source-service-oriented-platform-for-healthcare) | SOAP/Java wrappers for RPCs.
-VIA | Java  |  [TRM ](https://www.va.gov/TRM/ToolPage.asp?tid=8338#) |  [github](https://github.com/va-projects/year/tree/master/2016/VIA_API_specs) | SOAP/XML wrappers for RPCs.
-VSA | Java|  NA | [slides](http://slideplayer.com/slide/6149872/) | RPC Wrapper generation backed by tooling.
-RDK| Javascript | NA |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) | Hand-crafted wrappers for RPCs used by CPRS. Used by eHMP.
-
-- Current interfacing to VISTA is through wrapping of legacy MUMPS remote procedure calls (RPCs) within some other language.
-- The RPCs may be "wrapped" with any number of client languages or technologies, which complicates the maintenance of VISTA business logic as it is fragmented and embedded within within multiple different languages within different clients.  
-- This creates a "babelized"  VISTA, where parts of its logic is written in one language, and other parts of the same transactional logic is written in another, fragmenting and decentralizing the integrity of its business logic. 
-- This makes the system brittle and difficult to change because any changes to the system would require knowlege not just of MUMPS, but of the 'wrapping' language and technology as well, both changing over time.
-- Security for all RPCs is based on the Terminal  (roll-and-scroll) interface and its Menu Actions. These Menus are hard-coded and exclusive to the terminal interface, and is not applicable to any generalized, external, web, or GUI-based interfaces.
-- Many of the 3500 RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage. Bypassing the FM API means that Fileman security and auditing measures are bypassed, creating a significant security gap. 
-- Bypassing the Fileman API also makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS RPCs (The read and write RPCs are completely distinct from each other).  
-- The only means to access or interface to new data is to write new MUMPS RPCs using the Terminal-based Actions-centric security, in addition to custom RPC MUMPS security code. 
-
