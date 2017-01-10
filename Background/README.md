@@ -23,10 +23,8 @@ Each of the original CPRS RPCs will be incrementally audited, emulated, isolated
 
 Within the MVDM is a configurable set of patient-centric security policies. This is based on the logical separation of patient data from all other kinds of data. The four kinds of data segregated are Patient, Institutional, Knowledge, and Systems/configuration, or __(PIKS)__ logical components.  In addition to supporting patient-centric security, this logical separation of data provides the foundation for enterprise Master Data Management __(MDM)__, enterprise systems/configuration management, and enterprise Knowledge management.
 
+<br>
 
-<br><br><br><br>
-
-## Code-driven VISTA vs Model-driven VISTA
 Code-driven VISTA <br> (Current) | Model-driven VISTA <br> (VISTA Data Project)
 ---|---
 __Current interfacing  to VISTA is through thousands (over 3300) of unique, opaque, one-way  (either read or write)  legacy (20+ years old)  MUMPS remote procedure calls (RPCs) which are neither documented nor maintained.__ These are hard-coded in MUMPS for specific clients only and not interchangeable to other clients due to business logic within the custom MUMPS and client code. |   __All interfacing to VISTA is through one single, secure, symmetric (bidirectional)  read-write Master VISTA Data Model (MVDM).__  The read data model is identical to the write data model (i.e. symmetric)  providing one single universal structured data read/write mechanism. 
@@ -34,7 +32,7 @@ __Access is based on the legacy (1980's) terminal interface and its Menu Actions
 __Many of the MUMPS RPCs bypass the Fileman API and Data Dictionary, writing direct to MUMPS global storage.__ Bypassing the Fileman API means that the security and auditing measures of  the database are bypassed, creating a significant security gap, in addition to currupted data dictionary.  This makes the data inaccessible to any other applications or by any other method other than by writing yet more custom MUMPS global data access code. | __All  interfaces and functionality are Model-driven,  language-agnostic, client-agnostic, and Fileman API compliant, assuring universal auditing of all data access.__ 
 
 
-<br><br>
+<br>
 
 
 Interface |  Code-driven VISTA <br>MUMPS RPCs (x3500)  | Model-driven VISTA<br>Master VISTA Data Model (x1)
