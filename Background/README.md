@@ -248,8 +248,10 @@ An executive overview of the current 'as is' VISTA and its data-integrated archi
 </a>
 
 
+<br><br><br><br>
 
-#### Notes
+
+### Notes
 Current Mid-tier MUMPS RPC code wrapping frameworks
 
 Mid-tier Models | RPC code wrappers | TRM Approval| Links | Notes
@@ -270,7 +272,7 @@ RDK| Javascript | NA |[link](https://vacloud.us/groups/ehmp/revisions/cf5be/2/) 
 
 
 
-# Objective and Method of Delivery
+### Objective and Method of Delivery
 
 __What?__
 
