@@ -1,6 +1,6 @@
 
 
-## VISTA Data Model: Features
+## Master VISTA Data Model: Features
 
 *__An operationalized Master VISTA Data Model (MVDM) provides VA with three key transformational capabilities:__*
 
@@ -13,7 +13,7 @@ VISTA<br>Data | Details
 
 
 
-## VISTA Data Model: Attributes
+## Master VISTA Data Model: Attributes
 
 Attribute | Details
 ---|---
