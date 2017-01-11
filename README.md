@@ -10,7 +10,7 @@ Current VISTA interfaces wrap legacy MUMPS remote procedure calls (RPCs) within 
 
 In contrast, leveraging the native, server-side transactional Master VISTA Data Model which is __under the RPCs__ (figure below, right), not only provides a single, standard, secure, server-side interface to all VISTA data for all new clients, but is also backwards compatible and remediates, audits, and secures all legacy RPCs within the RPC Locker.
 
-This transition of VISTA's interfaces to the Secure Access Framework for the Enterprise (SAFE) Interface is summarized in the figure below.
+This transition of VISTA's interfaces to the Secure Access Framework for the Enterprise (SAFE) is summarized in the figure below.
 
 ![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE3.png)
 
