@@ -16,3 +16,4 @@ This transition of VISTA's interfaces to the Secure Access Framework for the Ent
 
 
 
+For a more detailed overview of the VISTA Data Project, [read here](https://github.com/vistadataproject/documents/tree/master/Background)
