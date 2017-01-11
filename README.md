@@ -13,7 +13,7 @@ Current VISTA data interfaces wrap legacy MUMPS remote procedure calls (RPCs) wi
 In contrast, leveraging the native transactional Master VISTA Data Model which is server-side and  __under the RPCs__ (figure below, right), not only provides a single, standardized, server-side "on the metal" interface to all VISTA data, but remediates, documents, audits, and secures all the legacy RPCs within the RPC Locker.
 
 
-![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/vdp-model-above-below-20170108e.png)
+![vdp-model-above-below](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE.png)
 
 
 
