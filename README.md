@@ -12,8 +12,12 @@ In contrast, leveraging the native, server-side transactional Master VISTA Data 
 
 This transition of VISTA's interfaces to the Secure Access Framework for the Enterprise (SAFE) is summarized in the figure below.
 
+<br><br><br>
 ![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE3.png)
+<br><br><br>
 
 
 
 For a more detailed overview of the VISTA Data Project, [read here](https://github.com/vistadataproject/documents/tree/master/Background)
+<br><br><br>
+<br><br><br>
