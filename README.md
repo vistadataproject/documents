@@ -14,7 +14,7 @@ In contrast, leveraging the native, server-side transactional Master VISTA Data 
 
 
 <br><br><br>
-![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE3.png)
+![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE4.png)
 <br><br><br>
 
 
