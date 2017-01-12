@@ -9,7 +9,8 @@ Current VISTA interfaces, both new and legacy, wrap MUMPS remote procedure calls
 
 In contrast, the native, server-side transactional Master VISTA Data Model (MVDM) is __under the RPCs__ (figure below, right), and not only provides a single, standard, secure, server-side interface to all VISTA data for all new clients, but is backwards compatible and remediates, audits, and secures all legacy RPCs within the RPC Locker.
 
-This transition of VISTA's interface to the MVDM-based Secure Access Framework for the Enterprise (SAFE) is summarized in the figure below.
+The transition of VISTA's interface to the MVDM-based __Secure Access Framework for the Enterprise (SAFE)__ is summarized in the figure below.
+
 
 ![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE9a.png)
 <br><br><br>
