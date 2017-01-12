@@ -4,7 +4,7 @@ The VISTA Data Project is a new data-centric, model-driven approach to VA VISTA 
 
 Now, for the first time, VISTA's true, native transactional data model will be comprehensively exposed, enriched, and operationalized as a secure, symmetric (bidirectional), server-side interface to all VISTA data. This  model is normalized across all local VISTA data models creating an enterprise Master VISTA Data Model (__MVDM__), which allows secure read-write to all 131 VISTA systems enterprise-wide with this single, standard, secure mechanism .
 
-##  VA new SAFE Interface
+##  VISTA's new SAFE Interface
 Current VA VISTA interfaces, both new and legacy, wrap MUMPS remote procedure calls (RPCs) within various __mid-tier__ object models  __above the RPCs__ (figure below, left). This dependency on and encapsulation of RPCs within the mid-tier model not only fail to remediate, but propagates forward all the problems inherent with the legacy MUMPS code and RPCs - most notably lack of auditing and security.
 
 In contrast, the Master VISTA Data Model (MVDM) is __server-side__ and __below the RPCs__ (figure below, right). For the legacy clients, this enables backwards compatible interface that audits, isolates, and secures all legacy RPCs above the MVDM within the RPC Locker. For  new clients, MVDM services provide modern secure interfacing services directly, eliminating the need for any legacy code or infrastructure, allowing rapid new client creation with the most current tools and technologies.
