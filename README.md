@@ -11,7 +11,7 @@ In contrast, the native, server-side transactional Master VISTA Data Model (MVDM
 
 This transition of VISTA's interface to the MVDM-based Secure Access Framework for the Enterprise (SAFE) is summarized in the figure below.
 
-![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE8.png)
+![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE9.png)
 <br><br><br>
 
 For a more detailed overview of the VISTA Data Project, [read here](https://github.com/vistadataproject/documents/tree/master/Background)
