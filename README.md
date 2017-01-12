@@ -7,7 +7,7 @@ Now, for the first time, VISTA's native transactional data model will be compreh
 ##  VA's new SAFE Interface
 Current VA VISTA interfaces, both new and legacy, wrap MUMPS remote procedure calls (RPCs) within various __mid-tier__ object models  __above the RPCs__ (figure below, left). This dependency on and encapsulation of RPCs within the mid-tier model not only fails to remediate, but propagates forward all the problems inherent with the legacy MUMPS code and RPCs - most notably lack of auditing and security.
 
-In contrast, the transactional Master VISTA Data Model (MVDM) is __server-side__ and __below the RPCs__ (figure below, right) which allows auditing, isolation, and emulation of the legacy RPCs within the RPC Locker.  The MVDM thus provides a single, standard, secure, modern, industry-standard interface across all VISTA systems for all new clients, and is backwards compatible and remediates, audits, isolates, and secures all legacy RPCs above the MVDM within the RPC Locker.
+In contrast, the transactional Master VISTA Data Model (MVDM) is __server-side__ and __below the RPCs__ (figure below, right) which enables auditing, isolation, and emulation of the legacy RPCs within the RPC Locker above the MVDM.   The MVDM thus provides a modern, industry-standard, secure, service-based interface across all VISTA systems for all new clients, and a backwards compatible interface that audits, isolates, and secures all legacy RPCs above the MVDM within the RPC Locker.
 
 The transition of VISTA's interface to the MVDM-based __Secure Access Framework for the Enterprise (SAFE)__ is summarized in the figure below.
 
