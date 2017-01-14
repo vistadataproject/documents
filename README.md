@@ -12,7 +12,7 @@ In contrast, the Master VISTA Data Model (MVDM) is __server-side__ and __below t
 The transition of VISTA's interface to the MVDM-based __Secure Access Framework for the Enterprise (SAFE)__ is summarized in the figure below.
 
 
-![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE-10.png)
+![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE-11.png)
 <br><br><br>
 
 For a technical overview of the VISTA Data Project, [click here](https://github.com/vistadataproject/documents/tree/master/Background)
