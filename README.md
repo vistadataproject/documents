@@ -12,7 +12,7 @@ Current VA VISTA interfaces, both new and legacy, wrap MUMPS remote procedure ca
 In contrast,the Master VISTA Data Model (MVDM) is __server-side__ and __below the RPCs__ (figure below, right). For legacy clients, this enables backwards compatible interface that audits, isolates, and secures all legacy RPCs above the MVDM within the __RPC Locker__. For  new clients, __MVDM Services__ provide modern secure interfacing services directly to MVDM, eliminating the need for any legacy code or infrastructure, allowing rapid new client creation with the most current tools and technologies.
 
 
-![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE-20170114a.png)
+![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE-20170115.png)
 <br><br><br>
 
 For a technical overview of the VISTA Data Project, [click here](https://github.com/vistadataproject/documents/tree/master/Background)
