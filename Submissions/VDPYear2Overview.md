@@ -10,18 +10,7 @@ In its first year, the Project proved the effectiveness and practicality of a "m
 
 In the second year, while the infrastructure of nodeVISTA must improve both in form and performance, a majority of the work will involve expanding MVDM to fully support the 1050 RPCs of the CPRS RPC Interface. As a result, expansion of RPC support by the MVDM will be a clear measure of progress.
 
-The 1050 CPRS RPCs break down as follows ...
-
-Name | Number
---- | ---
-Clinical | 417 (39.7%)
-Non Clinical | 555 (52.9%)
-Authentication (part of Security) | 18 (1.7%)
-Out of Scope | 60 (5.7%)
-
-_Out of Scope_ RPCs include those used for printing, formally deprecated calls and those that monitor MUMPS code patches.
-
-[Full details](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD)
+RPC Breakdown: [full details](http://vistadataproject.info/artifacts/cprsRPCBreakdown/bdStart)
 
 # 5 Tracks
 
@@ -33,11 +22,11 @@ Year 2 work breaks into __five tracks__:
   4. __Infrastructure__ required for MVDM and nodeVISTA
   5. Integrated, easy to install __Demonstration__
 
-## Clinical RPCs (417)
+## Clinical RPCs 
 
-There are 417 Clinical RPCs - those that effect a patient's record - in the CPRS RPC Interface or 40% of the total.
+Clinical RPCs effect a patient's record.
 
-Note: for details on all 417, [see](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD#clinical-417).
+Note: for details, [see](http://vistadataproject.info/artifacts/cprsRPCBreakdown/bdClinical).
 
 CPRS uses these RPCs to update and enhance a Patient's record and RPCs that update (sometimes termed "write back RPCs") are much more complicated than RPCs which just read data. 
     
@@ -49,11 +38,11 @@ Year 1 of VDP proved that even the hardest of Clinical RPCs could be supported o
 
 Year 2 will reuse these utilities to provide MVDM support for all Clinical RPCs.
 
-## Non Clinical RPCs (555)
+## Non Clinical RPCs
 
-The 555 Non-Clinical RPCs deal with user preferences ("what is a user's preferred size of vital screen?"), system settings ("web site of system") and, in particular, a large volume of meta-data that drives the choices a user can make when ordering and documenting as she cares for a patient ("list of drugs you can order", "document types you can write").
+Non-Clinical RPCs deal with user preferences ("what is a user's preferred size of vital screen?"), system settings ("web site of system") and, in particular, a large volume of meta-data that drives the choices a user can make when ordering and documenting as she cares for a patient ("list of drugs you can order", "document types you can write").
 
-Note: for details on all 555, [see](http://vistadataproject.info/artifacts/cprsRPCInterfaceBD#non-clinical-555).
+Note: for details, [see](http://vistadataproject.info/artifacts/cprsRPCBreakdown/bdNon_Clinical).
     
 While large in number, these RPCs are substantively __simpler than Clinical RPCs__. They mainly READ data as CPRS doesn't change non clinical data other than user preferences.
 
