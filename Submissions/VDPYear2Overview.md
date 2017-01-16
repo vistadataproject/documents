@@ -72,8 +72,9 @@ Five pieces of infrastructure supported the re-engineering of VISTA undertaken i
   3. a set of utilities for invoking MUMPS implemented RPCs either in-process or over a network and way to replay sequences of RPC calls (_RPC Session Runner_)
   4. a set of utilities for reliably query data into MVDM Javascript from MUMPS-based VISTA (_MVDM Query Framework_). This framework relied on the open source FMQL plugin.
   5. a Vagrant Virtual Machine (VM) packaging of an open source VISTA ("nodeVISTA Vagrant"). This packaging was derived from OSEHRA VISTA's packaging.
+  6. utilities for analyzing the contents of full VISTA ("prodclones") 
   
-All five will be improved in year 2 both to increase ease of use and efficiency and for features required as RPC coverage in MVDM expands. 
+All six will be improved in year 2 both to increase ease of use and efficiency and for features required as RPC coverage in MVDM expands. 
 
 ## Demonstration
 
@@ -81,7 +82,7 @@ Demonstrability is key for any practical project. The various pieces being engin
 
 Year 1 delivered a fully integrated demo with CPRS working seemlessly over an MVDM-enabled VISTA. In addition, there was a Web client ("MVDM Management Client") that showed all of the activity involved as CPRS interacted with this re-engineered VISTA.
 
-In Year 2, the demo will by nature expand its scope just through the underlying expansion of MVDM. In addition, two new clients will be developed, one to showcase auditing and another to demonstrate how easy it is to build new clients directly over MVDM.
+In Year 2, the demo will by nature expand its scope just through the underlying expansion of MVDM. In addition, two new clients will be developed, one to showcase auditing and another to demonstrate how easy it is to build new clients directly over MVDM. The _VDP_ website will have complete (generated) developer documentation.
 
 # Outline of Schedule
 
