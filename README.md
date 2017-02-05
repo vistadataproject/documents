@@ -7,7 +7,7 @@ Now, for the first time, VISTA's true, native, transactional data model - the **
 The VISTA Data Model (VDM) is in turn normalized across all local VISTA systems creating an enterprise __Master VISTA Data Model (MVDM__), which allows real-time read-write transactions to all VISTA systems throughout the enterprise simultaneously using one single, standard, secure interface.
 
 
-**VISTA's new SAFE Interface**
+### VISTA's new SAFE Interface
 
 Current VISTA interfaces, both new and old, wrap legacy code and remote procedure calls (RPCs) within various __mid-tier__ object models  __above the RPCs__ (figure below, left). This dependency on and encapsulation of RPCs within the mid-tier model not only fails to remediate, but propagates forward all the problems inherent with the legacy MUMPS code and RPCs - most notably lack of auditing and security.
 
