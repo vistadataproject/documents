@@ -11,9 +11,7 @@ Now, for the first time, VISTA's true native transactional data model - the **VI
 
 Current VISTA interfaces, both new and old, wrap legacy code and remote procedure calls (RPCs) within various __mid-tier__ object models __above the RPCs__ (figure below, left). This dependency on and encapsulation of RPCs within the mid-tier model not only fails to remediate, but propagates forward all the problems inherent with the legacy MUMPS code and RPCs - most notably lack of auditing and security.
 
-In contrast,the Master VISTA Data Model (MVDM) is a __server-side__ model  __below the RPCs__ (figure below, right), and thus allows new parallel interface paths. For legacy clients, this supports a backwards-compatible interface that audits, isolates, and secures legacy RPCs above the MVDM within the __RPC Locker__. For  new clients, __MVDM Services__ provide modern secure interfacing services directly to MVDM, eliminating the need for any legacy code or infrastructure, and allows rapid new client creation with the most current tools and technologies.
-
-The transition of VISTA's interface to the MVDM-based __Secure Access Framework for the Enterprise (SAFE)__ is summarized in the figure below.
+In contrast,the Master VISTA Data Model (MVDM) is a __server-side__ model  __below the RPCs__ (figure below, right), and thus allows new parallel interface paths. For legacy clients, this supports a backwards-compatible interface that audits, isolates, and secures legacy RPCs above the MVDM within the __RPC Locker__. For  new clients, __MVDM Services__ provide modern secure interfacing services directly to MVDM, eliminating the need for any legacy code or infrastructure, and allows rapid new client creation with the most current tools and technologies. The transition of VISTA's interface from insecure RPC wrappers to a Model-driven __Secure Access Framework for the Enterprise (SAFE)__ is summarized in the figure below.
 
 
 ![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE-20170207b.png)
