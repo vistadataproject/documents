@@ -17,7 +17,7 @@ In contrast, the Master VISTA Data Model (MVDM) is a __server-side__ model  __be
 This transition of VISTA's interface from insecure legacy RPC code wrappers to a master data model-driven __Secure Access Framework for the Enterprise (SAFE)__ is summarized in the figure below.
 
 
-![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE-20170207b.png)
+![VISTA-SAFE](https://github.com/vistadataproject/documents/blob/master/images/VISTA-SAFE-20170304.png)
 <br><br><br>
 
 For a technical overview of the VISTA Data Project, [click here](https://github.com/vistadataproject/documents/tree/master/Background)
