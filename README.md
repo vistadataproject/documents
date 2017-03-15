@@ -10,7 +10,7 @@ Now, for the first time, VISTA's native data model - the __VISTA Data Model__ (V
 *The figure below summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standardized, secure, server-side, symmetric (bidirectional) Linked Data model-driven interface__ - the Master VistA Data Model (MVDM).*   
 
 
-![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20170313b.png)
+![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20170314.png)
 
 
 For a technical overview of the VISTA Data Project, [click here](https://github.com/vistadataproject/documents/tree/master/Background)
