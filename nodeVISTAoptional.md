@@ -1,5 +1,5 @@
-# Demo nodeVISTA - Shell scripts
-These are *optional* post-installation tweaks that make using the demo nodeVISTA server and services easier on 'nix based computers (MacOS and Linux).  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  
+# nodeVISTA - Shell scripts
+These are *optional* post-installation shell scripts that make using the demo nodeVISTA server and services easier on 'nix based computers (MacOS and Linux).  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  
 
 
 ## Install terminal utility functions
