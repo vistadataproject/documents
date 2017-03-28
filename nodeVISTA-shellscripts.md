@@ -1,5 +1,5 @@
 ### nodeVISTA - Shell scripts
-These are *optional* post-installation shell scripts that make using the nodeVISTA server and services on 'nix based computers easier.  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  This provides the following menu of services:
+These are *optional* post-installation shell scripts that make using the nodeVISTA server and services on 'nix based computers easier, and provides the following menu of shortcuts and services:
 
 ```
                  _    __     _____ ____ _____  _
