@@ -1,11 +1,22 @@
-## nodeVISTA - optional installs
+# nodeVISTA - Shell scripts
 
-See nodeVISTA demo for instructions on creating your own local nodeVISTA server.
+See nodeVISTA demo for instructions on creating your own local nodeVISTA server.  These are post-installation tweaks that make using the nodeVISTA server and services easier on 'nix based computers (MacOS and Linux).
 
-These are post-installation tweaks that make using the nodeVISTA server and services easier.
+## Install terminal utility functions
+### Macintosh
+```
+brew install figlet
+```
+### Linux
+``` 
+sudo apt-get install figlet
+```
 
 
-* On host user's root directory, create new file "nv.sh" (i.e. in  ~/nv.sh) with the following contents:
+## Update shell command scripts
+
+* On host user's root directory, create new file "nv.sh" (i.e. ~/nv.sh) 
+* Add the following contents:
 ``` sh
 # nodeVISTA Shell 
 clear
@@ -19,11 +30,10 @@ echo ' Web Clients:         nv-vdm-browser | nv-manager'
 echo ' CPRS Client:         cprs-client cprs-vm'
 echo ' -----------------------------------------------------'
 ```
-Note: Install figlet (On Mac: brew install figlet; Linux: apt-get install figlet)
 
 
 
-* On host user's root directory, append the following to the ".profile" file (i.e.  ~/.profile )
+* In host user's root directory, append the following to the ".profile" file (i.e. in  ~/.profile )
 ```
 #/ nodeVISTA
 #/ -------------------------------------------------------------------------------------
