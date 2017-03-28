@@ -5,9 +5,9 @@ See nodeVISTA demo for instructions on creating your own local nodeVISTA server.
 These are post-installation tweaks that make using the nodeVISTA server and services easier.
 
 
-Create new file "nv.sh" in user's root directory  on host (i.e. in  ~/nv.sh)
-Note: Install figlet (Mac: brew install figlet; Linux: apt-get install figlet)
+* On host user's root directory, create new file "nv.sh" (i.e. in  ~/nv.sh) with the following contents:
 ``` sh
+# nodeVISTA Shell 
 clear
 figlet  nodeVISTA
 echo '      Website: http://vistadataproject.info '
@@ -19,9 +19,11 @@ echo ' Web Clients:         nv-vdm-browser | nv-manager'
 echo ' CPRS Client:         cprs-client cprs-vm'
 echo ' -----------------------------------------------------'
 ```
+Note: Install figlet (On Mac: brew install figlet; Linux: apt-get install figlet)
 
 
-Append to  ".profile" in user's root directory on host (i.e.  ~/.profile )
+
+* On host user's root directory, append the following to the ".profile" file (i.e.  ~/.profile )
 ```
 #/ nodeVISTA
 #/ -------------------------------------------------------------------------------------
