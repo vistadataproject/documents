@@ -1,6 +1,7 @@
 ## nodeVISTA - optional installs
 
 See nodeVISTA demo for instructions on creating your own local nodeVISTA server.
+
 These are post-installation tweaks that make using the nodeVISTA server and services easier.
 
 
