@@ -12,7 +12,7 @@
 These are *optional* post-installation shell scripts that make using the demo nodeVISTA server and services easier on 'nix based computers (MacOS and Linux).  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  
 
 
-## Install utility functions
+## Utility functions
 Paste into the command line the following commands:
 
 * Macintosh
@@ -31,7 +31,7 @@ sudo apt-get install figlet
 ```
 
 
-## Create shell scripts
+## Shell scripts
 
 * On host user's root directory, create two files with the following contents
 
