@@ -15,8 +15,9 @@ These are *optional* post-installation shell scripts that make using the demo no
 ## Install utility functions
 * Macintosh
 ```
-# Install homebrew
+# Install homebrew  (https://brew.sh/)
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
 #Install figlet
 brew install figlet
 ```
