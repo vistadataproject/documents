@@ -2,7 +2,7 @@
 These are *optional* post-installation shell scripts that make using the demo nodeVISTA server and services easier on 'nix based computers (MacOS and Linux).  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  
 
 
-## Install terminal utility functions
+## Install utility functions
 ### Macintosh
 ```
 brew install figlet
@@ -13,7 +13,7 @@ sudo apt-get install figlet
 ```
 
 
-## Update shell command scripts
+## Update shell scripts
 
 * On host user's root directory, create new file "nv.sh" (i.e. ~/nv.sh) 
 * Add the following contents:
