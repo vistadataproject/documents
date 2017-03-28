@@ -9,13 +9,13 @@
 
 ```
 
-These are *optional* post-installation shell scripts that make using the demo nodeVISTA server and services easier on 'nix based computers (MacOS and Linux).  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  
+These are *optional* post-installation shell scripts that make using the nodeVISTA server and services on 'nix based computers easier.  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  
 
 
 ## Utility functions
 Paste into the command line the following commands:
 
-__Macintosh__
+* __Macintosh__
 ```
 # Install homebrew  (https://brew.sh/)
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -24,7 +24,7 @@ __Macintosh__
 brew install figlet
 ```
 
-__Linux__
+* __Linux__
 ``` 
 # Install figlet
 sudo apt-get install figlet
