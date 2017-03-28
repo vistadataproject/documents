@@ -11,7 +11,7 @@
        Master Data Model-Driven Node.js VISTA
 -----------------------------------------------------
 Server Status:       nv- reload | halt | status
-Server Access:       nv- ssh | ssh-web
+Server Access:       nv- ssh    | ssh-web
 Web Clients:         nv-vdm-browser | nv-manager
 CPRS Client:         cprs-client cprs-vm
 -----------------------------------------------------
