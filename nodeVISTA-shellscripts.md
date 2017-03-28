@@ -13,7 +13,7 @@ sudo apt-get install figlet
 ```
 
 
-## Update shell scripts
+## Create shell scripts
 
 * On host user's root directory, create new file "nv.sh" (i.e. ~/nv.sh) 
 * Add the following contents:
