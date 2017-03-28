@@ -13,6 +13,8 @@ These are *optional* post-installation shell scripts that make using the demo no
 
 
 ## Install utility functions
+Paste into the command line the following commands:
+
 * Macintosh
 ```
 # Install homebrew  (https://brew.sh/)
