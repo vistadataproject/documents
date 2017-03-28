@@ -1,4 +1,15 @@
 # nodeVISTA - Shell scripts
+
+
+```
+                 _    __     _____ ____ _____  _
+ _ __   ___   __| | __\ \   / /_ _/ ___|_   _|/ \
+| '_ \ / _ \ / _` |/ _ \ \ / / | |\___ \ | | / _ \
+| | | | (_) | (_| |  __/\ V /  | | ___) || |/ ___ \
+|_| |_|\___/ \__,_|\___| \_/  |___|____/ |_/_/   \_\
+
+```
+
 These are *optional* post-installation shell scripts that make using the demo nodeVISTA server and services easier on 'nix based computers (MacOS and Linux).  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  
 
 
