@@ -1,12 +1,16 @@
 ### nodeVISTA - Shell scripts
 
 ```
+-----------------------------------------------------
                  _    __     _____ ____ _____  _
  _ __   ___   __| | __\ \   / /_ _/ ___|_   _|/ \
 | '_ \ / _ \ / _` |/ _ \ \ / / | |\___ \ | | / _ \
 | | | | (_) | (_| |  __/\ V /  | | ___) || |/ ___ \
 |_| |_|\___/ \__,_|\___| \_/  |___|____/ |_/_/   \_\
 
+       Website: http://vistadataproject.info
+       Master Data Model-Driven Node.js VISTA
+-----------------------------------------------------
 ```
 
 These are *optional* post-installation shell scripts that make using the nodeVISTA server and services on 'nix based computers easier.  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  
