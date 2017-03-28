@@ -20,7 +20,7 @@ echo ' -----------------------------------------------------'
 
 
 Append to  ".profile" in user's root directory on host (i.e.  ~/.profile )
-text
+```
 #/ nodeVISTA
 #/ -------------------------------------------------------------------------------------
 #/ NOTE:  the paths to vagrant, git, and wine depend on invidual preferences. 
@@ -53,5 +53,5 @@ alias cprs-client='cd ~/.wine/drive_c/Program\ Files/CPRS; wine CPRSChart.exe'
 alias cprs-vm='VBoxManage startvm "Win10-CPRS"'
 #/ For both Windows methods, follow CPRS installation instructions
 #/ http://vistadataproject.info/demo/#cprs--rpc-server-installation
-
+```
 
