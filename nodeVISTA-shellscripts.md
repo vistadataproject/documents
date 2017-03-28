@@ -13,7 +13,7 @@ These are *optional* post-installation shell scripts that make using the nodeVIS
 -----------------------------------------------------
 Server Status:       nv-    reload | halt | status
 Server Access:       nv-    ssh    | ssh-web
-Web Clients:         nv-    vdm-browser | nv-manager
+Web Clients:         nv-    vdm-browser | manager
 CPRS Client:         cprs-  client | vm
 -----------------------------------------------------
 ```
