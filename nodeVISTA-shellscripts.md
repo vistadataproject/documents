@@ -11,10 +11,10 @@ These are *optional* post-installation shell scripts that make using the nodeVIS
        Website: http://vistadataproject.info
        Master Data Model-Driven Node.js VISTA
 -----------------------------------------------------
-Server Status:       nv- reload | halt | status
-Server Access:       nv- ssh    | ssh-web
-Web Clients:         nv-vdm-browser | nv-manager
-CPRS Client:         cprs-client cprs-vm
+Server Status:       nv-    reload | halt | status
+Server Access:       nv-    ssh    | ssh-web
+Web Clients:         nv-    vdm-browser | nv-manager
+CPRS Client:         cprs-  client | vm
 -----------------------------------------------------
 ```
 
