@@ -1,10 +1,10 @@
-## nodeVISTA demo - optional installs
+## nodeVISTA - optional installs
 
 See nodeVISTA demo for instructions on creating your own local nodeVISTA server.
 These are post-installation tweaks that make using the nodeVISTA server and services easier.
 
 
-## Create new file "nv.sh" in user's root directory  on host (i.e. in  ~/nv.sh)
+Create new file "nv.sh" in user's root directory  on host (i.e. in  ~/nv.sh)
 `` text
 #/ Note: Install figlet (Mac: brew install figlet; Linux: apt-get install figlet)
 clear
@@ -20,8 +20,8 @@ echo ' -----------------------------------------------------'
 ``
 
 
+Append to  ".profile" in user's root directory on host (i.e.  ~/.profile )
 `` text
-## Append to  ".profile" in user's root directory on host (i.e.  ~/.profile )
 #/ nodeVISTA
 #/ -------------------------------------------------------------------------------------
 #/ NOTE:  the paths to vagrant, git, and wine depend on invidual preferences. 
