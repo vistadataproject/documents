@@ -37,6 +37,7 @@ On host user's root directory  (~/ ), create two files with the following conten
 ### nv.sh
 ``` sh
 # nodeVISTA Shell 
+#/ ----------------------------------------------------------------------
 clear
 figlet  nodeVISTA
 echo '      Website: http://vistadataproject.info '
@@ -53,8 +54,8 @@ echo ' -----------------------------------------------------'
 
 ### .profile  (dot profile)
 ``` sh
-#/ nodeVISTA
-#/ -------------------------------------------------------------------------------------
+#/ nodeVISTA commands and aliases
+#/ -----------------------------------------------------------------------
 #/ NOTE:  the paths to vagrant, git, and wine depend on invidual preferences. 
 
 alias nv='clear; sh ~/nv.sh'
