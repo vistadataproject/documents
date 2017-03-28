@@ -25,8 +25,7 @@ sudo apt-get install figlet
 
 ## Create shell scripts
 
-* On host user's root directory, create new file "nv.sh" (i.e. ~/nv.sh) 
-* Add the following contents:
+* On host user's root directory, create file "nv.sh" (i.e. ~/nv.sh) with the following contents:
 ``` sh
 # nodeVISTA Shell 
 clear
@@ -43,7 +42,7 @@ echo ' -----------------------------------------------------'
 
 
 
-* In host user's root directory, append the following to the ".profile" file (i.e. in  ~/.profile )
+* In host user's root directory, append the following contents to the ".profile" file (i.e. in  ~/.profile )
 ```
 #/ nodeVISTA
 #/ -------------------------------------------------------------------------------------
