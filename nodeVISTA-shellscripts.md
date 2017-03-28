@@ -15,10 +15,15 @@ These are *optional* post-installation shell scripts that make using the demo no
 ## Install utility functions
 * Macintosh
 ```
+# Install homebrew
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+# Install figlet
 brew install figlet
 ```
+
 * Linux
 ``` 
+# Install figlet
 sudo apt-get install figlet
 ```
 
