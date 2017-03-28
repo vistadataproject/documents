@@ -1,6 +1,5 @@
-# nodeVISTA - Shell scripts
-
-See nodeVISTA demo for instructions on creating your own local nodeVISTA server.  These are post-installation tweaks that make using the nodeVISTA server and services easier on 'nix based computers (MacOS and Linux).
+# Demo nodeVISTA - Shell scripts
+To install the nodeVISTA demo see instructions on the main demo page.   These are *optional* post-installation tweaks that make using the demo nodeVISTA server and services easier on 'nix based computers (MacOS and Linux).  
 
 ## Install terminal utility functions
 ### Macintosh
