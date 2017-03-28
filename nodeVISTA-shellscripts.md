@@ -1,5 +1,4 @@
-# nodeVISTA - Shell scripts
-
+### nodeVISTA - Shell scripts
 
 ```
                  _    __     _____ ____ _____  _
@@ -14,11 +13,11 @@ These are *optional* post-installation shell scripts that make using the demo no
 
 
 ## Install utility functions
-### Macintosh
+* Macintosh
 ```
 brew install figlet
 ```
-### Linux
+* Linux
 ``` 
 sudo apt-get install figlet
 ```
