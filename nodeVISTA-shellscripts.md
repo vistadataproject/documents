@@ -1,7 +1,6 @@
 ### nodeVISTA - Shell scripts
 
 ```
------------------------------------------------------
                  _    __     _____ ____ _____  _
  _ __   ___   __| | __\ \   / /_ _/ ___|_   _|/ \
 | '_ \ / _ \ / _` |/ _ \ \ / / | |\___ \ | | / _ \
@@ -10,6 +9,11 @@
 
        Website: http://vistadataproject.info
        Master Data Model-Driven Node.js VISTA
+-----------------------------------------------------
+Server Status:       nv- reload | halt | status
+Server Access:       nv- ssh | ssh-web  (vdp/vdp)
+Web Clients:         nv-vdm-browser | nv-manager
+CPRS Client:         cprs-client cprs-vm
 -----------------------------------------------------
 ```
 
