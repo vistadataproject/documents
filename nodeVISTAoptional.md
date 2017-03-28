@@ -5,10 +5,9 @@ These are post-installation tweaks that make using the nodeVISTA server and serv
 
 
 Create new file "nv.sh" in user's root directory  on host (i.e. in  ~/nv.sh)
-`` text
-#/ Note: Install figlet (Mac: brew install figlet; Linux: apt-get install figlet) <br>
-clear <br>
-figlet  nodeVISTA<br>
+Note: Install figlet (Mac: brew install figlet; Linux: apt-get install figlet)
+clear
+figlet  nodeVISTA
 echo '      Website: http://vistadataproject.info '
 echo '     Master Data Model-Driven Node.js VISTA  '
 echo ' -----------------------------------------------------'
@@ -17,7 +16,7 @@ echo ' Server Access:       nv- ssh | ssh-web  (vdp/vdp)'\
 echo ' Web Clients:         nv-vdm-browser | nv-manager'
 echo ' CPRS Client:         cprs-client cprs-vm'
 echo ' -----------------------------------------------------'
-``
+
 
 
 Append to  ".profile" in user's root directory on host (i.e.  ~/.profile )
