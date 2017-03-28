@@ -12,10 +12,8 @@
 These are *optional* post-installation shell scripts that make using the nodeVISTA server and services on 'nix based computers easier.  For instructions on installing the nodeVISTA demo see instructions on the main demo page.  
 
 
-## Utility functions
-Paste into the command line the following commands:
-
-* __Macintosh__
+## Host System: Utility functions
+* Macintosh
 ```
 # Install homebrew  (https://brew.sh/)
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -24,15 +22,15 @@ Paste into the command line the following commands:
 brew install figlet
 ```
 
-* __Linux__
+* Linux
 ``` 
 # Install figlet
 sudo apt-get install figlet
 ```
 
 
-## Shell scripts
-On host user's root directory  (~/ ), create two files with the following contents
+## Host System: Shell scripts
+On host system user's root directory  (~/ ), create two files with the following contents
 
 ### nv.sh
 ``` sh
@@ -87,4 +85,15 @@ alias cprs-vm='VBoxManage startvm "Win10-CPRS"'
 #/ For both Windows methods, follow CPRS installation instructions
 #/ http://vistadataproject.info/demo/#cprs--rpc-server-installation
 ```
+
+
+
+## NodeVISTA VM: Utility functions
+
+``` sh
+# Guest VM services
+sudo apt-get install figlet shellinabox
+
+```
+
 
