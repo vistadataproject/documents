@@ -32,9 +32,9 @@ sudo apt-get install figlet
 
 
 ## Shell scripts
-On host user's root directory, create two files with the following contents
+On host user's root directory  (~/ ), create two files with the following contents
 
-### nv.sh ( ~/nv.sh)
+### nv.sh
 ``` sh
 # nodeVISTA Shell 
 clear
@@ -51,8 +51,8 @@ echo ' -----------------------------------------------------'
 
 
 
-### .profile" (~/.profile )
-```
+### .profile  (dot profile)
+``` sh
 #/ nodeVISTA
 #/ -------------------------------------------------------------------------------------
 #/ NOTE:  the paths to vagrant, git, and wine depend on invidual preferences. 
