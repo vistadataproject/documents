@@ -15,7 +15,7 @@ These are *optional* post-installation shell scripts that make using the demo no
 ## Utility functions
 Paste into the command line the following commands:
 
-* Macintosh
+__Macintosh__
 ```
 # Install homebrew  (https://brew.sh/)
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -24,7 +24,7 @@ Paste into the command line the following commands:
 brew install figlet
 ```
 
-* Linux
+__Linux__
 ``` 
 # Install figlet
 sudo apt-get install figlet
@@ -32,8 +32,7 @@ sudo apt-get install figlet
 
 
 ## Shell scripts
-
-* On host user's root directory, create two files with the following contents
+On host user's root directory, create two files with the following contents
 
 ### nv.sh ( ~/nv.sh)
 ``` sh
