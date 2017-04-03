@@ -107,8 +107,7 @@ This project builds on the efforts of many.
 
 
 ### Architecture and Design
---- | ---
-<img src="http://semtechbizsj2014.semanticweb.com/uploads/images/bios/4882.jpg" height=60> | <img src="http://semtechbizsj2014.semanticweb.com/uploads/images/bios/4801.jpg" height=60>
+<img src="http://semtechbizsj2014.semanticweb.com/uploads/images/bios/4882.jpg" height=60>  <img src="http://semtechbizsj2014.semanticweb.com/uploads/images/bios/4801.jpg" height=60>
 
 
 Who | Design | Description
@@ -118,16 +117,8 @@ Who | Design | Description
 
 
 ###  Outside Technology and Advocacy 
-<img src ="http://www.hardhats.org/images/vol_Bella.jpg" height=60>
-<img src="http://farm3.static.flickr.com/2742/4442022846_9510a5c265_m.jpg" height=60>
-<img src="http://worldvista.org/WorldVistA/davidwhitten.jpg" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fworldvista.org%2FWorldVistA%2FAnthracite_Nancy.jpg&f=1" height=60>
-<img src="https://lh6.googleusercontent.com/-_VbNuZFu5jY/TnSkJph4RqI/AAAAAAAAADA/H4JrGWh7JEAfW7uVgHaf0dK7cIddXAu9wCL0B/w452-h449-no/KSBhaskarUndergroundRR20110524.jpg" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60>
-<img src="https://www.vxvista.org/download/thumbnails/8061163/PH3.JPG?version=1&modificationDate=1338915701253&api=v2" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.openhealthnews.com%2Fsites%2Fopenhealthnews.com%2Ffiles%2Frob_sm.png&f=1" height=60>
-<img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60>
-<img src ="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Finnotribe.com%2Fwp-content%2Fuploads%2F2013%2F08%2FMSporny.jpg&f=1" height=60>
+--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
+<img src ="http://www.hardhats.org/images/vol_Bella.jpg" height=60> |  <img src="http://farm3.static.flickr.com/2742/4442022846_9510a5c265_m.jpg" height=60> | <img src="http://worldvista.org/WorldVistA/davidwhitten.jpg" height=60> | <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fworldvista.org%2FWorldVistA%2FAnthracite_Nancy.jpg&f=1" height=60> | <img src="https://lh6.googleusercontent.com/-_VbNuZFu5jY/TnSkJph4RqI/AAAAAAAAADA/H4JrGWh7JEAfW7uVgHaf0dK7cIddXAu9wCL0B/w452-h449-no/KSBhaskarUndergroundRR20110524.jpg" height=60> | <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60> | <img src="https://www.vxvista.org/download/thumbnails/8061163/PH3.JPG?version=1&modificationDate=1338915701253&api=v2" height=60> | <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.openhealthnews.com%2Fsites%2Fopenhealthnews.com%2Ffiles%2Frob_sm.png&f=1" height=60> | <img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fblogcdn.uber.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fperson-icon.png&f=1" height=60>| <img src ="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Finnotribe.com%2Fwp-content%2Fuploads%2F2013%2F08%2FMSporny.jpg&f=1" height=60>
 
 
 
