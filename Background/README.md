@@ -117,6 +117,9 @@ test | test | test
 
 ![](/images/logos/logos-presentations/60h/linkedVISTA.jpg)
 <br>
+
+![RMR](http://semtechbizsj2014.semanticweb.com/uploads/images/bios/4882.jpg)
+<br>
 [Rafael&nbsp;Richards](https://www.linkedin.com/in/rafaelrichardsmd)
 <br>
 [__Linked VISTA__ (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-Rafael%20Richards-2015.pdf)
