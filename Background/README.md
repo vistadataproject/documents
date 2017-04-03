@@ -107,14 +107,14 @@ This project builds on the efforts of many.
 
 
 ### Architecture and Design
-<img src="http://semtechbizsj2014.semanticweb.com/uploads/images/bios/4882.jpg" height=60>
-<img src="http://semtechbizsj2014.semanticweb.com/uploads/images/bios/4801.jpg" height=60>
+--- | ---
+<img src="http://semtechbizsj2014.semanticweb.com/uploads/images/bios/4882.jpg" height=60> | <img src="http://semtechbizsj2014.semanticweb.com/uploads/images/bios/4801.jpg" height=60>
 
 
 Who | Design | Description
 :--- | :--- | :---
-[Rafael Richards](https://www.linkedin.com/in/rafaelrichardsmd) | ![](/images/logos/logos-presentations/60h/linkedVISTA.jpg) <br> [Linked VISTA (PDF)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-Rafael%20Richards-2015.pdf) | This describes the design and features of an enterprise cross-linked Master VISTA Data Model (MVDM) to provide master data management across all VA VISTA systems. (2015)
-[Conor Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos/logos-presentations/60h/fmql.jpg) [FMQL (PDF <br> (https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL-Conor_Dowling-2014.pdf) | This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014)
+[Rafael Richards](https://www.linkedin.com/in/rafaelrichardsmd) | ![](/images/logos/logos-presentations/60h/linkedVISTA.jpg) <br> [Linked VISTA (pdf)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/Linked_VISTA-Rafael%20Richards-2015.pdf) | This describes the design and features of an enterprise cross-linked Master VISTA Data Model (MVDM) to provide master data management across all VA VISTA systems. (2015)
+[Conor Dowling](https://www.linkedin.com/in/conor-dowling-4306832b) | ![](/images/logos/logos-presentations/60h/fmql.jpg)<br> [FMQL (pdf)](https://github.com/vistadataproject/documents/blob/master/Background/presentations/FMQL-Conor_Dowling-2014.pdf) | This describes the Open Source FileMan Query Language (FMQL) which provides a uniform mechanism for comprehensively exposing all of VISTA's data as well as its native data model. (2014)
 
 
 ###  Outside Technology and Advocacy 
