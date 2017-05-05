@@ -41,7 +41,9 @@ all the data and schema of the osehraVISTA system.
 
 __JSON raw Output__ ...
 
-![vdm QSS JSON](/interfaces/vdmQSS/screenshots/vdmQSSjson.png?raw=true)
+
+![vdm QSS JSON](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSSjson.png
+)
 
 __HTML Output__ ...
 
