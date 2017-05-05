@@ -60,7 +60,7 @@ __CSV Output__ ...
 
 __XML Output__ ...
 
-![vdm QSS JSONLD](/interfaces/vdmQSS/screenshots/vdmQSSxml.png?raw=true)
+![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSSxml.png)
 
 
 
