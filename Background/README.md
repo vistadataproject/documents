@@ -11,9 +11,11 @@ VISTA's data model - the roadmap to all of VA's institutional, business process,
 ## VISTA Interfacing Evolution
 *The figure summarizes the evolution from __thousands of unique, inconsistent, insecure, unidirectional code-based interfaces__ to that of a __single, standardized, secure, server-side, symmetric (bidirectional) Linked Data model-driven interface__ - the Master VistA Data Model (MVDM).*   
 
+<br><br>
 
 ![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20170607b.png)
 
+<br><br>
 
 __In Model-driven VISTA, interfacing is through the Master VistA Data Model (MVDM).__  The MVDM and its symmetric, server-side, security-enhanced Linked Data Model-driven interface is indicated by the blue bidirectional arrow with Linked Data icon. For __existing CPRS clients__, security is enhanced and audited by the RPC Locker; then all reads and writes controlled through MVDM. For __new  clients and interfaces__, reads and writes are through MVDM.  __Authentication__ for all VISTA clients and interfaces is provided (*separately*) through Enterprise mechanisms.
 
