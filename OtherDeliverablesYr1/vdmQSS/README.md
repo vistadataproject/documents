@@ -8,21 +8,27 @@ http://10.2.2.100:9000/query
 * Multiple examples of existing canned queries are available to experiment
 
 
+### Main Query Interface
+![vdm QSS HTML](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-main.png)
+
+### Main Query Interface - Canned Queries
+![vdm QSS HTML](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-canned.png)
+
 
 ### HTML Output
-![vdm QSS HTML](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSShtml.png)
+![vdm QSS HTML](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-html.png)
 
 ### CSV Output
-![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSScsv.png)
+![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-csv.png)
 
 ### XML Output
-![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSSxml.png)
+![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-xml.png)
 
 ### JSONLD (web Output)
-![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSSjsonld.png)
+![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-jsonld.png)
 
 ### JSON (raw Output)
-![vdm QSS JSON](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSSjson.png
+![vdm QSS JSON](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-json.png
 )
 
 
