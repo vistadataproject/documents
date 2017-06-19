@@ -1,6 +1,6 @@
-# VISTA Data Model - Web Based Query Service
+# VISTA Data Model -  Web Query Service
 
-* The VISTA Data Model (VDM) Web Query Service is a new, simple, user-friendly web-based query interface to all VISTA data.
+* The VISTA Data Model -  Web Query Service is a new, simple, user-friendly web-based interface to query any and all of VISTA data based on VISTA's native data model - the VISTA Data Model (VDM) - which represents with 100% fidelity and granularity all the operational data in a VISTA system.
 * This allows nontechnical end-users, clincians, and others - with no training in VISTA, MUMPS, Fileman, or any database query langauges like SQL - to immediately take advantage of VISTA data for secondary use and analytics.
 * Different output formats are available including HTML, CSV, XML, JSON, and JSON-LD:
 * Multiple examples of existing canned queries are available to experiment
