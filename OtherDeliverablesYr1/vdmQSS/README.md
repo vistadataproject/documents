@@ -1,28 +1,28 @@
-# VISTA Data Model - Web Based Query Service
+# VISTA Data - Web Based Query Service
 
-* The VISTA Data Model (VDM) Web Query Service is a new, simple, user-friendly web browser-based query interface to VISTA.
-* This allows nontechnical end-users, clincians, and others - with no training in database query langauges like SQL - to take advantage of VISTA data for analytics.
+* The VISTA Data Model (VDM) Web Query Service is a new, simple, user-friendly web-based query interface to all VISTA data.
+* This allows nontechnical end-users, clincians, and others - with no training in VISTA, MUMPS, Fileman, or any database query langauges like SQL - to immediately take advantage of VISTA data for secondary use and analytics.
 * Different output formats are available including HTML, CSV, XML, JSON, and JSON-LD:
 
 
-## HTML Output
+### HTML Output
 ![vdm QSS HTML](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSShtml.png)
 
-## CSV Output
+### CSV Output
 ![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSScsv.png)
 
-## XML Output
+### XML Output
 ![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSSxml.png)
 
-## JSONLD (web Output)
+### JSONLD (web Output)
 ![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSSjsonld.png)
 
-## JSON (raw Output)
+### JSON (raw Output)
 ![vdm QSS JSON](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSSjson.png
 )
 
 
-<br><br><br>
+<br><br><br><br>
 
 ## Technical
 
