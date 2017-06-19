@@ -3,31 +3,30 @@
 * The VISTA Data Model (VDM) Web Query Service is a new, simple, user-friendly web-based query interface to all VISTA data.
 * This allows nontechnical end-users, clincians, and others - with no training in VISTA, MUMPS, Fileman, or any database query langauges like SQL - to immediately take advantage of VISTA data for secondary use and analytics.
 * Different output formats are available including HTML, CSV, XML, JSON, and JSON-LD:
-* To use the VDM web query service, start nodeVISTA, and then point your browser to the web query interface:
-http://10.2.2.100:9000/query
 * Multiple examples of existing canned queries are available to experiment
+* To get started with the VDM query web interface, start nodeVISTA, and then point your browser to the web query interface:
+http://10.2.2.100:9000/query
 
-
-### Main Query Interface
+## Main Query Interface
 ![vdm QSS HTML](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-main.png)
 
-### Main Query Interface - Canned Queries
+## Main Query Interface - Canned Queries
 ![vdm QSS HTML](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-canned.png)
 
 
-### HTML Output
+#### HTML Output
 ![vdm QSS HTML](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-html.png)
 
-### CSV Output
+#### CSV Output
 ![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-csv.png)
 
-### XML Output
+#### XML Output
 ![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-xml.png)
 
-### JSONLD (web Output)
+#### JSONLD (web Output)
 ![vdm QSS JSONLD](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-jsonld.png)
 
-### JSON (raw Output)
+#### JSON (raw Output)
 ![vdm QSS JSON](https://github.com/vistadataproject/documents/blob/master/OtherDeliverablesYr1/vdmQSS/screenshots/vdmQSS-output-json.png
 )
 
