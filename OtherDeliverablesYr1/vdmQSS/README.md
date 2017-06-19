@@ -1,7 +1,8 @@
-# VISTA Data Model - Web Query Service
+# VISTA Data Model - Web Based Query Service
 
-* The VDM web Query Service is a simple Web Browser-based query interface to VISTA. 
-* Several different output formats are available including HTML, CSV, XML, JSON, and JSON-LD:
+* The VISTA Data Model (VDM) Web Query Service is a new, simple, user-friendly web browser-based query interface to VISTA.
+* This allows nontechnical end-users, clincians, and others - with no training in database query langauges like SQL - to take advantage of VISTA data for analytics.
+* Different output formats are available including HTML, CSV, XML, JSON, and JSON-LD:
 
 
 ## HTML Output
