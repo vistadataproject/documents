@@ -27,6 +27,8 @@ Within the MVDM is a configurable set of patient-centric security policies. This
 
 <br>
 
+## Code-driven VISTA vs Model-driven VISTA
+
 Code-driven VISTA <br> (Current) | Model-driven VISTA <br> (VISTA Data Project)
 ---|---
 __Current interfacing  to VISTA is through thousands (3300+) of unique, opaque, one-way  (either read or write)  legacy (20+ years old)  MUMPS remote procedure calls (RPCs) which are neither documented nor maintained.__ These are hard-coded in MUMPS for specific clients only and not interchangeable to other clients due to business logic within the custom MUMPS and client code. |   __All interfacing to VISTA is through one single, secure, symmetric (bidirectional)  read-write Master VISTA Data Model (MVDM).__  The read data model is identical to the write data model (i.e. symmetric)  providing one single universal structured data read/write mechanism. 
