@@ -10,7 +10,7 @@
 
 * [2016-04 VDP: DHA_VISTA_Linked_Data_Project](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2016-04-26-DHA_VISTA_Linked_Data_Project.pdf)
 
-* [2016-04 VDP: VistA_Data_Model - Patient_Centric _Security](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2016-04-VistA_Data_Model-Patient_Centric _Security.pdf)
+* [2016-04 VDP: VistA_Data_Model - Patient_Centric _Security](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2016-04-VistA_Data_Model-Patient_Centric%20_Security.pdf)
 
 * [2015 VDP: VISTA_Master_Data_Project-PJITC](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2015-VISTA_Master_Data_Project-PJITC.pdf)
 
