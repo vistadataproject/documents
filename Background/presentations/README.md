@@ -7,7 +7,7 @@
 * [2016-04 VDP: DHA_VISTA_Linked_Data_Project](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2016-04-26-DHA_VISTA_Linked_Data_Project.pdf)
 * [2016-04 VDP: VistA_Data_Model - Patient_Centric _Security](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2016-04-VistA_Data_Model-Patient_Centric%20_Security.pdf)
 * [2015 VDP: VISTA_Master_Data_Project-PJITC](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2015-VISTA_Master_Data_Project-PJITC.pdf)
-* [2015 VDP: VISTA_Master_Data_Management](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2015 VISTA_Master_Data_Management.pdf)
+* [2015 VDP: VISTA_Master_Data_Management](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2015%20VISTA_Master_Data_Management.pdf)
 * [2014 Linked_Vitals-Linked_FHIR](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2014-Linked_Vitals-Linked_Data_Linked_FHIR.pdf)
 * [2014 Fileman_Query_Language-Caregaf](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2014-Fileman_Query_Language-Caregaf.pdf)
 * [2012 Data_Centric_VistA-Caregraf](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2012-Data_Centric_VistA-Caregraf.pdf)
