@@ -2,7 +2,7 @@
 
 * [2012 Data_Centric_VistA-Caregraf](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2012-Data_Centric_VistA-Caregraf.pdf)
 * [2017-07 VISTA_Data_Project-HSM-Intro](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2017-07-24_VISTA_Data_Project-HSM-Intro.pdf)
-* [2017-05 VISTA_Data_Access-via_RPC_Emulation](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/ 2017-05-03-VISTA_Data_Access-CPRS_RPC_Emulation.pdf)
+* [2017-05 VISTA_Data_Access-via_RPC_Emulation](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2017-05-03-VISTA_Data_Access-CPRS_RPC_Emulation.pdf)
 * [2016-11 NHS_Interoperability_Summit](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2016-11-08 VDP-NHS_Interoperability_Summit.pdf)
 * [2016-05-11 VDP-Brief](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2016-05-11 VDP-Brief.pdf)
 * [2016-04-26-DHA_VISTA_Linked_Data_Project](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2016-04-26-DHA_VISTA_Linked_Data_Project.pdf)
