@@ -24,7 +24,7 @@ All data and metadata produced under this contract must be provided in nonpropri
 
 ### 1.3	Source Code
 
-All code (software) produced under this contract shall be developed, version-controlled, and delivered in source code form with associated documentation in the Project Repository, such that real-time, contemporaneous third-party review and validation of all code in progress is possible. The contractor shall clearly identify all source code as either original or derivative. All code that constitutes original works shall carry an Apache 2.0 license. All code that constitutes derivative works must carry an OSI-approved free and open source license.
+All code (software) produced under this contract shall be developed, version-controlled, and delivered in source code form with associated documentation in the Project Repository, such that real-time, contemporaneous third-party review and validation of all code in progress is possible. The contractor shall clearly identify all source code as either original or derivative. All code that constitutes original works shall carry an AGPLv3 license. All code that constitutes derivative works must carry an OSI-approved free and open source license.
 
 All source code, dependent code, libraries, or third-party code shall be in portable, industry-standard languages. If the source code requires compiling or assembling, these shall be either industry-standard open-source compilers or assemblers, or shall be provided with the software under a free and open source license that has been approved by the Open Source Initiative (OSI).
 
