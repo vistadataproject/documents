@@ -1,0 +1,36 @@
+
+REQUIREMENTS
+============
+
+BCMA requires the following:
+
+1. Windows XP
+
+2. TCP/IP subsystem installed
+
+3. Access to a VistA server
+   
+INSTALLATION PROCESS
+====================
+XWB*1*29 MUST BE INSTALLED ON EACH PC!
+The Broker Development kit IS NOT required for BCMA.  The
+Broker Development Kit does not have to be installed on any
+client PC.  However, XWB*1*29 IS REQUIRED on each PC
+
+Run BCMA setup program. The wizard will guide you through 
+installation process. This can be used as a fresh
+installation, or can be used to upgrade an existing
+version of BCMA.  If you wish to use multiple versions
+of BCMA, please install into an alternate directory,
+otherwise accept the default directory to overwrite your
+existing installation, if one exists.
+
+There are three types of installation:
+- TYPICAL will install the main BCMA application only.
+- FULL will install the main BCMA application as well
+as the Site Parameters definition program.
+- CUSTOM will allow you to select which programs to install. 
+
+If you are not an experienced user, we suggest selecting
+defaults for each option presented during setup.
+

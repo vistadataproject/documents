@@ -1,0 +1,340 @@
+:Base CPRS.hlp>overvw
+:Title CPRS Help File
+1 About CPRS=About_CPRS>overvw
+1 About This Help File=About_This_Help_File>overvw
+1 FAQ=References
+1 Troubleshooting=Troubleshooting>overvw
+1 What is CPRS?
+2 What is CPRS?=What_is_CPRS?>overvw
+2 What's the Difference between OE/RR and CPRS?=What's_the_Difference_between_OE/RR_and_CPRS?>overvw
+2 CPRS Guiding Principles=CPRS_Guiding_Principles>overvw
+2 CPRS Features=CPRS_Features>overvw
+2 New Features and Components of CPRS=New_Features_and_Components_of_CPRS>overvw
+1 What's New in CPRS
+2 GUI v.28 (OR*3.0*280)=What_s_New_in_CPRS_GUI_v_28_OR_3_0_280_>overvw
+2 GUI v.27.90 (OR*3.0*296)=What_s_New_in_CPRS_GUI_v_27n_OR_3_0_296_>overvw
+2 GUI v.27 (OR*3.0*243)=What_s_New_in_CPRS_GUI_v_27_(OR*3.0*243)>overvw
+2 GUI v.26 (OR*3.0*215)=What_s_New_in_CPRS_v_26_OR_3_0_215_
+2 GUI v.25 (OR*3.0*195)=What_s_New_in_CPRS_GUI_v_25_OR_3_0_195_
+2 GUI V.25 (OR*3.0*195)=What_s_New_in_CPRS_GUI_v_25_OR_3_0_195_
+2 GUI_v.24_(OR*3.0*190)=What's_New_in_CPRS_GUI_v.24_(OR*3.0*190)>overvw
+2 GUI v.23 (OR*3.0*187)=What's_New_in_CPRS_GUI_v.23_(OR*3.0*187)>overvw
+2 GUI v.22 (OR*3.0*173)=What's_New_in_CPRS_GUI_v.22_(OR*3.0*173)>overvw
+2 GUI v.21 (OR*3.0*149)=What's_New_in_CPRS_GUI_v.21_(OR*3.0*149)>overvw
+2 GUI v.20 (OR*3.0*141)=What's_New_in_CPRS_GUI_v.20_(OR*3.0*141)>overvw
+1 Getting Started
+2 Patient Lists=Patient_Lists>overvw
+2 Additional Patient Information=Additional_Patient_Information>overvw
+2 Tools=Tools>overvw
+1 Using CPRS
+2 Selecting a Patient=Selecting_a_Patient>overvw
+2 Closing a Patient Record=Closing_a_Patient_Record>overvw
+2 Setting a Default Patient List=Setting_a_Default_Patient_List>overvw
+2 Cover Sheet=Overview__What_is_the_Cover_Sheet_>overvw
+2 Refresh Patient Information=Refresh_Patient_Information>overvw
+2 Review / Sign Changes...=Review_/_Sign_Changes_Dialog>overvw
+2 CSV: Keeping Diagnostic and Procedure Codes Current=Keeping_Diagnostic_and_Procedure_Codes_Current>overvw
+2 CPRS Time Out=CPRS_Time_Out>overvw
+2 Printing from CPRS=Printing_from_CPRS>overvw; next level + 1
+2 Vitals=What_s_New_in_CPRS_v_26_OR_3_0_215_>overvw
+2 Allergies/Adverse Reactions
+3 Entering Allergies=Entering_Allergies>overvw
+3 Marking Allergies as Entered in Error=Marking_Allergies_as_Entered_in_Error
+3 Entering Allergies from the Orders Tab=Entering_Allergies_from_the_Orders_Tab
+3 Causative Agent Not On File=Causative_Agent_Not_On_File
+3 Entering No Known Allergies=Entering_No_Known_Allergies>overvw
+3 Entering Allergies from the Cover Sheet Tab=Entering_Allergies_from_the_Cover_Sheet_Tab
+3 Viewing Allergies/Adverse Reactions=Viewing_Allergies_Adverse_Reactions
+2 Clinical Reminders
+3 Reminders overview topics
+4 Reminders Overview=Reminders_Overview>overvw
+4 Reminder Evalutation for a Patient=Reminder_Evaluation_for_a_Patient>overvw
+4 What happens when I process a reminder?=What_Happens_When_I_Process_a_Reminder?>overvw
+4 How do I know a patient has reminders?=How_Do_I_Know_a_Patient_Has_Reminders>overvw
+3 Reminders Interface tour
+4 The Reminders Button Tree View=The_Reminders_Button_Tree_View>tour
+4 The Reminders Drawer=The_Reminders_Drawer>overvw
+4 The Main Reminders Processing Dialog=The_Main_Reminders_Processing_Dialog>tour
+3 Processing Reminders
+4 Manually Evaluating Reminders=Manually_Evaluating_Reminders>overvw
+4 Moving to Another Reminder=Moving_to_Another_Reminder>qclinrem
+4 Processing a Reminder=Processing_a_Reminder>overvw
+4 Using Mental Health Assessments in CPRS=Using_Mental_Health_Assessments_in_CPRS>overvw
+4 Finishing Reminder Processing=Finishing_Reminder_Processing>overvw
+4 Clearing a Single Reminder=Clearing_a_Single_Reminder>overvw
+4 Canceling Out of the Processing Dialog=Canceling_Out_of_the_Processing_Dialog>overvw
+2 Consults
+3 Consults=Consults>overvw
+3 Viewing Consults=Viewing_Consults>qconord
+3 Complete a Consult or Clinical Procedure from the Consults Tab=Complete_a_Consult_from_the_Consults_Tab>overvw
+3 Complete a Consult from the Notes Tab=Complete_a_Consult_from_the_Notes_Tab>overvw
+3 Changing Views on the Consults tab=Changing_Views_on_the_Consults_tab>qconord
+3 Tracking Consults Requests=Tracking_Consults_Requests>overvw
+3 Ordering Consults
+4 Ordering Consults=Ordering_Consults>overvw
+4 New Consult from the Constults Tab=New_Consult_from_the_Consults_Tab>qconord
+4 New Consult from the Orders Tab=New_Consult_from_the_Orders_Tab>qconord
+4 New Procedure from the Consults Tab=New_Procedure_from_the_Consults_Tab>qconord
+4 New Procedure from the Orders Tab=New_Procedure_from_the_Orders_Tab>qconord
+2 Context Management (CCOW)
+3 Context Management (CCOW) in CPRS=Context_Management_(CCOW)_in_CPRS>overvw
+3 Joining Context=Joining_Context>overvw
+3 Breaking Context=Breaking_Context>overvw
+2 Discharge Summaries
+3 Discharge Summaries (overview)=Discharge_Summaries>overvw
+3 Viewing Discharge Summaries=Viewing_Discharge_Summaries>qdischrg
+3 Writing Discharge Summaries=Writing_Discharge_Summaries>overvw
+3 Sign Document Now=Sign_Document_Now>qnoback
+3 Review / Sign Changes Dialog=Review_/_Sign_Changes_Dialog>overvw
+3 Changing Views on the Discharge Summaries tab=Changing_Views_on_the_Discharge_Summaries_tab>overvw
+3 Viewing Laboratory Test Results=Viewing_Laboratory_Test_Results>overvw; next level + 1
+2 Document Templates
+3 Document Templates (overview)=Document_Templates_(overview)>overvw
+3 Creating Personal Document Templates=Creating_Personal_Document_Templates>overvw
+3 Creating Shared Document Templates=Creating_Shared_Document_Templates>qtempl
+3 Previewing a Template=Previewing_a_Template>overvw
+3 Editing Document Templates=Editing_Document_Templates>overvw
+3 View Template Notes=View_Template_Notes>overvw
+3 Copying Template Text=Copying_Template_Text>overvw
+3 Adding a Template to a Document=Adding_a_Template_to_a_Document>overvw
+3 Marking a Template as the Default Template=Marking_a_Template_as_the_Default_Template>overvw
+3 Copying Document Templates=Copying_Document_Templates>overvw
+3 Hiding Child Templates=Hiding_Child_Templates>overvw
+3 Searching for Document Templates=Searching_for_Document_Templates>overvw
+3 Deleting Document Templates=Deleting_Document_Templates>qtempl
+3 Template Fields=Template_Fields
+3 Reminder Dialog=Reminder_Dialog
+2 Encounter Information
+3 Encounter Information=Encounter_Information_(overview)>overvw
+3 Entering or Changing Encounter Information=Entering_Primary_and_Secondary_providers_popup>qencntr
+3 Entering Encounter Form Data=Entering_Encounter_Form_Data>overvw
+3 Entering Encounter Form Data - Procedures=Entering_Encounter_Form_Data_-_Procedures>overvw
+3 Entering Clinical Encounter Information=Entering_Encounter_Form_Data>overvw
+3 Other Health Factors=Other_Health_Factors>overvw
+3 Entering GAF Scores
+4 GAF Score (overview)=GAF_Score_(overview)>overvw
+4 Entering a GAF Score=Entering_a_GAF_Score>overvw
+2 Graphing
+3 Graphing: Overview=Graphing_Overview>overvw
+3 Graphing: Staring CPRS Graphing=Graphing_Starting_CPRS_Graphing>overvw
+3 Graphing: Configuring Settings=Graphing_Configuring_Settings>overvw
+3 Graphing: Main Window Display Options=Graphing_Main_Window_Display_Options>overvw
+3 Graphing: Setting Display Options with the Graph Settings Dialog=Graphing_Setting_Display_Options_with_the_Graph_Settings_Dialog>overvw
+3 Graphing: Choosing Display Items on the Select Items and Define Views Dialog=Graphing_Choosing_Display_Items_on_the_Select_Items_and_Define_Views_Dialog>overvw
+3 Graphing: Graphing Items from the Main Window=Graphing_Graphing_Items_from_the_Main_Window>overvw
+3 Graphing: Graphing Items from the Select Items and Define Views Dialog Box=Graphing_Graphing_Items_from_the_Select_Items_and_Define_Views_Dialog_Box>overvw
+3 Graphing: Adjusting the Display=Graphing_Adjusting_the_Display>overvw
+3 Graphing: Displayed Details for Graphed Items=Graphing_Displayed_Details_for_Graphed_Items>overvw
+3 Graphing: Using the Zoom Feature=Graphing_Using_the_Zoom_Feature>overvw
+3 Graphing: Copy and Paste or Print Graphs=Graphing_Copy_and_Paste_or_Print_Graphs>overvw
+3 Predefined Views
+4 Graphing: Predefined Views=Graphing_Predefined_Views
+4 Graphing: Creating Views=Graphing_Creating_Views
+4 Graphing: Edting Predefined Views=Graphing_Edting_Predefined_Views
+4 Graphing: Renaming Predefined Views=Graphing_Renaming_Predefined_Views
+4 Graphing: Deleting Predefined Views=Graphing_Deleting_Predefined_Views
+2 Medications
+3 Transfer Inpatient Medications to Outpatient=Transfer_Inpatient_Medications_to_Outpatient>overvw
+3 Transfer Outpatent Medications to Inpatient=Transfer_Outpatient_Medications_to_Inpatient>overvw
+3 Viewing Medications=Viewing_Medications>overvw
+3 Sorting the Medications View=Sorting_the_Medications_View
+3 Ordering Outpatient Medications (Simple Dose)=Ordering_Outpatient_Medications_(Simple_Dose)>overvw
+3 Ordering Inpatient Medications=Ordering_Inpatient_Medications>overvw
+3 Ordering Inpatient Medications for Outpatients (Overview)=Ordering_Inpatient_Medications_for_Outpatients_(Overview)>overvw
+3 Ordering Inpatient Medications for Outpatients (Meds tab)=Ordering_Inpatient_Medications_for_Outpatients_(Meds_tab)>overvw
+3 Ordering Inpatient Medications for Outpatient (Orders tab)=Ordering_Inpatient_Medications_for_Outpatient_(Orders_tab)>overvw
+3 Changing Medication Orders=Changing_Medication_Orders>qnoback
+3 Renew Medication=Renew_Medication>overvw
+3 Refilling a Medication=Refilling_a_Medication
+3 Hold Medication Order=Hold_Medication_Order>overvw
+3 Release Hold Order=Release_Hold_Order>overvw
+3 Discontinuing Orders=Discontinuing_Orders>overvw
+3 Other Medication Actions (popup menu)=Other_Medication_Actions>overvw
+2 Notes
+3 Progress Notes=Progress_Notes>overvw
+3 Viewing Progress Notes=Viewing_Progress_Notes>overvw
+3 Searching for notes with specific text=Searching_for_Text_Within_Current_View>overvw
+3 Viewing all Signed Notes, all Unsigned Notes, or All Uncosigned Notes=Viewing_all_Signed_Notes__all_Unsigned_Notes__or_All_Uncosigned_Notes>overvw
+3 Viewing All Signed Notes by a Specific Author=Viewing_All_Signed_Notes_by_a_Specific_Author>overvw
+3 Viewing all Signed Notes for a Date Range=Viewing_all_Signed_Notes_for_a_Date_Range>overvw
+3 Viewing all the Progress Notes Under a Particular Heading=Viewing_all_the_Progress_Notes_Under_a_Particular_Heading>overvw
+3 Viewing Unsigned Notes or Discharge Summaries=Viewing_Unsigned_Notes_or_Discharge_Summaries>overvw
+3 Write a New Progress Note=Write_a_New_Progress_Note>overvw
+3 Editing a Progress Note=Editing_a_Progress_Note>overvw
+3 Replacing Specific Text within an Unsigned Note=Replace_Specific_Text_in_an_Unsigned_Document>overvw
+3 Adding a Template to a Document=Adding_a_Template_to_a_Document>overvw
+3 Group Notes=Group_Notes>overvw
+3 Changing a Document's Author, Title, Reference, etc.=Changing_a_Document's_Author__Title__Reference__etc.>overvw
+3 Adding Addenda to Progress Notes=Adding_to_Existing_Progress_Notes_(addendum)>overvw
+3 Sign Document Now=Sign_Document_Now>qnoback
+3 Review / Sign Changes Dialog=Review_/_Sign_Changes_Dialog>overvw
+3 Changing Views on the Notes tab=Changing_Views_on_the_Notes_tab>overvw
+2 Notifications
+3 Notifications and Alerts=Notifications__Notifications_and_Alerts>overvw
+3 Sorting Notifications and Viewing Comments of Forwarded Alerts=Sorting_Notifications_and_Viewing_Comments_of_Forwarded_Alerts>overvw
+3 Alerting a user when order results are avaialble=Alerting_a_user_when_order_results_are_avaialble>overvw
+3 Removing Notifications=Removing_Notifications>overvw
+3 Forwarding a Notification to Another User=Forwarding_a_Notification_to_Another_User>overvw
+3 Processing Notifications=Processing_Notifications>overvw
+3 Notifications Tab (Tools | Options)=Notifications_Tab_(Tools_|_Options)>qtempl
+2 Ordering
+3 How to Write Orders=How_to_Write_Orders>overvw
+3 Changing an Order=Changing_an_Order>qiv
+3 Copy Existing Orders=Copy_Existing_Orders>overvw
+3 Discontinuing Orders=Discontinuing_Orders>overvw
+3 Flagging an Order=Flagging_an_Order>overvw
+3 Unflagging an Order=Unflagging_an_Order>overvw
+3 Verifying Orders=Verifying_Orders>overvw
+3 Doing a Chart Review for Orders=Doing_a_Chart_Review_for_Orders>qiv
+3 Entering Allergies from the Orders Tab=Entering_Allergies_from_the_Orders_Tab>overvw
+3 Order Checking
+4 Order Checking (General)=Order_Checking>overvw
+4 Site-Defined Clinical Reminder Order Checks=Site_Defined_Clinical_Reminder_Order_Checks>overvw
+4 Local Order Checking=Order_Checking_Local>overvw
+4 Remote Order Checking=Order_Checking_Remote>overvw
+3 Viewing Orders
+4 Viewing orders=Viewing_orders>overvw
+4 Saving a Default Order View=Saving_a_Default_Order_View>overvw
+4 Return to Default Order View=Return_to_Default_Order_View>overvw
+4 Changing Views on the Orders tab=Changing_Views_on_the_Orders_tab>overvw
+3 Inpatient Medications
+4 Order Checking=Order_Checking>overvw
+4 Ordering Inpatient Medications (Simple Dose)=Ordering_Inpatient_Medications>overvw; next level + 1
+4 Ordering_Inpatient_Medications (Complex_Dose)=Ordering_Inpatient_Medications_Complex_Dose_
+4 Ordering Inpatient Medications for Outpatients (Overview)=Ordering_Inpatient_Medications_for_Outpatients_(Overview)>overvw
+4 Ordering Inpatient Medications for Outpatients (Meds tab)=Ordering_Inpatient_Medications_for_Outpatients_(Meds_tab)>overvw
+4 Ordering Inpatient Medications for Outpatients (Orders tab)=Ordering_Inpatient_Medications_for_Outpatient_(Orders_tab)>overvw
+3 Outpatient Medications
+4 Order Checking=Order_Checking>overvw
+4 Ordering Outpatient Medications (Simple Dose)=Ordering_Outpatient_Medications_(Simple_Dose)>overvw
+4 Ordering Outpatient Medications (Complex Dose)=Ordering_Outpatient_Medications_(Complex_Dose)>overvw
+3 Recording Non-VA Medications
+4 Non-VA Medications (Overview)=Non-VA_Medications_(Overview)>overvw
+4 Entering Non-VA Medication Information=Entering_Non-VA_Medication_Information>overvw
+3 IV Fluids and Infusions
+4 IV Fluids=IV_Fluids>overvw
+4 Ordering Infusions=Ordering_Infusions>overvw
+4 Placing Continuous Infusion Orders=Placing_Continuous_Infusion_Orders>overvw
+4 Copying, Changing, or Renewing Continuous Infusion Orders=Orders_Infusion_Copying_Changing_or_Renewing_Continuous_Infusion_Orders>overvw
+4 Placing Intermittent Infusion Orders=Placing_Intermittent_Infusion_Orders>overvw
+3 Other types of orders
+4 Ordering Consults=Ordering_Consults>overvw
+4 Ordering Imaging/Radiology=Ordering_Imaging/Radiology>overvw
+4 Ordering Lab Tests=Ordering_Lab_Tests>overvw
+4 Ordering Vitals=Ordering_Vitals>overvw
+4 Entering Vitals=Entering_Vitals>overvw
+4 Text Orders=Text_Orders>overvw
+3 Diets and Outpatient Meals
+4 Ordering Diets and Outpatient Meals (overview)=Ordering_Diets_and_Outpatient_Meals(overview)>overvw
+4 Diet Orders
+5 Ordering Diets (overview)=Ordering_a_Diet_(Diet_Tab)>overvw
+5 Regular Diet Orders=Ordering_Regular_Diet_Orders>overvw
+5 Early/Late Trays=Ordering_Early/Late_Trays>overvw
+5 Tubefeeding Diet Order=Tubefeeding_Diet_Order>overvw
+5 Isolations / Precautions Order=Isolations_/_Precautions_Order>overvw
+5 Additional Diet Order=Additional_Diet_Order>overvw
+4 Outpatient Meals
+5 Outpatient Meals=Outpatient_Meals>overvw
+5 Outpatient Recurring Meals=Ordering_Outpatient_Recurring_Meals
+5 Outpatient Special Meals=Ordering_Outpatient_Special_Meals
+5 Ordering Outpatient Meal Tubefeeding=Ordering_Outpatient_Meal_Tubefeeding>overvw
+5 Ordering Outpatient Meal Early/Late Trays=Ordering_Outpatient_Meal_Early_Late_Trays
+5 Ordering Outpatient Meal Isolations/Precautions=Ordering_Outpatient_Meal_Isolations_Precautions
+5 Ordering Outpatient Meal Additional Orders=Ordering_Outpatient_Meal_Additional_Orders
+3 Blood Products and Diagnostic Tests
+4 Blood Products (Overview)=Blood_Products_Overview_>overvw
+4 Ordering Blood Components and Diagnostic Tests=Ordering_Blood_Components_and_Diagnostic_Tests>overvw
+3 Event-Delayed Orders
+4 Event Delayed Orders=Event_Delayed_Orders>overvw
+4 Writing_Event-Delayed_Orders=Writing_Event-Delayed_Orders>overvw
+4 Manually Releasing an Event-Delayed Order=Manually_Releasing_an_Event-Delayed_Order>overvw
+4 Viewing an Event-Delayed Order After it is Released=Viewing_an_Event-Delayed_Order_After_it_is_Released>overvw
+4 Changing the Release Event / Assigning a Release Event to an Unreleased Order=Changing_the_Release_Event_/_Assigning_a_Release_Event_to_an_Unreleased_Order>overvw
+3 Quick Orders and Order Sets
+4 Quick orders=Quick_Orders>overvw
+4 Placing a Quick Order=Placing_a_Quick_Order>overvw
+4 Order Sets=Order_Sets>overvw
+3 Signing Orders
+4 Sign Selected Orders=Sign_Selected_Orders>overvw
+4 Review / Sign Changes Dialog=Review_/_Sign_Changes_Dialog>overvw
+2 Patient Information and My HealtheVet
+3 Patient Insurance and My HealtheVet Information=Patient_Insurance_and_My_HealtheVet_Information>overvw
+2 Patient Postings (CWAD)
+3 Postings=Postings>overvw
+3 Creating New Postings=Postings_Creating_New_Postings>overvw
+3 Viewing Postings=Viewing_Postings>overvw
+2 Patient Record Flags
+3 Patient Record Flags: Overview=Patient_Record_Flags:_Overview>overvw
+3 Viewing Patient Record Flags=Viewing_Patient_Record_Flags>overvw
+2 Problems
+3 Problem List=Problem_List>overvw
+3 Customizing the Problem List=Problems_Customizing_the_Problems_List
+3 Adding a Problem=Adding_a_Problem>overvw
+3 Annotating a Problem=Annotating_a_Problem>overvw
+3 Changing a Problem=Changing_a_Problem>overvw
+3 Verifying a Problem=Verifying_a_Problem>qproblem
+3 Making a Problem Inactive=Making_a_Problem_Inactive>overvw
+3 Removing a Problem=Removing_a_Problem>overvw
+3 Customizing the Problems List=Problems_Customizing_the_Problems_List>qproblem
+2 Remote Patient Data
+3 Remote Patient Data Overview=Remote_Data>overvw
+3 Choosing RDV or VistaWeb to View Remote Data=Choosing_RDV_or_VistaWeb_to_View_Remote_Data>overvw
+3 Viewing Remote Patient Data=Viewing_Remote_Data>overvw
+2 Reports and Health Summaries
+3 Available Reports on the Reports Tab=Available_Reports_on_the_Reports_Tab>overvw
+3 Viewing a Report=Viewing_a_Report>qnoback
+3 Printing a Report=Printing_a_Report>qnoback
+3 Sorting (Table View)=Sorting_a_Report_(Table_View)>overvw
+3 Viewing a Health Summary=Viewing_a_Health_Summary>overvw
+2 Signatures
+3 Electronic Signature (overview)=Electronic_Signature_(overview)>overvw
+3 Digital Signature (PKI) Overview=Digital_Signature_(PKI)_Overview>overvw
+3 Sign Document Now=Sign_Document_Now>qnoback
+3 Signing Orders before Selecting a New Patient or Exiting CPRS=Signing_Orders_before_Selecting_a_New_Patient_or_Exiting_CPRS
+3 Identify Additional Signers=Identify_Additional_Signers>qnoback
+3 Add to Signature List=Add_to_Signature_List>overvw
+3 Sign Selected Orders=Sign_Selected_Orders>overvw
+3 Review / Sign Changes Dialog=Review_/_Sign_Changes_Dialog>overvw
+2 Surgery reports
+3 Viewing Surgery Reports=Surgery_tab>overvw
+3 Finding specific text in a surgery report=Finding_specific_text_in_a_Document>overvw
+3 View all Surgery Cases=View_all_Surgery_Cases>overvw
+3 Creating an Addendum to a Surgery Report=Creating_an_Addendum_to_a_Surgery_Report>overvw
+3 Signing a Surgery Report=Signing_a_Surgery_Report>overvw
+3 Customizing the Surgery Tab=Customizing_the_Surgery_Tab>overvw
+1 CPRS Conventions
+2 CPRS Conventions=CPRS_Conventions>overvw
+2 Entering Dates and Times into CPRS=Entering_Dates_and_Times_into_CPRS
+1 Customizing CPRS
+2 Customizing CPRS (general)=Customizing_CPRS_(general)>overvw
+2 Accessibility: Changing the Font Sizes=Accessibility_Changing_the_Font_Sizes>overvw
+2 Accessibility: Changing the Window Color=Accesibility_Changing_the_Window_Color>overvw
+2 Notes tab - saving a default view=Notes_tab>overvw
+2 Personal Preferences
+3 Personal Preferences (Tools | Options)=Personal_Preferences_(Tools_|_Options)>overvw
+3 Reports Tab (Tools | Options)=Reports_Tab_(Tools_|_Options)>overvw
+3 Notes Tab (Tools | Options)=Notes_Tab_(Tools_|_Options)>overvw
+3 Lists/Teams Tab (Tools | Options)=Lists/Teams_Tab_(Tools_|_Options)>overvw
+3 General tab (Tools | Options)=General_tab_(Tools_|_Options)>overvw
+3 Notifications Tab (Tools | Options)=Notifications_Tab_(Tools_|_Options)>qtempl
+3 Order Checks Tab (Tools | Options)=Order_Checks_Tab_(Tools_|_Options)>overvw
+3 Graphs Tab (Tools | Options)=Graphs_Tab_Tools_Options_>overvw
+3 Customizing the Problem List=Problems_Customizing_the_Problems_List; next level + 1
+3 Customizing the Surgery Tab=Customizing_the_Surgery_Tab>overvw
+1 CPRS Read-Only
+2 About CPRS Read-Only=About_CPRS_Read_Only>overvw
+2 Signing In to CPRS=Signing_In_to_CPRS>overvw
+2 Selecting a Patient=Selecting_a_Patient>overvw
+2 Additional Patient Information=Additional_Patient_Information>overvw
+2 Reminders Icons=Reminders_Icons>overvw
+2 Postings=Postings>overvw
+2 Viewing Postings=Viewing_Postings>overvw
+2 Available Reports on the Reports Tab=Available_Reports_on_the_Reports_Tab>overvw
+2 Viewing a Report=Viewing_a_Report>qnoback
+2 Sorting a Report (Table View)=Sorting_a_Report_(Table_View)>overvw
+2 Reports Tab (Tools | Options)=Reports_Tab_(Tools_|_Options)>overvw
+2 Printing a Report=Printing_a_Report>qnoback
+2 Remote Data=Remote_Data>overvw
+2 Viewing Remote Data=Viewing_Remote_Data>overvw
+2 Closing a Patient Record=Closing_a_Patient_Record>overvw
+w
