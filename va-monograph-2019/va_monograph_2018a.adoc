@@ -3,11 +3,10 @@ September 21, 2018
 image:extracted-media/media/image1.jpg[The official seal of the Department of Veterans Affairs.,title="VA Seal",width=199,height=199]
 
 ____________________________________________________________________________________________________________________________________
-*Office of Information and Technology, 
+Office of Information and Technology, 
 Enterprise Program Management Office, 
 Transition, Release & Support, 
 Health Product Support +
- *
 ____________________________________________________________________________________________________________________________________
 
 * +
