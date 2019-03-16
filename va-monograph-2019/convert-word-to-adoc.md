@@ -39,8 +39,8 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 4. __Enable section numbering and TOC generation__
 For section numbering and table of contents to be auto-generated, sections must be marked at the appropriate level (=Title ==Section ===SubSection ====SubSubSection...) then at the top of the document place asciidoc markup  
 
-
-        :toc:  and  :sectnums:
+        :toc:
+        :sectnums:
 
 5. __Resulting document displayed in Github__
 
@@ -51,8 +51,10 @@ For section numbering and table of contents to be auto-generated, sections must 
 ## Reference
 
 1. Generating TOC for Jekyll-generated websites
-        https://github.com/asciidoctor/jekyll-asciidoc#generating-a-table-of-contents
+
+    https://github.com/asciidoctor/jekyll-asciidoc#generating-a-table-of-contents
 
 2. Asciidoctor User Manual
-       https://asciidoctor.org/docs/user-manual
+
+    https://asciidoctor.org/docs/user-manual
 
