@@ -14,8 +14,7 @@ Health Product Support
 
 
 :toc:
-
-
+:toclevels: 4
 :sectnums:
 
 
@@ -385,8 +384,7 @@ Monograph template format includes:
 *Full Description and Features:* With the Anticoagulation Management Tool (AMT), one can order lab tests, enter outside lab results and graphically review lab data, enter notes, complete encounter data, complete the consults if consults are used to initiate entry into the Anticoagulation clinic, and print a variety of patient letters. Upon exiting, all activities within the program are recorded on an Anticoagulation flow sheet maintained on the Computerized Patient Record System (CPRS) Reports tab. AMT provides clinic staff a mechanism of ensuring continuous patient monitoring with a built-in mechanism that alerts staff when patients have not been monitored in a timely period. A "Lost to Follow-up" list is maintained to ensure that staff knows of patients who need attention.
 
 [[automated-information-collection-system-aics]]
-==  +
-Automated Information Collection System (AICS)
+=== Automated Information Collection System (AICS)
 
 *Version*: 3.0
 
@@ -1102,8 +1100,7 @@ Combined with Remote Data Interoperability (RDI), it includes remote allergy dat
 *Full Description and Features:* Group Notes allows the easy assembly of patient groups based on Clinics, Specialties, Wards, Teams, or Provider lists. It then allows the note author to specify parts of a note that apply to the entire group and parts that apply to individuals. It does the same with encounter data. After the note and encounter information is complete, it provides for a single signature for the entire group.
 
 [[health-summary]]
-==  +
-Health Summary
+=== Health Summary
 
 *Version*: 2.7
 
@@ -1389,8 +1386,7 @@ The next phase is the merge of the record pairs. A wait time may be configured b
 Although the software was designed with potential to merge New Person records, this capability is not included in the released version.
 
 [[electronic-claims-management-engine-ecme-aka-epharmacy]]
-==  +
-Electronic Claims Management Engine (ECME) (AKA: ePharmacy)
+=== Electronic Claims Management Engine (ECME) (AKA: ePharmacy)
 
 *Version*: 1.0
 
@@ -1461,8 +1457,7 @@ The ECME application provides the following features:
 • Tracking, storing, reporting requests for changes in VistA
 
 [[electronic-signature-esig]]
-==  +
-Electronic Signature (Esig)
+=== Electronic Signature (Esig)
 
 *Version*: 1.0
 
@@ -1691,8 +1686,7 @@ Expert System (Messaging) - The messaging subsystem provides a seamless bi-direc
 Work Flow (Case Management) - The case management subsystem provides authorized VHA case representatives at the HEC with a web interface to easily track, maintain, and manage cases associated with Veteran benefits. HEC staff utilizes ES to manage these "cases" to completion so that verified E&E can be determined.
 
 [[enterprise-exception-log-services-eels]]
-==  +
-Enterprise Exception Log Services (EELS)
+=== Enterprise Exception Log Services (EELS)
 
 *Version*: 3.0
 
@@ -1975,8 +1969,7 @@ For Developers:
 ==
 
 [[functional-independence-measures-fim]]
-==  +
-Functional Independence Measures (FIM)
+=== Functional Independence Measures (FIM)
 
 *Version*: 1.0
 
@@ -2069,8 +2062,7 @@ Functional Independence Measures (FIM)
 The HDI package will be used by each VistA site to seed VUIDs in their existing global files that contain reference data, such as drug names, names of known allergens, and so forth. These files have been grouped into domains, and each domain will be standardized separately. As each domain’s files are originally standardized, the HDI package is used to assign a VUID to each term or concept in the file. Subsequent standardization updates and maintenance on these files will be handled separately by the New Term Rapid Turnaround (NTRT) program.
 
 [[health-information-technology-sharing-hits-bi-directional-health-information-exchange-bhie-and-legacy-viewer-sustainment-lvs]]
-==  +
-Health Information Technology Sharing (HITS): Bi-Directional Health Information Exchange (BHIE) and Legacy Viewer Sustainment (LVS)
+=== Health Information Technology Sharing (HITS): Bi-Directional Health Information Exchange (BHIE) and Legacy Viewer Sustainment (LVS)
 
 *Version*: 1.0
 
@@ -2099,8 +2091,7 @@ Historically, data exchanged through BHIE included Drug and Food Allergies, Admi
 In September 2016 LVS was deployed and now provides DoD legacy data to VA clinicians via CPRS RDV and VistAWeb utilizing Fast Healthcare Interoperability Resources (FHIR). This allowed for the sunset of BHIE functionality. Remaining features of BHIE functionality still include support for PDHA’s utilizing the FHIE repository via the DoD.
 
 [[health-information-technology-sharing-hits-clinical-health-data-repository-chdr]]
-==  +
-Health Information Technology Sharing (HITS): Clinical Health Data Repository (CHDR)
+=== Health Information Technology Sharing (HITS): Clinical Health Data Repository (CHDR)
 
 *Version*: 1.0
 
@@ -2127,8 +2118,7 @@ Health Information Technology Sharing (HITS): Clinical Health Data Repository (C
 One of the key features of CHDR is the exchange of standardized, computable (as opposed to textual) data. This "semantic interoperability" provides data that each agency can use with its own electronic decision support tools. In April 2007, VA released a program called Remote Data Interoperability (RDI), which extended the existing local Drug-Drug, and Drug-Allergy order checks to include data from all VA and DoD facilities at which a patient has been treated. This significantly increases patient safety by ensuring electronic decision support tools are based on all available electronic patient health record information rather than data from just one VistA computer system.
 
 [[health-information-technology-sharing-hits-federal-health-information-exchange-fhie]]
-==  +
-Health Information Technology Sharing (HITS): Federal Health Information Exchange (FHIE)
+=== Health Information Technology Sharing (HITS): Federal Health Information Exchange (FHIE)
 
 *Version*: 1.0
 
@@ -2161,8 +2151,7 @@ See also Bidirectional Health Information Exchange (BHIE) Initiative.
 FHIE supports the one-way transfer of historical data on separated and retired military personnel from DoD's Composite Health Care System to the FHIE Data Repository for use in VA clinical encounters, and potential future use for aggregate analysis. This data includes patient demographics, laboratory results, radiology reports, outpatient government and retail pharmacy information, admission discharge transfer (ADT) data, discharge summaries, consults reports, allergies and data from the DoD Standard Ambulatory Data Record. FHIE also supports the secure transfer of these FHIE data to Veterans Benefits Administration (VBA) claims adjudicators for use in claims processing.
 
 [[health-information-technology-sharing-hits-global-war-on-terror]]
-==  +
-Health Information Technology Sharing (HITS): Global War on Terror
+=== Health Information Technology Sharing (HITS): Global War on Terror
 
 *Version*: 1.0
 
@@ -2213,8 +2202,7 @@ Clinical Transfer Form:
 .
 
 [[health-information-technology-sharing-hits-laboratory-data-sharing-and-interoperability-ldsi]]
-==  +
-Health Information Technology Sharing (HITS): Laboratory Data Sharing and Interoperability (LDSI)
+=== Health Information Technology Sharing (HITS): Laboratory Data Sharing and Interoperability (LDSI)
 
 *Version*: 5.2
 
@@ -2246,8 +2234,7 @@ The goals of the project are:
 LDSI provides interagency messaging between VA/DoD sites that have a local sharing agreement for laboratory services (with either VA or DoD serving as the performing laboratory). LDSI Phase 1 enabled electronic ordering and results retrieval of chemistry and hematology laboratory tests between VA and DoD. Phase 2 extends the exchange of ordering and results data exchange to include anatomic pathology and microbiology laboratory tests between VA and DoD.
 
 [[health-level-7-hl7-vista-messaging]]
-==  +
-Health Level 7 (HL7) (VistA Messaging)
+=== Health Level 7 (HL7) (VistA Messaging)
 
 *Version*: 1.6
 
@@ -2312,8 +2299,7 @@ The current release of HLO is a substantial redesign of HL 1.6, is designed to o
 Previous applications supported simple point-to-point HL7 transactions between VistA and a local commercial-off-the-shelf (COTS) system using Hybrid Lower Layer Protocol (HLLP), which then required transmission to other VA facilities using VA Mailman. This release added the ability to "broadcast" a message to multiple recipients, and provide support for the X3.28 LLP, and additional subsequent patches to this release addressed continuing increased demand for additional messaging services through enhancements which included more complex message routing (dynamic addressing), and messaging using Minimal Lower Layer Protocol (MLLP) over Transmission Control Protocol (TCP).
 
 [[home-based-primary-care-hbpc]]
-==  +
-Home Based Primary Care (HBPC)
+=== Home Based Primary Care (HBPC)
 
 *Version*: 1.0
 
@@ -2825,8 +2811,7 @@ CCOW ensures secure and consistent access to patient data from varied sources. B
 Like KAAJEE 1.0, KAAJEE 1.1 provides a custom Authentication Provider "plug-in" for BEA WebLogic J2EE servers, including a set of web forms for web applications that allow web applications to authenticate and authorize an end-user using a Kernel system as the source of authentication and authorization.
 
 [[kernel-delphi-components-kdc]]
-==  +
-Kernel Delphi Components (KDC)
+=== Kernel Delphi Components (KDC)
 
 *Version*: 1.0
 
@@ -3524,8 +3509,7 @@ Legacy transfusion records however are available for review.
 VistA Blood Establishment Computer Software (VBECS) replaces and supersedes VistA Blood Bank v5.2 for blood bank operations. VistA Blood Bank v5.2 blood unit records remaining after the transfer of patient information to VBECS are available for reference only and are not editable.
 
 [[emerging-pathogens-initiative-epi]]
-==  +
-Emerging Pathogens Initiative (EPI)
+=== Emerging Pathogens Initiative (EPI)
 
 *Version*: 5.2
 
@@ -3644,8 +3628,7 @@ LEDI has enabled electronic ordering and results retrieval of general laboratory
 *Full Description and Features:* The benefit of this mapping effort is to provide a way to support multiple normal ranges based on test, method, specimen, sex, and patient age. The structure will allow multiple normal ranges within the same laboratory with differing equipment or methods for doing the same procedure. The final product (the normal range, critical high, critical low, reporting units, and method) will be stored with each individual result. Creation of new Data Names for normal range change will be eliminated.benefit of this mapping effort is to provide a way to support multiple normal ranges based on test, method, specimen, sex, and patient age. The structure will allow multiple normal ranges within the same laboratory with differing equipment or methods for doing the same procedure. The final product (the normal range, critical high, critical low, reporting units, and method) will be stored with each individual result. Creation of new Data Names for normal range change will be eliminated.
 
 [[point-of-care-poc]]
-==  +
-Point of Care (POC)
+=== Point of Care (POC)
 
 *Version*: 5.2
 
@@ -3701,8 +3684,7 @@ Point of Care (POC)
 *Full Description and Features:* Laboratory UI uses the standard messaging protocol Health Level Seven (HL7) to communicate with all instruments. HL7 is a standard developed by health care information systems professionals to simplify the communications between computer systems that must exchange information. HL7 was adopted by Decentralized Hospital Computer Program (DHCP) as the primary communications protocol for messaging between systems and even between applications on the same system. The laboratory technologist sees very little change between the Laboratory UI and the traditional interface system. After the Laboratory Information Manager (LIM) or ADPAC sets up the files and installs the new hardware, the technologist can accession, build Load/Work lists, download, and verify the results as usual. The benefit of using the Laboratory UI is that almost any instrument by any manufacturer can be interfaced quickly and dependably, in unidirectional or bidirectional mode. Interfacing is only subject to the limitations of the instrument.
 
 [[vista-blood-establishment-computer-software-vbecs]]
-==  +
-VistA Blood Establishment Computer Software (VBECS)
+=== VistA Blood Establishment Computer Software (VBECS)
 
 *Version*: 1.0
 
@@ -3845,8 +3827,7 @@ This software enables sites to:
 The Service Oriented Architecture Research and Development (SOARD) project is deploying IBM's Maximo Enterprise Asset Management Commercial Off-the-Shelf (COTS) solution. The software is an intranet web-based application that is entirely contained within the VA Wide Area Network (WAN). The Maximo product delivers Out of the box (OOB) capabilities, and only cosmetic changes to screen layout have been tailored to VA preference. The underlying Oracle database easily accommodates new data fields, and has been expanded to include relevant VA data fields unique to our mission (e.g., EIL, CMR, VA MDNS, etc.). Maximo will replace the textually based “menu tree” navigation in VistA.
 
 [[medicine]]
-==  +
-Medicine
+=== Medicine
 
 *Version*: 2.3
 
@@ -3934,8 +3915,7 @@ VistA Mental Health Assistant (MHA) Graphical User Interface (GUI):
 ==
 
 [[methicillin-resistant-staphylococcus-aureus-program-tools-mrsa-pt]]
-==  +
-Methicillin Resistant Staphylococcus Aureus Program Tools (MRSA-PT)
+=== Methicillin Resistant Staphylococcus Aureus Program Tools (MRSA-PT)
 
 *Version*: 1.0
 
@@ -3962,8 +3942,7 @@ Methicillin Resistant Staphylococcus Aureus Program Tools (MRSA-PT)
 The report can be run for either Admission (prevalence measures) or Discharge/Transmission (transmission measures).Isolation Report (Census List and MDRO History): This option allows the user to print the Isolation Report for each unit. The Isolation Report includes MDROs selected in the initial setup and the historical time frame to search for the last positive result. If sites utilize Isolation Orders, these will also print on the reportNares Screen Compliance List: This option allows the user to print a report to capture real-time patient information on a unit at a specified time to determine if a Nares screen was obtained upon admission to the unit. This report allows the unit to determine patients that received (or did not receive) a Nares screen upon admission.
 
 [[mobile-electronic-documentation]]
-==  +
-Mobile Electronic Documentation
+=== Mobile Electronic Documentation
 
 *Version*: 2.3
 
@@ -3988,8 +3967,7 @@ Mobile Electronic Documentation
 *Full Description and Features:* Mobile Electronic Documentation (MED) 2.3 is a Veterans Health Information Systems and Technology Architecture (VistA) software application. It enables Department of Veterans Affairs (VA) staff to access a patient's previously downloaded electronic medical record information when not connected to the VA network. MED is designed to work in tandem with the Computerized Patient Record System (CPRS) as temporary storage of patient notes. This includes the ability to enter notes using CPRS exported Templates (.txml). MED promotes user satisfaction and efficiency in the login and documentation process by allowing access to CPRS at the point of care (POC) and avoiding the duplicate process of charting handwritten notes at the end of the day. [[_Toc530402160]][[_Toc530402162]][[_Toc530402164]][[_Toc530402166]][[_Toc530402168]][[_Toc530402170]][[_Toc530402172]][[_Toc530402175]][[_Toc530402176]][[_Toc530402178]][[_Toc530402180]][[_Toc530402182]]
 
 [[my-healthevet]]
-==  +
-My HealtheVet
+=== My HealtheVet
 
 *Version*: 1.0
 
@@ -4018,8 +3996,7 @@ For VA patients with a Premium My HealtheVet account, this can include both self
 The online environment maps closely to existing clinical business practices and extends management and delivery of care. These features enable and encourage consumer empowerment, patient engagement, and patient/clinician collaboration. The My HealtheVet system consists of a national system housed at the Austin information Technology Center (AITC), and the My HealtheVet Veteran Information System Technology Architecture (VistA) package. The My HealtheVet system extracts data from various VistA applications including Laboratory, Outpatient Pharmacy, Scheduling, Adverse Reaction Tracking, and Clinical Reminders.
 
 [[national-provider-identifier-npi]]
-==  +
-National Provider Identifier (NPI)
+=== National Provider Identifier (NPI)
 
 *Version*:
 
@@ -4116,8 +4093,7 @@ The NUMI application provides the capability for local, regional and national do
 NUMI is deployed at the Austin Information Technology Center (AITC).
 
 [[network-health-exchange-nhe]]
-==  +
-Network Health Exchange (NHE)
+=== Network Health Exchange (NHE)
 
 *Version*: 5.1
 
@@ -4322,8 +4298,7 @@ VA clinical staff involved in administering seasonal and H1N1 flu vaccine to VA 
 VA staff can access OHRS through the VA Clinical Information Support System (CISS) portal. OHRS is locally hosted within the Clinical Information Support System (CISS) application. Hence, it is hosted nationally at Austin Automation Center. Ongoing OHRS work covers requirements, deployment, architecting, data portioning, and technology.
 
 [[occurrence-screen]]
-==  +
-Occurrence Screen
+=== Occurrence Screen
 
 *Version*: 3.0
 
@@ -4472,8 +4447,7 @@ GUI Interface - Clinical workstations in the Windows environment access CPRS thr
 VAMC Parameters and Defaults - Every VAMC has specialized needs regarding CPRS functionality and processing. To allow variation and modification among VAMCs, CPRS provides a hierarchically structured set of parameters. Each parameter can have a user, team, service/section, patient location, division, system, and package value.
 
 [[patient-care-encounter-pce]]
-==  +
-Patient Care Encounter (PCE)
+=== Patient Care Encounter (PCE)
 
 *Version*: 1.0
 
@@ -5316,8 +5290,7 @@ The extracted data is transmitted to the PBM using VA Mailman. The Mailman messa
 *Full Description and Features:* Pharmacy Data Management (PDM) provides tools for managing Pharmacy data. It includes tools for creating Pharmacy Orderable Items and maintaining files necessary for the Computerized Patient Record System (CPRS). PDM consolidates tools for managing the various Pharmacy software products. It provides Pharmacy Supervisors, in one location, the capability to enter and edit data for the local DRUG file (#50) for all Pharmacy related packages. PDM now allows users to enter medication instruction components (e.g., dosage, noun, verb, expansion) in a language other than English. However, at this time, the Patient Medication Information Sheets only allow patient data to be in English or Spanish.[[_Toc530402325]][[_Toc530402327]][[_Toc530402329]][[_Toc530402331]][[_Toc530402333]][[_Toc530402335]][[_Toc530402337]][[_Toc530402339]][[_Toc530402341]][[_Toc530402343]][[_Toc530402345]][[_Toc530402347]]
 
 [[prosthetics]]
-==  +
-Prosthetics
+=== Prosthetics
 
 *Version*: 3.0
 
@@ -5418,8 +5391,7 @@ Prosthetics
 *Audit File:* The audit file builds an audit trail for each record in the QM packages. You can see the contents of the audit file in the Occurrence Screen software by using the Audit File Inquiry option. In other software, the audit trail is accessible to the IRM staff through VA FileMan.
 
 [[radiologynuclear-medicine]]
-==  +
-Radiology/Nuclear Medicine
+=== Radiology/Nuclear Medicine
 
 *Version*: 5.0
 
@@ -5646,8 +5618,7 @@ The CHDR system is the link between the two repositories, and once the patient i
 After the computed data is exchanged, it can be used by each agency’s native healthcare information system. At VA, the integrated data can be viewed through VistAWeb while triggered Drug/Drug and/or Drug Allergy alerts will manifest in the Computerized Patient Record System (CPRS.)
 
 [[health-data-repository-hdr-data-warehouse-dw]]
-==  +
-Health Data Repository (HDR) Data Warehouse (DW)
+=== Health Data Repository (HDR) Data Warehouse (DW)
 
 *Version*: 3.21
 
@@ -5676,8 +5647,7 @@ The Repositories Program supports storage of enterprise-wide, Veteran-centric cl
 HDR provides clinical data from VistA in a computable and/or viewable access form to user interfaces such as RDI, CHDR, and VistAWeb. The HDR Data Warehouse (DW) meets the data needs of the VA research and analysis community without impacting database performance for the end-users.
 
 [[resident-assessment-instrumentminimum-data-set-raimds]]
-==  +
-Resident Assessment Instrument/Minimum Data Set (RAI/MDS)
+=== Resident Assessment Instrument/Minimum Data Set (RAI/MDS)
 
 *Version*:
 
@@ -5806,8 +5776,7 @@ VistA Scheduling Enhancement (VSE)
 This multidisciplinary tool yields clear, readable and standardized-format communications that enhance patient safety and efficacy of care. The tool allows for information to be updated and shared electronically.
 
 [[standards-and-terminology-services-sts]]
-==  +
-Standards and Terminology Services (STS)
+=== Standards and Terminology Services (STS)
 
 *Version*: 1.0
 
@@ -5979,8 +5948,7 @@ The Survey Generator is a software package which allows creation and maintenance
 This package is designed with both the survey author and the respondent in mind. It is simple to use and straightforward in operation and does not require any exceptional skills on the user's part.
 
 [[veterans-crisis-line-vcl]]
-==  +
-Veterans Crisis Line (VCL)
+=== Veterans Crisis Line (VCL)
 
 *Version*: 1.0
 
@@ -6104,8 +6072,7 @@ The VHIC can show the following information on the card as applicable to the Vet
 VPFS replaces the Personal Funds of Patients (PFOP) system that was used previously. VPFS looks different from PFOP because it is a web-based application; however, its design and functionality are modeled after PFOP. You can perform all of the functions in VPFS that were available in PFOP, with the exception of a few functions that are no longer needed because of the new built-in security controls. One of the major changes is that VPFS is a centralized system. With PFOP, each site used a stand-alone copy of the software and there were differences between local versions, such as data structures, business rules, etc. With VPFS, all sites access the same centralized application using a web browser over the VHA secure Intranet. VPFS stores all data for all sites in one centralized database. Access to the data in the database is controlled by security software that limits access according to VistA site and user role.
 
 [[veterans-point-of-service]]
-==  +
-Veterans Point of Service
+=== Veterans Point of Service
 
 *Version*: 1.0
 
@@ -6196,8 +6163,7 @@ The Department of Veterans Affairs (VA), Department of Defense (DoD), and other 
 eHealth Exchange is a query-based exchange where a clinician from one organization can request, receive and display health information from other participating organizations that know the patient. The health information exchanged is primarily a health summary document knows as a Continuity of Care Document (CCD or C32) and associated clinical notes.
 
 [[virtual-patient-record-vpr]]
-==  +
-Virtual Patient Record (VPR)
+=== Virtual Patient Record (VPR)
 
 *Version*: 1.0
 
@@ -6222,8 +6188,7 @@ Virtual Patient Record (VPR)
 *Full Description and Features:* VPR extracts patient data from domains at local and remote VistA sites to provide a cached view of patient charts. It provides normalized fields with common field names and data structures across domains. VPR includes four remote procedure calls (RPCs), which extract data from VistA in different formats (JSON, XML) and returns the current version number for VPR. Software has patient record JSON data export capability.
 
 [[vista-imaging-system]]
-==  +
-VistA Imaging System
+=== VistA Imaging System
 
 *Version*: 3.0
 
@@ -6351,8 +6316,7 @@ Features include:
 In case of disasters, the images of displaced patients are available at other VA facilities. [[_Toc530402550]][[_Toc530402552]][[_Toc530402554]][[_Toc530402556]][[_Toc530402558]][[_Toc530402560]][[_Toc530402562]][[_Toc530402564]][[_Toc530402566]][[_Toc530402568]][[_Toc530402570]][[_Toc530402572]]
 
 [[visual-impairment-service-team]]
-==  +
-Visual Impairment Service Team
+=== Visual Impairment Service Team
 
 *Version*: 4.0
 
@@ -6495,8 +6459,7 @@ Management Reports is the portion of the software used to print epidemiological 
 Manager's Functions is that portion of the software that provides the ADPAC with a set of utilities for configuring the software to the specific needs of the site. It also provides utilities for other program needs such as customizing tables, making special edits to patient data (e.g., pregnancy log, PAP regiment log), printing notification letters, running error reports, and documenting laboratory results. By using the File Maintenance options under the Manager's Functions menu, it is possible to maintain site specific parameters such as the text of form letters, the types of notifications and their synonyms, how and when letters get printed, and several defaults relating to dates.
 
 [[wounded-injured-and-ill-warriors]]
-==  +
-Wounded, Injured and Ill Warriors
+=== Wounded, Injured and Ill Warriors
 
 *Version*: 1.0
 
@@ -6697,8 +6660,7 @@ Release 1.2 introduces critical viewer edition enhancements to provide new capab
 *Note:* This product has been decommissioned and will not appear in future versions of the Monograph.
 
 [[incident-reporting]]
-==  +
-Incident Reporting
+=== Incident Reporting
 
 *Version*: 2.0
 
@@ -6743,8 +6705,7 @@ Provides an ad hoc reporting mechanism that uses VA FileMan modifiers for sortin
 *Note:* This product has been identified for decommissioning (with patch QAN*2*34) and will not appear in future versions of the Monograph.
 
 [[integrated-funds-distribution-control-point-activity-accounting-and-procurement-ifcap]]
-==  +
-Integrated Funds Distribution, Control Point Activity, Accounting and Procurement (IFCAP)
+=== Integrated Funds Distribution, Control Point Activity, Accounting and Procurement (IFCAP)
 
 *Version*: 5.1
 
@@ -6797,8 +6758,7 @@ Integrated Funds Distribution, Control Point Activity, Accounting and Procuremen
 *Note:* This product has been identified for decommissioning and will not appear in future versions of the Monograph.
 
 [[library]]
-==  +
-Library
+=== Library
 
 *Version*: 2.5
 
@@ -6840,8 +6800,7 @@ The Serials Control module has three components. The Serials Management componen
 *Note:* This product has been decommissioned and will not appear in future versions of the Monograph.
 
 [[medical-domain-web-services-mdws]]
-==  +
-Medical Domain Web Services (MDWS)
+=== Medical Domain Web Services (MDWS)
 
 *Version*: 1.0
 
@@ -6868,8 +6827,7 @@ Medical Domain Web Services (MDWS)
 *Note:* This product has been identified for decommissioning and will not appear in future versions of the Monograph.
 
 [[patient-advocate-tracking-system-pats]]
-==  +
-Patient Advocate Tracking System (PATS)
+=== Patient Advocate Tracking System (PATS)
 
 *Version*: 1.0.2
 
@@ -6934,8 +6892,7 @@ Enhanced in April 2013 to introduce the Inquiry Routing and Information System (
 *Note:* This product has been identified for replacement and subsequent decommissioning and will not appear in future versions of the Monograph.
 
 [[personnel-and-accounting-integrated-data-paid]]
-==  +
-Personnel and Accounting Integrated Data (PAID)
+=== Personnel and Accounting Integrated Data (PAID)
 
 *Version*: 4.0
 
@@ -6968,8 +6925,7 @@ Personnel and Accounting Integrated Data (PAID)
 *Note:* This product has been identified for decommissioning and will not appear in future versions of the Monograph.
 
 [[personnel-and-accounting-integrated-data-paid-enhanced-time-and-attendance-eta]]
-==  +
-Personnel and Accounting Integrated Data (PAID): Enhanced Time and Attendance (ETA)
+=== Personnel and Accounting Integrated Data (PAID): Enhanced Time and Attendance (ETA)
 
 *Version*: 4.0
 
@@ -7004,8 +6960,7 @@ Personnel and Accounting Integrated Data (PAID): Enhanced Time and Attendance (E
 *Note:* This product has been identified for replacement (by the Veterans Affairs Time and Attendance System (VATAS) scheduled for completion by July 2018) and subsequent decommissioning and will not appear in future versions of the Monograph.
 
 [[primary-care-management-module]]
-==  +
-Primary Care Management Module
+=== Primary Care Management Module
 
 *Version*: 1.0
 
@@ -7046,8 +7001,7 @@ The primary care patient, provider, and team information captured in PCMM is sen
 *Note:* This product has been replaced by Patient Centered Management Module Web (PCMM Web) and will not appear in future versions of the Monograph.
 
 [[slotmaster-kernel-zslot]]
-==  +
-SlotMaster (Kernel ZSLOT)
+=== SlotMaster (Kernel ZSLOT)
 
 *Version*: 8.0
 
@@ -7119,8 +7073,7 @@ SlotMaster also conserves system resources by re-using the same VMS process for 
 *Note:* This product has been identified for decommissioning and will not appear in future versions of the Monograph.
 
 [[spinal-cord-injury-and-disorders-outcomes-scido]]
-==  +
-Spinal Cord Injury and Disorders Outcomes (SCIDO)
+=== Spinal Cord Injury and Disorders Outcomes (SCIDO)
 
 *Version*: 3.0
 
@@ -7147,8 +7100,7 @@ Spinal Cord Injury and Disorders Outcomes (SCIDO)
 *Note:* This product has been decommissioned and will not appear in future versions of the Monograph.
 
 [[vistaweb]]
-==  +
-VistAWeb
+=== VistAWeb
 
 *Version*: 1.0 (SEE NOTE)
 
@@ -7646,8 +7598,7 @@ Provides the full range of automated chemotherapy administration and advanced sa
 * Sends drug interaction alerts
 
 [[resources]]
-==  +
-Resources
+=== Resources
 
  
 
