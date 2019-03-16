@@ -37,11 +37,7 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
     ``code VA_Monograph_2019.adoc``
 
 4. __Enable section numbering and TOC generation__
-For section numbering and table of contents to be auto-generated, sections must be marked at the appropriate level (=Title ==Section ===SubSection ====SubSubSection...) then at the top of the document place: 
-
-:toc:
-
-:sectnums:
+For section numbering and table of contents to be auto-generated, sections must be marked at the appropriate level (=Title ==Section ===SubSection ====SubSubSection...) then at the top of the document place asciidoc markup   :toc:  and  :sectnums:
 
 5. __Resulting document displayed in Github__
 
