@@ -48,8 +48,10 @@ For section numbering and table of contents to be auto-generated, sections must 
 ## Reference
 
 1. Generating TOC for Jekyll-generated websites
-    https://github.com/asciidoctor/jekyll-asciidoc#generating-a-table-of-contents
+
+        https://github.com/asciidoctor/jekyll-asciidoc#generating-a-table-of-contents
 
 2. Asciidoctor User Manual
-   https://asciidoctor.org/docs/user-manual
+
+       https://asciidoctor.org/docs/user-manual
 
