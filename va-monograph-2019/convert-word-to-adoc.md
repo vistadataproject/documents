@@ -1,4 +1,4 @@
-## Migrating from MS Word to AsciiDoc
+# Migrating from MS Word to AsciiDoc
 
 Source: https://asciidoctor.org/docs/migrating-from-msword/
 
@@ -6,7 +6,7 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 ## Prerequisites
 
 * Install pandoc:
-brew install pandoc
+``brew install pandoc``
 
 * Install Visual Studio Code
 https://code.visualstudio.com/
@@ -31,7 +31,7 @@ https://www.va.gov/VA_Monograph_2019.docx
 ``code VA_Monograph_2019.adoc``
 
 * Resulting document displayed in Github
-* 
+https://github.com/vistadataproject/documents/blob/master/va-monograph-2019/va_monograph_2018a.adoc
 
 ## Reference: Asciidoctor User Manual
 https://asciidoctor.org/docs/user-manual
