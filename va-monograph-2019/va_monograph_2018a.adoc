@@ -279,8 +279,11 @@ Monograph template format includes:
 * Adds Administrative Cost Adjustment option to allow adjustment to balance and for it to be recognized
 
 
+
+
+
 [[admission-discharge-transfer-adtregistration]]
-== Admission, Discharge, Transfer (ADT)/Registration
+=== Admission, Discharge, Transfer (ADT)/Registration
 
 *Version*: 5.3
 
