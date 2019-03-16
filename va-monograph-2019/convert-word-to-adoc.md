@@ -39,6 +39,16 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 4. __Resulting document displayed in Github__
 
     https://github.com/vistadataproject/documents/blob/master/va-monograph-2019/va_monograph_2018a.adoc
+    
+ ## Getting started with Asciidoc features
+ The first thing you will want to do is get all the section numbering auto-generated, as well as table of contents. Do do this add:
+ 
+ ``
+:toc:
+:toclevels: 4
+:sectnums:
+``
+
 
 ## Reference: Asciidoctor User Manual
 https://asciidoctor.org/docs/user-manual
