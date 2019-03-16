@@ -43,11 +43,10 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
  ### Key Asciidoc features: Section numbering and TOC
 For section numbering and table of contents to be auto-generated,  you will need to make sure sections are tagged at the appropriate level (=Title ==Section ===SubSection ====SubSubSection...)  then put at the top of the document:
  
- ``
+
 :toc:
 
 :sectnums:
-``
 
 
 ## Reference: Asciidoctor User Manual
