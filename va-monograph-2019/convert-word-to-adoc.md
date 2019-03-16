@@ -45,7 +45,9 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
  
  ``
 :toc:
+
 :toclevels: 4
+
 :sectnums:
 ``
 
