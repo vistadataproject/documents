@@ -1,14 +1,16 @@
 # VA Monograph
+
 September 21, 2018
-
-
 
 Office of Information and Technology, 
 Enterprise Program Management Office, 
 Transition, Release & Support, 
 Health Product Support 
 
+Source: https://www.va.gov/VA_Monograph_2019.docx
 
+
+``
 Table of Contents
 1.	Introduction to the VA Monograph	9
 1.1.	VistA Development Historical Overview	9
@@ -214,7 +216,7 @@ Table of Contents
 2.103.11.	Telecare Record Manager (TRM)	340
 2.103.12.	VistA Chemotherapy Manager (VCM)	342
 3.	Resources	343
-
+``
 
 
 
