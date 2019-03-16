@@ -7,24 +7,23 @@ September 21, 2018
 image:extracted-media/media/image1.jpg[The official seal of the Department of Veterans Affairs.,title="VA Seal",width=199,height=199]
 
 
-____________________________________________________________________________________________________________________________________
 Office of Information and Technology, 
 Enterprise Program Management Office, 
 Transition, Release & Support, 
-Health Product Support +
-____________________________________________________________________________________________________________________________________
+Health Product Support
 
-* +
-*
+
 
 [[introduction-to-the-va-monograph]]
 == Introduction to the VA Monograph
 
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 This U.S. Department of Veterans Affairs (VA) Monograph provides an overview of the Veterans Health Information Systems and Technology Architecture (VistA) and non-VistA applications used by the Veterans Health Administration (VHA) in serving America’s veterans. The collection serves as an introduction and resource to VHA software.
 
 Each application entry in the monograph contains the VA Module Name, Version, Namespace, Business Function Framework Line(s) of Business and Functions(s), Business Owner, and mapping and linkage to http://vaww.ea.oit.va.gov/enterprise-architecture/va-systems-inventory/[VA Systems Inventory (VASI)] and https://www.va.gov/vdl/section.asp?secid=2[VistA Documentation Library (VDL)].
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
 
 [[vista-development-historical-overview]]
 === VistA Development Historical Overview
@@ -45,9 +44,10 @@ VistA has been widely recognized as a premier, tightly integrated computerized p
 
 As the implementation of Electronic Health Records (EHR) increases, VHA can claim to have pioneered many aspects of the enterprise-wide discipline. VistA’s patient-centric focus embodies the clinical workflow processes that support VA’s models of care, and VistA has led to measurable improvements in patient health.
 
+
+
 [[why-a-va-monograph]]
-==  +
-Why a VA Monograph? 
+=== Why a VA Monograph? 
 
 The purpose of the VA Monograph is to present a brief and user-friendly overview of the VistA applications. It also provides additional resources for technical information and identifies the VA offices that maintain the Monograph.
 
@@ -58,6 +58,8 @@ The purpose of the VA Monograph is to present a brief and user-friendly overview
 
 The VA Monograph is available at the following VA website: http://www.va.gov/vista_monograph/
 
+
+
 [[what-is-vista]]
 === What is VistA?
 
@@ -66,6 +68,8 @@ VistA is a comprehensive, full-featured Health Information System and Electronic
 VistA supports a large variety of clinical settings. Facilities range from small clinics that provide solely outpatient care to large medical centers with significant inpatient populations and their associated specialties. The VistA applications focus on clinically relevant record keeping that improves patient care by improving clinical and administrative decision making.
 
 VistA is deployed across VHA at more than 1,500 sites of care, including each Veterans Affairs Medical Center (VAMC), Community Based Outpatient Clinics (CBOC) and Community Living Centers (CLC), as well as at nearly 300 VA Vet Centers. VistA serves America’s Veterans by supporting exceptional-quality health care.
+
+
 
 [[vista-brief-technical-overview]]
 === VistA Brief Technical Overview
@@ -78,6 +82,8 @@ The Kernel software component of VistA acts as the middle-man between the operat
 
 VistA encompasses many distinct applications, thousands of routines, and millions of lines of computer code.
 
+
+
 [[where-is-vista-used-within-vha]]
 === Where is VistA used within VHA?
 
@@ -88,9 +94,10 @@ VistA is deployed universally across VHA at more than 1,500 care sites, includin
 [[how-do-i-request-changes-to-vista]]
 == How do I request changes to VistA?
 
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 VHA customers can propose enhancements to VistA through the https://vaww.vashare.vha.va.gov/sites/RDM/SitePages/Home.aspx[Requirements Development & Management] (RDM) https://vaww.vashare.vha.va.gov/sites/RDM/Pages/NewServiceRequests.aspx[New Service Request Database (NSRD)] portal.
-___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
 
 [[i-am-not-in-vha-may-i-obtain-vista-for-my-use]]
 === I am not in VHA; may I obtain VistA for my use?
@@ -109,12 +116,20 @@ VA is committed to the Open Source community and was instrumental in establishin
 
 VistA is a comprehensive, full-featured Health Information System (HIS) and EHR. The software must be properly installed and configured for each healthcare setting by individuals knowledgeable about the software before the system can support healthcare delivery.
 
+
+
 [[how-do-i-recommend-changes-to-or-ask-questions-about-the-va-monograph]]
 === How do I recommend changes to or ask questions about the VA Monograph? 
 
 Comments and suggestions for changes to the VA Monograph are welcomed and should be forwarded via email to the OIT EPMO Product Support Monograph mail group:
 
 OITPDProductSupportMonograph@va.gov
+
+
+
+
+
+
 
 
 
