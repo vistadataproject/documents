@@ -39,6 +39,15 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 4. __Resulting document displayed in Github__
 
     https://github.com/vistadataproject/documents/blob/master/va-monograph-2019/va_monograph_2018a.adoc
+    
+ ### Key Asciidoc features: Section numbering and TOC
+For section numbering and table of contents to be auto-generated,  you will need to make sure sections are tagged at the appropriate level (=Title ==Section ===SubSection ====SubSubSection...)  then put at the top of the document:
+ 
+
+:toc:
+
+:sectnums:
+
 
 ## Reference: Asciidoctor User Manual
 https://asciidoctor.org/docs/user-manual
