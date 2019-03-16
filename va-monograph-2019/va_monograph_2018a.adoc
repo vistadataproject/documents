@@ -1,6 +1,11 @@
+
+[[va-monograph]]
+= VA Monograph
+
 September 21, 2018
 
 image:extracted-media/media/image1.jpg[The official seal of the Department of Veterans Affairs.,title="VA Seal",width=199,height=199]
+
 
 ____________________________________________________________________________________________________________________________________
 Office of Information and Technology, 
@@ -22,7 +27,7 @@ Each application entry in the monograph contains the VA Module Name, Version, Na
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 [[vista-development-historical-overview]]
-== VistA Development Historical Overview
+=== VistA Development Historical Overview
 
  
 
@@ -49,12 +54,12 @@ The purpose of the VA Monograph is to present a brief and user-friendly overview
  
 
 [[where-can-i-find-the-va-monograph]]
-== Where can I find the VA Monograph? 
+=== Where can I find the VA Monograph? 
 
 The VA Monograph is available at the following VA website: http://www.va.gov/vista_monograph/
 
 [[what-is-vista]]
-== What is VistA?
+=== What is VistA?
 
 VistA is a comprehensive, full-featured Health Information System and Electronic Health Record. The software must be properly configured at each healthcare setting by individuals knowledgeable about the software before the system is used to support healthcare delivery. VistA does not self-install.
 
@@ -63,7 +68,7 @@ VistA supports a large variety of clinical settings. Facilities range from small
 VistA is deployed across VHA at more than 1,500 sites of care, including each Veterans Affairs Medical Center (VAMC), Community Based Outpatient Clinics (CBOC) and Community Living Centers (CLC), as well as at nearly 300 VA Vet Centers. VistA serves America’s Veterans by supporting exceptional-quality health care.
 
 [[vista-brief-technical-overview]]
-== VistA Brief Technical Overview
+=== VistA Brief Technical Overview
 
  
 
@@ -74,7 +79,7 @@ The Kernel software component of VistA acts as the middle-man between the operat
 VistA encompasses many distinct applications, thousands of routines, and millions of lines of computer code.
 
 [[where-is-vista-used-within-vha]]
-== Where is VistA used within VHA?
+=== Where is VistA used within VHA?
 
 VistA is deployed universally across VHA at more than 1,500 care sites, including each Veterans Affairs Medical Center (VAMC), Community Based Outpatient Clinic (CBOC), Community Living Center (CLC), and nearly 300 VA Vet Centers.
 
@@ -88,7 +93,7 @@ VHA customers can propose enhancements to VistA through the https://vaww.vashare
 ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 [[i-am-not-in-vha-may-i-obtain-vista-for-my-use]]
-== I am not in VHA; may I obtain VistA for my use?
+=== I am not in VHA; may I obtain VistA for my use?
 
 VistA software applications can be obtained through the Freedom of Information Act (FOIA). FOIA requests should be directed to:
 
@@ -105,11 +110,15 @@ VA is committed to the Open Source community and was instrumental in establishin
 VistA is a comprehensive, full-featured Health Information System (HIS) and EHR. The software must be properly installed and configured for each healthcare setting by individuals knowledgeable about the software before the system can support healthcare delivery.
 
 [[how-do-i-recommend-changes-to-or-ask-questions-about-the-va-monograph]]
-== How do I recommend changes to or ask questions about the VA Monograph? 
+=== How do I recommend changes to or ask questions about the VA Monograph? 
 
 Comments and suggestions for changes to the VA Monograph are welcomed and should be forwarded via email to the OIT EPMO Product Support Monograph mail group:
 
 OITPDProductSupportMonograph@va.gov
+
+
+
+
 
 [[the-vista-modules]]
 == The VistA Modules
@@ -125,8 +134,9 @@ Monograph template format includes:
 * *Business Owner -* refers to the office or organization within VHA with primary business responsibility for the module, this information changes over time and can be checked real-time by using the VASI link provided.
 * *VASI ID* and *VASI ID link -* The VASI ID is the unique ID assigned to a system and the VASI ID is a direct link to that entry which contains information in addition to information contained within this Monograph.
 * *VDL link -* The VDL link will take you to the VDL folder that contains all documentation on nationally released products.
-* 1.  [[accounts-receivable]]
-== Accounts Receivable
+
+[[accounts-receivable]]
+=== Accounts Receivable
 
 *Version*: 4.5
 
@@ -246,9 +256,10 @@ Monograph template format includes:
 * Allows AM Clerk access to the Admin Cost Adjustment option
 * Fixes duplicate EFT deposits in the Audit Report
 * Adds Administrative Cost Adjustment option to allow adjustment to balance and for it to be recognized
-1.  [[admission-discharge-transfer-adtregistration]]
-==  +
-Admission, Discharge, Transfer (ADT)/Registration
+
+
+[[admission-discharge-transfer-adtregistration]]
+== Admission, Discharge, Transfer (ADT)/Registration
 
 *Version*: 5.3
 
@@ -288,9 +299,10 @@ Admission, Discharge, Transfer (ADT)/Registration
 * ICD-10 code compliant
 * Fugitive Felon Program Public Law 107-103 section 505 compliant, which prohibits federal agencies from providing certain benefits to persons who are fugitive felons
 * Military Sexual Trauma (MST) compliant with the VHA Directive in providing appropriate care and counseling to veterans determined to have been a victim of sexual trauma while the veteran was serving on active duty
-1.  [[fugitive-felon-program]]
-==  +
-Fugitive Felon Program
+
+
+[[fugitive-felon-program]]
+==== Fugitive Felon Program
 
 *Version*: 1.0
 
@@ -319,7 +331,9 @@ Fugitive Felon Program
 * Functionality
 * Reports
 * Issues
-1.  [[anticoagulation-management-tool]]
+
+
+[[anticoagulation-management-tool]]
 == Anticoagulation Management Tool
 
 *Version*: 1.0
@@ -381,9 +395,9 @@ Provides a form design utility that allows creation of attractive and easy to us
 * Updated in June, 2014 to support ICD-10 functionality
 * Updated in January 2015. APIs called to retrieve encounter form information for CPRS were optimized and streamlined to improve timely displays and performance
 * Updated in December 2015. DD change for Type of Visit File: A request was made to update the SHORT NAME (#.015) field in the TYPE OF VISIT (#357.69) file. This field is computed using a pointer to the SHORT NAME (#2) field in the CPT (#81) file; a field that was removed by patch ICPT*6.0*46. This patch redefined the computed expression used in the SHORT NAME (#.015) field to use an API to populate the SHORT NAME data. The value of the SHORT NAME (#.015) computed expression was changed to use the CPT^ICPTCOD API which will populate the correct SHORT NAME data.
-1.  [[automated-medical-information-exchange-amie]]
-==  +
-Automated Medical Information Exchange (AMIE)
+
+[[automated-medical-information-exchange-amie]]
+=== Automated Medical Information Exchange (AMIE)
 
 *Version*: 2.7
 
@@ -414,9 +428,9 @@ Automated Medical Information Exchange (AMIE)
 * Improves timeliness of the RO benefits adjustment processing
 * Allows medical centers to electronically access sections of the Physicians Guide for Disability Evaluation Examinations
 * Provides tracking of insufficiently completed compensation and pension examinations
-1.  [[bed-management-solution-bms]]
-==  +
-Bed Management Solution (BMS)
+
+[[bed-management-solution-bms]]
+=== Bed Management Solution (BMS)
 
 *Version*: 2.3
 
@@ -453,9 +467,9 @@ Bed Management Solution (BMS)
 * Store patient, operational, and transaction data, as needed to support and report on bed management, throughput events and cycle time data
 * Provide the ability for utilization in a multidivisional, integrated site environment with the ability to produce multi-site reports
 * Facilitate efficient flow operations at multiple levels and provides reports on the performance of bed management activities, thus enabling VAMCs and VISNs to track key performance indicators and to impact performance on Deputy Under Secretary for Health (DUSH) monitors and guidelines
-1.  [[blind-rehabilitation]]
-==  +
-Blind Rehabilitation
+
+[[blind-rehabilitation]]
+=== Blind Rehabilitation
 
 *Version*: 5.1
 
@@ -508,9 +522,13 @@ In addition to providing the base functionality of the BR 4.0 system, BR 5.1 pro
 * Enables Research and Provides Outcomes tracking and reporting capabilities
 * Improves VHA organizational communication
 * Transmits to the Health Data Repository (HDR)
-1.  [[clinical-case-registries-ccr]]
-==  +
-Clinical Case Registries (CCR)
+
+
+
+
+
+[[clinical-case-registries-ccr]]
+=== Clinical Case Registries (CCR)
 
 *Version*: 1.5
 
@@ -546,9 +564,11 @@ Two national registries are also included in CCR. They will be discussed separat
 * Facilitates the tracking of patient outcomes relative to treatment
 * Identifies and tracks important trends in treatment response, adverse events, and time on therapy
 * Monitors quality of care using both process and patient outcome measures
-1.  [[hepatitis-c-hepc]]
-==  +
-Hepatitis C (HepC)
+
+
+
+[[hepatitis-c-hepc]]
+==== Hepatitis C (HepC)
 
 *Version*: 1.5
 
@@ -590,9 +610,11 @@ The registry extracts VistA data across various applications like pharmacy, labo
 * Automatic nightly updates to the national registry list
 * Use of a uniform M (formerly MUMPS) program backbone that can be used for other disease case registries
 * The transformation of VistA data into standard Health Level Seven (HL7) formatted messages for transmission, including limited validation checks, error messaging, etc.
-1.  [[human-immunodeficiency-virus-hiv]]
-==  +
-Human Immunodeficiency Virus (HIV)
+
+
+
+[[human-immunodeficiency-virus-hiv]]
+==== Human Immunodeficiency Virus (HIV)
 
 *Version*: 1.5
 
@@ -630,9 +652,11 @@ The key capabilities provided by the CCR:HIV to VA facilities that provide care 
 * Verifies workload for VERA reimbursement
 * Automates notification to HIV coordinators that data was sent to and received by the national database
 * Automates extraction of data to the national registry
-1.  [[traumatic-brain-injury-registry-tbi]]
-==  +
-Traumatic Brain Injury Registry (TBI)
+
+
+
+[[traumatic-brain-injury-registry-tbi]]
+==== Traumatic Brain Injury Registry (TBI)
 
 *Version*: 2.0
 
@@ -676,9 +700,9 @@ The set of TBI Instruments include the Comprehensive TBI Evaluation, TBI Follow-
 * Insomnia Severity Index
 * Pain Outcomes Questionnaire for Intake, Discharge, and Follow-up
 * World Health Organization Disability Assessment Schedule
-1.  [[clinical-information-support-system-ciss]]
-==  +
-Clinical Information Support System (CISS)
+
+[[clinical-information-support-system-ciss]]
+=== Clinical Information Support System (CISS)
 
 *Version*: 1.0
 
@@ -710,9 +734,9 @@ Other candidate legacy applications that are planned for modernization to furthe
 
 * Automated Safety Incident Surveillance and Tracking System (ASISTS)
 * Workers Compensation/Occupational Safety and Health Management Information System (WC/OSH MIS (WC/OSH-MIS)
-1.  [[clinical-monitoring-system]]
-==  +
-Clinical Monitoring System
+
+[[clinical-monitoring-system]]
+=== Clinical Monitoring System
 
 *Version*: 1.0
 
@@ -742,9 +766,9 @@ Clinical Monitoring System
 * Provides a mechanism to add site-developed conditions and data elements and routines such as site-designed worksheets to the software. MUMPS programming is a required part of site-specific enhancement
 * Provides mechanisms for controlling the disk space and CPU time resources used by the Clinical Monitoring System
 * Allows the user to manually enter cases
-1.  [[clinical-procedures]]
-==  +
-Clinical Procedures
+
+[[clinical-procedures]]
+=== Clinical Procedures
 
 *Version*: 1.0
 
@@ -788,9 +812,9 @@ MD*1.0*16 patch release provides:
 * Publication of data to CPRS (CliO service architecture and Text Integration Utilities notes)
 * User-friendly Clinical Procedures Console, configurable by user
 * ICD-10 code compliant
-1.  [[compensation-and-pension-record-interchange-capri]]
-==  +
-Compensation and Pension Record Interchange (CAPRI)
+
+[[compensation-and-pension-record-interchange-capri]]
+=== Compensation and Pension Record Interchange (CAPRI)
 
 *Version*: 2.7
 
@@ -843,9 +867,9 @@ Using CAPRI, VBA employees have a standardized, user-friendly method to rapidly 
 * View imaging
 * View procedures
 * View FHIE/DoD data, if available
-1.  [[consolidated-mail-output-pharmacy-cmop]]
-==  +
-Consolidated Mail Output Pharmacy (CMOP)
+
+[[consolidated-mail-output-pharmacy-cmop]]
+=== Consolidated Mail Output Pharmacy (CMOP)
 
 *Version*: 2.0
 
@@ -874,12 +898,12 @@ Consolidated Mail Output Pharmacy (CMOP)
 * Prescriptions are transmitted electronically from the medical facility to the automated prescription dispensing equipment, checked by a pharmacist, mailed to the patient, and information on the prescription filled is returned to update the medical center database
 * The process is highly integrated with the Outpatient Pharmacy software and requires no additional processing by pharmacy personnel responsible for entering the prescription
 * All prescriptions are automatically screened by the CMOP software and set for transmission if appropriate
-1.  [[computerized-patient-record-system-cprs]]
-==  +
-Computerized Patient Record System (CPRS)
-1.  [[adverse-reaction-tracking-art]]
-== Adverse Reaction Tracking (ART)
 
+[[computerized-patient-record-system-cprs]]
+=== Computerized Patient Record System (CPRS)
+
+[[adverse-reaction-tracking-art]]
+== Adverse Reaction Tracking (A= 
 *Version*: 4.0
 
 *Namespace:* GMRA
@@ -920,9 +944,9 @@ Combined with Remote Data Interoperability (RDI), it includes remote allergy dat
 * Allows for the addition of comments for each reaction to ensure completeness in reporting
 * Contains extensive reporting capabilities
 * Contains an online reference guide
-1.  [[authorizationsubscription-asu]]
-==  +
-Authorization/Subscription (ASU)
+
+[[authorizationsubscription-asu]]
+=== Authorization/Subscription (ASU)
 
 *Version*: 1.0
 
@@ -952,9 +976,9 @@ Authorization/Subscription (ASU)
 * Membership in classes may be schedule for automatic transition to other classes.
 * Lists class members as active or inactive
 * Allows infinite hierarchies of subclasses
-1.  [[clinical-reminders]]
-==  +
-Clinical Reminders
+
+[[clinical-reminders]]
+=== Clinical Reminders
 
 *Version*: 2.0
 
@@ -987,9 +1011,9 @@ Clinical Reminders
 * Provide aggregate reports that assist clinicians in managing their entire patient caseload
 * Support national clinical practice guidelines
 * ICD-10 code compliant
-1.  [[consultrequest-tracking]]
-==  +
-Consult/Request Tracking
+
+[[consultrequest-tracking]]
+=== Consult/Request Tracking
 
 *Version*: 3.0
 
@@ -1025,9 +1049,9 @@ Consult/Request Tracking
 * ICD-10 code compliant
 * Clinically Indicated Date is provided for consults that need to be in the future
 * Allows HL7 communication between the consult system and the Healthcare Claims Processing System (HPCS)
-1.  [[group-notes]]
-==  +
-Group Notes
+
+[[group-notes]]
+=== Group Notes
 
 *Version*: 1.0
 
@@ -1106,9 +1130,9 @@ Health Summary integrates data from the following packages:
 * Exports components that allow staff to view remote patient data through CPRS. Additionally, remote clinical data can be viewed using any Health Summary Type that has an identically named Health Summary Type installed at both the local and remote sites
 * Clinical Reminders work with Health Summary to furnish providers with timely information about their patient's health maintenance schedules
 * Health Summary components "Progress Notes" and "Selected Progress Notes" will display interdisciplinary progress notes and all of the entries associated with the interdisciplinary notes
-1.  [[problem-list]]
-==  +
-Problem List
+
+[[problem-list]]
+=== Problem List
 
 *Version*: 2.0
 
@@ -1143,9 +1167,9 @@ Problem List
 * Accommodates the user of the Systematic Nomenclature of Medicine - Clinical Terms (SNOMED CT) for selection of Patient Problems
 * Works with Standard Data Service (SDS) to implement SNOMED CT on both the Enterprise Terminal Server and the Clinical Lexicon, using the New Term Rapid Turnaround (NTRT) strategy for vetting and deployment of novel clinical expressions
 * Problem List display and print option render the diagnostic codes as either ICD-9-CM or ICD-10-CM, depending upon the date when the code for the problem was last edited
-1.  [[text-integration-utilities-tiu]]
-==  +
-Text Integration Utilities (TIU)
+
+[[text-integration-utilities-tiu]]
+=== Text Integration Utilities (TIU)
 
 *Version*: 1.0
 
@@ -1187,9 +1211,9 @@ TIU follows HL7 interface and other communication standards.
 * Allows a variety of management functions, including amendment, deletion/retraction, and identification of signature surrogate, re-assignment, and administrative authentication
 * Allows for the set up of Crisis, Warning, Allergies, and/or Adverse Reactions, and Advance Directives (CWAD)/Postings Auto-Demotion. CWAD is a section of CPRS used for posting progress notes which are more important than standard level notes. These progress notes are made more easily available throughout CPRS. The postings dialog box can become full of CWAD notes, resulting in important notes from being easily distinguishable from less important notes. Auto-demotion set up allows previously designated notes from the CWAD postings to be changed to a regular note status based on various criteria, such as the passage of time or a new note of a particular title being written which supersedes the existing CWAD note
 * Allows the set up of TIU Text alerts which sends a TIU alert to the appropriate service provider(s) immediately after a staff member screens a patient and signs the associated notes. Set up includes defining words or phrases that will be searched for in a TIU document (progress note, consult, etc.). If the words or phrase are found in the TIU document, then an alert is sent to the team(s) specified in the TIU text events file
-1.  [[cross-application-integration-protocol-caip]]
-==  +
-Cross Application Integration Protocol (CAIP)
+
+[[cross-application-integration-protocol-caip]]
+=== Cross Application Integration Protocol (CAIP)
 
 *Version*:
 
@@ -1220,9 +1244,9 @@ The framework provides:
 * Business Delegate interfaces for use by the Service Provider when developing Business Delegates for their services
 * Consumer-Side/Technology Adaptation to the Service Facades of the service
 * Implementation of the Business Delegate Factory, which uses the Service Locator to find service information from the Naming and Directory Service
-1.  [[decision-support-system-dss-extracts]]
-==  +
-Decision Support System (DSS) Extracts
+
+[[decision-support-system-dss-extracts]]
+=== Decision Support System (DSS) Extracts
 
 *Version*: 3.0
 
@@ -1268,9 +1292,9 @@ Data is extracted from the following Medical Records Extract Files:
 * Unit Dose Local (UDP) - 727.809 – UNIT DOSE LOCAL EXTRACT (UDP) File Data Definition
 * Uses a roll-and-scroll format that allows users to perform the various functions by selecting the appropriate menu options
 * Uses VA Mailman to transmit data to commercial software resident at the AITC
-1.  [[diagnostic-related-grouper-drg]]
-==  +
-Diagnostic Related Grouper (DRG)
+
+[[diagnostic-related-grouper-drg]]
+=== Diagnostic Related Grouper (DRG)
 
 *Version*: 18.0
 
@@ -1298,9 +1322,9 @@ Diagnostic Related Grouper (DRG)
 * Functions within or apart from other modules
 * Supplies detailed descriptions of DRGs, diagnostic codes, and operation/procedure codes
 * Accepts one primary diagnosis and multiple secondary diagnostic codes and operation/procedure codes. Displays weighted work unit values as well as national and local high and low trim point values for each DRG
-1.  [[duplicate-record-merge]]
-==  +
-Duplicate Record Merge
+
+[[duplicate-record-merge]]
+=== Duplicate Record Merge
 
 *Version*: 7.3
 
@@ -1324,8 +1348,8 @@ Duplicate Record Merge
 
 *Full Description and Features:* The overall process is broken down into these phases:
 
-1.  Duplicate patient records are identified by the VAMC staff or by a separate system interfaced with the Master Patient Index
-2.  VAMC staff review/verify the pairs and approve the pair
+
+Duplicate patient records are identified by the VAMC staff or by a separate system interfaced with the Master Patient In= 2.  VAMC staff review/verify the pairs and approve the pair
 3.  VAMC IT or expert users schedule and monitor merges of the pairs
 
 Initial search and identification of potential duplicate records is accomplished by performing comparisons on key patient traits in the centralized Person Service Identify Management (PSIM) database. It is the goal of PSIM to provide an authoritative source for persons’ identity traits throughout the Veterans Health Administration (VHA).
@@ -1382,9 +1406,9 @@ The ECME application provides the following features:
 * Enhanced in September 2017 to extend the capabilities of the electronic pharmacy (ePharmacy) billing system to include updating the ECME User Screen [BPS USER SCREEN] and changing the system so it can support new and modified data elements and fields for NCPDP Telecommunications versions published on/after January 2016. It also included "RED" Resubmit Claims w/EDITS hidden action under the ECME User Screen [BPS USER SCREEN] will no longer allow an OPECC to enter or edit a Submission Clarification Code if the reject is pending on the pharmacist's reject worklist or if the most recent transaction is resolved or unresolved for reject codes 79 Refill Too Soon and code 88 Drug Utilization review (DUR), and changing the main screen of the ECME User Screen [BPS USER SCREEN] to display a comment for only the most current transaction. Comments for previous Transaction(s) will continue to be available when accessing the CMT Add/View Comments action from the ECME User Screen (current functionality)
 * Enhanced in November 2017 to extend the capabilities of the electronic pharmacy (ePharmacy) billing system to include the new VER (View ePharmacy Rx) option, and to update the CV (Change View) action on the ECME User Screen and the ECME AUTO-REVERSAL PROCESS email bulletin. The system was also updated to support new data elements and fields for NCPDP Telecommunications versions published through October 2016. The Claim Log and the Claim Response Inquiry was updated to include the Facility ID Qualifier and the Reconciliation ID, and Option PHAR (Edit ECME Pharmacy Data) was updated to require entry for the prompt AUTO-REVERSAL PARAMETER. Finally, this release rectified an ongoing problem in which some TRICARE and CHAMPVA prescriptions on the CMOP queue would be left on the queue during CMOP processing because claim responses would not be received by VistA in a timely manner. This release modifies the claim submission process and the CMOP process so that certain checks will no longer be performed prematurely, allowing sufficient time for the claim responses to come back
 * Enhanced in August 2018 to extend the capabilities of the electronic pharmacy (ePharmacy) billing system. Several filters on the Change View (CV) action of ECME User Screen are being updated to allow the user to select one, many, or all. The user will also now be able to select a specific date range. The Rejected Claims Report is being modified to include three new filter questions, and several of the existing filter questions are being modified to allow selection of one, many, or all. The excel report is being modified to add new fields, truncate some fields, and delete other fields to prevent wrapping to another line. The Prescriber filter question is being modified to default to "A". The system is being updated to support new and modified External Code Lists (ECLs) for the NCPDP Telecommunications versions published through October 2017. The ePharmacy Medication Profile is being added as an action to VER View ePharmacy Rx. The system is being updated to allow for the new HIPAA regulatory requirements that increase the length of the following fields: Name of Insured, Group Number, Group Name and Subscriber ID. When the system builds an outgoing claim request, it includes on the claim only those fields appearing on the payer sheet provided by the payer. With this enhancement, the user will now be able to send additional fields not on the payer sheet via the RED Action from the ECME User Screen. This enhancement adds logic to transmit the appropriate values on secondary claims when the three fields are included on the payer sheet. Logic added to fields: Other Payer Patient Responsibility Amount, Amount Qualifier, and Amount Count
-1.  [[electronic-error-and-enhancement-reporting-e3r]]
-==  +
-Electronic Error and Enhancement Reporting (E3R)
+
+[[electronic-error-and-enhancement-reporting-e3r]]
+=== Electronic Error and Enhancement Reporting (E3R)
 
 *Version*: 1.0
 
@@ -1451,9 +1475,9 @@ Electronic Signature security features are based on the following requirements:
 
 * VistA Esig applications are required to authorize and authenticate their users
 * Infrastructure tools such as Kernel Authentication and Authorization for J2EE (KAAJEE) and FatKAAT (rich-client Kernel Authentication and Authorization) are mandated for use in indicated VistA Web-based and rich-client applications, respectively
-1.  [[emergency-department-integration-software-edis]]
-==  +
-Emergency Department Integration Software (EDIS)
+
+[[emergency-department-integration-software-edis]]
+=== Emergency Department Integration Software (EDIS)
 
 *Version*: 2.1
 
@@ -1483,9 +1507,9 @@ Emergency Department Integration Software (EDIS)
 * Removal of patients from the display board/entering of patient dispositions
 * Creation of administrative reports
 * Provides role-based access to specific functionality sets with views disabled based on these role-based access protocols
-1.  [[engineering-aemmers]]
-==  +
-Engineering (AEM/MERS)
+
+[[engineering-aemmers]]
+=== Engineering (AEM/MERS)
 
 *Version*: 7.0
 
@@ -1514,9 +1538,9 @@ Engineering (AEM/MERS)
 * Uses bar codes for equipment inventory and preventive maintenance. Completed work orders are automatically posted to equipment histories
 * The Project Tracking module is used to record significant events during construction and non- recurring maintenance projects when the management of such a project has been delegated to the facility
 * The Equipment Management module contains building features (square footage, floor coverings, window types, etc.) and keeps track of locks and keys. Provides capitalized personal property data to the Fixed Assets subsystem (FAP) of the Financial Management System (FMS)
-1.  [[enrollment-application-system]]
-==  +
-Enrollment Application System
+
+[[enrollment-application-system]]
+=== Enrollment Application System
 
 *Version*: 1.0
 
@@ -1670,9 +1694,9 @@ Enterprise Exception Log Services (EELS)
 * Provides robust capacity to facilitate event information activity from indicated locations
 * Organizes the errors from numerous locations into one database
 * Provides Analysis and Reporting functionality
-1.  [[equipment-turn-in-request]]
-==  +
-Equipment /Turn-In Request
+
+[[equipment-turn-in-request]]
+=== Equipment /Turn-In Request
 
 *Version*: 1.0
 
@@ -1720,9 +1744,9 @@ Turning in non-expendable equipment also requires several approval steps:
 * Personal Property Manager (PPM)
 * Engineering
 * Warehouse
-1.  [[event-capture-system]]
-==  +
-Event Capture System
+
+[[event-capture-system]]
+=== Event Capture System
 
 *Version*: 2.0
 
@@ -1769,9 +1793,9 @@ DSS Units typically represent the smallest identifiable work unit in a clinical 
 ** Allows user to upload patient encounter data to Event Capture from a spreadsheet
 ** Files encounter records in PCE for DSS Units defined to send data to PCE
 ** ICD-10 code compliant
-1.  [[fat-client-kernel-authentication-and-authorization-fatkaat]]
-==  +
-Fat Client Kernel Authentication and Authorization (FatKAAT)
+
+[[fat-client-kernel-authentication-and-authorization-fatkaat]]
+=== Fat Client Kernel Authentication and Authorization (FatKAAT)
 
 *Version*:
 
@@ -1808,9 +1832,9 @@ Ongoing initiatives to provide an enterprise user repository, enterprise single 
 * VistA M Server Test Patches (listed in patch number order): Kernel: XU*8.0*265 (RELEASED), Kernel: XU*8.0*337 (RELEASED), Kernel: XU*8.0*361 (RELEASED), Kernel: XU*8.0*376 (TEST), Kernel: XU*8.0*395 (RELEASED), RPC Broker: XWB*1.1*35 (RELEASED), Client Software: FatKAAT: V.1.0.0.110 (J2EE Software Distribution Zip File)
 * Depends On: VistA 1.0 (FileMan, Kernel, Kernel Toolkit, RPC Broker, VistALink)
 * The following packages depend on FatKAAT: VistA 1.0 (CPRS: Authorization Subscription Utility (ASU)), VistA 1.5 (My HealtheVet), Department Of Defense (DOD) Information Sharing (Clinical Data Repository / Health Data Repository (CHDR))
-1.  [[fee-basis]]
-==  +
-Fee Basis
+
+[[fee-basis]]
+=== Fee Basis
 
 *Version*: 3.5
 
@@ -1872,9 +1896,9 @@ State Home:
 * Provides the ability to track veterans receiving care provided by a state home facility
 * Enhanced in December 2014 to support The Intra-governmental Payment and Collection System (IPAC) which provides a standardized inter-agency fund transfer mechanism for Federal Program Agencies (FPA). It facilitates the intra-governmental transfer of funds, with descriptive data, from one FPA to another. Processing payments through IPAC provides the Financial Management Service (FMS) with the ability to meet its statutory requirements for accounting and reporting
 * Updated in February 2015 to allow the Diagnosis to be stored when entering payments
-1.  [[fileman-delphi-components-fdmc]]
-==  +
-FileMan Delphi Components (FDMC)
+
+[[fileman-delphi-components-fdmc]]
+=== FileMan Delphi Components (FDMC)
 
 *Version*: 1.0
 
@@ -1955,9 +1979,9 @@ Functional Independence Measures (FIM)
 * Visibility in CPRS of FIM documentation as a progress note with addendums and/or a completed consults
 * Eliminating the need for the clinician search of VistA for the information and re-enter for FIM
 * FIM data placement in a VistA FileMan file for Health Level Seven (HL7) transmission to the Functional Status and Outcome Database (FSOD) at Austin Information Technology Center (AITC)
-1.  [[generic-code-sheet]]
-==  +
-Generic Code Sheet
+
+[[generic-code-sheet]]
+=== Generic Code Sheet
 
 *Version*: 2.0
 
@@ -1990,9 +2014,9 @@ Generic Code Sheet
 * Allows easy on-line editing and modifications to code sheets and batche
 * Provides purge capabilities consistent with current regulations that require code sheet retention for seven years
 * Generates reports that detail the status of a code sheet or batch and prints the data contained within a code sheet or batch
-1.  [[health-data-informatics]]
-==  +
-Health Data Informatics
+
+[[health-data-informatics]]
+=== Health Data Informatics
 
 *Version*: 1.0
 
@@ -2231,9 +2255,9 @@ Many VistA applications use VistA HL7 to exchange data in HL7 format with other 
 * Processing: Queues incoming and outgoing messages for reliable messaging; validates HL7 Message Header (MSH) information for all incoming messages; and sends HL7 acknowledgment (ACK) messages back to sending applications upon message receipt
 * Message Administration: Provides functionality to assist the application developer in setting up HL7 interfaces by hiding the complex lower level communication; monitors message transmissions statuses; and provides reports on pending transmissions and those with errors
 * Programming Utilities: Provides the developer with a rich collection of Application Program Interfaces (API) to facilitate the creation, exchange, and transmission of messages; provides a set of predefined variables to use for building HL7 messages/segments; automatically creates all HL7 Message Header (MSH) segments; and invokes the appropriate application routine to process message data when a message is received
-1.  [[health-level-seven-optimized-hlo-vista-messaging]]
-==  +
-Health Level Seven Optimized (HLO) (VistA Messaging)
+
+[[health-level-seven-optimized-hlo-vista-messaging]]
+=== Health Level Seven Optimized (HLO) (VistA Messaging)
 
 *Version*: 1.6
 
@@ -2302,9 +2326,9 @@ Care
 * Enables the HBPC program manager to control and assess the staff workload and organizational characteristics
 * ICD-10 code compliant
 * An additional feature, Medical Foster Care, has been added to HBPC. Medical Foster Home (MFH) combines adult foster care in a privately owned residence located in the community with Home Based Primary Care (HBPC) or Spinal Cord Injury Home Care (SCI-HC). MFH offers an alternative to nursing home placement, merging personal care in a private home with medical & rehabilitation support from specialized VA home care programs. Veterans placed in MFH meet nursing home admission criteria and are responsible for MFH charges
-1.  [[home-telehealthintegrated-home-telehealth-ihta]]
-==  +
-Home Telehealth/Integrated Home Telehealth (IHTA)
+
+[[home-telehealthintegrated-home-telehealth-ihta]]
+=== Home Telehealth/Integrated Home Telehealth (IHTA)
 
 *Version*: DG V.5.3, WEBI V.11.5
 
@@ -2343,9 +2367,9 @@ This functionality involves components on the vendor servers as well as several 
 * Activate patient for HT care
 * Reports available in VHA Support Service Center (VSSC)
 * Reports available in IHTA website
-1.  [[homeless-management-information-hmis]]
-==  +
-Homeless Management Information (HMIS)
+
+[[homeless-management-information-hmis]]
+=== Homeless Management Information (HMIS)
 
 *Version*: 1.0
 
@@ -2371,9 +2395,9 @@ Homeless Management Information (HMIS)
 
 * HMIS implementation presents communities with an opportunity to re-examine how homeless services are provided in their community, and to make informed decisions, and develop appropriate action steps
 * The implementation of HMIS systems varies from community to community, examples of local implementation covering the community planning process, software selection and implementation are available from a variety of communities
-1.  [[hospital-inquiry-hinq]]
-==  +
-Hospital Inquiry (HINQ)
+
+[[hospital-inquiry-hinq]]
+=== Hospital Inquiry (HINQ)
 
 *Version*: 4.0
 
@@ -2404,9 +2428,9 @@ Hospital Inquiry (HINQ)
 * Alerts the requester when responses are received from VBA computers
 * Alerts the requester when there is a discrepancy found between the returned HINQ information and what is in the Patient file
 * Provides the capability to update returned HINQ data directly into the Patient file
-1.  [[identity-management-idm-service]]
-==  +
-Identity Management (IdM) Service
+
+[[identity-management-idm-service]]
+=== Identity Management (IdM) Service
 
 *Version*: 1.0
 
@@ -2442,9 +2466,9 @@ Organization Service (OS) is the authoritative source for organizations, locatio
 ** PS Demographics (PSD)
 ** Person Service Construct (PSC)
 ** Person Service Lookup (PSL)
-1.  [[income-verification-match-ivm]]
-==  +
-Income Verification Match (IVM)
+
+[[income-verification-match-ivm]]
+=== Income Verification Match (IVM)
 
 *Version*: 2.0
 
@@ -2475,9 +2499,9 @@ Income Verification Match (IVM)
 * Allows updated demographic and insurance information from the HEC to be uploaded into the patient’s record
 * Automatically loads updated income information from the HEC (including IVM Converted financial tests) and updates the veteran’s eligibility for health care
 * Allows generation of status inquiries, statistical Means Test and data transmission reports
-1.  [[incomplete-records-tracking-irt]]
-==  +
-Incomplete Records Tracking (IRT)
+
+[[incomplete-records-tracking-irt]]
+=== Incomplete Records Tracking (IRT)
 
 *Version*: 1.0
 
@@ -2504,9 +2528,9 @@ Incomplete Records Tracking (IRT)
 * Provides the ability to enter a new or edit an existing incomplete record in the IRT tracking system, edit a completed IRT record, and delete an IRT entry
 * Allows each site to establish and edit site-specific IRT parameters
 * Produces a variety of statistical reports for a specified date range
-1.  [[intake-and-output]]
-==  +
-Intake and Output
+
+[[intake-and-output]]
+=== Intake and Output
 
 *Version*: 4.0
 
@@ -2536,8 +2560,9 @@ service specific and is currently interfaced with the PIMS, Nursing and Pharmacy
 * Intake data can be entered through either a quick or detailed route. The quick route documents the total fluid consumed. Detailed information request the user to enter specific types of fluid intake (e.g., orange juice, water, soup) along with the quantity absorbed
 * The Start/Add/DC IV and Maintenance option contains nine protocols associated with intravenous therapy:
 
-1.  Start IV - Start a new IV line or heparin/saline lock/port
-2.  Solution: Replace/DC/Convert/Finish Solution - DC current solution then replace a new solution to the selected IV line or convert the IV according to the user's choice
+
+Start IV - Start a new IV line or heparin/saline lock/port
+2.  Solution: Replace/DC/Convert/Finish Solution - DC current solution then replace a new solution= the selected IV line or convert the IV according to the user's choice
 3.  Replace Same Solution - Replace the same solution to a selected IV
 4.  D/C IV Lock/Port and Site - Remove IV/lock/port from a selected IV site
 5.  Care/Maintenance/Flush - Check site condition, dressing change, tube change and flush
@@ -2550,22 +2575,22 @@ service specific and is currently interfaced with the PIMS, Nursing and Pharmacy
 * The software is interfaced with the IV module of the Pharmacy software
 * The following reports are included:
 
-1.  Print I/O Summary by Patient (by Shift and Day(s))
-2.  Print I/O Summary (Midnight to Present)
-3.  Print I/O Summary (48 Hrs)
+
+Print I/O Summary by Patient (by Shift and Day(s))
+2.  Print I/O Summary (Midnight to Prese= 3.  Print I/O Summary (48 Hrs)
 4.  24 Hours Itemized Shift Report
 5.  Intravenous Infusion Flow Sheet
 
 * The last four reports can be printed for all patients on a ward, for patients in selected rooms on a ward, and for an individual patient
 * Patient Intake and Output information is printed on the following Nursing application reports:
 
-1.  End of Shift Report
-2.  Vital Signs Record
 
+End of Shift Report
+2.  Vital Signs Rec= 
 * This version of Intake and Output is not interfaced with Health Summary or the Order Entry/Results Reporting applications though display of the 24 Hour Summary of both Intake and Output displays on the coversheet of the CPRS GUI in the Vital Signs box
-1.  [[integrated-billing-ib]]
-==  +
-Integrated Billing (IB)
+
+[[integrated-billing-ib]]
+=== Integrated Billing (IB)
 
 *Version*: 2.0
 
@@ -2610,9 +2635,9 @@ This software is highly integrated with other VistA packages. It is dependent on
 * Modifications to the menu option IB CANCEL/EDIT/ADD CHARGES to prevent Outpatient visit copayment charges from being added manually for patients with the national HRfS flag active on the date of service.
 * Modifications to prorate Rx copay amounts paid by patients with the national HRfS flag active on the date of service if the supply is for less than 30 days.
 * Modification to the menu option IB CANCEL/EDIT/ADD CHARGES for the manual process of adding Rx charges to support prorated amounts for Rx
-1.  [[joint-legacy-viewer-jlv]]
-==  +
-Joint Legacy Viewer (JLV)
+
+[[joint-legacy-viewer-jlv]]
+=== Joint Legacy Viewer (JLV)
 
 *Version*: 2.3
 
@@ -2645,12 +2670,12 @@ As a VA or DoD clinician, you can view patient records through the Joint Legacy 
 * Web based, easy to use interface
 * Requires PIV card
 * JLV access is reviewed and approved by the JLV coordination team
-1.  [[vista-infrastructure]]
-==  +
-VistA Infrastructure
-1.  [[capacity-management-tools]]
-== Capacity Management Tools
 
+[[vista-infrastructure]]
+=== VistA Infrastructure
+
+[[capacity-management-tools]]
+== Capacity Management To= 
 *Version*: 3.0
 
 *Namespace:* KMPD
@@ -2681,9 +2706,9 @@ IRM staff utilizes the options that are available at the site to manage this sof
 * Provides RO on-line access to the local databases for the confirmation of the propriety of payments based on hospitalization
 * Improves timeliness of the RO benefits adjustment processing
 * Allows medical centers to electronically access sections of the Physicians Guide for Disability Evaluation Examinations.Provides tracking of insufficiently completed compensation and pension examinations
-1.  [[clinical-context-object-workgroup]]
-== Clinical Context Object Workgroup
 
+[[clinical-context-object-workgroup]]
+== Clinical Context Object Workgr= 
 *Version*: 4.3
 
 *Namespace:* XWB
@@ -2745,9 +2770,9 @@ CCOW ensures secure and consistent access to patient data from varied sources. B
 * *Library Functions:* Provides Date, String, Mathematical, Hyperbolic Trigonometric Measurement and Utility functions
 * *Domain Name Resolution:* Provides an Application Program Interface (API) to resolve domain names into an Internet Protocol (IP) address
 * *Kernel Delphi Components (KDC):* Provides developers with the capability to develop VistA client/server software. These Delphi-based components enable client applications to communicate and exchange Kernel-related data with VistA M Servers (e.g. alerts and date/time)
-1.  [[kernel-authentication-authorization-for-java-2-enterprise-edition-kaajee]]
-==  +
-Kernel Authentication & Authorization for Java 2 Enterprise Edition (KAAJEE)
+
+[[kernel-authentication-authorization-for-java-2-enterprise-edition-kaajee]]
+=== Kernel Authentication & Authorization for Java 2 Enterprise Edition (KAAJEE)
 
 *Version*: 1.1
 
@@ -2803,9 +2828,9 @@ Kernel Delphi Components (KDC)
 * Programming Language: MUMPS, Delphi.
 * Deployment Infrastructure: Varies by location.
 * Depends On: VistA 1.0 (FileMan, FileMan Delphi Components (FMDC), Kernel, Kernel Toolkit, Remote Procedure Call (RPC) Broker)
-1.  [[kernel-toolkit]]
-==  +
-Kernel Toolkit
+
+[[kernel-toolkit]]
+=== Kernel Toolkit
 
 *Version*: 7.3
 
@@ -2845,9 +2870,9 @@ Development and Quality Assessment Tools
 * Customize and tune site parameters for local requirements
 * Provide a Multi-Term Lookup Utility for enhanced VA FileMan lookups
 * Provide PARAMETERS file (#8989.5) for user-specific to system-level tracking of parameter values
-1.  [[kernel-unwinder]]
-==  +
-Kernel Unwinder
+
+[[kernel-unwinder]]
+=== Kernel Unwinder
 
 *Version*: 7.1
 
@@ -2874,9 +2899,9 @@ Kernel Unwinder
 The Unwinder allows hierarchical traversing of menus, as found in Menu Management, and also the structuring of order protocols into independent, reusable modules. Each node becomes a "building block" from which more sophisticated modules may be built. For instance, the node "Order Shirt" may have as sub-items, "Get Size," "Get Color," "Get Style," and "Get Delivery Date." Each of these sub-items may, in turn, be used to build other modules.
 
 * Provisions have been made to allow additional building blocks to be placed at the item level of the node. Their purpose is to allow modifying actions to be executed and thus increase the flexibility of each module.
-1.  [[list-manager]]
-== List Manager
 
+[[list-manager]]
+== List Mana= 
 *Version*: 1.0
 
 *Namespace:* VALM
@@ -2950,9 +2975,9 @@ Protocols are the "actions" that users can take against items on the list. A num
 * Network transmissions over TCP/IP (Transmission Control Protocol/Internet Protocol) channels to any Simple Mail Transfer Protocol (SMTP)-compatible mail system
 * Statistics Collection
 * Domain Name Service (DNS) (creates automatic replication of IP address changes to every VistA Mailman system)
-1.  [[m-to-m-broker]]
-== M-to-M Broker
 
+[[m-to-m-broker]]
+== M-to-M Bro= 
 *Version*:
 
 *Namespace:* XWB
@@ -3033,9 +3058,9 @@ Provides numerous reports including:
 * Under development patches for a selected package
 * Provides automatic notification of new released patches
 * Provides ability to copy information from an existing patch into a new patch
-1.  [[resource-usage-monitor-rum]]
-== Resource Usage Monitor (RUM)
 
+[[resource-usage-monitor-rum]]
+== Resource Usage Monitor (R= 
 *Version*: 2.0
 
 *Namespace:* KMPR
@@ -3088,9 +3113,9 @@ The CCOW User Context standard:
 * Is a standard of the HL7 standards body
 * Provides coordination among client healthcare applications, allowing them to synchronize around several CCOW subjects and share context (e.g., Patient, Encounter, and User Context)
 * Ensures secure and consistent context management
-1.  [[sql-interface-sqli]]
-==  +
-SQL Interface (SQLI)
+
+[[sql-interface-sqli]]
+=== SQL Interface (SQLI)
 
 *Version*:
 
@@ -3118,9 +3143,9 @@ SQL Interface (SQLI)
 * Deployment Infrastructure: Varies by location
 * Depends on: VistA 1.0, Kernel, Kernel Taskman, Fileman
 * The following packages depend on SQL Interface (SQLI): VistA 1.0, Medical Domain Web Services (MDWS)
-1.  [[statistical-analysis-of-global-growth-sagg]]
-== Statistical Analysis of Global Growth (SAGG)
 
+[[statistical-analysis-of-global-growth-sagg]]
+== Statistical Analysis of Global Growth (SA= 
 *Version*: 2.0
 
 *Namespace:* KMPS
@@ -3147,9 +3172,9 @@ The Statistical Analysis of Global Growth (SAGG) software is intended to be used
 
 * The collection task obtains information on the production global, software, and file information from the site and automatically transfers this data via network mail to the Capacity Planning (CP) National Database
 * The information in the CP National Database is fully accessible by all sites through the national FORUM system. Menus and options are provided nationally giving the site the ability to review the growth trends of their database, software, and files
-1.  [[va-fileman]]
-== VA FileMan
 
+[[va-fileman]]
+== VA File= 
 *Version*: 22.2
 
 *Namespace:* DI
@@ -3258,9 +3283,9 @@ The VDEF package supports queuing requests for messages, controls the timing of 
 * J2EE Application Server connectivity to M—Supports applications and services running on a J2EE application server, enabling them to initiate a call to an M server and execute RPCs.
 * Implements the Java 2 Enterprise Edition (J2EE) Connectors specification
 * Supports VistA modules requiring this communication capability, including Patient Advocate Tracking System (PATS), Veterans Personal Finance System (VPFS) and Blind Rehabilitation
-1.  [[xml-parser]]
-== XML Parser
 
+[[xml-parser]]
+== XML Par= 
 *Version*: 1.1
 
 *Namespace:* MXML
@@ -3303,12 +3328,12 @@ The following packages depend on XML Parser:
 * Remote Procedure Call (RPC) Broker
 * VistALink
 * VistA Blood Establishment Computer Software (VBECS)
-1.  [[vista-laboratory]]
-==  +
-VistA Laboratory
-1.  [[laboratory]]
-== Laboratory
 
+[[vista-laboratory]]
+=== VistA Laboratory
+
+[[laboratory]]
+== Laborat= 
 *Version*: 5.2
 
 *Namespace:* LR and LA
@@ -3383,9 +3408,9 @@ Data Extracts Capabilities for External Databases:
 * CPT codes are passed to Patient Care Encounter (PCE) for outpatient workload
 * LEDI messages to remote Laboratory Information Systems (LIS)
 * ICD-10 code compliant
-1.  [[anatomic-pathology-ap]]
-==  +
-Anatomic Pathology (AP)
+
+[[anatomic-pathology-ap]]
+=== Anatomic Pathology (AP)
 
 *Version*: 5.2
 
@@ -3442,9 +3467,9 @@ Provides workload statistics for:
 
 * Number of specimens accessioned by area
 * Number of blocks, slides, and stains prepared
-1.  [[blood-bank]]
-==  +
-Blood Bank
+
+[[blood-bank]]
+=== Blood Bank
 
 *Version*: 5.2
 
@@ -3504,9 +3529,9 @@ The Laboratory EPI program is designed to automatically provide data on emerging
 * Extract specific data associated with the Emerging Pathogen
 * Transmit data to AITC
 * Create national SAS data sets for Infectious Diseases Program Office access
-1.  [[howdy-computerized-login-process]]
-==  +
-HOWDY Computerized Login Process
+
+[[howdy-computerized-login-process]]
+=== HOWDY Computerized Login Process
 
 *Version*: 5.2
 
@@ -3536,9 +3561,9 @@ Allows the veteran patient to slip his/her ID card via a card reader and the sof
 * Howdy captures collection process times and provides the information required to create phlebotomy performance reports
 * Howdy eliminates the need for a hand-written log book for sign-in where the patient's name and SSN can be compromised
 * Howdy can utilize bar code technology to assist in the process of patient and specimen identification
-1.  [[laboratory-electronic-data-interchange-ledi]]
-==  +
-Laboratory Electronic Data Interchange (LEDI)
+
+[[laboratory-electronic-data-interchange-ledi]]
+=== Laboratory Electronic Data Interchange (LEDI)
 
 *Version*: 5.2
 
@@ -3566,9 +3591,9 @@ LEDI has enabled electronic ordering and results retrieval of general laboratory
 
 * Software was demonstrated in El Paso (El Paso Veterans Affairs Healthcare System/William Beaumont Army Medical Center) and San Antonio (South Texas VA Healthcare System/Wilford Hall Medical Center, Brooke Army Medical Center) and is available to the VA Enterprise.
 * Phase 2 extends the exchange of ordering and results retrieval data to microbiology laboratory tests between VA and DoD (with either VA or DoD serving as the performing laboratory). Anatomic Pathology orders only can be sent to the host facility.
-1.  [[national-laboratory-tests-nlt-documents-and-loinc-request-form]]
-==  +
-National Laboratory Tests (NLT) Documents and LOINC® Request Form
+
+[[national-laboratory-tests-nlt-documents-and-loinc-request-form]]
+=== National Laboratory Tests (NLT) Documents and LOINC® Request Form
 
 *Version*: 5.2
 
@@ -3623,9 +3648,9 @@ Point of Care (POC)
 * Enhances Laboratory Supervisor Summary reports to also display the name of the POC operator who generated the results. This will eliminate the need to store this information as comments
 * Stores the Equipment Instance Identifier (EII) will with the results
 * Expands business rules for laboratory orders to facilitate detection of discrepancies by the provider responsible for the patient’s care
-1.  [[universal-interface]]
-==  +
-Universal Interface
+
+[[universal-interface]]
+=== Universal Interface
 
 *Version*: 2.0
 
@@ -3681,9 +3706,9 @@ VBECS supersedes VistA Blood Bank v5.2 for blood bank operations. VistA Blood Ba
 * Provides direct data entry user interface supported by business rules and truth tables for transfusion related testing
 * Alerts users to testing conflicts, potential contraindications for testing and unit selection, and overrides from standard entries (requiring explanation to proceed)
 * Provides barcode scanning capability for patient safety and technologist efficiency
-1.  [[lexicon-utility]]
-==  +
-Lexicon Utility
+
+[[lexicon-utility]]
+=== Lexicon Utility
 
 *Version*: 2.0
 
@@ -3729,9 +3754,9 @@ In addition to providing terminology, the Lexicon provides a coding system updat
 * Text Integration Utility (TIU)
 * Laboratory Data Sharing Interoperability (LDSI)
 * Problem List
-1.  [[master-patient-index-mpi]]
-==  +
-Master Patient Index (MPI)
+
+[[master-patient-index-mpi]]
+=== Master Patient Index (MPI)
 
 *Version*: 1.0
 
@@ -3765,9 +3790,9 @@ This software enables sites to:
 * Query the MVI for known data
 * Update the MVI when changes occur to demographic fields stored on the index itself or to other facilities and systems of interest
 * Obtain a Treating Facility List of sites where the patient is also known by this ICN (Each site becomes part of the network of sites that share key demographic data for patients via HL7 messaging
-1.  [[maximo-max]]
-==  +
-Maximo (Max)
+
+[[maximo-max]]
+=== Maximo (Max)
 
 *Version*: 7.6.0.9
 
@@ -3829,9 +3854,9 @@ Medicine
 * Permits data entry and edit of Bone Marrow Aspirates (BMA) and Bone Marrow Biopsies (BMB)
 * Allows the tracking of Rheumatology visits and is based on standards developed by the American Rheumatology Associations Medical Information System (ARAMIS)
 * ICD-10 code compliant
-1.  [[mental-health]]
-==  +
-Mental Health
+
+[[mental-health]]
+=== Mental Health
 
 *Version*: 5.01
 
@@ -4014,9 +4039,9 @@ Kernel
 * Implement a flag to capture a provider’s permission to share his or her NPI with non- VA entities for business purposes other than those covered in currently established Routine Use provisions
 * Improvements to the reports generated by the List of NPI data for CBO option and the Print Local NPI Reports option
 * As of December 15, 2010 The Chief Business Office schedules an NPI Crosswalk Extract report periodically (typically once a month) from all Veteran's Administration provider sites. The scheduling of this report is done via the VA NPI Crosswalk Extract -Administration web site using HL7 messages. The NPI Crosswalk Extract process is automated and runs in the background at each site
-1.  [[national-utilization-management-integration-numi]]
-==  +
-National Utilization Management Integration (NUMI)
+
+[[national-utilization-management-integration-numi]]
+=== National Utilization Management Integration (NUMI)
 
 *Version*: 1.1.14.3
 
@@ -4100,9 +4125,9 @@ Network Health Exchange (NHE)
 * Purging Retrieved Patient Data: To allow sites to control disk space usage, NHE provides an option to purge the retrieved patient data messages nightly
 * Special Security Features: This system is intended for use by health professionals who have direct patient care responsibilities and have need for clinical information. NHE generates a bulletin if data is requested from a sensitive patient record. The bulletin is directed to the same user group that currently reviews notices about access to sensitive patient records
 * Package Management: The availability of NHE options is based on the level of menu access granted to each user
-1.  [[nursing]]
-==  +
-Nursing
+
+[[nursing]]
+=== Nursing
 
 *Version*: 4.0
 
@@ -4128,8 +4153,9 @@ Nursing
 
 *Administration:*
 
-1.  Personnel management information (demographic and professional data of nursing staff)
-2.  Resource management/analysis tracking for reports on budgeting DRGs, overtime usage, patient care hours, supply equipment projections, and staffing hours
+
+Personnel management information (demographic and professional data of nursing staff)
+2.  Resource management/analysis tracking for reports on budgeting DRGs, overtime usage, patient c= hours, supply equipment projections, and staffing hours
 3.  Mandatory reports (i.e., AMIS 1106, AMIS 1106a, Annual Report)
 
 * Tracks staff information including: personal/demographic data, previous professional experience, work assignments, grade, licensure, certification, professional education, end of probationary period, and military reserve status
@@ -4144,9 +4170,9 @@ Nursing
 
 *Clinical:*
 
-1.  Patient classification
-2.  Patient assessment
-3.  Nursing care plans which are system focused and contain both nursing problems and medical diagnoses
+
+Patient classification
+2.  Patient assessm= 3.  Nursing care plans which are system focused and contain both nursing problems and medical diagnoses
 4.  Patient care assignments
 5.  Clinical protocols/guidelines for care
 6.  Patient education material
@@ -4164,8 +4190,8 @@ Nursing
 
 *Education:*
 
-1.  Education reports (i.e., mandatory inservice attendance, continuing education attendance, authorized absence/funding analysis
-2.  Student affiliation information (i.e., scheduling of student clinical labs, affiliation agreements)
+
+Education reports (i.e., mandatory inservice attendance, continuing education attendance, authorized absence/funding analy= 2.  Student affiliation information (i.e., scheduling of student clinical labs, affiliation agreements)
 
 * Tracks employee continuing education data
 * Prints AA/Funding Requests Reports which indicate money authorized for C.E. attendance by specified year
@@ -4173,9 +4199,9 @@ Nursing
 
 *Performance Improvement:*
 
-1.  QA problem tracking system
-2.  Infection control trends
-3.  Patient incident analysis
+
+QA problem tracking system
+2.  Infection control tre= 3.  Patient incident analysis
 4.  Employee accident analysis
 5.  Continuous care monitors (clinical data)
 6.  Administrative monitors (e.g., safety equipment)
@@ -4186,18 +4212,18 @@ Nursing
 
 *Research:*
 
-1.  Resource listing of VA nurse researchers
-2.  Additional functionalities as defined by the Nursing Focus Group
 
+Resource listing of VA nurse researchers
+2.  Additional functionalities as defined by the Nursing Focus Gr= 
 *Package Management:*
 
 * Allows sites to modify data (e.g., service positions, salary, grade/step codes, mandatory inservices, certifications, nursing locations, tour of duty) in specified nursing files
 * Accommodates additional site-specific standard care plans
 * Provides special ADP Coordinator functions for executing nursing options which affect patient acuity, manhours, FTEE status, etc., when TaskMan is off-line
 * Provides ADP Coordinator options for admitting/transferring/discharging patient within the Nursing system when the MAS System is off-line. This feature ensure that patient information will be updated and available to nursing providers. When the package is off-line due to the installation of a new version, the software will automatically update the patient in the Nursing system by admitting and discharging patients before the system is made available to the user
-1.  [[nutrition-and-food-service-nfs]]
-==  +
-Nutrition and Food Service (N&FS)
+
+[[nutrition-and-food-service-nfs]]
+=== Nutrition and Food Service (N&FS)
 
 *Version*: 5.5
 
@@ -4233,9 +4259,9 @@ Nutrition and Food Service (N&FS)
 * Manages food items and their nutrients using the latest USDA data, food items from sources such as Bowes and Church, and additional data from research
 * Handles N&FS consults and allows the reassignment of active consults from one staff member to another
 * Manages the supplemental feeding food items and menus. A supplemental feeding menu automatically goes into effect at the time of diet order entry and changes automatically with new orders
-1.  [[occupational-health-recordkeeping-system-ohrs]]
-==  +
-Occupational Health Recordkeeping System (OHRS)
+
+[[occupational-health-recordkeeping-system-ohrs]]
+=== Occupational Health Recordkeeping System (OHRS)
 
 *Version*: 1.4
 
@@ -4340,9 +4366,9 @@ Justified exceptions that cannot be excluded by the software:
 * Automates the creation of clinical, peer, management, and committee worksheets. The findings and/or actions of the previous review levels can be printed.
 * Facilitates the tracking of occurrences by various tracking reports. An ad hoc report feature is included for use in trend analysis.
 * Produces the Semi-Annual Summary of Occurrence Screening.
-1.  [[oncology]]
-==  +
-Oncology
+
+[[oncology]]
+=== Oncology
 
 *Version*: 2.2
 
@@ -4378,9 +4404,9 @@ Oncology
 * The database can be customized to suit the individual hospital
 * The full set of TNM codes is included from the appropriate edition of the AJCC Manual on Staging of Cancer
 * The program allows on-line completion of Patient Care Evaluations (PCEs) during the abstracting function if the case being abstracted fulfills the selection criteria for the PCE
-1.  [[order-entryresults-reporting-cprs]]
-==  +
-Order Entry/Results Reporting (CPRS)
+
+[[order-entryresults-reporting-cprs]]
+=== Order Entry/Results Reporting (CPRS)
 
 *Version*: 3.0
 
@@ -4453,9 +4479,9 @@ Patient Care Encounter (PCE)
 ** Interface between scanner/workstation and clinical repository.
 ** On-line data capture using List Manager user interface.
 ** Historical load utilities for lab and outpatient pharmacy.
-1.  [[patient-centered-management-module-pcmm-web]]
-==  +
-Patient Centered Management Module (PCMM Web)
+
+[[patient-centered-management-module-pcmm-web]]
+=== Patient Centered Management Module (PCMM Web)
 
 *Version*: 1.19
 
@@ -4503,9 +4529,9 @@ The PCMM software will be referred to as PCMM Web. It is a National website and 
 * Summarizes alert notifications per station for a user to quickly identify alert types and act accordingly.
 * Defines the appropriate team members to receive notifications (i.e., MailMan messages) concerning patient assignments. Notifications are sent to all team patients, positions, or preceptors or set as “Do Not Send”, indicating no notifications are sent.
 * PCMM Web utilizes Microsoft SQL Report Server for its reporting capabilities. Canned and AdHoc reports are available.
-1.  [[patient-data-exchange-pdx]]
-==  +
-Patient Data Exchange (PDX)
+
+[[patient-data-exchange-pdx]]
+=== Patient Data Exchange (PDX)
 
 *Version*: 1.5
 
@@ -4539,9 +4565,9 @@ Once the request is processed, the patient’s record is forwarded to the reques
 * Send/request capability for a patient from multiple sites for multiple segments
 * Status check on results
 * Display of demographic data received from a remote site, and capability to load/edit select demographic data into the local site file
-1.  [[patient-record-flags-prf]]
-==  +
-Patient Record Flags (PRF)
+
+[[patient-record-flags-prf]]
+=== Patient Record Flags (PRF)
 
 *Version*: 1.0
 
@@ -4574,9 +4600,9 @@ The use of patient record flags must be strictly controlled and implemented foll
 * The "owning" facility transmits the flag to other facilities where the patient has been treated
 * Flag reviewers belong to a mail group and review incoming Category I flag messages, and can continue, inactivate, or delete existing flags
 * Interfaces with Text Integration Utility (TIU) progress notes through TIU document definitions specifically related to Patient Record Flags
-1.  [[patient-representative]]
-==  +
-Patient Representative
+
+[[patient-representative]]
+=== Patient Representative
 
 *Version*: 2.0
 
@@ -4604,12 +4630,12 @@ Patient Representative
 * Sending Reports of Contact via the Alert system
 * Tracking contacts that have responses due
 * Printing various lists, statistical reports, and ad hoc reports
-1.  [[pharmacy]]
-==  +
-Pharmacy
-1.  [[automatic-replenishmentward-stock-arws]]
-== Automatic Replenishment/Ward Stock (AR/WS)
 
+[[pharmacy]]
+=== Pharmacy
+
+[[automatic-replenishmentward-stock-arws]]
+== Automatic Replenishment/Ward Stock (AR/= 
 *Version*: 2.3
 
 *Namespace:* PSGW
@@ -4644,9 +4670,9 @@ The AR/WS Package:
 * Provides ability to select by inventory group on all reports.
 * Supplies a report to fill on-demand requests for out-of-stock items or items not part of the standard inventory.
 * Provides various printouts as well as several management statistical reports for the creation and maintenance of the system.
-1.  [[bar-code-medication-administration-bcma]]
-==  +
-Bar Code Medication Administration (BCMA)
+
+[[bar-code-medication-administration-bcma]]
+=== Bar Code Medication Administration (BCMA)
 
 *Version*: 3.0
 
@@ -4684,9 +4710,9 @@ The BCMA software provides the following features:
 * Additions to the BCMA Order Detail report include CPRS Order Checks, Provider override reasons, Pharmacist intervention information, and a "hover-over" feature displays visuals indicator when override/intervention reasons exist
 * Automated reporting method of bar code scanning failures (both patient wristbands and medication bar code labels) shorten resolution times, and allow for proactive analysis of failure information to prevent future scanning failures
 * Creation of a record within Patient Care Encounter (PCE) for medications marked as given in BCMA that have been identified as immunizations
-1.  [[bar-code-medication-administration-bcma-backup-utility]]
-==  +
-Bar Code Medication Administration (BCMA) Backup Utility
+
+[[bar-code-medication-administration-bcma-backup-utility]]
+=== Bar Code Medication Administration (BCMA) Backup Utility
 
 *Version*: 3.0
 
@@ -4714,9 +4740,9 @@ Bar Code Medication Administration (BCMA) Backup Utility
 * Active inpatient data are kept
 * Menu options on workstations allow users to generate reports if VistA is unavailable
 * BCMA allows outpatient clinic orders; BCBU was updated to support outpatient clinic orders
-1.  [[controlled-substances]]
-==  +
-Controlled Substances
+
+[[controlled-substances]]
+=== Controlled Substances
 
 *Version*: 3.0
 
@@ -4751,9 +4777,9 @@ Controlled Substances
 * Interfaces with the Outpatient Pharmacy package to provide updates to inventory upon Return to Stock activity
 * Provides tracking for controlled substances being held for destruction and allows for the documentation of destruction
 * Provides an HL7 interface to Narcotic Dispensing Equipment systems
-1.  [[drug-accountabilityinventory-interface]]
-==  +
-Drug Accountability/Inventory Interface
+
+[[drug-accountabilityinventory-interface]]
+=== Drug Accountability/Inventory Interface
 
 *Version*: 3.0
 
@@ -4806,9 +4832,9 @@ Both Interfaces include the following features:
 * Pharmacy locations are established and populated
 * A purge capability with scheduling queuing is provided
 * Support is provided for NDC code set and pricing for Electronic Claims Management Engine pharmacy electronic billing[[_Toc530402249]][[_Toc530402251]][[_Toc530402253]][[_Toc530402255]][[_Toc530402257]][[_Toc530402259]][[_Toc530402261]][[_Toc530402263]][[_Toc530402265]][[_Toc530402267]][[_Toc530402269]][[_Toc530402276]][[_Toc530402286]]
-1.  [[inpatient-medications]]
-==  +
-Inpatient Medications
+
+[[inpatient-medications]]
+=== Inpatient Medications
 
 *Version*: 5.0
 
@@ -4856,9 +4882,9 @@ Integrated software allows these features, via the List Manager interface, for b
 * Provides error messages with reasons at the order level when a Maximum Single Dose Order Check cannot be performed for Pharmacy users
 * Integrates with BCMA, Barcode Medication Administration, function and record of all medication administration to patients
 * Includes PADE, Pharmacy Automated Dispensing Equipment, perpetual inventory interfaces to the inpatient drug dispensing cabinets
-1.  [[inpatient-medications---intravenous-iv]]
-==  +
-Inpatient Medications - Intravenous (IV)
+
+[[inpatient-medications---intravenous-iv]]
+=== Inpatient Medications - Intravenous (IV)
 
 *Version*: 5.0
 
@@ -4890,9 +4916,9 @@ Inpatient Medications - Intravenous (IV)
 * Allows electronic entry and inpatient processing of medication orders for an outpatient receiving treatment via a clinic or ancillary service
 * Implements Maximum Single Dose Order Check for simple and complex orders in Outpatient Pharmacy and Inpatient Medications applications and CPRS
 * Provides error messages with reasons at the order level when a Maximum Single Dose Order Check cannot be performed for Pharmacy users
-1.  [[inpatient-medications---unit-dose-ud]]
-==  +
-Inpatient Medications - Unit Dose (UD)
+
+[[inpatient-medications---unit-dose-ud]]
+=== Inpatient Medications - Unit Dose (UD)
 
 *Version*: 5.0
 
@@ -4921,12 +4947,12 @@ Inpatient Medications - Unit Dose (UD)
 * Provides an interface to automated dispensing equipment
 * Implements Maximum Single Dose Order Check for simple and complex orders in Outpatient Pharmacy and Inpatient Medications applications and CPRS
 * Provides error messages with reasons at the order level when a Maximum Single Dose Order Check cannot be performed for Pharmacy users
-1.  [[pharmacy-reengineering-pre]]
-==  +
-Pharmacy Reengineering (PRE)
-1.  [[enterprise-customization-system-pecs]]
-== Enterprise Customization System (PECS)
 
+[[pharmacy-reengineering-pre]]
+=== Pharmacy Reengineering (PRE)
+
+[[enterprise-customization-system-pecs]]
+== Enterprise Customization System (PE= 
 *Version*: 5
 
 *Namespace:* PREC
@@ -5055,9 +5081,9 @@ entered through Computerized Patient Record System (CPRS), InpatientMedications,
 * Modify entries to the DOSE UNIT CONVERSION File (#51.25), see Section 4 for details
 * Update Check PEPS Services Setup [PSS CHECK PEPS SERVICES SETUP] option to perform the Max Daily Dose Order Check instead of the Daily Dose Range Order Check
 * Enhance lookup functionality when entering a schedule for an outpatient medication order through the pharmacy backdoor
-1.  [[pharmacy-product-system---national-pps-n]]
-== Pharmacy Product System - National (PPS-N)
 
+[[pharmacy-product-system---national-pps-n]]
+== Pharmacy Product System - National (PPS= 
 *Version*: 1.0
 
 *Namespace: *
@@ -5096,9 +5122,9 @@ The PPS-N application allows national VA personnel to more easily, quickly and s
 * Provide a means to retrieve pricing information from the Federal Supply Schedule (FSS) system, and then to display this information to the PPS-N users
 * Provide a means to retrieve Standard Medication Route information from the VA Enterprise Terminology System (VETS), and then to manage this data within PPS-N
 * Provide a process executed on the legacy NDFMS system to support data synchronization with the PPS-N database
-1.  [[national-drug-file-ndf]]
-==  +
-National Drug File (NDF)
+
+[[national-drug-file-ndf]]
+=== National Drug File (NDF)
 
 *Version*: 4.0
 
@@ -5139,9 +5165,9 @@ National Drug File (NDF)
 ** Information that is copyrighted and periodically updated.
 * Utilizes data provided and standardized by contract for point of sale electronic billing using Electronic Claims Management Engine (ECME)
 * Manage FDA Medication Guides
-1.  [[outpatient-pharmacy]]
-==  +
-Outpatient Pharmacy
+
+[[outpatient-pharmacy]]
+=== Outpatient Pharmacy
 
 *Version*: 7.0
 
@@ -5187,9 +5213,9 @@ Outpatient Pharmacy
 
 Uses List Manager features to allow:
 
-1.  Pharmacist or technician to browse through a list of actions
-2.  Pharmacist or technician to take action against those items
-3.  User to select an action that displays an action or informational profile
+
+Pharmacist or technician to browse through a list of actions
+2.  Pharmacist or technician to take action against those it= 3.  User to select an action that displays an action or informational profile
 
 * Works with Integrated Billing (IB) and Electronic Claims Management Engine (ECME) to enable and manage point of sale billing supporting the Healthcare Insurance Portability and Accountability Act (HIPAA) Electronic Claims and Code set congressional mandate
 * Allows prescription labels and Prescription Medication Information (PMI) sheets to be printed in another language if the system has the other language fields populated in Pharmacy Data Management and the individual patient is identified with the other language preference flag
@@ -5199,9 +5225,9 @@ Uses List Manager features to allow:
 * State Prescription Monitoring Program - The pharmacies comply with Mandatory Reporting to State Controlled Substance Rx Databases required by Consolidated Appropriations Act, 2012,PL 112-74
 * Titration/Maintenance Rx functionality
 * OneVA Pharmacy - Provides Pharmacists the capability to dispense prescriptions that originated in other VistA host sites
-1.  [[pharmacy-benefits-management-pbm]]
-==  +
-Pharmacy Benefits Management (PBM)
+
+[[pharmacy-benefits-management-pbm]]
+=== Pharmacy Benefits Management (PBM)
 
 *Version*: 4.0
 
@@ -5237,9 +5263,9 @@ The extracted data is transmitted to the PBM using VA Mailman. The Mailman messa
 * Inclusion of National Formulary Indicator and Restriction
 * Mechanism to monitor the successful completion of the automatic monthly extraction job and to notify users if a problem exists
 * Extraction of data to the PBM national database on a monthly basis
-1.  [[pharmacy-data-management-pdm]]
-==  +
-Pharmacy Data Management (PDM)
+
+[[pharmacy-data-management-pdm]]
+=== Pharmacy Data Management (PDM)
 
 *Version*: 1.0
 
@@ -5298,9 +5324,9 @@ Prosthetics
 * The Suspense module tracks patient requests for prosthetic appliances or services through Prosthetics or sent electronically from the Computerized Patient Record System (CPRS) via Consult/Request Tracking
 * The National Prosthetics Patient Database (NPPD) module captures medical center Prosthetic patient transaction data. The NPPD Detail Display Report is accessible using a Prosthetics VistA Suite GUI
 * The Delayed Order Report (DOR) functionality is also available through the Prosthetic VistA Suite GUI
-1.  [[quality-audiology-and-speech-analysis-and-reporting-quasar]]
-==  +
-Quality Audiology and Speech Analysis and Reporting (QUASAR)
+
+[[quality-audiology-and-speech-analysis-and-reporting-quasar]]
+=== Quality Audiology and Speech Analysis and Reporting (QUASAR)
 
 *Version*: 3.0
 
@@ -5331,9 +5357,9 @@ Quality Audiology and Speech Analysis and Reporting (QUASAR)
 * Generates and processes Audiology compensation and pension visits through an agreement with the Automated Medical Information Exchange (AMIE) package
 * Allows input of a patient's audiogram and display of audiometric data in graphical or tabular format. The audiogram may then be signed and transmitted to the VA Denver Distribution Center (DDC) for inclusion in a patient's hearing aid order. (The audiogram will also be recorded in the DDC's national database of audiometric data.)
 * ICD-10 code compliant
-1.  [[quality-management-integration-module]]
-==  +
-Quality Management Integration Module
+
+[[quality-management-integration-module]]
+=== Quality Management Integration Module
 
 *Version*: 1.7
 
@@ -5407,9 +5433,9 @@ Radiology/Nuclear Medicine
 * It allows for the selection and printing of multiple reports
 * Patient-specific radiation dosage aggregation
 * Secondary diagnosis allowed from studies that are imported into VistA
-1.  [[record-tracking]]
-==  +
-Record Tracking
+
+[[record-tracking]]
+=== Record Tracking
 
 *Version*: 2.0
 
@@ -5447,9 +5473,9 @@ Record Tracking
 * Offers a complete system for maintenance and control of records that may be used with ease in any type of file setting
 * Produces a variety of reports associated with the module that may be used to assist management in workload analysis and control of records
 * Creates pull lists to provide requests for records in conjunction with clinic scheduling and record retirement
-1.  [[remote-order-entry-system-roes]]
-==  +
-Remote Order Entry System (ROES)
+
+[[remote-order-entry-system-roes]]
+=== Remote Order Entry System (ROES)
 
 *Version*: 3.0
 
@@ -5476,9 +5502,9 @@ Remote Order Entry System (ROES)
 * ROES uses advanced technologies and practices in software design, supporting hardware platform, database management, and network integration
 * ROES also integrates Web-based application architecture with a VistA environment, obtaining an optimum mix of decentralized VistA interfacing with centralized data management
 * The database is optimized for the DALC’s progressive procurement and distribution practices, advanced general business practices, and current VA regulations
-1.  [[remote-procedure-call-broker-rpc]]
-==  +
-Remote Procedure Call Broker (RPC)
+
+[[remote-procedure-call-broker-rpc]]
+=== Remote Procedure Call Broker (RPC)
 
 *Version*: 1.1
 
@@ -5520,12 +5546,12 @@ The VistA M Server continuously runs an RPC Broker listener process whose purpos
 * CCOW-enabled
 * M-to-M Broker
 * Broker Security Enhancement (BSE)
-1.  [[repositories]]
-==  +
-Repositories
-1.  [[administrative-data-repository-adr]]
-== Administrative Data Repository (ADR)
 
+[[repositories]]
+=== Repositories
+
+[[administrative-data-repository-adr]]
+== Administrative Data Repository (A= 
 *Version*:
 
 *Namespace:* Multiple Namespace
@@ -5561,9 +5587,9 @@ Information in the system of records is used to:
 * Provide enrollment materials to educate Veterans on enrollment
 * Respond to Veteran and non-Veteran inquiries on enrollment and eligibility
 * Compile management reports
-1.  [[clinical-data-repositoryhealth-data-repository-chdr]]
-==  +
-Clinical Data Repository/Health Data Repository (CHDR)
+
+[[clinical-data-repositoryhealth-data-repository-chdr]]
+=== Clinical Data Repository/Health Data Repository (CHDR)
 
 *Version*: 2.1.2
 
@@ -5655,9 +5681,9 @@ The Resident Assessment Instrument/Minimum Data Set (RAI/MDS) provides a standar
 * Assessments module based on the MDS, a core set of preliminary screening and assessment elements including common definitions and coding categories
 * Resident care lan and report modules
 * Electronic transmission of assessments to AITC[[_Toc530402374]][[_Toc530402376]][[_Toc530402378]][[_Toc530402380]][[_Toc530402382]][[_Toc530402384]][[_Toc530402386]][[_Toc530402388]][[_Toc530402390]][[_Toc530402392]][[_Toc530402394]]
-1.  [[scheduling]]
-==  +
-Scheduling
+
+[[scheduling]]
+=== Scheduling
 
 *Version*: 5.3
 
@@ -5725,9 +5751,9 @@ VistA Scheduling Enhancement (VSE)
 
 * VSE is a Graphical User Interface (GUI) software module that allows schedulers to make appointments quickly by viewing multiple appointment request types and multiple clinics in one screen
 * A scheduler can easily view patient requests for service, find the next available open appointment, view the provider’s availability in multiple clinics, and track a patient’s appointment process
-1.  [[shift-handoff-tool]]
-==  +
-Shift Handoff Tool
+
+[[shift-handoff-tool]]
+=== Shift Handoff Tool
 
 *Version*: 1.0
 
@@ -5844,9 +5870,9 @@ See additional VDL links below to STS applications:
 * Supports semantic comparisons between concepts.
 * Supports the deployment of standardized reference files to VistA sites as VistA patches or VETS deployment sets.
 * Implements the New Term Rapid Turnaround (NTRT) process to facilitate timely updates to standardized reference files after they are deployed on a domain-by-domain basis.
-1.  [[surgery]]
-==  +
-Surgery
+
+[[surgery]]
+=== Surgery
 
 *Version*: 3.0
 
@@ -5896,9 +5922,9 @@ Risk Assessment
 * Creates a Surgery Risk Assessment on each patient assessed and lists these by categories including complete, incomplete, and transmitted assessments, as well as list of major surgical cases and all surgical cases
 * Generates monthly Surgical Case Workload Report
 * Prints follow-up letters to patients 30 days after a procedure
-1.  [[survey-generator]]
-==  +
-Survey Generator
+
+[[survey-generator]]
+=== Survey Generator
 
 *Version*: 2.0
 
@@ -5985,9 +6011,9 @@ The VCL application has three components:
 ** The SPC Response Application allows the ability to document the hotline referral in CPRS in the form of a Text Integration Utility (TIU) Progress Note.
 ** The SPC Response Application ensures all progress notes have a common note title.
 ** The SPC Application is automatically updated when a SPC completes the referral process.
-1.  [[veterans-health-identification-card-vhic]]
-==  +
-Veterans Health Identification Card (VHIC)
+
+[[veterans-health-identification-card-vhic]]
+=== Veterans Health Identification Card (VHIC)
 
 *Version*: 4.8
 
@@ -6023,9 +6049,9 @@ The VHIC can show the following information on the card as applicable to the Vet
 * Prisoner of War
 * Branch of Service
 * Other information on the card is the Veteran's Member ID number and Plan ID number
-1.  [[veterans-personal-finance-system-vpfs]]
-==  +
-Veterans Personal Finance System (VPFS)
+
+[[veterans-personal-finance-system-vpfs]]
+=== Veterans Personal Finance System (VPFS)
 
 *Version*: 1.1.3
 
@@ -6113,9 +6139,9 @@ The VA's vision for the VETLINK VA Point of Service (VPS) kiosk is to streamline
 * VPS GET ALL CLINICS: This RPC retrieves a list of hospital locations defined in the HOSPITAL LOCATION file (#44)
 * VPS GET APPOINTMENTS: This RPC retrieves all appointments for a patient in a given date range
 * VPS GET CHANGED APPOINTMENTS: This RPC retrieves the appointments that have changed since the last execution of the VPS GET APPOINMENTS RPC
-1.  [[virtual-electronic-ehealth-exchange-vler]]
-==  +
-Virtual Electronic eHealth Exchange (VLER)
+
+[[virtual-electronic-ehealth-exchange-vler]]
+=== Virtual Electronic eHealth Exchange (VLER)
 
 *Version*: 6.0.1.3
 
@@ -6327,9 +6353,9 @@ Visual Impairment Service Team
 * Enhances the efficiency of the Visual Impairment Service Team programs
 * Provides a way to easily track and manage activities and services provided to blinded veterans
 * Provides a wide variety of reports based on patient data. Blinded veterans can be quickly added or deleted from the rolls
-1.  [[vitalsmeasurements]]
-==  +
-Vitals/Measurements
+
+[[vitalsmeasurements]]
+=== Vitals/Measurements
 
 *Version*: 5.0
 
@@ -6367,9 +6393,9 @@ Vitals/Measurements
 * Provides compliance with the Clinical Context Object Workgroup (CCOW) standard. The CCOW standard provides a way for applications to know which other applications are currently running, and which patients are selected in those applications
 * Supports an interface to vital signs monitor connected to the workstation
 * Allows the site to configure the ORWT TOOLS MENU in the CPRS GUI to access the application
-1.  [[voluntary-service-system]]
-==  +
-Voluntary Service System
+
+[[voluntary-service-system]]
+=== Voluntary Service System
 
 *Version*: 5.3
 
@@ -6400,9 +6426,9 @@ Voluntary Service System
 * Reduces workload required to input mass award code changes
 * Prints individual meal ticket for volunteer after Auto Log-in
 * Provides real-time national reporting of data for all stations
-1.  [[womens-health]]
-==  +
-Women's Health
+
+[[womens-health]]
+=== Women's Health
 
 *Version*: 1.0
 
@@ -6468,12 +6494,12 @@ Wounded, Injured and Ill Warriors
 
 *Full Description and Features:* Through a collaborative effort between VHA and DoD/DFAS, a Memorandum of Understanding (MOU) was reached to provide defined data elements to DFAS for tracking of active duty service members who were admitted to VA inpatient facilities. The MOU established the authorities and agreement for the exchange of information relating to admissions and discharges from VA inpatient facilities of active duty personnel. There is a weekly collection process of admissions and discharges for active duty service members at each VA inpatient facility. This collection and consolidation of data into a single repository is reviewed and transmitted to DFAS to a central data collection point. Each facility runs the weekly background job which collects data based on admissions and discharges for patients with a Primary or Other Eligibility of TRICARE, SHARING AGREEMENT or OTHER FEDERAL AGENCY. Upon completion of the background job, VistA will send an email message to the local WII ADT REVIEWER mail group alerting facility staff on whether there are entries requiring approval. The message indicates either potential or no potential active duty admissions/discharges for the past week. If there were potential admissions/discharges, then the message will state there are active duty admissions, reflect the number of potential active duty admissions or discharges needing review, the record count, and the time period of the report. Staff will review and process those potential active duty cases.
 
-1.  [[on-goingcompleted-application-decommissioning]]
-==  +
-On-going/Completed Application Decommissioning
-1.  [[automated-safety-incident-surveillance-tracking-system-asists]]
-== Automated Safety Incident Surveillance Tracking System (ASISTS)
 
+[[on-goingcompleted-application-decommissioning]]
+=== On-going/Completed Application Decommissioning
+
+[[automated-safety-incident-surveillance-tracking-system-asists]]
+== Automated Safety Incident Surveillance Tracking System (ASIS= 
 *Version*: 2.0
 
 *Namespace:* OOPS
@@ -6503,9 +6529,9 @@ Note: This product has been identified for decommissioning and will not appear i
 * Every medical center employee has access to a menu structured specifically to the level of his/her involvement in the process: employee health, supervisor, safety officer, union representative, workers’ compensation personnel, and employee
 * The graphical user interface (GUI) for ASISTS facilitates the input and processing of accident reports and claims and improves the reporting functionality, including a revised OSHA and Needle stick log and graphical representation of the incident reports
 * Future versions will include a comprehensive employee health module for tracking and following numerous health issues
-1.  [[beneficiary-travel]]
-==  +
-Beneficiary Travel
+
+[[beneficiary-travel]]
+=== Beneficiary Travel
 
 *Version*: 1.0
 
@@ -6537,9 +6563,9 @@ Note: This product has been identified for decommissioning and will not appear i
 * Allows each site to define and edit site-specific beneficiary travel parameters
 * Produces a variety of statistical reports for a specified date range
 * Provides the ability to reprint the standard pre-formatted beneficiary travel form for cash reimbursement
-1.  [[care-management]]
-==  +
-Care Management
+
+[[care-management]]
+=== Care Management
 
 *Version*: 1.0
 
@@ -6614,9 +6640,9 @@ Care Management’s intuitive Graphical User Interface (GUI) includes an extensi
 * Select dashboard preferences
 * View demographic information for individual patients
 * View details about specific action items
-1.  [[enterprise-health-management-platform]]
-==  +
-Enterprise Health Management Platform
+
+[[enterprise-health-management-platform]]
+=== Enterprise Health Management Platform
 
 *Version*: 2
 
@@ -7026,9 +7052,9 @@ SlotMaster also conserves system resources by re-using the same VMS process for 
 * Programming Language: MUMPS
 * Deployment Infrastructure: Varies by location
 * Depends on: Kernel
-1.  [[social-work]]
-==  +
-Social Work
+
+[[social-work]]
+=== Social Work
 
 *Version*: 3.0
 
@@ -7124,12 +7150,12 @@ NOTE: VistAWeb is Version 16.0 and 16.1.5 for the server version in Austin; in F
 
 *Note:* This product has been identified for decommissioning and will not appear in future versions of the Monograph.
 
-1.  [[dss-inc.-commercial-off-the-shelf-cots-vista-integrations]]
-==  +
-DSS Inc. Commercial-off-the-Shelf (COTS) VistA Integrations
-1.  [[above-par-apar]]
-== Above PAR (APAR)
 
+[[dss-inc.-commercial-off-the-shelf-cots-vista-integrations]]
+=== DSS Inc. Commercial-off-the-Shelf (COTS) VistA Integrations
+
+[[above-par-apar]]
+== Above PAR (AP= 
 *Version*:
 
 *Namespace:* DSIY
@@ -7160,9 +7186,9 @@ Note: This application is a DSS COTS integration with VistA, more information ca
 * Standard and ad-hoc reporting capabilities
 * Secure electronic document management
 * Fully scalable, customizable and flexible
-1.  [[advanced-prosthetics-acquisition-tool-apat]]
-==  +
-Advanced Prosthetics Acquisition Tool (APAT)
+
+[[advanced-prosthetics-acquisition-tool-apat]]
+=== Advanced Prosthetics Acquisition Tool (APAT)
 
 *Version*:
 
@@ -7194,9 +7220,9 @@ Note: This application is a DSS COTS integration with VistA, more information ca
 * Standard and ad-hoc reporting capabilities
 * Secure electronic document management
 * Fully scalable, customizable and flexible
-1.  [[caribou-community-living-care-clc-suite-caribou]]
-==  +
-Caribou Community Living Care (CLC) Suite (Caribou)
+
+[[caribou-community-living-care-clc-suite-caribou]]
+=== Caribou Community Living Care (CLC) Suite (Caribou)
 
 *Version*:
 
@@ -7230,9 +7256,9 @@ Note: This application is a DSS COTS integration with VistA, more information ca
 * Reduce double entry of data
 * Shorten workflow processes for providers
 * Improve overall delivery of residential care
-1.  [[dental-record-manager-drm-plus]]
-==  +
-Dental Record Manager (DRM) Plus
+
+[[dental-record-manager-drm-plus]]
+=== Dental Record Manager (DRM) Plus
 
 *Version*: 6.9
 
@@ -7278,9 +7304,9 @@ The DRM Project also replaces the Dental Activity System (DAS) national and loca
 * Provides for integration of medical CPT codes into the software.
 * Interfaces with the new Dental Encounter System (DES) local and national database.
 * Provides a dental history file that includes all completed procedures for each patient. Integrates dental information within the VA electronic health record environment with a user-friendlygraphical user interface (GUI)
-1.  [[docmanager]]
-==  +
-DocManager
+
+[[docmanager]]
+=== DocManager
 
 *Version*:
 
@@ -7312,9 +7338,9 @@ DocManager
 * Complete consults and send CPRS notifications to providers
 * Generate workload and audit reports
 * Integrated with VistA and Computerized Patient Record System (CPRS)
-1.  [[encoder-product-suite-eps]]
-==  +
-Encoder Product Suite (EPS)
+
+[[encoder-product-suite-eps]]
+=== Encoder Product Suite (EPS)
 
 *Version*:
 
@@ -7358,9 +7384,9 @@ EPS includes four modules:
 * Provides a single point of access to all coding resources
 * Reduces coding errors and potential revenue losses
 * Enables coders to self-review work in real time
-1.  [[fee-basis-claims-system-fbcs]]
-==  +
-Fee Basis Claims System (FBCS)
+
+[[fee-basis-claims-system-fbcs]]
+=== Fee Basis Claims System (FBCS)
 
 *Version*: 4.0
 
@@ -7403,9 +7429,9 @@ Fee Basis Claims System (FBCS)
 * New components hosted in a web application. Contains web-GUI, middle-tier (API), and SQL updates
 * Updates to the current FBCS system to accept and transmit necessary EDI claim information between HAC, FBCS and VistA Fee to support compliance with current EDI mandates, provide increased data tracking and reporting to support care in the community/CHOICE efforts and legislation and increase data integrity, add additional business rules to reduce improper payments and improve automated processes
 * FBCS DSIF*4.0*0 introduces a web-based version of FBCS as a centralized data and operations claims processing system, focusing on front-end claims activities and establishing integration points with HAC, Alpha II and existing instances. This release contains new components hosted in a web application. Contains web-GUI, middle-tier (API), and SQL updates. These updates will be installed by a centralized host provider and not at individual sites
-1.  [[insurance-capture-buffer]]
-==  +
-Insurance Capture Buffer
+
+[[insurance-capture-buffer]]
+=== Insurance Capture Buffer
 
 *Version*: 2.2
 
@@ -7448,9 +7474,9 @@ By expediting the data collection process at check-in, ICB helps a VA facility i
 * Save updated data image to VistA Imaging
 * View buffer from non IB sources
 * VetLink Kiosk support
-1.  [[mental-health-suite-mhs]]
-==  +
-Mental Health Suite (MHS)
+
+[[mental-health-suite-mhs]]
+=== Mental Health Suite (MHS)
 
 *Version*:
 
@@ -7483,9 +7509,9 @@ Mental Health Suite (MHS)
 * Integrated reporting module
 * Plan renewal capabilities
 * Comprehensive risk identification and prevention tools
-1.  [[release-of-information-roi]]
-==  +
-Release of Information (ROI)
+
+[[release-of-information-roi]]
+=== Release of Information (ROI)
 
 *Version*:
 
@@ -7519,9 +7545,9 @@ Release of Information (ROI)
 * Set and apply automated billing rules
 * Track paper and imaged documents not found in CPRS database
 * Comply with HIPAA requirements
-1.  [[telecare-record-manager-trm]]
-==  +
-Telecare Record Manager (TRM)
+
+[[telecare-record-manager-trm]]
+=== Telecare Record Manager (TRM)
 
 *Version*:
 
@@ -7555,9 +7581,9 @@ TRM Plus integrates seamlessly with VistA and DSHI Veterans Health Gateway (VHG)
 * Enables the automatic creation of Text Integration Utility (TIU) notes in CPRS
 * Supports call history, management and workload reporting
 * Provides direct access to patient information in VistA
-1.  [[vista-chemotherapy-manager-vcm]]
-==  +
-VistA Chemotherapy Manager (VCM)
+
+[[vista-chemotherapy-manager-vcm]]
+=== VistA Chemotherapy Manager (VCM)
 
 *Version*:
 
