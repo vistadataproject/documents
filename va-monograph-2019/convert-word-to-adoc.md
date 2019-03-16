@@ -40,14 +40,14 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 
     https://github.com/vistadataproject/documents/blob/master/va-monograph-2019/va_monograph_2018a.adoc
     
- ## Getting started with Asciidoc features
- The first thing you will want to do is get all the section numbering auto-generated, as well as table of contents. Do do this add:
+ ## Getting started with Asciidoc: auto-section numbering and table of contents
+ The first thing you will want to do is get all the section numbering and table of contents auto-generated. Do do this you will need to make sure sections are tagged at the appropriate level (=Title ==Section ===SubSection ====SubSubSection...)  then put at the top of the document:
  
  ``
 :toc:
-
-:toclevels: 4
-
+``
+and
+``
 :sectnums:
 ``
 
