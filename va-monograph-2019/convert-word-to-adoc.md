@@ -40,9 +40,8 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 
     https://github.com/vistadataproject/documents/blob/master/va-monograph-2019/va_monograph_2018a.adoc
     
- ### Key Asciidoc features: Section numbering and TOC
-For section numbering and table of contents to be auto-generated,  you will need to make sure sections are tagged at the appropriate level (=Title ==Section ===SubSection ====SubSubSection...)  then put at the top of the document:
- 
+ ### Section numbering and TOC
+For section numbering and table of contents to be auto-generated, sections must be marked at the appropriate level (=Title ==Section ===SubSection ====SubSubSection...) then at the top of the document place: 
 
 :toc:
 
