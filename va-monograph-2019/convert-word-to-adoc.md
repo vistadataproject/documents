@@ -49,6 +49,10 @@ For section numbering and table of contents to be auto-generated,  you will need
 :sectnums:
 
 
+### Generating TOC for Jekyll-generated websites
+https://github.com/asciidoctor/jekyll-asciidoc#generating-a-table-of-contents
+
+
 ## Reference: Asciidoctor User Manual
 https://asciidoctor.org/docs/user-manual
 
