@@ -7,7 +7,7 @@ http://hyperpolyglot.org/lightweight-markup
 
 
     
-## Asciidoc to Word Conversion
+## Asciidoc -> Word
 References:
 * https://docs-as-co.de/news/create-docx
 * https://rmoff.net/2018/08/22/converting-from-asciidoc-to-ms-word
@@ -27,10 +27,7 @@ asciidoctor --backend docbook --out-file - $INPUT_ADOC|pandoc --from docbook --t
 ```
 
 
-
-
-
-## Word to Asciidoc Conversion
+## Word -> Asciidoc
 
 1. __Download source Word.docx file__
 
