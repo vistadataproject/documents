@@ -73,7 +73,7 @@ If you're looking for the documentation for an older release, please refer to on
 {uri-repo}/tree/v1.0.x#readme[1.0.x]
 endif::[]
 
-toc::[]
+###toc::[]
 
 == Overview
 
