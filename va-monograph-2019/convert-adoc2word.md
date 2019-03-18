@@ -91,8 +91,11 @@ For section numbering and table of contents to be auto-generated, sections must 
     
 
 
-# Comparison of Markdown Lanuages
+# Comparison of Markdown Lanuages: Why use Asciidoc?
 
-http://hyperpolyglot.org/lightweight-markup
+* http://hyperpolyglot.org/lightweight-markup
+* https://mister-gold.pro/posts/en/asciidoc-vs-markdown/
+* https://www.suse.com/c/docbook-asciidoc-sphinx-choices-choices-comparison-document-formats/
+
 
 
