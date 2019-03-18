@@ -1,6 +1,7 @@
 # Migrating from MS Word to RestructuredText (rst)
 
-Source: https://onap.readthedocs.io/en/amsterdam/guides/onap-developer/how-to-use-docs/converting-formats.html
+Source: 
+* https://onap.readthedocs.io/en/amsterdam/guides/onap-developer/how-to-use-docs/converting-formats.html
 
 
 ## Prerequisites
