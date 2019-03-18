@@ -1,11 +1,5 @@
 # Asciidoc Conversions
 
-Source: https://asciidoctor.org/docs/migrating-from-msword/
-
-Comparison of Mardown languages
-http://hyperpolyglot.org/lightweight-markup
-
-
     
 ## Asciidoc -> Word
 References:
@@ -28,6 +22,10 @@ asciidoctor --backend docbook --out-file - $INPUT_ADOC|pandoc --from docbook --t
 
 
 ## Word -> Asciidoc
+
+References:
+* https://asciidoctor.org/docs/migrating-from-msword/
+
 
 1. __Download source Word.docx file__
 
@@ -90,4 +88,11 @@ For section numbering and table of contents to be auto-generated, sections must 
 3. Asciidoctor Extensions
     
     https://asciidoctor.org/docs/extensions/
+    
+
+
+## Comparison of Markdown Lanuages
+
+http://hyperpolyglot.org/lightweight-markup
+
 
