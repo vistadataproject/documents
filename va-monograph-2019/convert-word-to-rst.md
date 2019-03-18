@@ -17,15 +17,17 @@ Source:
 
 1. __Install pandoc, imagemagick, sphinx:__
 
-    ``> brew install pandoc``
-    ``> brew install imagemagick``
-    ``> brew install sphinx``
+   a.  ``> brew install pandoc``
+
+   b. ``> brew install imagemagick``
+
+    c. ``> brew install sphinx``
 
 2. __Install Visual Studio Code and configure for Mac__
 
-    https://code.visualstudio.com/
+   a.  https://code.visualstudio.com/
 
-    https://code.visualstudio.com/docs/setup/mac
+   b.  https://code.visualstudio.com/docs/setup/mac
 
 3. __Install RestructuredText viewer for Visual Studio Code__
 
