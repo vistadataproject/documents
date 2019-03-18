@@ -1,5 +1,7 @@
+= Asciidoc Tables
 
-// Different table width
+
+== Different table width
 [cols="50,20,30"]
 |===
 |Cell in column 1, row 1
@@ -12,7 +14,7 @@
 |===
 
 
-// Spanned rows
+== Spanned rows
 |===
 
 |Cell in column 1, row 1 |Cell in column 2, row 1 |Cell in column 3, row 1
@@ -27,7 +29,7 @@
 |===
 
 
-// Nested table
+== Nested table
 
 [cols="1,2a"]
 |===
