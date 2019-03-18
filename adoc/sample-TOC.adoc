@@ -7,7 +7,7 @@ Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Paul Rayner <https://g
 ifndef::env-github[:icons: font]
 ifdef::env-github,env-browser[]
 :toc: macro
-:toclevels: 3
+:toclevels: 1
 endif::[]
 
 
