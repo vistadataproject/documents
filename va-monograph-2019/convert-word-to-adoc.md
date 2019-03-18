@@ -70,8 +70,6 @@ INPUT_ADOC=va_monograph_2018a.adoc
 # convert adoc to docx  (via docbook using pandoc)
 asciidoctor --backend docbook --out-file - $INPUT_ADOC|pandoc --from docbook --to docx --output $INPUT_ADOC.docx
 
-# Open the generated file in MS Word
-open $INPUT_ADOC.docx
 ```
 
 
