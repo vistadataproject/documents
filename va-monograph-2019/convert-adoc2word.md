@@ -1,9 +1,10 @@
-# Asciidoc to Word conversion
+# Asciidoc Conversions
 
 Source: https://asciidoctor.org/docs/migrating-from-msword/
 
-Comparison
-http://hyperpolyglot.org/lightweight-markup
+Comparison of Mardown languages
+
+     http://hyperpolyglot.org/lightweight-markup
 
 
 
