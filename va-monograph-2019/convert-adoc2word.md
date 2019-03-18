@@ -1,4 +1,4 @@
-# Word to AsciiDoc (and back)
+# Asciidoc to Word conversion
 
 Source: https://asciidoctor.org/docs/migrating-from-msword/
 
@@ -24,6 +24,29 @@ http://hyperpolyglot.org/lightweight-markup
 4. __Install Asciidoc extension for VSCode__
 
     https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
+
+
+    
+## Asciidoc to Word Conversion
+References:
+* https://docs-as-co.de/news/create-docx
+* https://rmoff.net/2018/08/22/converting-from-asciidoc-to-ms-word
+
+
+Bash script:
+
+```
+#!/bin/bash 
+
+# specify input document
+INPUT_ADOC=va_monograph_2018a.adoc
+
+# convert adoc to docx  (via docbook using pandoc)
+asciidoctor --backend docbook --out-file - $INPUT_ADOC|pandoc --from docbook --to docx --output $INPUT_ADOC.docx
+
+```
+
+
 
 
 
@@ -53,24 +76,7 @@ For section numbering and table of contents to be auto-generated, sections must 
     
 
 
-    
-## Asciidoc to Word Conversion
-References:
-* https://docs-as-co.de/news/create-docx
-* https://rmoff.net/2018/08/22/converting-from-asciidoc-to-ms-word
 
-Bash script:
-
-```
-#!/bin/bash 
-
-# specify input document
-INPUT_ADOC=va_monograph_2018a.adoc
-
-# convert adoc to docx  (via docbook using pandoc)
-asciidoctor --backend docbook --out-file - $INPUT_ADOC|pandoc --from docbook --to docx --output $INPUT_ADOC.docx
-
-```
 
 
 ## Asciidoc Reference
