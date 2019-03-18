@@ -6,26 +6,6 @@ Comparison of Mardown languages
 http://hyperpolyglot.org/lightweight-markup
 
 
-
-## Prerequisites (Mac)
-
-1. __Install pandoc and asciidoctor:__
-
-    ``brew install pandoc, asciidoctor``
-    
-2. __Install Visual Studio Code (VSCode)__
-
-    https://code.visualstudio.com/
-
-3. __Set up VSCode for command line use on Mac__
-
-    https://code.visualstudio.com/docs/setup/mac
-
-4. __Install Asciidoc extension for VSCode__
-
-    https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
-
-
     
 ## Asciidoc to Word Conversion
 References:
@@ -75,6 +55,27 @@ For section numbering and table of contents to be auto-generated, sections must 
     https://github.com/vistadataproject/documents/blob/master/va-monograph-2019/va_monograph_2018a.adoc
     
 
+
+
+
+
+## Asciidoc Prerequisites
+
+1. __Install pandoc and asciidoctor:__
+
+    ``brew install pandoc, asciidoctor``
+    
+2. __Install Visual Studio Code (VSCode)__
+
+    https://code.visualstudio.com/
+
+3. __Set up VSCode for command line use on Mac__
+
+    https://code.visualstudio.com/docs/setup/mac
+
+4. __Install Asciidoc extension for VSCode__
+
+    https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
 
 
 
