@@ -1,7 +1,8 @@
 = The Dangerous and Thrilling Documentation Chronicles
 Kismet Chameleon
 :toc: 
-:toclevels: 4 
+:toclevels: 4
+:toc-title: Table of Adventures 
 
 This journey begins on a bleary...
 
