@@ -3,8 +3,7 @@
 Source: https://asciidoctor.org/docs/migrating-from-msword/
 
 Comparison of Mardown languages
-
-     http://hyperpolyglot.org/lightweight-markup
+http://hyperpolyglot.org/lightweight-markup
 
 
 
