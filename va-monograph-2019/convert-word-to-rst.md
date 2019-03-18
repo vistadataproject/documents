@@ -11,11 +11,14 @@ Source:
 * Pandoc 
 * ImageMagick
 * Sphinx (pip install -U Sphinx)
-* Visual Studio Code and reStructuredText plugins
+* Visual Studio Code
+* reStructuredText plugins for Visual Studio Code
 * Python
+* MS Word
 
+Download and install the following:
 
-1. __Install pandoc, imagemagick, sphinx:__
+1. __Pandoc, ImagemMagick, Sphinx:__
 
    ``brew install pandoc``
 
@@ -23,13 +26,13 @@ Source:
 
    ``brew install sphinx``
 
-2. __Install Visual Studio Code and configure for Mac__
+2. __Visual Studio Code; Configure for Mac__
 
    https://code.visualstudio.com/
 
    https://code.visualstudio.com/docs/setup/mac
 
-3. __Install Visual Studio Code plugin for RestructuredText__
+3. __RestructuredText plugin for Visual Studio Code__
 
     https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
    
@@ -42,13 +45,13 @@ Source:
 
     https://www.va.gov/VA_Monograph_2019.docx
 
-2. __Convert from input.docx to output.rst__
+2. __Convert from DOCNAME.docx to DOCNAME.rst__
 
-    ``pandoc --from=docx --to=asciidoc --wrap=none --atx-headers  --extract-media=extracted-media input.docx > output.adoc``
+    ``pandoc -f docx DOCNAME.docx -t rst -o DOCNAME.rst``
 
 3. __open  in Visual Studio Code and start editing__
 
-    ``code VA_Monograph_2019.adoc``
+    ``code VA_Monograph_2019.rst``
 
 4. __Enable section numbering and TOC generation__
 
