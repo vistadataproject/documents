@@ -1,24 +1,33 @@
-# Migrating from MS Word to RestructuredText (rst)
+# Converting Microsoft Word Files (doc, docx) to reStructuredText (rst)
 
 Source: 
 * https://onap.readthedocs.io/en/amsterdam/guides/onap-developer/how-to-use-docs/converting-formats.html
+* https://peintinger.com/?p=365
+
 
 
 ## Prerequisites
 
-1. __Install pandoc:__
+* pandoc  (brew install pandoc)
+* ImageMagick (brew install imagemagick)
+* Sphinx (brew install sphinx *or*  pip install -U Sphinx)
+* Visual Studio Code + rst editor/viewer plugins
+* Python
 
-    ``brew install pandoc``
 
-2. __Install Visual Studio Code__
+1. __Install pandoc, imagemagick, sphinx:__
+
+    ``> brew install pandoc``
+    ``> brew install imagemagick``
+    ``> brew install sphinx``
+
+2. __Install Visual Studio Code and configure for Mac__
 
     https://code.visualstudio.com/
 
-3. __Set up VSCode for command line use on Mac__
-
     https://code.visualstudio.com/docs/setup/mac
 
-4. __Install RestructuredText viewer for Visual Studio Code__
+3. __Install RestructuredText viewer for Visual Studio Code__
 
     https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
    
