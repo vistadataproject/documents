@@ -1,4 +1,4 @@
-# Migrating from MS Word to AsciiDoc (adoc)
+# Conversion of MS Word to AsciiDoc (and back)
 
 Source: https://asciidoctor.org/docs/migrating-from-msword/
 
@@ -18,13 +18,13 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 
     https://code.visualstudio.com/docs/setup/mac
 
-4. __Install Asciidoc viewer for Visual Studio Code__
+4. __Install Asciidoc extension for Visual Studio Code__
 
     https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
 
 
 
-## Asciidoc Example
+## Word to Asciidoc
 
 1. __Download source Word.docx file__
 
@@ -49,7 +49,21 @@ For section numbering and table of contents to be auto-generated, sections must 
     https://github.com/vistadataproject/documents/blob/master/va-monograph-2019/va_monograph_2018a.adoc
     
 
+
     
+## Asciidoc to Word
+References:
+* https://docs-as-co.de/news/create-docx
+* https://rmoff.net/2018/08/22/converting-from-asciidoc-to-ms-word
+
+Bash script:
+
+```
+INPUT_ADOC=my_input_file.adoc
+asciidoctor --backend docbook --out-file - $INPUT_ADOC|pandoc --from docbook --to docx --output $INPUT_ADOC.docx
+# On the Mac, this will open the generated file in MS Word
+open $INPUT_ADOC.docx
+```
 
 
 ## Asciidoc Reference
@@ -61,4 +75,8 @@ For section numbering and table of contents to be auto-generated, sections must 
 2. Asciidoctor User Manual
 
     https://asciidoctor.org/docs/user-manual
+
+3. Asciidoctor Extensions
+    
+    https://asciidoctor.org/docs/extensions/
 
