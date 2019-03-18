@@ -1,13 +1,16 @@
 = Jekyll AsciiDoc Plugin (powered by Asciidoctor)
 Dan Allen <https://github.com/mojavelinux[@mojavelinux]>; Paul Rayner <https://github.com/paulrayner[@paulrayner]>
+
 // Settings:
 :idprefix:
 :idseparator: -
 ifndef::env-github[:icons: font]
 ifdef::env-github,env-browser[]
 :toc: macro
-:toclevels: 1
+:toclevels: 3
 endif::[]
+
+
 ifdef::env-github[]
 :branch: master
 :status:
@@ -19,10 +22,14 @@ ifdef::env-github[]
 :tip-caption: :bulb:
 :warning-caption: :warning:
 endif::[]
+
+
 // Aliases:
 :path-config: pass:q[[.path]___config.yml__]
 :conum-guard: {sp}
 ifndef::icons[:conum-guard: {sp}#{sp}]
+
+
 // URIs:
 :uri-repo: https://github.com/asciidoctor/jekyll-asciidoc
 :uri-issues: {uri-repo}/issues
@@ -73,7 +80,7 @@ If you're looking for the documentation for an older release, please refer to on
 {uri-repo}/tree/v1.0.x#readme[1.0.x]
 endif::[]
 
-###toc::[]
+toc::[]
 
 == Overview
 
