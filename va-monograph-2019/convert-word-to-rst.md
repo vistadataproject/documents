@@ -8,14 +8,6 @@ Source:
 
 ## Prerequisites
 
-* Pandoc 
-* ImageMagick
-* Sphinx (pip install -U Sphinx)
-* Visual Studio Code
-* reStructuredText plugins for Visual Studio Code
-* Python
-* MS Word
-
 Download and install the following:
 
 1. __Pandoc, ImagemMagick, Sphinx:__
