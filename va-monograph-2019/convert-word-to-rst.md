@@ -12,11 +12,7 @@ Download and install the following:
 
 1. __Pandoc, ImagemMagick, Sphinx:__
 
-   ``brew install pandoc``
-
-   ``brew install imagemagick``
-
-   ``brew install sphinx``
+   ``brew install pandoc, imagemagick, sphinx``
 
 2. __Visual Studio Code; Configure for Mac__
 
