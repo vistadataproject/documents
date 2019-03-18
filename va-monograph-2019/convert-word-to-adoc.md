@@ -1,16 +1,19 @@
-# Conversion of MS Word to AsciiDoc (and back)
+# Word to AsciiDoc (and back)
 
 Source: https://asciidoctor.org/docs/migrating-from-msword/
 
+Comparison
+http://hyperpolyglot.org/lightweight-markup
 
 
-## Prerequisites
 
-1. __Install pandoc:__
+## Prerequisites (Mac)
 
-    ``brew install pandoc``
+1. __Install pandoc and asciidoctor:__
 
-2. __Install Visual Studio Code__
+    ``brew install pandoc, asciidoctor``
+    
+2. __Install Visual Studio Code (VSCode)__
 
     https://code.visualstudio.com/
 
@@ -18,13 +21,13 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 
     https://code.visualstudio.com/docs/setup/mac
 
-4. __Install Asciidoc extension for Visual Studio Code__
+4. __Install Asciidoc extension for VSCode__
 
     https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
 
 
 
-## Word to Asciidoc
+## Word to Asciidoc Conversion
 
 1. __Download source Word.docx file__
 
@@ -34,7 +37,7 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 
     ``pandoc --from=docx --to=asciidoc --wrap=none --atx-headers  --extract-media=extracted-media input.docx > output.adoc``
 
-3. __open Asciidoc in Visual Studio Code and start editing__
+3. __open Asciidoc in VSCode and start editing__
 
     ``code VA_Monograph_2019.adoc``
 
@@ -51,7 +54,7 @@ For section numbering and table of contents to be auto-generated, sections must 
 
 
     
-## Asciidoc to Word
+## Asciidoc to Word Conversion
 References:
 * https://docs-as-co.de/news/create-docx
 * https://rmoff.net/2018/08/22/converting-from-asciidoc-to-ms-word
