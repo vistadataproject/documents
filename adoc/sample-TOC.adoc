@@ -9,8 +9,6 @@ ifdef::env-github,env-browser[]
 :toc: macro
 :toclevels: 1
 endif::[]
-
-
 ifdef::env-github[]
 :branch: master
 :status:
