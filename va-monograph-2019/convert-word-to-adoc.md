@@ -1,6 +1,8 @@
-# Migrating from MS Word to AsciiDoc
+# Migrating from MS Word to AsciiDoc (adoc) or RestructuredText (rst)
 
-Source: https://asciidoctor.org/docs/migrating-from-msword/
+SourceA: https://asciidoctor.org/docs/migrating-from-msword/
+
+SourceB: https://onap.readthedocs.io/en/amsterdam/guides/onap-developer/how-to-use-docs/converting-formats.html
 
 
 ## Prerequisites
@@ -21,8 +23,14 @@ Source: https://asciidoctor.org/docs/migrating-from-msword/
 
     https://marketplace.visualstudio.com/items?itemName=joaompinto.asciidoctor-vscode
 
+5. __Install RestructuredText viewer for Visual Studio Code__
 
-## Example
+    https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
+   
+
+
+
+## Asciidoc Example
 
 1. __Download source Word.docx file__
 
@@ -48,7 +56,34 @@ For section numbering and table of contents to be auto-generated, sections must 
     
 
 
-## Reference
+
+## RestructuredText Example
+
+1. __Download source Word.docx file__
+
+    https://www.va.gov/VA_Monograph_2019.docx
+
+2. __Convert from input.docx to output.adoc__
+
+    ``pandoc --from=docx --to=asciidoc --wrap=none --atx-headers  --extract-media=extracted-media input.docx > output.adoc``
+
+3. __open Asciidoc in Visual Studio Code and start editing__
+
+    ``code VA_Monograph_2019.adoc``
+
+4. __Enable section numbering and TOC generation__
+
+
+5. __Resulting document displayed in Github__
+
+    https://github.com/vistadataproject/documents/blob/master/va-monograph-2019/va_monograph_2018a.adoc
+    
+    
+    
+    
+
+
+## Asciidoc Reference
 
 1. Generating TOC for Jekyll-generated websites
 
