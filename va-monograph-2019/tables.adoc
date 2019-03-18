@@ -1,4 +1,25 @@
-= Asciidoc Tables
+= Asciidoc Tables Examples
+
+References: 
+
+* https://mrhaki.blogspot.com/2014/11/awesome-asciidoctor-csv-and-dsv-tables.html
+
+== CSV table
+ 
+[format="csv", options="header"]
+|===
+Writing tools, Awesomeness
+Asciidoctor, Oh yeah!
+MS Word, No!
+|===
+
+
+== Table with external data
+ 
+[format="csv", options="header"]
+|===
+include::tools.csv[]
+|===
 
 
 == Different table width
