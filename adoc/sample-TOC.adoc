@@ -20,14 +20,10 @@ ifdef::env-github[]
 :tip-caption: :bulb:
 :warning-caption: :warning:
 endif::[]
-
-
 // Aliases:
 :path-config: pass:q[[.path]___config.yml__]
 :conum-guard: {sp}
 ifndef::icons[:conum-guard: {sp}#{sp}]
-
-
 // URIs:
 :uri-repo: https://github.com/asciidoctor/jekyll-asciidoc
 :uri-issues: {uri-repo}/issues
