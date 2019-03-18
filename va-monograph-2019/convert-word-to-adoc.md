@@ -62,9 +62,15 @@ References:
 Bash script:
 
 ```
-INPUT_ADOC=my_input_file.adoc
+#!/bin/bash 
+
+# specify input document
+INPUT_ADOC=va_monograph_2018a.adoc
+
+# convert adoc to docx  (via docbook using pandoc)
 asciidoctor --backend docbook --out-file - $INPUT_ADOC|pandoc --from docbook --to docx --output $INPUT_ADOC.docx
-# On the Mac, this will open the generated file in MS Word
+
+# Open the generated file in MS Word
 open $INPUT_ADOC.docx
 ```
 
