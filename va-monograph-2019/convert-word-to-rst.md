@@ -1,7 +1,8 @@
-# Converting Microsoft Word Files (doc, docx) to reStructuredText (rst)
+# Converting Word Files (doc, docx) to reStructuredText (rst)
 
 Source: 
 * https://onap.readthedocs.io/en/amsterdam/guides/onap-developer/how-to-use-docs/converting-formats.html
+* https://east.fm/posts/converting-ms-word-docx-document-to-restructuredtext/index.html
 * https://peintinger.com/?p=365
 
 
