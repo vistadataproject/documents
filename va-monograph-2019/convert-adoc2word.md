@@ -54,7 +54,7 @@ For section numbering and table of contents to be auto-generated, sections must 
 
 
 
-## Asciidoc Prerequisites
+# Asciidoc Prerequisites
 
 1. __Install pandoc and asciidoctor:__
 
@@ -75,7 +75,7 @@ For section numbering and table of contents to be auto-generated, sections must 
 
 
 
-## Asciidoc Reference
+# Asciidoc Reference
 
 1. Generating TOC for Jekyll-generated websites
 
@@ -91,7 +91,7 @@ For section numbering and table of contents to be auto-generated, sections must 
     
 
 
-## Comparison of Markdown Lanuages
+# Comparison of Markdown Lanuages
 
 http://hyperpolyglot.org/lightweight-markup
 
