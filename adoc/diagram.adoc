@@ -14,6 +14,8 @@ ifndef::imagesdir[:imagesdir: images]
 ifdef::env-github[:check: :ballot_box_with_check:]
 ifndef::env-site[:status:]
 
+
+
 // URIs
 :uri-a2s: https://github.com/dhobsd/asciitosvg
 :uri-actdiag: http://blockdiag.com/en/actdiag/index.html
@@ -76,6 +78,9 @@ ifeval::["{toc-placement}" == "macro"]
 
 toc::[title={blank}]
 endif::[]
+
+
+
 
 == Installation
 
