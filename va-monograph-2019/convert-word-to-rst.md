@@ -8,28 +8,28 @@ Source:
 
 ## Prerequisites
 
-* pandoc  (brew install pandoc)
-* ImageMagick (brew install imagemagick)
-* Sphinx (brew install sphinx *or*  pip install -U Sphinx)
-* Visual Studio Code + rst editor/viewer plugins
+* Pandoc 
+* ImageMagick
+* Sphinx (pip install -U Sphinx)
+* Visual Studio Code and reStructuredText plugins
 * Python
 
 
 1. __Install pandoc, imagemagick, sphinx:__
 
-   a:  ``brew install pandoc``
+   ``brew install pandoc``
 
-   b: ``brew install imagemagick``
+   ``brew install imagemagick``
 
-   c:  ``brew install sphinx``
+   ``brew install sphinx``
 
 2. __Install Visual Studio Code and configure for Mac__
 
-   a:  https://code.visualstudio.com/
+   https://code.visualstudio.com/
 
-   b:  https://code.visualstudio.com/docs/setup/mac
+   https://code.visualstudio.com/docs/setup/mac
 
-3. __Install RestructuredText viewer for Visual Studio Code__
+3. __Install Visual Studio Code plugin for RestructuredText__
 
     https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
    
