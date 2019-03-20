@@ -72,11 +72,15 @@ image:https://ci.appveyor.com/api/projects/status/4r4gkk5gy3igs6nh/branch/master
 image:https://badge.fury.io/rb/asciidoctor-diagram.svg[Gem Version, link=https://rubygems.org/gems/asciidoctor-diagram]
 endif::status[]
 
+
+
+
+
 ifeval::["{toc-placement}" == "macro"]
 [discrete]
 == Contents
 
-toc::[title={blank}]
+toc::[title="Table of Contents-RMR"]
 endif::[]
 
 
