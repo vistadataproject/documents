@@ -76,12 +76,12 @@ endif::status[]
 
 
 
-ifeval::["{toc-placement}" == "macro"]
-[discrete]
-== Contents
+// ifeval::["{toc-placement}" == "macro"]
+// [discrete]
+// == Contents
 
-toc::[title={blank}]
-endif::[]
+// toc::[title={blank}]
+// endif::[]
 
 
 
