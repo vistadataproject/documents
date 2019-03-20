@@ -80,7 +80,7 @@ ifeval::["{toc-placement}" == "macro"]
 [discrete]
 == Contents
 
-toc::[title="Table of Contents-RMR"]
+toc::[title={blank}]
 endif::[]
 
 
