@@ -1,15 +1,13 @@
 ## Getting started Programming
 This is a brief introduction to scientific programming using python.
 
-### Prerequisites: Install the following:
-* mac file manager (PathFinder: https://cocoatech.com)
-* mac terminal manager (iTerm: https://www.iterm2.com)
-* mac package manager (homebrew: https://brew.sh)
+### Prerequisites:
+* file manager (PathFinder: https://cocoatech.com)
+* terminal manager (iTerm: https://www.iterm2.com)
+* package manager (homebrew: https://brew.sh)
 * code editor (Visual Studio Code: https://code.visualstudio.com)
 * python 3.7 (anaconda: https://www.anaconda.com/distribution)
-
-VSCode Plugins:
-* https://marketplace.visualstudio.com/items?itemName=ms-python.python
+* code editor python plugin:  https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
 
 Confirm installation of python:
