@@ -1,8 +1,8 @@
 
 ## Mermaid Demos
-docs:  https://mermaidjs.github.io/
-demos: https://mermaidjs.github.io/demos.html
-editor:  https://mermaidjs.github.io/mermaid-live-editor/
+* docs:  https://mermaidjs.github.io/
+* demos: https://mermaidjs.github.io/demos.html
+* editor:  https://mermaidjs.github.io/mermaid-live-editor/
 
 
 ### Flowcharts
