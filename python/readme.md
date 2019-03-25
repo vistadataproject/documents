@@ -6,7 +6,7 @@ In this repository is a sample RiskVision-generated spreadsheet of controls ques
 rv-qna-vam.xls
 ```
 
-All questions and responses need to be extracted from the spreadsheet and translated to a strucutured YAML file, with full fidelity of all information preserved.  To aid in creating python script to do this, a list of [python-excel-tools](python-excel-tools.md) are included in this repository. 
+All questions and responses need to be extracted from the spreadsheet and translated to a strucutured YAML file, with full fidelity of all information preserved.  A list of [python-excel-tools](python-excel-tools.md) are included in this repository if you are a pythong programmer.
 
 
 
