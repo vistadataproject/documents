@@ -35,6 +35,8 @@ Due Date:       2018-04-13
 
 #### Question-Reponse Section
 
+
+__Text Response__
 ```
 QuestionNumber      {Number}          REQUIRED
 ControlReference    {Text}            REQUIURED
@@ -47,8 +49,11 @@ ResponseType        Text
     MyNewComments   {Text}              OPTIONAL; NULL is valid
     Implementation  {Text}              OPTIONAL; NULL is valid
     RemediationPlan {Text}              OPTIONAL; NULL is valid
+```
 
+__Single Option Response___
 
+```
 QuestionNumber:     3
 ControlReference    AC-02.E04
 QuestionTitle:      Operational Status
@@ -60,8 +65,10 @@ ResponseType        Single Option
         Option#3     Operations/Maintenance
         Option#4     Disposition
         ...
+```
 
-
+__Multi-option Response__
+```
 QuestionNumber      5
 ControlReference    AC-02.E04
 QuesitonTitle       Ensure Documentation Attached
