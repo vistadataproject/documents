@@ -6,7 +6,7 @@ In this repository is a sample RiskVision-generated spreadsheet of controls ques
 [rv-qna-vam.xls](https://github.com/vistadataproject/documents/blob/master/python/rv-qna-vam.xls)
 
 
-All questions and responses need to be extracted from the spreadsheet and translated to a strucutured YAML file, with full fidelity of all information preserved.
+All questions and responses need to be extracted from the spreadsheet and translated to a strucutured YAML file, with full fidelity of all information preserved per the proposed data structures below.
 
 
 
