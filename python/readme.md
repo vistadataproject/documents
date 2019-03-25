@@ -1,19 +1,20 @@
 ## RiskVision Schema translation to YAML
 
-In this repository is a sample of a RiskVision-generated spreadsheet of controls assessment questions and responses.
+In this repository is a sample RiskVision-generated spreadsheet of controls questions and answers:
 
 ```
-rv-qna-vam
+rv-qna-vam.xls
 ```
 
-All  questions and responses need to be extracted from the spreadsheet into a structured text file as YAML.  A few python-excel tools are here [python-excel-tools](python-excel-tools.md)
+All  questions and answers need to be extracted from the spreadsheet and translated to strucutured form in a YAML file, with full fidelity of all information preserved.  A few python-excel tools are here [python-excel-tools](python-excel-tools.md)
 
 
 
 ## Example RiskVision Assessment
+The structure of the RiskVision spreadsheet is outlined below. 
 
 ### Response types
-* Text:  Free text.
+* Text:  Text of any length.
 * Single Option:  Several options are provided; a minium (and maximum) of one must be selected
 * Multi-Option:   Several options are provided; a minumum of one must be selected
 
@@ -22,31 +23,30 @@ All  questions and responses need to be extracted from the spreadsheet into a st
 * All other response fields are OPIONAL and are allowed to be NULL.
 
 
-
 #### Survey Header
 ```
 Survey Name:	1-2 System Information
-Asset Name:     VistA Adaptive Maintenance (VAM) Assessing
+Asset Name:     VA software project X Assessing
 Asset Type:     System
 Asset Subtype:  Assessing
-Asset Owner:    Robert Disko
+Asset Owner:    John Doe
 Due Date:       2018-04-13
 ```
 
 #### Question-Reponse Section
 
 ```
-QuestionNumber      {Number}
-ControlReference    {Text}
-QuestionTitle       {Text}
-Queston             {Text}
+QuestionNumber      {Number}          REQUIRED
+ControlReference    {Text}            REQUIURED
+QuestionTitle       {Text}            REQUIRED
+Queston             {Text}            REQUIRED
 ResponseType        Text
-    Text            {Text; NULL}        REQUIRED
-    Flag?           [Y / N; NULL}       OPTIONAL
-    Comments        {Text; NULL}        OPTIONAL
-    MyNewComments   {Text; NULL}        OPTIONAL
-    Implementation  {Text; NULL}        OPTIONAL
-    RemediationPlan {Text; NULL}        OPTIONAL
+    Text            {Text}              REQUIRED
+    Flag?           [Y / N}             OPTIONAL; NULL is valid
+    Comments        {Text}              OPTIONAL; NULL is valid
+    MyNewComments   {Text}              OPTIONAL; NULL is valid
+    Implementation  {Text}              OPTIONAL; NULL is valid
+    RemediationPlan {Text}              OPTIONAL; NULL is valid
 
 
 QuestionNumber:     3
@@ -54,17 +54,13 @@ ControlReference    AC-02.E04
 QuestionTitle:      Operational Status
 Queston:            What is the system operational status?
 ResponseType        Single Option
-    SingleOption    #2            REQUIRED (MIN=1, MAX=1 response)
+    SingleOption    #2                  REQUIRED (MIN=1, MAX=1)
         Option#1     Unassigned
         Option#2     Acquisitions/Development
         Option#3     Operations/Maintenance
         Option#4     Disposition
         ...
-    Flag?           [Y / N; NULL}       OPTIONAL
-    Comments        {Text; NULL}        OPTIONAL
-    MyNewComments   {Text; NULL}        OPTIONAL
-    Implementation  {Text; NULL}        OPTIONAL
-    RemediationPlan {Text; NULL}        OPTIONAL 
+
 
 QuestionNumber      5
 ControlReference    AC-02.E04
@@ -72,7 +68,7 @@ QuesitonTitle       Ensure Documentation Attached
 Question            Ensure you have attached the following documentation, 
                     or appropriate evidence for each area
 ResponseType        MultiOption
-    MultiOption     #1,....           REQUIRED (MIN=1; MAX=none response)
+    MultiOption     #1,#2,#5...           REQUIRED (MIN=1; MAX=unlimited)
                 #1      System Security Plan
                 #2      Risk Assessment
                 #3      Configuration Management Plan
@@ -84,11 +80,7 @@ ResponseType        MultiOption
                 #9      Privacy Impact Assessment (PIA)
                 #10     ISCP Testing Results (ISCP TR)
                 #11     DRP Testing Results (DRP TR)
-    Flag?           [Y / N; NULL}       OPTIONAL
-    Comments        {Text; NULL}        OPTIONAL
-    MyNewComments   {Text; NULL}        OPTIONAL
-    Implementation  {Text; NULL}        OPTIONAL
-    RemediationPlan {Text; NULL}        OPTIONAL
+
 
 ```
 
