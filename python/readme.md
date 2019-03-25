@@ -1,29 +1,27 @@
 ## RiskVision Schema translation to YAML
 
-In this repository is a sample RiskVision-generated spreadsheet of controls questions and answers:
+In this repository is a sample RiskVision-generated spreadsheet of questions and responses:
 
 
 [rv-qna-vam.xls](https://github.com/vistadataproject/documents/blob/master/python/rv-qna-vam.xls)
 
 
-All questions and responses need to be extracted from the spreadsheet and translated to a strucutured YAML file, with full fidelity of all information preserved per the proposed data structures below.
+All questions and responses need to be extracted from all sheets within the spreadsheet, and translated to a strucutured YAML file, with full fidelity of all information preserved.  
 
+## Structure
+The structure of the spreadsheet is comprised of 20 sheets, each with a set of questions and responses. 
 
-
-## Example RiskVision Assessment
-The structure of the RiskVision spreadsheet is outlined below. 
-
-### Response types
+__Response Types__
 * Text:  Text of any length.
 * Single Option:  Several options are provided; a minium (and maximum) of one must be selected
 * Multi-Option:   Several options are provided; a minumum of one must be selected
 
-### Validation:
+__Validation__
 * These three responses are REQUIRED and may not be NULL. 
 * All other response fields are OPIONAL and are allowed to be NULL.
 
 
-#### Survey Header
+#### Header
 ```
 Survey Name:	1-2 System Information
 Asset Name:     VA software project X Assessing
