@@ -5,7 +5,6 @@ Github issues are flat lists specific to one git. You can organize to milestones
 Examples to try:
  * https://github.com/integrations
   * Zube (https://zube.io/) which may allow Deliverable/Issue break down and grouping as well as Sprint tracking support.
-  * Waffle https://github.com/integrations/waffle
 
 
 ## Tracking and Collaboration Tools
