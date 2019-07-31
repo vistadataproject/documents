@@ -1,1 +1,0 @@
-## VA Cloud - AWS
