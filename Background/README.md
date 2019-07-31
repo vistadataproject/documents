@@ -39,7 +39,7 @@ __Many of the MUMPS RPCs bypass the Fileman API and Data Dictionary, writing dir
 <br>
 
 
-Interface |  Code-driven VISTA <br>MUMPS RPCs (x3500)  | Model-driven VISTA<br>Master VISTA Data Model (x1)
+Interface |  Code-driven VISTA <br>MUMPS RPCs (x5500)  | Model-driven VISTA<br>Master VISTA Data Model (x1)
 --- | --- | ---
 Method |   :no_entry_sign:  Relies on over 3500 client-specific, non-interchangeable legacy MUMPS routines <br>  :no_entry_sign: Distinct, unique routines for reading vs writing the same data <br>  :no_entry_sign: Requires extensive knowledge and experience with MUMPS and VISTA | :white_check_mark:  Data Model-Driven :new: <br> :white_check_mark: Client-agnostic :new: <br> :white_check_mark: One single, symmetric read-write mechanism for all data :new: <br>:white_check_mark: Requires no knowledge or experience with VISTA internals or MUMPS.
 Ease of interfacing to new clients | :no_entry_sign: HARD | :white_check_mark: EASY
