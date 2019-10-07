@@ -7,7 +7,9 @@ The VA's Veteran Integrated Systems Technology and Architecture ([VISTA](https:/
 
 VISTA's internal operational data model - the roadmap to all of VA's institutional, business, and clinical processes and data - has evolved organically over the past thirty-five years, but has never been leveraged, exposed, or managed in a modern computable form.
 
-In the VistA Data Project,  VA's native operational clinical and business data model - the __*VistA Data Model*__ - is comprehensively exposed, enriched, and operationalized as a single, secure, standard, server-side interface for all clinical operational VISTA data.  The VISTA Data Model is in turn normalized across all local VISTA system data models to create a single national, normalized __*Master Veteran Data Model*__ (MVDM), allowing read-write transactions across all VA VistA systems using a single, secure, veteran-centric, model-driven mechanism, MVDM Services: 
+In the VistA Data Project, VistA's internal operational clinical and business data model - the __*VistA Data Model*__ - is comprehensively exposed, enriched, and operationalized as a single, secure, standard, server-side interface for all clinical operational VistA data.  
+
+The VistA Data Model is in turn normalized across all of the distinct 130 VistA data models to create a single national, normalized __*Master Veteran Data Model*__ (MVDM), allowing read-write transactions across all VistA systems using a single, secure, veteran-centric, model-driven mechanism, MVDM Services: 
 
 <br><br>
 ![vdp-transition](https://github.com/vistadataproject/documents/blob/master/images/vdp-transition-20170607d.png)
