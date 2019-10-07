@@ -1,7 +1,7 @@
 
 # VISTA Data Project
 
-_The VISTA Data Project is a modern model-driven approach to VA master data management, interfacing, and security._
+__*The VISTA Data Project is a modern model-driven approach to VA master data management, interfacing, and security.*__
 
 The VA's Veteran Integrated Systems Technology and Architecture ([VISTA](https://en.wikipedia.org/wiki/VistA)) is the U.S. Department of Veterans Affairs integrated longitudinal  clinical, business, and administrative information system which supports the operations of over 1200 VA hospitals and clinics nationwide.  
 
