@@ -1,7 +1,7 @@
 # VISTA Data Project Presentations
 
 
-*[2019-11 VistA Enterprise Cloud: Veteran Integrated Cloud Services](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2019-11-VAM-Veteran_Health_Cloud_Services.pdf)
+* [2019-11 VistA Enterprise Cloud: Veteran Integrated Cloud Services](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2019-11-VAM-Veteran_Health_Cloud_Services.pdf)
 * [2017-07 VDP: VISTA_Data_Project-HSM-Intro](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2017-07-24-VDP-HSM-Intro.pdf)
 * [2017-05 VDP: VISTA_Data_Access-via_RPC_Emulation](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2017-05-03-VISTA_Data_Access-CPRS_RPC_Emulation.pdf)
 * [2016-11 VDP: NHS_Interoperability_Summit](https://github.com/vistadataproject/documents/blob/master/Background/presentations/pdf/2016-11-08-VDP-NHS_Interoperability_Summit.pdf)
